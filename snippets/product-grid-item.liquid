@@ -11,20 +11,24 @@ Arguments
     assign per_row = 4
   endunless
 
-  case per_row
-    when 1
-      assign grid_item_width = ''
-    when 2
-      assign grid_item_width = 'medium-up--one-half'
-    when 3
-      assign grid_item_width = 'small--one-half medium-up--one-third'
-    when 4
-      assign grid_item_width = 'small--one-half medium-up--one-quarter'
-    when 5
-      assign grid_item_width = 'small--one-half medium-up--one-fifth'
-    when 6
-      assign grid_item_width = 'small--one-half medium-up--one-sixth'
-  endcase
+  if grid_item_width_custom == blank
+    case per_row
+      when 1
+        assign grid_item_width = ''
+      when 2
+        assign grid_item_width = 'medium-up--one-half'
+      when 3
+        assign grid_item_width = 'small--one-half medium-up--one-third'
+      when 4
+        assign grid_item_width = 'small--one-half medium-up--one-quarter'
+      when 5
+        assign grid_item_width = 'small--one-half medium-up--one-fifth'
+      when 6
+        assign grid_item_width = 'small--one-half medium-up--one-sixth'
+    endcase
+  else
+    assign grid_item_width = grid_item_width_custom
+  endif
 
   assign on_sale = false
   if product.compare_at_price > product.price
@@ -49,7 +53,7 @@ Arguments
   endif
 -%}
 
-<div class="grid__item grid-product {{ grid_item_width }}{% if quick_shop_enable %} grid-product__has-quick-shop{% endif %}" data-aos="row-of-{{ per_row }}" data-product-handle="{{ product.handle }}" data-product-id="{{ product.id }}">
+<div class="grid__item grid-product  {{ grid_item_width }}{% if quick_shop_enable %} grid-product__has-quick-shop{% endif %}" data-aos="row-of-{{ per_row }}" data-product-handle="{{ product.handle }}" data-product-id="{{ product.id }}">
   <div class="grid-product__content">
     {%- if has_custom_label -%}
       <div class="grid-product__tag grid-product__tag--custom">
