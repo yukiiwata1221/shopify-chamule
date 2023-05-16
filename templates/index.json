@@ -154,18 +154,18 @@
     "3a3000f9-7b79-4b2a-a443-65cc4a3661bd": {
       "type": "featured-collection-custom",
       "blocks": {
-        "1163872d-94a3-4f11-8ffa-635cf66165d4": {
-          "type": "collection",
-          "settings": {
-            "collection": "new-item-新商品",
-            "title": "NEW ITEM"
-          }
-        },
         "d1050def-2e77-4590-9c8e-545ebbb4dcc7": {
           "type": "collection",
           "settings": {
             "collection": "ranking-ランキング",
             "title": "RANKING"
+          }
+        },
+        "1163872d-94a3-4f11-8ffa-635cf66165d4": {
+          "type": "collection",
+          "settings": {
+            "collection": "new-item-新商品",
+            "title": "NEW ITEM"
           }
         },
         "427b68b2-2179-4495-8b1e-afaeee3ccc75": {
@@ -226,8 +226,8 @@
         }
       },
       "block_order": [
-        "1163872d-94a3-4f11-8ffa-635cf66165d4",
         "d1050def-2e77-4590-9c8e-545ebbb4dcc7",
+        "1163872d-94a3-4f11-8ffa-635cf66165d4",
         "427b68b2-2179-4495-8b1e-afaeee3ccc75",
         "659b2c49-ded8-4e2f-a3eb-849e3ecc4958",
         "80c80e95-d9d0-4021-aa89-4a931e5763be",
@@ -248,6 +248,7 @@
     },
     "16481865815fb2d6f1": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "RANKING｜ランキング",
         "home_featured_products": "ranking-ランキング",
@@ -260,6 +261,7 @@
     },
     "3265b721-a445-4fd3-9731-0a2fb64db525": {
       "type": "pagefly-section",
+      "disabled": true,
       "settings": {
         "section_id": "pf-b0f9479b"
       }
