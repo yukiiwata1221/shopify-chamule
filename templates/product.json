@@ -8,6 +8,12 @@
           "settings": {
           }
         },
+        "judgeme_preview_badge_product_page_7ff58432": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "disabled": true,
+          "settings": {
+          }
+        },
         "separator": {
           "type": "separator",
           "settings": {
@@ -82,11 +88,6 @@
             "content": "<p>お客様に正常な商品をお届けするために検品を徹底しております。<\/p><p>万が一、商品に欠陥が生じた場合は迅速に交換に応じます。<\/p><p><a href=\"https:\/\/lin.ee\/fZLIZZG\" title=\"https:\/\/lin.ee\/fZLIZZG\">お問い合わせ<\/a>にて以下を添えてご連絡ください。<\/p><p><strong>・注文番号＃（注文完了メールに記載）<\/strong><\/p><p><strong>・商品名<\/strong><\/p><p><strong>・梱包の袋に貼ってあるバーコード記載の商品ラベルシール<\/strong><\/p><p><strong>・不良箇所と思われる画像<\/strong><\/p><p><strong>・タグが付いていると確認できる状態の商品画像<\/strong><\/p>",
             "page": ""
           }
-        },
-        "judgeme_preview_badge_product_page_7ff58432": {
-          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-          }
         }
       },
       "block_order": [
@@ -114,6 +115,25 @@
         "mobile_layout": "partial",
         "enable_video_looping": true,
         "product_video_style": "muted"
+      }
+    },
+    "judgeme_section_review_widget_48ba": {
+      "type": "apps",
+      "disabled": true,
+      "blocks": {
+        "judgeme_review_widget_a2b66169": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "disabled": true,
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "judgeme_review_widget_a2b66169"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
       }
     },
     "68648eb9-4477-4acd-961c-56e6507ebd85": {
@@ -217,21 +237,6 @@
       "settings": {
         "full_width": false,
         "space_around": true
-      }
-    },
-    "judgeme_section_review_widget_48ba": {
-      "type": "apps",
-      "blocks": {
-        "judgeme_review_widget_a2b66169": {
-          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "judgeme_review_widget_a2b66169"
-      ],
-      "settings": {
       }
     }
   },
