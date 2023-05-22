@@ -47,6 +47,7 @@
         },
         "e5a15680-0920-44ae-b5fa-8d7f4713100a": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "top_subheading": "韓国レディースゴルフウェア",
             "title": "2023 S\/S\nTREND ITEMS",
@@ -67,6 +68,7 @@
         },
         "slideshow-1": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "top_subheading": "韓国レディースゴルフウェア",
             "title": "chamule",
@@ -84,13 +86,34 @@
             "overlay_opacity": 0,
             "focal_point": "top center"
           }
+        },
+        "968e4b42-28b7-464a-aa30-e30541fef269": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Selected items by Konishi",
+            "title_size": 61,
+            "subheading": "",
+            "link": "",
+            "link_text": "アイテムはこちら",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/6.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/6.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
         }
       },
       "block_order": [
         "c2cf4efc-419a-4f48-b7c0-e05bdc69efe5",
         "24ed58cb-294f-42dd-b76c-a639f9b7b3ad",
         "e5a15680-0920-44ae-b5fa-8d7f4713100a",
-        "slideshow-1"
+        "slideshow-1",
+        "968e4b42-28b7-464a-aa30-e30541fef269"
       ],
       "settings": {
         "section_height": "natural",
