@@ -415,7 +415,6 @@
         },
         "template--16711993655607__74be5dac-86c0-4c50-848a-779f6fbe6339-16669524047d6abb89-1": {
           "type": "description",
-          "disabled": true,
           "settings": {
             "is_tab": false
           }
@@ -435,13 +434,20 @@
             "show_dynamic_checkout": true,
             "surface_pickup_enable": true
           }
+        },
+        "fc6244f0-d0d0-447c-b597-359a8b385a5f": {
+          "type": "size_chart",
+          "settings": {
+            "size_chart": ""
+          }
         }
       },
       "block_order": [
         "template--16711993655607__74be5dac-86c0-4c50-848a-779f6fbe6339-16669524047d6abb89-0",
         "template--16711993655607__74be5dac-86c0-4c50-848a-779f6fbe6339-16669524047d6abb89-1",
         "template--16711993655607__74be5dac-86c0-4c50-848a-779f6fbe6339-16669524047d6abb89-2",
-        "template--16711993655607__74be5dac-86c0-4c50-848a-779f6fbe6339-16669524047d6abb89-3"
+        "template--16711993655607__74be5dac-86c0-4c50-848a-779f6fbe6339-16669524047d6abb89-3",
+        "fc6244f0-d0d0-447c-b597-359a8b385a5f"
       ],
       "settings": {
         "featured_product": "ウエストデザインプリーツスカート-ch061",
