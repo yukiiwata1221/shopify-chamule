@@ -398,5 +398,13 @@
       "signup_form_success": "We will send you an email right before we open!",
       "password_link": "Enter using password"
     }
+  },
+  "shopify": {
+    "checkout": {
+      "contact": {
+        "address1_label": "それ以降の住所",
+        "optional_address2_label": "建物名、部屋番号（ある場合のみ）"
+      }
+    }
   }
 }
