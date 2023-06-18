@@ -280,13 +280,13 @@
   },
   "layout": {
     "cart": {
-      "title": "Cart"
+      "title": "カート"
     },
     "customer": {
-      "account": "Account",
-      "log_out": "Log out",
-      "log_in": "Log in",
-      "create_account": "Create account"
+      "account": "アカウント",
+      "log_out": "ログアウト",
+      "log_in": "ログイン",
+      "create_account": "新規会員登録（無料）"
     },
     "footer": {
       "social_platform": "{{ name }} on {{ platform }}"
