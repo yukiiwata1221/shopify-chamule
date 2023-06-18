@@ -304,7 +304,7 @@
       "sale_price": "Sale price",
       "regular_price": "Regular price",
       "from_text_html": "from {{ price }}",
-      "recent_products": "Recently viewed",
+      "recent_products": "最近見たアイテム",
       "reviews": "Reviews"
     },
     "product": {
@@ -317,9 +317,9 @@
       "sold_out": "Sold Out",
       "unavailable": "Unavailable",
       "quantity": "Quantity",
-      "add_to_cart": "Add to cart",
+      "add_to_cart": "カートに追加する",
       "preorder": "Pre-order",
-      "include_taxes": "Tax included.",
+      "include_taxes": "（税込）",
       "shipping_policy_html": "<a href='{{ link }}'>Shipping<\/a> calculated at checkout.",
       "will_not_ship_until": "Ready to ship {{ date }}",
       "will_be_in_stock_after": "Back in stock {{ date }}",
