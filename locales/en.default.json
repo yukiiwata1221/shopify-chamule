@@ -140,8 +140,8 @@
     "general": {
       "catalog_title": "Catalog",
       "all_of_collection": "全て見る",
-      "view_all_products_html": "View all<br>{{ count }} products",
-      "see_more": "Show more",
+      "view_all_products_html": "{{ count }} 個の商品を見る",
+      "see_more": "もっと見る",
       "see_less": "Show less",
       "no_matches": "Sorry, there are no products in this collection.",
       "items_with_count": {
@@ -150,12 +150,12 @@
       }
     },
     "sorting": {
-      "title": "Sort"
+      "title": "並び替え"
     },
     "filters": {
-      "title_tags": "Filter",
-      "all_tags": "All products",
-      "categories_title": "Categories"
+      "title_tags": "絞り込み",
+      "all_tags": "全商品",
+      "categories_title": "カテゴリー"
     }
   },
   "contact": {
