@@ -352,7 +352,7 @@
     }
   },
   "date_formats": {
-    "month_day_year": "%b %d, %Y"
+    "month_day_year": "%月 %日, %年"
   },
   "pagefly": {
     "products": {
