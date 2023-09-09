@@ -117,23 +117,6 @@
         "product_video_style": "muted"
       }
     },
-    "1694265841c5c24ebd": {
-      "type": "apps",
-      "blocks": {
-        "5c09dbad-3fe9-4c0a-a49c-216aecc5e8c5": {
-          "type": "shopify:\/\/apps\/monk\/blocks\/embedded-product-page-fbt\/e949adb6-87ca-4b97-8f31-0e51bf507f2d",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "5c09dbad-3fe9-4c0a-a49c-216aecc5e8c5"
-      ],
-      "settings": {
-        "full_width": false,
-        "space_around": true
-      }
-    },
     "judgeme_section_review_widget_48ba": {
       "type": "apps",
       "blocks": {
@@ -255,18 +238,10 @@
         "full_width": false,
         "space_around": true
       }
-    },
-    "16942655983dea64c1": {
-      "type": "apps",
-      "settings": {
-        "full_width": false,
-        "space_around": true
-      }
     }
   },
   "order": [
     "main",
-    "1694265841c5c24ebd",
     "judgeme_section_review_widget_48ba",
     "68648eb9-4477-4acd-961c-56e6507ebd85",
     "sub",
@@ -276,7 +251,6 @@
     "16567626195e7ec5f4",
     "collection-return",
     "165555319933d7193a",
-    "16746218736ba99348",
-    "16942655983dea64c1"
+    "16746218736ba99348"
   ]
 }
