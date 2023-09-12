@@ -268,12 +268,6 @@
           "position": "right"
         }
       },
-      "1027443428159536739": {
-        "type": "shopify:\/\/apps\/hextom-quick-announcement-bar\/blocks\/qab-embeded-block\/9ac2a261-3b8b-42c8-9613-d34eb2e079d3",
-        "disabled": false,
-        "settings": {
-        }
-      },
       "judgeme_core_4be6e7a0": {
         "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/judgeme_core\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
         "disabled": false,
@@ -288,6 +282,12 @@
       },
       "9670189827046205946": {
         "type": "shopify:\/\/apps\/hextom-translate-my-store\/blocks\/app-block\/b927a799-be04-4b97-9efb-5c8f0290a68e",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "3847134708050210359": {
+        "type": "shopify:\/\/apps\/transcy\/blocks\/switcher_embed_block\/bce4f1c0-c18c-43b0-b0b2-a1aefaa44573",
         "disabled": false,
         "settings": {
         }
