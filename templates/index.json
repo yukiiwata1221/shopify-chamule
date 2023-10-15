@@ -128,7 +128,7 @@
       "type": "apps",
       "blocks": {
         "fd45bc61-1aee-44e9-8714-7c32c735d20c": {
-          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
           "settings": {
             "maxwidth": 1080
           }
@@ -144,7 +144,6 @@
     },
     "6662337a-695f-41cd-b34a-f5a3fcf0febe": {
       "type": "advanced-content",
-      "disabled": true,
       "blocks": {
         "template--16711993655607__6662337a-695f-41cd-b34a-f5a3fcf0febe-1673421331d2b7766c-0": {
           "type": "image",
@@ -169,6 +168,7 @@
         "template--16711993655607__6662337a-695f-41cd-b34a-f5a3fcf0febe-1673421331d2b7766c-0",
         "template--16711993655607__6662337a-695f-41cd-b34a-f5a3fcf0febe-1673421331d2b7766c-1"
       ],
+      "disabled": true,
       "settings": {
         "full_width": false,
         "space_around": true
@@ -278,7 +278,6 @@
     },
     "823858a8-ebea-47a3-8629-7b096a368867": {
       "type": "slideshow",
-      "disabled": true,
       "blocks": {
         "template--16711993655607__823858a8-ebea-47a3-8629-7b096a368867-1670122259ca0ed27f-1": {
           "type": "image",
@@ -304,6 +303,7 @@
       "block_order": [
         "template--16711993655607__823858a8-ebea-47a3-8629-7b096a368867-1670122259ca0ed27f-1"
       ],
+      "disabled": true,
       "settings": {
         "section_height": "natural",
         "mobile_height": "auto",
@@ -386,6 +386,7 @@
         "template--16711993655607__feaae97e-97db-42e2-969f-fb12c23bb6e1-16669624098f8c9ff0-0",
         "template--16711993655607__feaae97e-97db-42e2-969f-fb12c23bb6e1-16669624098f8c9ff0-1"
       ],
+      "disabled": true,
       "settings": {
         "title": "",
         "align_text": "center",
@@ -517,16 +518,6 @@
     },
     "16746218550b38df9f": {
       "type": "apps",
-      "blocks": {
-        "c7d4e0c2-fdf9-4298-adee-ba60102e9e27": {
-          "type": "shopify:\/\/apps\/hextom-quick-announcement-bar\/blocks\/qab-custom-placement\/9ac2a261-3b8b-42c8-9613-d34eb2e079d3",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "c7d4e0c2-fdf9-4298-adee-ba60102e9e27"
-      ],
       "settings": {
         "full_width": true,
         "space_around": true
