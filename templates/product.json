@@ -9,7 +9,7 @@
           }
         },
         "judgeme_preview_badge_product_page_7ff58432": {
-          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
           "disabled": true,
           "settings": {
           }
@@ -121,7 +121,7 @@
       "type": "apps",
       "blocks": {
         "judgeme_review_widget_a2b66169": {
-          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
           "disabled": true,
           "settings": {
           }
@@ -180,7 +180,7 @@
       "type": "featured-video",
       "settings": {
         "title": "\\Youtubeで紹介されました\/",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=RED-HUd0DSQ",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=t2Cp9mWAdkM",
         "divider": false
       }
     },
@@ -224,16 +224,6 @@
     },
     "16746218736ba99348": {
       "type": "apps",
-      "blocks": {
-        "b0604da5-4d98-43e7-a136-664bcfb27bd6": {
-          "type": "shopify:\/\/apps\/hextom-quick-announcement-bar\/blocks\/qab-custom-placement\/9ac2a261-3b8b-42c8-9613-d34eb2e079d3",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "b0604da5-4d98-43e7-a136-664bcfb27bd6"
-      ],
       "settings": {
         "full_width": false,
         "space_around": true
