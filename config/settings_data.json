@@ -68,6 +68,7 @@
     "cart_additional_buttons": false,
     "cart_notes_enable": false,
     "cart_terms_conditions_enable": false,
+    "favicon": "shopify:\/\/shop_images\/2023-11-13_14.53.58.png",
     "predictive_image_size": "landscape",
     "show_breadcrumbs": false,
     "show_breadcrumbs_collection_link": true,
@@ -282,12 +283,6 @@
       },
       "9670189827046205946": {
         "type": "shopify:\/\/apps\/hextom-translate-my-store\/blocks\/app-block\/b927a799-be04-4b97-9efb-5c8f0290a68e",
-        "disabled": false,
-        "settings": {
-        }
-      },
-      "1551801274261955848": {
-        "type": "shopify:\/\/apps\/getbutton-whatsapp-fb-more\/blocks\/embed\/8496319f-de1e-4949-b0de-1602d715f2b0",
         "disabled": false,
         "settings": {
         }
