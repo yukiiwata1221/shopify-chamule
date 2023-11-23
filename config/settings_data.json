@@ -87,14 +87,6 @@
       "header": {
         "type": "header",
         "blocks": {
-          "1524770292306": {
-            "type": "announcement",
-            "settings": {
-              "text": "",
-              "link_text": "\\ LINE友達追加で最大¥1000円OFFクーポン配布中 \/",
-              "link": "https:\/\/lin.ee\/B5kFqnm"
-            }
-          },
           "1524770014057": {
             "type": "logo",
             "settings": {
@@ -114,7 +106,6 @@
           }
         },
         "block_order": [
-          "1524770292306",
           "1524770014057",
           "1524770296206"
         ],
