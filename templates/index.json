@@ -68,20 +68,19 @@
         },
         "slideshow-1": {
           "type": "image",
-          "disabled": true,
           "settings": {
-            "top_subheading": "韓国レディースゴルフウェア",
-            "title": "chamule",
+            "top_subheading": "",
+            "title": "QC PLAY",
             "title_size": 86,
             "subheading": "",
-            "link": "shopify:\/\/collections\/new-item-新商品",
-            "link_text": "新作アイテムはこちら",
-            "link_2": "",
+            "link": "shopify:\/\/collections\/qc-play",
+            "link_text": "",
+            "link_2": "shopify:\/\/collections\/qc-play",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/IMG_0390.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/IMG_0390.jpg",
+            "image": "shopify:\/\/shop_images\/1_5fa7dc09-a305-4842-8925-7bded0e76187.png",
+            "image_mobile": "shopify:\/\/shop_images\/1_5fa7dc09-a305-4842-8925-7bded0e76187.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "focal_point": "top center"
@@ -89,6 +88,7 @@
         },
         "968e4b42-28b7-464a-aa30-e30541fef269": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "top_subheading": "小西アナウンサーセレクトアイテム",
             "title": "Selected by Konishi",
