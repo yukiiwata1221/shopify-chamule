@@ -31,8 +31,14 @@
         "sales_point": {
           "type": "sales_point",
           "settings": {
-            "icon": "package",
-            "text": "10,000円以上で送料無料"
+            "icon": "globe",
+            "text": "Worldwide Shipping"
+          }
+        },
+        "5ffdd1d1-1158-441a-99fe-c4ce26efb396": {
+          "type": "custom",
+          "settings": {
+            "code": "<p style=\"margin-bottom: 3px;\">⛟ ご注文から約3-10営業日以内に発送<\/p>\n<p style=\"margin-top: 3px; margin-bottom: 3px;\">(商品の在庫状況により変動します。)<\/p>"
           }
         },
         "buy_buttons": {
@@ -96,6 +102,7 @@
         "separator",
         "variant_picker",
         "sales_point",
+        "5ffdd1d1-1158-441a-99fe-c4ce26efb396",
         "buy_buttons",
         "description",
         "4e6d72fe-e382-4429-908a-19ecebe18a78",
