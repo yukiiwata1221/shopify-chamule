@@ -38,7 +38,7 @@
         "5ffdd1d1-1158-441a-99fe-c4ce26efb396": {
           "type": "custom",
           "settings": {
-            "code": "<p style=\"margin-bottom: 3px;\">⛟ ご注文から約3-10営業日以内に発送<\/p>\n<p style=\"margin-top: 3px; margin-bottom: 3px;\">(商品の在庫状況により変動します。)<\/p>"
+            "code": "<p style=\"margin-bottom: 3px;\">⛟ ご注文から約3-10日以内に発送<\/p>\n<p style=\"margin-top: 3px; margin-bottom: 3px;\">(商品の在庫状況により変動します。)<\/p>"
           }
         },
         "buy_buttons": {
