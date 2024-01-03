@@ -296,7 +296,6 @@
     "general": {
       "color_swatch_trigger": "Color",
       "size_trigger": "Size",
-      "size_chart": "Size chart",
       "save_html": "Save {{ saved_amount }}",
       "collection_return": "Back to {{ collection }}",
       "next_product": "Next: {{ title }}",
