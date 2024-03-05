@@ -100,7 +100,13 @@
       "title": "댓글 달기",
       "name": "이름",
       "email": "이메일 주소",
-      "message": "메시지"
+      "message": "메시지",
+      "post": "댓글 달기",
+      "success": "코멘트 고맙습니다!",
+      "with_count": {
+        "one": "{{ count }} comment",
+        "other": "{{ count }} comments"
+      }
     }
   },
   "customer": {
@@ -115,6 +121,44 @@
       "password": "비밀번호",
       "submit": "등록하다",
       "cancel": "상점으로 돌아가기"
+    },
+    "account": {
+      "title": "내 계정"
+    },
+    "addresses": {
+      "company": "회사",
+      "city": "시",
+      "phone": "전화",
+      "edit": "편집"
+    },
+    "login": {
+      "title": "로그인",
+      "email": "이메일 주소",
+      "password": "비밀번호",
+      "forgot_password": "비밀번호를 잊으셨습니까?",
+      "sign_in": "로그인",
+      "guest_title": "손님으로 구매",
+      "cancel": "상점으로 돌아가기",
+      "guest_continue": "손님으로 쇼핑을 계속"
+    },
+    "recover_password": {
+      "title": "비밀번호를 잊으셨습니까?",
+      "email": "이메일 주소",
+      "subtext": "비밀번호 재설정 이메일을 보냅니다.",
+      "success": "받은 메일에서 비밀번호 재설정을 부탁드립니다.",
+      "cancel": "취소",
+      "submit": "보내기"
+    },
+    "orders": {
+      "order_number": "주문"
+    },
+    "order": {
+      "title": "Order {{ name }}",
+      "date_html": "Placed on {{ date }}",
+      "cancelled_html": "Order cancelled on {{ date }}",
+      "cancelled_reason": "Reason: {{ reason }}",
+      "product": "제품",
+      "fulfilled_at_html": "Fulfilled {{ date }}"
     }
   },
   "home_page": {
@@ -167,6 +211,32 @@
         "one": "{{ count }} comment",
         "other": "{{ count }} comments"
       }
+    }
+  },
+  "cart": {
+    "general": {
+      "title": "장바구니",
+      "remove": "삭제",
+      "note": "주문 노트",
+      "subtotal": "장바구니 총 가격",
+      "discounts": "할인",
+      "shipping_at_checkout": "※세금 포함 가격의 표시입니다",
+      "update": "장바구니 업데이트",
+      "checkout": "구매 화면으로",
+      "empty": "장바구니가 비어 있습니다.",
+      "continue_browsing_html": "<a href=\"&lt;span%20class=\" notranslate>{{ url }} '&gt; 쇼핑 계속<\/a>",
+      "close_cart": "장바구니 닫기",
+      "terms_html": "I agree with the <a href=\"&lt;span%20class=\" notranslate>{{ url }} ' target='_blank'&gt;terms and conditions<\/a>"
+    }
+  },
+  "contact": {
+    "form": {
+      "name": "이름",
+      "email": "이메일 주소",
+      "phone": "전화번호",
+      "message": "문의 내용",
+      "send": "전송",
+      "post_success": "문의해 주셔서 감사합니다. 2 영업일 이내에 회신 하겠습니다."
     }
   }
 }
