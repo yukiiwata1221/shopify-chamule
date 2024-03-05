@@ -1,0 +1,172 @@
+{
+  "sections": {
+    "map": {
+      "address_query_limit_html": "You have exceeded the Google API usage limit. Consider upgrading to a <a href=\"https:\/\/developers.google.com\/maps\/premium\/usage-limits\">Premium Plan<\/a> ."
+    }
+  },
+  "collections": {
+    "general": {
+      "all_of_collection": "모두 보기",
+      "catalog_title": "카탈로그",
+      "view_all_products_html": "{{ count }} 개의 상품 보기",
+      "see_more": "더 보기",
+      "items_with_count": {
+        "one": "{{ count }} 제품",
+        "other": "{{ count }} products"
+      }
+    },
+    "sorting": {
+      "title": "정렬"
+    },
+    "filters": {
+      "title_tags": "필터링",
+      "all_tags": "모든 상품",
+      "categories_title": "카테고리"
+    }
+  },
+  "products": {
+    "product": {
+      "include_taxes": "(세금 포함)",
+      "add_to_cart": "장바구니에 담기",
+      "shipping_policy_html": "<a href=\"&lt;span%20class=\" notranslate>{{ link}} '&gt;Shipping<\/a> calculated at checkout.",
+      "will_not_ship_until": "Ready to ship {{ date }}",
+      "will_be_in_stock_after": "Back in stock {{ date }}",
+      "stock_label": {
+        "one": "Low stock - {{ count }} item left",
+        "other": "Low stock - {{ count }} items left"
+      }
+    },
+    "general": {
+      "save_html": "Save {{ saved_amount }}",
+      "collection_return": "Back to {{ collection }}",
+      "next_product": "Next: {{ title }}",
+      "from_text_html": "from {{ price }}",
+      "recent_products": "최근 본 아이템"
+    }
+  },
+  "general": {
+    "404": {
+      "title": "페이지를 찾을 수 없습니다.",
+      "subtext_html": "<p>The page you were looking for does not exist.<\/p><p> <a href=\"&lt;span%20class=\" notranslate>{{ url }} '&gt;Continue shopping<\/a><\/p>"
+    },
+    "search": {
+      "no_results_html": "\" {{terms}} \"의 결과를 찾을 수 없습니다.",
+      "title": "검색",
+      "submit": "검색",
+      "placeholder": "검색...",
+      "results_for_html": "Your search for \" {{ terms }} \" revealed the following:",
+      "result_count": {
+        "one": "{{ count }} 결과",
+        "other": "{{ count }} results"
+      }
+    },
+    "newsletter_form": {
+      "newsletter_email": "이메일 주소 입력",
+      "newsletter_confirmation": "등록 주셔서 감사합니다!",
+      "submit": "등록하다"
+    },
+    "meta": {
+      "tags": "Tagged \" {{ tags }} \"",
+      "page": "페이지 {{ page }}"
+    },
+    "pagination": {
+      "previous": "&lt;&lt; 이전",
+      "next": "다음 &gt;&gt;"
+    },
+    "password_page": {
+      "login_form_heading": "비밀번호 입력",
+      "login_form_submit": "로그인",
+      "login_form_password_label": "비밀번호",
+      "login_form_password_placeholder": "비밀번호",
+      "signup_form_email_label": "이메일 주소",
+      "signup_form_success": "등록이 완료되었습니다!",
+      "password_link": "비밀번호",
+      "powered_by_shopify_html": "This shop will be powered by {{ shopify }}"
+    },
+    "breadcrumbs": {
+      "home": "홈",
+      "home_link_title": "홈으로 돌아가기"
+    },
+    "social": {
+      "share_on_facebook": "공유"
+    }
+  },
+  "blogs": {
+    "article": {
+      "tags": "태그",
+      "back_to_blog": "Back to {{ title }}"
+    },
+    "comments": {
+      "title": "댓글 달기",
+      "name": "이름",
+      "email": "이메일 주소",
+      "message": "메시지"
+    }
+  },
+  "customer": {
+    "reset_password": {
+      "subtext": "Enter a new password for {{ email }}"
+    },
+    "register": {
+      "title": "신규 회원 등록(무료)",
+      "first_name": "이름",
+      "last_name": "성",
+      "email": "이메일 주소",
+      "password": "비밀번호",
+      "submit": "등록하다",
+      "cancel": "상점으로 돌아가기"
+    }
+  },
+  "home_page": {
+    "onboarding": {
+      "product_description": "This area is used to describe your product's details. Tell customers about the look, feel, and style of your product. Add details on color, materials used, sizing, and where it was made.",
+      "no_content": "This section doesn't currently include any content. Add content to this section using the sidebar."
+    }
+  },
+  "layout": {
+    "cart": {
+      "title": "장바구니"
+    },
+    "customer": {
+      "log_out": "로그아웃",
+      "log_in": "로그인",
+      "create_account": "신규 회원 등록(무료)",
+      "account": "계정"
+    }
+  },
+  "store_availability": {
+    "general": {
+      "pick_up_available_at_html": "Pickup available at <strong>{{ location_name }}<\/strong>",
+      "pick_up_unavailable_at_html": "Pickup currently unavailable at <strong>{{ location_name }}<\/strong>"
+    }
+  },
+  "gift_cards": {
+    "issued": {
+      "title_html": "Here's your {{ value }} gift card for {{ shop }} !",
+      "expired": "Expired on {{ expiry }}",
+      "active": "Expires on {{ expiry }}",
+      "print": "인쇄"
+    }
+  },
+  "date_formats": {
+    "month_day_year": "%월 %일, %년"
+  },
+  "pagefly": {
+    "products": {
+      "product": {
+        "back_to_collection": "Back to {{ title }}"
+      }
+    },
+    "article": {
+      "by_author": "by {{ author }}",
+      "back_to_blog": "Back to {{ title }}"
+    },
+    "comments": {
+      "name": "이름",
+      "comments_with_count": {
+        "one": "{{ count }} comment",
+        "other": "{{ count }} comments"
+      }
+    }
+  }
+}
