@@ -2729,7 +2729,27 @@
           }
         },
         "more_than_three_products_accessibility_label": "There are {{lineItemName1}}, {{lineItemName2}}, and {{numberOfAdditionalProducts}} items in the order.",
-        "filter_title": "Narrow down"
+        "filter_title": "Narrow down",
+        "filter": {
+          "clear_section": "clear section",
+          "clear_all": "clear all",
+          "apply": "Be applicable",
+          "date": {
+            "start_date": "start date",
+            "title": "order date",
+            "today": "today",
+            "last_7_days": "past 7 days",
+            "last_365_days": "past 12 months",
+            "custom": "custom"
+          }
+        }
+      },
+      "order_status": {
+        "canceled_title": "order has been canceled",
+        "come_back": "Please see this page for delivery status.",
+        "company_tracking_number": "Tracking number for {{company}}:",
+        "confirmed_title": "order confirmed",
+        "delivered_description": "This package has been delivered."
       }
     }
   }
