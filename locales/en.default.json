@@ -2647,6 +2647,29 @@
         "estimated_delivery": "Estimated delivery date: {{date}}",
         "items": {
           "one": "{{count}} items"
+        },
+        "order_link": "View orders ({{name}})",
+        "order_number": "Order ({{name}})",
+        "pagination": {
+          "nav_accessibility_label": "Order Menu Button",
+          "next": "to the next",
+          "next_accessibility_label": "next order",
+          "previous": "Forward",
+          "previous_accessibility_label": "previous order"
+        },
+        "sort_hide_options_accessibility_label": "Hide sorting options for confirmed orders.",
+        "sort_show_options_accessibility_label": "View sorting options for confirmed orders.",
+        "sort": {
+          "date": {
+            "newest": "new order",
+            "oldest": "Oldest"
+          },
+          "location": {
+            "descending": "Location (Z~A)"
+          },
+          "order_number": {
+            "ascending": "Order number (ascending)"
+          }
         }
       }
     }
