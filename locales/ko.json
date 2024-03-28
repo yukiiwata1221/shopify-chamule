@@ -1004,7 +1004,16 @@
         "paypal_modal": {
           "order_contains_fixed_selling_plans": "총 금액에는 세금, 배송비, 연체료, 일부 할인이 포함되지 않을 수 있습니다. 계속해서, 오늘 지불하시는 금액의 체크아웃을 실시합니다."
         },
-        "purchase_options_agreement_label_html": "장바구니의 하나 이상의 항목은 후불 구매 또는 정기 구매임을 이해합니다. 계속해서 저는 <a class=\"link--small\" data-modal=\"true\" data-title-text=\"%{subscription_policy}\" href=\"%{policy_href}\">취소 정책<\/a> 에 동의하고 주문이 완료될 때까지 또는 허용되는 경우 내가 취소할 때까지 이 페이지에 나열된 가격, 횟수 및 날짜로 선택한 결제 방법에 대한 청구를 승인해야 합니다.\n"
+        "purchase_options_agreement_label_html": "장바구니의 하나 이상의 항목은 후불 구매 또는 정기 구매임을 이해합니다. 계속해서 저는 <a class=\"link--small\" data-modal=\"true\" data-title-text=\"%{subscription_policy}\" href=\"%{policy_href}\">취소 정책<\/a> 에 동의하고 주문이 완료될 때까지 또는 허용되는 경우 내가 취소할 때까지 이 페이지에 나열된 가격, 횟수 및 날짜로 선택한 결제 방법에 대한 청구를 승인해야 합니다.\n",
+        "payment_method_saved": "결제 방법을 저장했습니다.",
+        "card_vaulted_company_location": "이 위치의 카드가 저장되었습니다.",
+        "order_covered_by_store_credit_notice": "주문은 상점 크레딧이 적용됩니다.",
+        "order_covered_by_redeemables_notice": "주문은 대상입니다.",
+        "store_credit": {
+          "apply_label": "상점 크레딧 적용",
+          "buying_gift_card": "상점 크레딧을 사용하여 기프트 카드를 구입할 수 없습니다.",
+          "no_fixed_selling_plans": "후불 구매를 선택하면 상점 크레딧을 사용할 수 없습니다."
+        }
       }
     }
   }
