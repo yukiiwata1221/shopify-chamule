@@ -843,8 +843,17 @@
         "duties_and_taxes_options": {
           "ddu_title": "대금 상환",
           "ddu_caption": "추가 요금이 적용될 수 있습니다.",
-          "ddp_title": "지금 지불"
-        }
+          "ddp_title": "지금 지불",
+          "ddp_caption": "배송 시 추가 요금이 부과되지 않습니다."
+        },
+        "shipping_method_combinations": {
+          "without_separator": "%{firstMethod}、%{secondMethod}",
+          "with_separator": "%{rest}、%{current}、"
+        },
+        "shipping_used_as_billing_notice": "이 주문의 청구지 주소로도 사용됩니다.",
+        "enter_address_manually_label": "주소를 수동으로 입력",
+        "shipping_address_title": "배송지",
+        "add_delivery_instructions": "배송 안내 추가"
       }
     }
   }
