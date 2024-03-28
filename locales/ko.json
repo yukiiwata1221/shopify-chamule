@@ -2828,7 +2828,17 @@
               "one": "지불기한은{{count}}",
               "other": "지불기한은{{count}}일"
             },
-            "banner_due_today": "지불기한은 오늘"
+            "banner_due_today": "지불기한은 오늘",
+            "title": "지불기일",
+            "title_with_date": "지불 기한: {{date}}",
+            "description_overdue": "지불이 지연되었습니다.",
+            "description_partially_paid": "이 주문의 일부는 결제되었으며 잔액이 있습니다.",
+            "description_authorized": "결제 방법에 대해 지불 기한에 청구되지만, 지금 지불할 수도 있습니다.",
+            "title_due_on_receipt": "지불 기한이 아직 오지 않았습니다.",
+            "description_due_on_receipt": "지불 기한이 되면 인보이스가 도착합니다.",
+            "title_due_on_fulfillment": "지불 기한은 완성시",
+            "description_due_on_fulfillment": "지불 기한은 이 주문의 모든 품목이 발송될 때입니다.",
+            "description_waiting_for_manual_payment": "결제가 접수되면 주문이 결제됨으로 표시됩니다."
           }
         }
       }
