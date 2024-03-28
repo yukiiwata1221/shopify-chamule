@@ -493,7 +493,17 @@
             "pickup_points_unavailable": "The designated pick-up location is currently unavailable.",
             "local_pickup_delivery_line_detail_changed": "To continue, you'll need to change your current store pickup delivery strategy.",
             "local_pickup_no_delivery_strategy_available": "No in-store pickup delivery strategy available.",
-            "origin_location_id_required": "The original location ID is required to request a RETAIL delivery method."
+            "origin_location_id_required": "The original location ID is required to request a RETAIL delivery method.",
+            "invalid_origin_location_id": "No locations were found that match the inventory source location ID.",
+            "origin_location_id_not_allowed": "The requested delivery method does not support the original location ID.",
+            "auto_fulfill_not_allowed": "This session does not have permission to override fulfillment behavior.",
+            "auto_fulfill_required": "Auto-fulfillment is required to request a RETAIL delivery method.",
+            "prefetch_shipping_rates_used": "Preset shipping charges should never return charges.",
+            "fulfillment_constraints_not_satisfied": "One or more fulfillment constraint rules are not met.",
+            "must_fulfill_from_constraint_not_satisfied": "The fulfillment constraint rule is not met because the item cannot be fulfilled from the requested location.",
+            "must_fulfill_from_same_location_constraint_not_satisfied": "The fulfillment constraint rule is not met because the item cannot be fulfilled from the same location.",
+            "delivery_strategy_conditions_not_satisfied": "A delivery strategy is available for this location, but the conditions are not met.",
+            "out_of_stock_at_origin_location": "There is no stock in the original location."
           }
         }
       }
