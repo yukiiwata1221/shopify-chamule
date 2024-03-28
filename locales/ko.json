@@ -395,7 +395,16 @@
             "invalid_card_source": "이 세션에서는 이 카드 소스를 사용할 권한이 없습니다.",
             "wallet_content_missing": "월렛 콘텐츠가 입력되지 않았습니다.",
             "payment_instrument_not_found": "결제 방법을 찾을 수 없습니다.",
-            "unauthorized_capture_method": "결제 확인 방법을 설정할 수 없습니다."
+            "unauthorized_capture_method": "결제 확인 방법을 설정할 수 없습니다.",
+            "saved_payment_methods_not_enabled": "저장된 결제 방법은 이 상점에서 유효하지 않습니다.",
+            "store_credit_not_enabled": "상점 크레딧은 이 상점에서 유효하지 않습니다.",
+            "store_credit_account_not_found": "상점 신용 계정을 찾을 수 없습니다.",
+            "store_credit_account_mismatch": "상점 신용 계정은 구매자의 신원과 일치하지 않습니다.",
+            "store_credit_mismatched_currency": "상점 신용 계정의 통화가 체크아웃 통화와 일치하지 않습니다.",
+            "store_credit_insufficient_funds": "상점 크레딧 계정의 자금이 부족합니다.",
+            "store_credit_buying_gift_card": "상점 크레딧을 사용하여 기프트 카드를 구입할 수 없습니다.",
+            "gift_cards_not_allowed_for_b2b": "기프트 카드는 B2B 상점에서 허용되지 않습니다.",
+            "method_required": "결제 방법을 제안해야 합니다."
           }
         }
       }
