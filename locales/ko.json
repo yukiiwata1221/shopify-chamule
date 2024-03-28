@@ -2419,8 +2419,19 @@
           },
           "table_view": {
             "overdue": "시간 제한이 초과되었습니다",
-            "due": "마감일: {{date}}"
+            "due": "마감일: {{date}}",
+            "due_today": "오늘 기한",
+            "due_without_date": "미지급",
+            "due_on_fulfillment": "완성시",
+            "pay_to_confirm": "결제를 통해 확인",
+            "payment_not_due": "미지급"
           }
+        },
+        "sort_currently_sorted_by_accessibility_label": "현재 정렬: {{option}}",
+        "carousel": {
+          "one_products_accessibility_label": "주문에는 {{lineItemName1}}의 수량 {{lineItemQuantity1}}이 포함됩니다.",
+          "two_products_accessibility_label": "주문에는 {{lineItemName1}}의 수량 {{lineItemQuantity1}}, {{lineItemName2}}의 수량 {{lineItemQuantity2}}이 포함됩니다.",
+          "three_products_accessibility_label": "주문에는 {{lineItemName1}}의 수량 {{lineItemQuantity1}}, {{lineItemName2}}의 수량 {{lineItemQuantity2}}, {{lineItemName3}}의 수량 {{lineItemQuantity3}}이 포함됩니다."
         }
       }
     }
