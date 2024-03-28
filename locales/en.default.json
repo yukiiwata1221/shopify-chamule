@@ -2556,8 +2556,43 @@
     },
     "store_availability": {
       "pick_up_time": {
-        "five_or_more_days": "Usually ready in 5 days or more"
+        "five_or_more_days": "Usually ready in 5 days or more",
+        "immediately": "Ready to receive",
+        "next_day": "Ready for next day pick up"
       }
+    },
+    "filters": {
+      "availability": {
+        "value": {
+          "in_stock": "in stock",
+          "out_of_stock": "out of stock"
+        }
+      },
+      "boolean": {
+        "true_label": "yes",
+        "false_label": "no"
+      }
+    },
+    "search": {
+      "sorting": {
+        "price_ascending": "Lowest price order",
+        "price_descending": "High to high price"
+      }
+    }
+  },
+  "customer_accounts": {
+    "navigation_and_structure": {
+      "account_menu": {
+        "hide_accessibility_label": "Hide account menu",
+        "label": "account",
+        "show_accessibility_label": "Show account menu",
+        "nav_accessibility_label": "Account menu",
+        "open_menu_accessibility_label": "Open account menu",
+        "close_menu_accessibility_label": "Close account menu",
+        "loading_message": "Loading account menu"
+      },
+      "action_menu_accessibility_label": "Other operations",
+      "close_menu_accessibility_label": "Close main menu"
     }
   }
 }
