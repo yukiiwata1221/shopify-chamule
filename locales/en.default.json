@@ -2511,6 +2511,26 @@
       "message": "To continue, please tell me you're not a robot.",
       "error": "your answer is incorrect. please try again.",
       "submit_button_text": "send"
+    },
+    "checkpoint": {
+      "message": "Resolve Captcha to continue",
+      "error": "Captcha authentication failed",
+      "submit_button_text": "send"
+    },
+    "email_marketing": {
+      "subscribed": {
+        "unsubscribe": "Cancellation of registration"
+      },
+      "unsubscribed": {
+        "confirmation": "I unsubscribed from the mailing list.",
+        "disclaimer": "We have accepted your registration to unsubscribe from email. Thank you for subscribing.",
+        "preview": "We're previewing what you'll see when you unsubscribe."
+      },
+      "open_tracking": {
+        "opt_in": {
+          "opted_in_html": "<b>I have opted in to email open tracking.<\/b>"
+        }
+      }
     }
   }
 }
