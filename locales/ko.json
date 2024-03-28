@@ -2472,7 +2472,26 @@
       "order_status": {
         "canceled_description": "고객의 주문이 {{date}}로 취소되었습니다.",
         "come_back": "배송 상황에 관해서는 이쪽의 페이지를 봐 주세요.",
-        "delivered_description": "이 수하물은 배달되었습니다."
+        "delivered_description": "이 수하물은 배달되었습니다.",
+        "delivered_title": "고객의 수하물이 배송되었습니다.",
+        "delivered_label": "배달됨",
+        "estimated_delivery": "배달 예정일: {{date}}",
+        "in_review_description": "추가 정보가 필요하거나 주문이 확인될 때 알려드립니다.",
+        "in_review_label": "확인 중",
+        "in_review_title": "주문 확인 중",
+        "no_tracking_number": "이 수하물의 추적 번호는 없습니다.",
+        "on_its_way_label": "배송중",
+        "on_its_way_title": "고객의 상품을 배송 중입니다.",
+        "out_for_delivery_label": "배송중",
+        "out_for_delivery_title": "고객의 수하물을 배송 중입니다.",
+        "resume_tracking": "추적 재개",
+        "submitted_label": "전송됨",
+        "track_shipment": "수하물 추적",
+        "attempted_delivery_label": "부재중 반송",
+        "attempted_delivery_description": "배송이 안됐어요",
+        "confirmed_description": "주문을 수락했습니다.",
+        "on_its_way_description": "이 수하물은 배송 중입니다.",
+        "out_for_delivery_description": "이 수하물은 배송 중입니다."
       }
     }
   }
