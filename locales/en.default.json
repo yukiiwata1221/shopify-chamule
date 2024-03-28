@@ -3109,8 +3109,21 @@
             "description_due_on_receipt": "You will receive an invoice when payment is due.",
             "title_due_on_fulfillment": "Payment is due at time of fulfillment",
             "description_due_on_fulfillment": "Payment is due when all items in this order are shipped.",
-            "description_waiting_for_manual_payment": "Once payment is received, your order will be marked as paid."
-          }
+            "description_waiting_for_manual_payment": "Once payment is received, your order will be marked as paid.",
+            "description_due_on_receipt_partially_paid": "Part of this order has been paid and there is a balance. You will receive an invoice when payment is due.",
+            "description_due_on_fulfillment_partially_paid": "Part of this order has been paid and there is a balance. Payment is due when all items in this order are fulfilled."
+          },
+          "refund": {
+            "title_with_date": "Refunded to {{date}}",
+            "description_full_refund": "This order has been fully refunded.",
+            "description_single_refund": "This order has been partially refunded.",
+            "description_multiple_refunds": "This order has been partially refunded."
+          },
+          "canceled": {
+            "title": "Payment has been canceled.",
+            "description": "I wasn't charged."
+          },
+          "pay_now_accessibility_label": "Pay now for order ({{orderName}})"
         }
       }
     }
