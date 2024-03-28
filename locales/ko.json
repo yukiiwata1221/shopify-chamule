@@ -456,7 +456,14 @@
         "loading_title": "체크아웃 - {{shopName}}",
         "display_name": "{{lastName}} {{firstName}}",
         "submit_for_review_button_label": "확인을 위해 제출",
-        "submit_for_review_notice_label": "주문이 확인될 때까지 결제가 이루어지지 않습니다."
+        "submit_for_review_notice_label": "주문이 확인될 때까지 결제가 이루어지지 않습니다.",
+        "continue_to_payment_plans_button_label": "결제 플랜으로 진행",
+        "autocomplete_zero_item": "사용 가능한 항목 없음",
+        "submit": "전송",
+        "processing": "처리 중...",
+        "stepper": {
+          "minimum_reached": "{{value}}의 최소값에 도달했습니다."
+        }
       }
     }
   }
