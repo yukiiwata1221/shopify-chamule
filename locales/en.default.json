@@ -1397,7 +1397,15 @@
         "address_address1_contains_html_tags": "Street addresses cannot contain HTML tags.",
         "address_address2_contains_html_tags": "Address 2 cannot contain HTML tags.",
         "address_company_contains_html_tags": "Company names cannot contain HTML tags.",
-        "address_first_name_contains_emojis": "Name cannot contain emojis"
+        "address_first_name_contains_emojis": "Name cannot contain emojis",
+        "address_address1_contains_emojis": "Street addresses cannot contain emojis",
+        "address_address2_contains_emojis": "Address 2 cannot contain emojis",
+        "address_city_contains_emojis": "City names cannot contain emojis",
+        "address_company_contains_emojis": "Company name cannot contain emojis",
+        "address_phone_contains_emojis": "Phone numbers cannot contain emojis",
+        "address_zip_contains_emojis": "Postal codes cannot contain emojis",
+        "address_first_name_contains_url": "name cannot contain URL",
+        "gift_cards_not_supported_with_deferred_purchase_options": "Gift cards are not supported with the Pay later purchase option."
       }
     }
   }
