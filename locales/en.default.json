@@ -3364,7 +3364,18 @@
       "navigate_to_admin": "Guide to management screen",
       "previewing": "Previewing:",
       "saved_at": "Saved in {{time}} of {{date}}",
-      "viewing": "Representing:"
+      "viewing": "Representing:",
+      "actions_button": "action"
+    },
+    "settings": {
+      "title": "setting",
+      "log_out_everywhere": {
+        "title": "Log out anywhere",
+        "description": "If you lose your device or have security concerns, log out everywhere to ensure the security of your account.",
+        "button": "Log out anywhere",
+        "warning_message": "This device will also log you out."
+      },
+      "loading_accessibility_message": "Loading page settings"
     }
   }
 }
