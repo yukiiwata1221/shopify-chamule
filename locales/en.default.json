@@ -1677,7 +1677,17 @@
         },
         "gift_card_confirmation_by_text": "If you did not receive your gift card, please resend your text or contact us.",
         "gift_card_confirmation_by_email": "If you did not receive your gift card, please resend your email or contact us.",
-        "gift_card_title": "gift card"
+        "gift_card_title": "gift card",
+        "resend_gift_cards": "Resend gift card",
+        "attempted_delivery_local_title": "Not in Pida",
+        "attempted_delivery_local_description_html": "Your order could not be delivered. If you would like a different delivery date and time, please contact us at %{contact_us}.",
+        "thank_you_title_payment": "Payment confirmed",
+        "thank_you_confirmed_order_with_email_payment": "I paid for my order in %{date}.",
+        "thank_you_confirmed_order_with_phone_payment": "I paid for my order in %{date}.",
+        "thank_you_confirmed_order_with_email_and_phone_payment": "I paid for my order in %{date}.",
+        "order_status_confirmed_order_with_email_payment": "I paid for my order in %{date}.",
+        "order_status_confirmed_order_with_phone_payment": "I paid for my order in %{date}.",
+        "order_status_confirmed_order_with_email_and_phone_payment": "I paid for my order in %{date}."
       }
     }
   }
