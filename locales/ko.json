@@ -2838,8 +2838,21 @@
             "description_due_on_receipt": "지불 기한이 되면 인보이스가 도착합니다.",
             "title_due_on_fulfillment": "지불 기한은 완성시",
             "description_due_on_fulfillment": "지불 기한은 이 주문의 모든 품목이 발송될 때입니다.",
-            "description_waiting_for_manual_payment": "결제가 접수되면 주문이 결제됨으로 표시됩니다."
-          }
+            "description_waiting_for_manual_payment": "결제가 접수되면 주문이 결제됨으로 표시됩니다.",
+            "description_due_on_receipt_partially_paid": "이 주문의 일부는 결제되었으며 잔액이 있습니다. 지불 기한이 되면 인보이스가 도착합니다.",
+            "description_due_on_fulfillment_partially_paid": "이 주문의 일부는 결제되었으며 잔액이 있습니다. 지불 기한은 이 주문의 모든 항목이 채워진 때입니다."
+          },
+          "refund": {
+            "title_with_date": "{{date}}에 환불됨",
+            "description_full_refund": "이 주문은 전액 환불되었습니다.",
+            "description_single_refund": "이 주문은 일부 환불되었습니다.",
+            "description_multiple_refunds": "이 주문은 일부 환불되었습니다."
+          },
+          "canceled": {
+            "title": "결제가 취소되었습니다.",
+            "description": "청구되지 않았습니다."
+          },
+          "pay_now_accessibility_label": "주문 ({{orderName}})을 지금 지불하십시오."
         }
       }
     }
