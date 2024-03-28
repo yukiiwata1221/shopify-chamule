@@ -1071,7 +1071,15 @@
         "markets_pro_disclaimer_label": "아래를 클릭하여 주문을 완료하면 Global-e의 %{markets_pro_terms} 및 %{privacy_policy}에 따라이 거래의 최종 판매 책임을 지는 상업자 (Merchant of Record)로 Global-e에서 항목을 구입합니다. 동의한 것입니다. Global-e는 %{shop_name}의 국제 선불 서비스 제공업체입니다.",
         "markets_pro_disclaimer_privacy_policy": "개인 정보 보호 정책",
         "markets_pro_disclaimer_terms_and_conditions_title": "최종 판매 책임을 지는 상업자(Merchant of Record) 이용 약관",
-        "markets_pro_disclaimer_privacy_policy_title": "최종 판매 책임을 지는 상업자(Merchant of Record)의 프라이버시 정책"
+        "markets_pro_disclaimer_privacy_policy_title": "최종 판매 책임을 지는 상업자(Merchant of Record)의 프라이버시 정책",
+        "purchase_order_number": {
+          "title": "주문서 번호",
+          "label": "주문서 번호 (선택 사항)"
+        },
+        "alternative_payment_currency_total_notice": "참고: %{amount_due}이 청구됩니다.",
+        "waiting_on_taxes_message": "세금이 몇 초 이내에 계산되지 않으면 페이지를 새로고침하세요.",
+        "waiting_on_taxes_notice": "세금 계산",
+        "shop_pay_installments_label": "Shop Pay의 할부"
       }
     }
   }
