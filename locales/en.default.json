@@ -1578,7 +1578,16 @@
         "company_tracking_number": "Tracking number for %{company}:",
         "estimated_arrival": "Delivery date: ",
         "re-order": "reorder the same item",
-        "thank_you_title": "Your order has been confirmed"
+        "thank_you_title": "Your order has been confirmed",
+        "thank_you_confirmed_order_with_email": "You will shortly receive a confirmation email containing your order number.",
+        "thank_you_confirmed_order_with_phone": "You will receive a confirmation text shortly including your order number.",
+        "thank_you_confirmed_order_with_email_and_phone": "You will shortly receive a confirmation email containing your order number.",
+        "thank_you_confirmed_order_with_missing": "To receive confirmation of your order, please contact us via email or phone.",
+        "order_status_confirmed_order_with_email": "You will receive an email when your order is ready.",
+        "order_status_confirmed_order_with_email_and_phone": "You will receive an email when your order is ready.",
+        "order_status_updates_with_email": "Get shipping and delivery updates by email.",
+        "order_status_updates_with_phone": "Get shipping and delivery updates via text.",
+        "order_status_updates_with_email_and_phone": "Get shipping and delivery updates by email."
       }
     }
   }
