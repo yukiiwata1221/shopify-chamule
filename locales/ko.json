@@ -353,7 +353,17 @@
           "tax": {
             "new_tax_must_be_accepted": "계속하려면 판매자 제안서의 새 세금 항목이 승인되어야 합니다.",
             "unresolvable_tax_terms": "제안된 조건은 현재 기회 상황을 고려하면 해결할 수 없습니다.",
-            "delivery_price_is_abstract": "관련 배달 가격이 구체적이지 않습니다."
+            "delivery_price_is_abstract": "관련 배달 가격이 구체적이지 않습니다.",
+            "tax_exemption_not_supported": "현재 기회 세션에서는 면세를 사용할 수 없습니다.",
+            "tax_inclusivity_mismatch": "구체적인 totalTaxAndDutyAmount 또는 totalAmountIncludedInTarget 값으로 다시 기회를 얻으십시오.",
+            "delivery_tax_exemption_not_supported": "현재 배송 항목의 면세는 사용할 수 없습니다.",
+            "proposed_allocations_required": "제안된 할당 필드가 입력되지 않았습니다.",
+            "merchandise_terms_must_be_defined": "머천다이즈 조건을 정의해야 합니다.",
+            "delivery_terms_must_be_defined": "배송 조건을 정의해야 합니다.",
+            "merchandise_discount_terms_must_be_defined": "머천다이즈 디스칸트 조건을 정의해야 합니다.",
+            "delivery_discount_terms_must_be_defined": "배달 디스캔트 조건을 정의해야 합니다.",
+            "allocated_required": "할당됨 필드가 입력되지 않았습니다.",
+            "value_required": "값 필드가 입력되지 않았습니다."
           }
         }
       }
