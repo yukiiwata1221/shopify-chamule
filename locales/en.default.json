@@ -1979,6 +1979,26 @@
         "products_not_available": {
           "one": "This product is not available in your country\/region and will be removed from your cart.",
           "other": "These products are not available in your country\/region and will be removed from your cart."
+        },
+        "unavailable_label": "not available"
+      },
+      "change_cart_localization": {
+        "verify_shipping_address": "Country\/region updated. Please enter your shipping address and continue checking out."
+      },
+      "throttle": {
+        "line_to_check_out": "Check out soon",
+        "cart_summary_heading": "Your Cart",
+        "merchandise": {
+          "sold_out": "sold out",
+          "available": "available for sale"
+        },
+        "inventory": {
+          "partial_inventory_banner": "Some of the items in your cart are sold out and are not available for purchase at checkout.",
+          "sold_out": {
+            "heading": "Items in your cart are sold out",
+            "storefront_body": "Return to the store and continue shopping",
+            "no_storefront_body": "We're sorry, but the item you requested is no longer available."
+          }
         }
       }
     }
