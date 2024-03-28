@@ -2743,7 +2743,17 @@
         "tax_details_title": "세금 세부정보",
         "tax_id": "납세자 번호",
         "multiple_tax_exemptions": "기타{{taxExemptionsCount}}국가",
-        "tax_exemptions_modal_close": "닫다"
+        "tax_exemptions_modal_close": "닫다",
+        "pagination": {
+          "load_more": "추가로 로드",
+          "load_more_accessibility_label": "위치 추가 로드"
+        },
+        "own_role_contact_name": "너",
+        "staff_and_permissions_title": "직원과 권한",
+        "location_picker_accessibility_label": "위치명:{{locationName}}"
+      },
+      "location_selection": {
+        "description": "장바구니에 이미 항목이있는 경우 위치를 변경하면 장바구니 가격과 수량에 영향을 줄 수 있습니다."
       }
     }
   }
