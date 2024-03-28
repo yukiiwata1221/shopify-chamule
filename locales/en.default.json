@@ -589,6 +589,20 @@
           },
           "optional_duties": {
             "optional_duties_not_permitted": "Tariff denials are not allowed at this checkout."
+          },
+          "attribution": {
+            "retail_attribution_not_allowed": "Retail attributes are not allowed for this checkout.",
+            "retail_attribution_required": "This checkout requires retail attributes."
+          },
+          "captcha": {
+            "metadata_missing": "This checkout requires a captcha entry.",
+            "metadata_mismatch": "The captcha provider and type entered do not match the expected values.",
+            "token_missing": "A captcha token is required to complete this checkout.",
+            "job_enqueue_failed": "Failed to queue captcha verification job.",
+            "job_already_queued": "A captcha verification for this captcha token has already been added to the queue.",
+            "token_expired": "The captcha token you entered has expired. Please enter your new captcha to proceed with checkout.",
+            "token_invalid": "The captcha token entered is invalid. Please enter your new captcha to proceed with checkout.",
+            "token_not_valid_for_session": "The captcha you entered is not available for this checkout."
           }
         }
       }
