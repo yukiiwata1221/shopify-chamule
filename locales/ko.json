@@ -2793,6 +2793,26 @@
             "more_than_pagination_length": "{{count}}개 이상의 보류 중인 주문이 있습니다."
           },
           "pending_orders_count_more_than_pagination_length": "{{count}}이상"
+        },
+        "removed_company_contact_tooltip": "회사에서 삭제됨"
+      },
+      "draft_order_details": {
+        "draft_order_subtitle": "주문 ({{draftOrderName}}) 확인 날짜 : {{date}}",
+        "loading": "주문 세부정보 로드 중",
+        "loading_finished_accessibility_message": "주문 세부정보가 로드되었습니다.",
+        "payment_status": {
+          "draft": {
+            "description": "지불 세부 사항은 주문이 확정 될 때 결정됩니다.",
+            "title": "미지급금",
+            "in_review": {
+              "description": "지불 세부 사항은 주문이 확정 될 때 결정됩니다.",
+              "title": "미지급"
+            },
+            "submitted": {
+              "description": "이 주문을 확정하려면 결제하십시오.",
+              "title": "결제를 통해 확인"
+            }
+          }
         }
       }
     }
