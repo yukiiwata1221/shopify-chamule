@@ -2260,9 +2260,27 @@
       "shop_pay_external": {
         "errors": {
           "problem_loading": "There was a problem loading Shop Pay",
-          "try_again_later": "Please check your connection or close this window and try again later."
+          "try_again_later": "Please check your connection or close this window and try again later.",
+          "checkout_has_expired": "Your checkout has expired. Please close this window and try checking out again from {{shopName}}."
+        }
+      },
+      "one": {
+        "errors": {
+          "merchandise": {
+            "subtotal_limit_reached": "The maximum number of items has been reached."
+          }
         }
       }
+    },
+    "pagination": {
+      "previous": "forward",
+      "next": "Second-rate"
+    },
+    "links": {
+      "learn_more": "Click here for details"
+    },
+    "feed": {
+      "more": "moreover"
     }
   }
 }
