@@ -1363,7 +1363,24 @@
         "shipping_method_title": "배포방법",
         "estimated_arrival": "배달 예정일: ",
         "re-order": "같은 상품을 재주문",
-        "thank_you_title": "주문이 확인되었습니다."
+        "thank_you_title": "주문이 확인되었습니다.",
+        "thank_you_confirmed_order_with_phone": "주문 번호가 포함된 확인 텍스트가 곧 도착합니다.",
+        "thank_you_confirmed_order_with_email": "주문 번호가 포함된 확인 이메일이 곧 도착합니다.",
+        "thank_you_confirmed_order_with_email_and_phone": "주문 번호가 포함된 확인 이메일이 곧 도착합니다.",
+        "thank_you_confirmed_order_with_missing": "주문 확인을 받으려면 이메일 또는 전화로 문의하세요.",
+        "order_status_confirmed_order_with_email": "주문이 준비되면 이메일을 받게 됩니다.",
+        "order_status_confirmed_order_with_phone": "주문이 준비되면 텍스트가 도착할 수 있습니다.",
+        "order_status_confirmed_order_with_email_and_phone": "주문이 준비되면 이메일을 받게 됩니다.",
+        "order_status_updates_with_email": "배송 및 배송 최신 정보를 이메일로 받으세요.",
+        "order_status_updates_with_phone": "배송 및 배송 최신 정보를 텍스트로 얻을 수 있습니다.",
+        "order_status_updates_with_email_and_phone": "배송 및 배송 최신 정보를 이메일로 받으세요.",
+        "confirmed_title": "주문이 확인되었습니다.",
+        "order_status_updates_with_missing": "배송 상태 업데이트를 받는 방법을 선택합니다.",
+        "confirmed_description": "주문을 받았습니다. 현재 준비 중입니다. 배송 상황에 관해서는 이쪽의 페이지를 봐 주세요.",
+        "order_updates_description_html": "확인 이메일이 %{customer_contact}로 전송되었습니다.",
+        "order_updates_past_step_prefix": "완료된 단계: ",
+        "order_updates_upcoming_step_prefix": "향후 단계: ",
+        "in_transit_title": "주문은 배송중입니다"
       }
     }
   }
