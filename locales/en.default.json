@@ -1187,8 +1187,22 @@
         "multibanco_label": "ATM",
         "receiver_payment_experience_hint": "After placing your order, we will notify you of payment details. Please make the payment at Multibanco or online within %{due_days} days.",
         "pending_payment": {
-          "due_notice": "The payment deadline for %{amount_due} is %{due_date}."
-        }
+          "due_notice": "The payment deadline for %{amount_due} is %{due_date}.",
+          "multibanco": {
+            "entity": "entity",
+            "instruction_html": "Please make your payment at Multibanco or online using the details below. For questions or to update payment information, please contact %{contact_us}.",
+            "reference": "reference",
+            "amount": "Amount of money",
+            "find_nearest_atm": "Find the nearest ATM"
+          }
+        },
+        "purchase_options_agreement_label": "One or more items in your cart are postpaid purchases or subscriptions. By continuing to pay, you agree that your Payment Method will be automatically charged at the price and frequency listed on this page until your Payment Method expires or you cancel it. shall be done. %{cancellation_policy_label} applies to all cancellations.",
+        "update_payment_method": "Update your payment method",
+        "paypal_modal": {
+          "order_contains_subscriptions": "subscription",
+          "order_contains_fixed_selling_plans": "Total price may exclude taxes, shipping, late fees, and some discounts. You will then proceed to checkout for the amount you will pay today."
+        },
+        "purchase_options_agreement_label_html": "I understand that one or more items in my cart are deferred purchases or subscriptions. By continuing, I agree to <a class=\"link--small\" data-modal=\"true\" data-title-text=\"%{subscription_policy}\" href=\"%{policy_href}\">the cancellation policy<\/a> and authorize my selected payment method to be charged at the prices, times, and dates listed on this page until my order is fulfilled or, if permitted, until I cancel it.\n"
       }
     }
   }
