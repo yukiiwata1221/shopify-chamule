@@ -181,7 +181,10 @@
       "cancel": "상점으로 돌아가기"
     },
     "account": {
-      "title": "내 계정"
+      "title": "내 계정",
+      "details": "계정 세부정보",
+      "view_addresses": "주소 보기",
+      "return": "계정으로 돌아가기"
     },
     "addresses": {
       "company": "회사",
@@ -217,6 +220,13 @@
       "cancelled_reason": "Reason: {{ reason }}",
       "product": "제품",
       "fulfilled_at_html": "Fulfilled {{ date }}"
+    },
+    "activate_account": {
+      "title": "계정 활성화",
+      "subtext": "계정을 활성화하려면 비밀번호를 만드세요.",
+      "password": "비밀번호",
+      "submit": "계정 활성화",
+      "password_confirm": "비밀번호 확인"
     }
   },
   "home_page": {
