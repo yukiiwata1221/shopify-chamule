@@ -1119,7 +1119,17 @@
         "order_covered_by_gift_cards_notice": {
           "one": "Orders are paid for with gift cards.",
           "other": "Your order was placed with a gift card."
-        }
+        },
+        "offsite_gateway_redirect_hint_multi_currency_html": "%{gateway_label} Total %{total_shop_price}",
+        "offsite_gateway_redirect_hint": "After clicking “%{button_label}” you will be redirected to %{gateway_label} for secure payment.",
+        "billing_address_title": "Request first accommodation",
+        "billing_address_description_no_shipping_address": "Please enter the address that matches your card or payment method.",
+        "card_fields_container_prefix": "Form Container:",
+        "card_fields_unavailable_html": {
+          "one": "Credit and debit card payments are currently not available.<br>Please <a href=\"%{current_url}\">refresh this page or<\/a> try again.",
+          "other": "Credit and debit card payments are currently not available.<br>Please <a href=\"%{current_url}\">refresh this page or<\/a> try a different payment method."
+        },
+        "card_fields_processing_error": "There was a problem processing your payment. Please refresh this page or check your internet connection."
       }
     }
   }
