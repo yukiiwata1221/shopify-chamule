@@ -3317,6 +3317,18 @@
       "edit_payment_method_button_accessibility_label": "Edit {{paymentMethodName}} with the last number {{lastDigits}}",
       "expiration_warning_button_accessibility_label": "Show expiration warning for {{paymentMethodName}} with the last number {{lastDigits}}",
       "no_payment_methods_banner": "Payment method not added"
+    },
+    "payment_method_brands": {
+      "americanexpress": "american express",
+      "dinersclub": "diner club",
+      "elo": "How much",
+      "forbrugsforeningen": "The Consumers' Association"
+    },
+    "enable_javascript": "To view, please enable JavaScript in your browser settings or log in with another browser.",
+    "ui_components": {
+      "closeNotification": "close",
+      "expandNotification": "Show more",
+      "closeModal": "close"
     }
   }
 }
