@@ -471,6 +471,17 @@
             "quantity_rules_not_met": "The quantity of some products does not meet the order criteria.",
             "bundle_requires_components": "Merchandise in this bundle has no components.",
             "title_empty": "Merchandise name is blank."
+          },
+          "buyer_identity": {
+            "business_customer_does_not_match_company": "Company contacts are not linked to the company.",
+            "customer_account_required": "You must log in to continue.",
+            "contact_info_does_not_match_customer_account": "The customer information provided must match the customer account you are logged in to.",
+            "phone_number_does_not_match_expected_pattern": "The specified phone number does not match the expected type.",
+            "email_required": "An email address is required to purchase merchandise with a subscription.",
+            "email_domain_is_invalid": "The specified domain cannot be resolved.",
+            "missing_contact_method": "There is no valid contact method.",
+            "checkout_completion_target_is_missing": "Checkout completion target is empty.",
+            "customer_profile_access_restricted": "Checkout does not have permission to access customer profiles."
           }
         }
       }
