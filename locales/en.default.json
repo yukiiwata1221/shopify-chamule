@@ -1445,7 +1445,17 @@
         "payment_processing": "Your payment could not be processed due to technical reasons. Please try again or use a different payment method.",
         "paypal_zero_amount": "PayPal cannot be used for orders of %{amount}. Please make sure your order is correct and checkout using a method other than PayPal.",
         "paypal_invalid_token": "PayPal was not available. Please try again or use a different checkout option.",
-        "pay_later_failed": "An error occurred during payment processing with Pay Later. Please select a different payment method and try again."
+        "pay_later_failed": "An error occurred during payment processing with Pay Later. Please select a different payment method and try again.",
+        "three_d_secure_throttled": "Too many attempts. Please wait before entering again.",
+        "three_d_secure_failed": "Payment could not be confirmed. Please try again or use a different payment method.",
+        "subscription_agreement_blank": "To purchase a Subscription, you will need to save your payment details. To continue, confirm your acceptance or remove the subscription item from your order.",
+        "three_d_secure_failed_duplicate": "3D Secure authentication for your credit card failed because another credit card transaction is already in progress.",
+        "insufficient_funds": "Payment was declined due to insufficient funds. Please try again or use a different payment method.",
+        "payment_processing_no_retry": "Your payment could not be processed due to technical reasons. Please try a different payment method.",
+        "checkout_amount_changed": "Your payment could not be processed because the amount owed changed during checkout. Please check your order and try again.",
+        "deferred_payment_not_allowed": "Deferred payment is not possible. Please check your order and try again.",
+        "deferred_payment_required": "This order requires deferred payment. Please check your order and try again.",
+        "deferred_amount_changed": "The payment could not be processed because the amount of the deferred payment has changed. Please check your order and try again."
       }
     }
   }
