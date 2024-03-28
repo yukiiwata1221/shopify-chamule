@@ -1991,7 +1991,17 @@
       },
       "billing": {
         "billing_address_title": "청구처",
-        "same_as_shipping": "배송지 주소와 동일"
+        "same_as_shipping": "배송지 주소와 동일",
+        "address_more": "이 주소에 대한 기타 작업",
+        "address_confirm": "계정에서이 주소를 삭제하시겠습니까?"
+      },
+      "address_management": {
+        "confirm_address_deletion": "주소 ({{address}})를 삭제하시겠습니까?"
+      },
+      "redeemable_errors": {
+        "gift_card": {
+          "duplicate": "기프트 카드는 고객의 주문에 이미 사용 중입니다."
+        }
       }
     }
   }
