@@ -2120,8 +2120,24 @@
       },
       "marketplaces": {
         "legal_notice": {
-          "legal_text": "examination"
+          "legal_text": "examination",
+          "link_label": "Terms of Use for {{partnerDisplayName}}"
         }
+      },
+      "online_store_chat": {
+        "title": "Have a question? chat"
+      },
+      "local_pickup": {
+        "location_information": {
+          "one": "There are %{count} stores with stock near %{address}",
+          "other": "There are %{count} stores with stock near %{address}"
+        },
+        "toggle_location": "Change location",
+        "or": "or",
+        "cancel": "cancel",
+        "your_location": "location",
+        "search_button": "find store",
+        "no_stores_found": "Store not found"
       }
     }
   }
