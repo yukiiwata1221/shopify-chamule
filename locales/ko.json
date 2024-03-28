@@ -775,7 +775,19 @@
         "please_enter_your_shipping_information_notice": "배송 정보를 입력하세요.",
         "estimated_delivery_date_range": "%{minimum}~%{maximum}영업일",
         "shipping_line_phone_label": "휴대 전화 번호 (필수)",
-        "shipping_line_phone": "택배업체가 연락을 위해 전화번호를 사용할 수 있습니다."
+        "shipping_line_phone": "택배업체가 연락을 위해 전화번호를 사용할 수 있습니다.",
+        "other_method": {
+          "zero": "사용 가능한 다른 방법은 없습니다.",
+          "one": "사용 가능한 다른 %{count}가지 방법",
+          "other": "%{count}개의 다른 방법을 사용할 수 있습니다."
+        },
+        "shipping_rate_discounted_amount": "기본값: %{original_amount}. 새로운 가격: %{amount}",
+        "shipping_line_delivery_phone": "배송의 최신 정보에 대해 연락을 받을 수 있습니다.",
+        "optional_shipping_line_delivery_instructions_label": "배송 절차(선택 사항)",
+        "shipping_line_delivery_phone_label": "휴대폰 번호",
+        "shipping_line_delivery_instructions": "도어 코드나 드롭오프 지시 등 필요한 정보를 입력합니다.",
+        "local_delivery": "로컬 배송",
+        "subscription_shipping": "정기 구입품의 배송 방법"
       }
     }
   }
