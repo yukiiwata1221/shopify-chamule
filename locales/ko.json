@@ -1557,7 +1557,27 @@
         "order_status_payments_app_pending_payment_description_default_with_email_and_phone_pick_up": "확인 메일이 곧 도착합니다. Shop 앱을 사용하여 주문을 추적합니다.",
         "order_status_payments_app_pending_payment_description_default_with_email_payment": "확인 메일이 곧 도착합니다. Shop 앱을 사용하여 주문을 추적합니다.",
         "order_status_payments_app_pending_payment_description_default_with_email_pick_up": "확인 메일이 곧 도착합니다. Shop 앱을 사용하여 주문을 추적합니다.",
-        "order_status_payments_app_pending_payment_description_default_with_phone_payment": "확인 문자 메시지가 곧 도착합니다. Shop 앱을 사용하여 주문을 추적합니다."
+        "order_status_payments_app_pending_payment_description_default_with_phone_payment": "확인 문자 메시지가 곧 도착합니다. Shop 앱을 사용하여 주문을 추적합니다.",
+        "order_status_payments_app_pending_payment_description_buyer_action_required_with_missing": "주문 확인을 받으려면 이메일 또는 전화로 문의하세요.",
+        "order_status_payments_app_pending_payment_description_default_with_phone_pick_up": "확인 문자 메시지가 곧 도착합니다. Shop 앱을 사용하여 주문을 추적합니다.",
+        "order_status_payments_app_pending_payment_description_buyer_action_required_with_missing_payment": "주문 확인을 받으려면 이메일 또는 전화로 문의하세요.",
+        "order_status_payments_app_pending_payment_description_buyer_action_required_with_missing_pick_up": "주문 확인을 받으려면 이메일 또는 전화로 문의하세요.",
+        "order_status_payments_app_pending_payment_description_buyer_action_required_with_email_and_phone_payment": "결제가 완료되면 확인 이메일을 받게 됩니다. Shop 앱을 사용하여 주문을 추적합니다.",
+        "order_status_payments_app_pending_payment_description_buyer_action_required_with_email_and_phone_pick_up": "결제가 완료되면 확인 이메일을 받게 됩니다. Shop 앱을 사용하여 주문을 추적합니다.",
+        "order_status_payments_app_pending_payment_description_buyer_action_required_with_email_payment": "결제가 완료되면 확인 이메일을 받게 됩니다. Shop 앱을 사용하여 주문을 추적합니다.",
+        "order_status_payments_app_pending_payment_description_buyer_action_required_with_phone_payment": "결제가 완료되면 확인 텍스트 메시지가 전송됩니다. Shop 앱을 사용하여 주문을 추적합니다.",
+        "order_status_payments_app_pending_payment_description_buyer_action_required_with_phone_pick_up": "결제가 완료되면 확인 텍스트 메시지가 전송됩니다. Shop 앱을 사용하여 주문을 추적합니다.",
+        "order_status_payments_app_failed_pending_payment_payment": "주문에 대한 청구는 이루어지지 않았습니다. 장바구니로 돌아와 주문을 확인하고 다시 지불합니다.",
+        "order_status_confirmed_order_local_pick_up": "주문 배달 준비를하고 있습니다.",
+        "order_status_payments_app_failed_pending_payment_pick_up": "주문에 대한 청구는 이루어지지 않았습니다. 장바구니로 돌아와 주문을 확인하고 다시 지불합니다.",
+        "order_status_confirmed_order_local_payment": "주문 배달 준비를하고 있습니다.",
+        "thank_you_payments_app_pending_payment_description_default_with_missing": "주문 확인을 받으려면 이메일 또는 전화로 문의하세요.",
+        "thank_you_payments_app_pending_payment_description_default_with_missing_payment": "주문 확인을 받으려면 이메일 또는 전화로 문의하세요.",
+        "thank_you_payments_app_pending_payment_description_default_with_missing_pick_up": "주문 확인을 받으려면 이메일 또는 전화로 문의하세요.",
+        "thank_you_payments_app_pending_payment_description_default_with_email_and_phone": "주문 번호가 기재된 확인 메일이 곧 도착합니다.",
+        "thank_you_payments_app_pending_payment_description_default_with_email_and_phone_payment": "주문 번호가 기재된 확인 메일이 곧 도착합니다.",
+        "thank_you_payments_app_pending_payment_description_default_with_email_and_phone_pick_up": "주문 번호가 기재된 확인 메일이 곧 도착합니다.",
+        "thank_you_payments_app_pending_payment_description_default_with_email": "주문 번호가 기재된 확인 메일이 곧 도착합니다."
       }
     }
   }
