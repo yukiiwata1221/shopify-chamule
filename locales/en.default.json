@@ -1165,7 +1165,17 @@
           "connect": "Click to link your Apple Pay account",
           "not_available": "Apple Pay is not available in this browser. To link your Apple Pay account, you must use Safari on your Apple device."
         },
-        "account_connected": "Your accounts have been linked."
+        "account_connected": "Your accounts have been linked.",
+        "billing_address_associated_with_mandate": "Use the address associated with your payment method",
+        "billing_address_associated_with_mandate_info": "If you change your billing address, please remove your credit card information and enter it again",
+        "delete_customer_mandate_modal_cancel": "cancel",
+        "credit_card_vaulting_sign_in_banner_title": "Save credit card information",
+        "credit_card_vaulting_sign_in_banner_info": "Log in or create an account to save your credit card information for future purchases.",
+        "credit_card_vaulting_sign_in_banner_button_label": "Login",
+        "expiry_long": "(Expiration date: %{month}\/%{year})",
+        "expiry_short": "(Expiration date: %{month}\/%{year})",
+        "ftd_vault_credit_card_label": "Save this credit card information to my account for faster checkout",
+        "delete_customer_mandate_modal_title": "Do you want to delete this payment card?"
       }
     }
   }
