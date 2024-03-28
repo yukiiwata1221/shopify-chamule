@@ -282,9 +282,18 @@
       "update": "장바구니 업데이트",
       "checkout": "구매 화면으로",
       "empty": "장바구니가 비어 있습니다.",
-      "continue_browsing_html": "<a href=\"&lt;span%20class=\" notranslate>{{ url }} '&gt; 쇼핑 계속<\/a>",
+      "continue_browsing_html": "<a href='{{ url }}'>쇼핑 계속<\/a>",
       "close_cart": "장바구니 닫기",
-      "terms_html": "I agree with the <a href=\"&lt;span%20class=\" notranslate>{{ url }} ' target='_blank'&gt;terms and conditions<\/a>"
+      "terms_html": "<a href='{{ url }}' target='_blank'>이용약관<\/a> 에 동의합니다.",
+      "reduce_quantity": "품목 수량을 1개 줄입니다.",
+      "increase_quantity": "아이템 수량을 하나 늘립니다.",
+      "terms": "이용약관에 동의합니다.",
+      "terms_confirm": "결제를 위해서는 판매약관에 동의해야 합니다."
+    },
+    "label": {
+      "price": "가격",
+      "quantity": "수량",
+      "total": "총"
     }
   },
   "contact": {
