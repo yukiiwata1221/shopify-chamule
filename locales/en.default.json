@@ -1475,7 +1475,20 @@
         "invalid_shipping_address": "Your payment could not be processed because the shipping address was not found. Please check your shipping address and try again.",
         "successful_offsite_with_gift_card_error": "There was a problem processing your gift card payment. Please try again or use a different payment method.",
         "development_store_order_limit_reached": "You have reached the limit for development store orders with this payment processing service. To place another order, you must use a test payment gateway service. Click here for more information about %{development_store_order_testing_docs_link}.",
-        "development_store_with_order_limit": "To place a test order, you must use a test payment gateway service. Click here for more information about %{development_store_order_testing_docs_link}."
+        "development_store_with_order_limit": "To place a test order, you must use a test payment gateway service. Click here for more information about %{development_store_order_testing_docs_link}.",
+        "development_store_order_testing_docs_link": "Testing orders in the development store",
+        "available_methods_updated": "The available payment methods have been updated.",
+        "selected_payment_method": "You were not charged because there was a problem with the payment method you selected. Please try again or use a different payment method.",
+        "payment_method_billing_address": "You were not charged because there was a problem with the billing address for the selected payment method. Please check your address and try again, or use a different payment method.",
+        "processing_error_checkout_as_guest": "There was a problem processing your payment. Please try again with a different payment method or {{checkout_as_guest_link}}.",
+        "amount_too_small": "Minimum payment amount must be higher than $0.50 USD. Please increase the amount and try again."
+      },
+      "shipping_errors": {
+        "shipping_method": "The shipping method for your order has changed. Please check your selections and try again.",
+        "shipping_method_not_available": "Your cart has been updated and the items you added cannot be shipped to your address. Please remove the item and complete your order.",
+        "shipping_method_not_available_generic": {
+          "one": "Your order cannot be delivered to the address you selected. Please check your address and ensure it is accurate before re-entering or choosing a different address."
+        }
       }
     }
   }
