@@ -1177,7 +1177,17 @@
         "payment_gateway_unsupported_for_subscriptions": "이 결제 방법은 구독 주문에는 사용할 수 없습니다.",
         "address_first_name_too_long": "이름이 너무 깁니다 (최대 255자).",
         "address_last_name_too_long": "성이 너무 깁니다 (최대 255자)",
-        "address_address1_too_long": "주소의 첫 번째 줄이 너무 깁니다 (최대 255자)."
+        "address_address1_too_long": "주소의 첫 번째 줄이 너무 깁니다 (최대 255자).",
+        "address_address2_too_long": "주소의 두 번째 줄이 너무 깁니다 (최대 255자).",
+        "address_city_too_long": "도시 이름이 너무 깁니다 (최대 255자).",
+        "address_company_too_long": "회사 이름이 너무 깁니다 (최대 255자).",
+        "address_first_name_contains_html_tags": "이름에는 HTML 태그를 포함할 수 없습니다.",
+        "address_last_name_contains_html_tags": "성에는 HTML 태그를 포함할 수 없습니다.",
+        "address_address1_contains_html_tags": "주소는 HTML 태그를 포함할 수 없습니다.",
+        "address_address2_contains_html_tags": "주소 2에는 HTML 태그를 포함할 수 없습니다.",
+        "address_city_contains_html_tags": "시구정촌에는 HTML 태그를 포함할 수 없습니다.",
+        "address_company_contains_html_tags": "회사 이름에는 HTML 태그를 포함할 수 없습니다.",
+        "address_first_name_contains_emojis": "이름에 이모티콘을 포함할 수 없습니다."
       }
     }
   }
