@@ -2838,7 +2838,19 @@
       "manage_accessiblity_label": "Manage orders ({{orderId}})",
       "group_title_label": "Part of {{groupTitle}}",
       "havent_received_your_delivery": "Didn't receive your delivery?",
-      "didnt_pick_up_order": "Didn't receive your order?"
+      "didnt_pick_up_order": "Didn't receive your order?",
+      "let_us_know": "please let me know",
+      "contact_us": "Please contact us.",
+      "if_you_didnt_receive_this": "If you have not received this order,",
+      "if_not_received": {
+        "one": "If you haven't received it,",
+        "other": "If you haven't received it,"
+      }
+    },
+    "order_details": {
+      "billing_address": "Request first accommodation",
+      "card_ending_with": "Last 4 digits{{lastDigits}}",
+      "contact": "contact address"
     }
   }
 }
