@@ -1337,7 +1337,27 @@
             "message": "저장된 결제 방법을 추가하고 사용하려면 이 위치에 액세스할 수 있는 계정으로 {{logIn}}하세요."
           }
         },
-        "direct_payment_terms": "기간은 {{translatedName}}입니다. 카드 결제 기한은 {{dueDate}}입니다."
+        "direct_payment_terms": "기간은 {{translatedName}}입니다. 카드 결제 기한은 {{dueDate}}입니다.",
+        "order_due_on_fulfillment_choose_later": "주문이 완료되면 결제 기한이됩니다.",
+        "order_due_on_fulfillment_payment": "주문이 완료되면 카드에 청구됩니다.",
+        "draft_order_payment_due_later_no_terms": "주문이 확정되면 결제의 대상이 됩니다.",
+        "draft_order_payment_due_later_no_terms_payment_selected": "주문이 확정되면 카드에 청구됩니다.",
+        "draft_order_payment_due_later_terms": "주문이 확정되면 {{translatedName}}기간에 들어갑니다.",
+        "draft_order_payment_due_on_fulfillment": "주문이 확정되고 완성되면 결제 기한이됩니다.",
+        "fixed_payment_label": "결제 기한은 {{dueDate}}입니다.",
+        "fixed_direct_payment_terms": "카드 결제 기한은 {{dueDate}}입니다."
+      },
+      "thank_you": {
+        "title": "구입해 주셔서 감사합니다!",
+        "confirmation_email_sent_text": "확인 이메일을 다음 주소로 보냈습니다: %{email}",
+        "return_to_store_link_label": "쇼핑 계속",
+        "payment_information_title": "지불 정보",
+        "shipping_information_title": "배송정보",
+        "page_title": "%{display_name}, 감사합니다.",
+        "page_title_no_name": "감사합니다. 고객!",
+        "cancelled_page_title": "취소된 주문",
+        "customer_information_title": "주문 상세",
+        "billing_address_title": "첫 번째 숙소 요청"
       }
     }
   }
