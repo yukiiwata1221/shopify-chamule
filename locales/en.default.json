@@ -1687,7 +1687,23 @@
         "thank_you_confirmed_order_with_email_and_phone_payment": "I paid for my order in %{date}.",
         "order_status_confirmed_order_with_email_payment": "I paid for my order in %{date}.",
         "order_status_confirmed_order_with_phone_payment": "I paid for my order in %{date}.",
-        "order_status_confirmed_order_with_email_and_phone_payment": "I paid for my order in %{date}."
+        "order_status_confirmed_order_with_email_and_phone_payment": "I paid for my order in %{date}.",
+        "shop_qr_with_sms_upsell": {
+          "qr_code": {
+            "title": "scan with mobile phone"
+          },
+          "sms": {
+            "title": "Or send a link to your mobile phone"
+          }
+        },
+        "estimated_delivery": "Current estimated delivery date: ",
+        "view_business_customer_account": "View your account",
+        "company_location_title": "location",
+        "thank_you_title_review": "Order information has been submitted for review",
+        "thank_you_confirmed_order_with_draft": "We will let you know if any further information is required or when your order is confirmed.",
+        "payment_method_draft_order": "Deadline after order is confirmed",
+        "breadcrumbs_submitted": "sent",
+        "breadcrumbs_in_review": "Under confirmation"
       }
     }
   }
