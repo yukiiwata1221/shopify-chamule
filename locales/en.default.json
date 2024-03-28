@@ -719,7 +719,13 @@
       },
       "delivery_options": {
         "ship": "shipping",
-        "pick_up": "Pick up in store"
+        "pick_up": "Pick up in store",
+        "pick_up_immediately": "Ready for in-store pickup",
+        "pick_up_next_day": "Ready for in-store pickup the next day",
+        "pick_up_in_five_or_more_days": "Usually ready in 5 days or more",
+        "pick_up_in_zero_to_two_hours": "Ready for in-store pickup within 2 hours",
+        "pick_up_in_two_to_four_hours": "Ready for pickup within 4 hours",
+        "free_total_label": "free"
       }
     }
   }
