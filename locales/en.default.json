@@ -725,7 +725,29 @@
         "pick_up_in_five_or_more_days": "Usually ready in 5 days or more",
         "pick_up_in_zero_to_two_hours": "Ready for in-store pickup within 2 hours",
         "pick_up_in_two_to_four_hours": "Ready for pickup within 4 hours",
-        "free_total_label": "free"
+        "free_total_label": "free",
+        "pick_up_locations": "Pick up location",
+        "shipping_address": "Delivery to residence first",
+        "pickup_point_method_definition": "Deliver to designated pick-up location",
+        "retail_method_definition": "retail store delivery",
+        "none_method_definition": "No delivery",
+        "subscription_pickup_information": "This delivery method applies to all items in this order and all future orders for this subscription.",
+        "ship_to_address": "delivery to address"
+      },
+      "customer_account": {
+        "not_user_label": "Isn't it %{first_name}?",
+        "have_an_account_label": "Already have an account?",
+        "sign_out_link_label": "Logout",
+        "sign_in_link_label": "Login",
+        "invalid_address": "The selected address is invalid. %{update_address_link} or choose another address.",
+        "incomplete_address": "The selected address is incomplete. %{update_address_link} or choose another address.",
+        "rollup_label": "account",
+        "invalid_shipping_method_summary": "Please select a valid shipping address to see available shipping methods"
+      },
+      "stock": {
+        "page_title": "inventory problem",
+        "title": "out of stock",
+        "items_unavailable_notice": "Some items are not available."
       }
     }
   }
