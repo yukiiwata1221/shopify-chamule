@@ -1324,6 +1324,20 @@
       },
       "failed_payment": {
         "payment_not_processed_text": "청구가 이루어지지 않았습니다. 장바구니로 돌아와 구매 절차를 완료합니다."
+      },
+      "payment_gateway": {
+        "credit_card_label": "신용카드",
+        "bank_deposit_label": "은행 송금",
+        "cash_on_delivery_label": "대금 상환",
+        "debit_card_label": "직불카드",
+        "deferred_payment_label": "나중에 결제 방법을 선택하세요.",
+        "generic_payment_terms": "기간은 {{translatedName}}입니다. 결제 기한은 {{dueDate}}입니다.",
+        "login_prompt": {
+          "no_access": {
+            "message": "저장된 결제 방법을 추가하고 사용하려면 이 위치에 액세스할 수 있는 계정으로 {{logIn}}하세요."
+          }
+        },
+        "direct_payment_terms": "기간은 {{translatedName}}입니다. 카드 결제 기한은 {{dueDate}}입니다."
       }
     }
   }
