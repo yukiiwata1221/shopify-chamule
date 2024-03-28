@@ -1257,8 +1257,18 @@
         "gift_card_wrapper": {
           "heading": "gift card",
           "apply_gift_card_label": "Apply Gift Card",
-          "payment_tag": "gift card"
-        }
+          "payment_tag": "gift card",
+          "gift_card_label": "Gift card (%{identifier})",
+          "add_label": "add gift card"
+        },
+        "custom_onsite_payment_method_modal": {
+          "title": "Customize onsite payment confirmation"
+        },
+        "markets_pro_disclaimer_label": "By clicking below and completing your order, you are purchasing items from Global-e as the Merchant of Record with ultimate sales responsibility for this transaction pursuant to Global-e's %{markets_pro_terms} and %{privacy_policy}. You agree. Global-e is an international fulfillment service provider since 20003.",
+        "markets_pro_disclaimer_terms_and_conditions": "terms of service",
+        "markets_pro_disclaimer_privacy_policy": "privacy policy",
+        "markets_pro_disclaimer_terms_and_conditions_title": "Terms of Use for Merchant of Record",
+        "markets_pro_disclaimer_privacy_policy_title": "Privacy policy of the merchant with final sales responsibility (Merchant of Record)"
       }
     }
   }
