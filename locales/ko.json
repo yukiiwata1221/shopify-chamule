@@ -1876,7 +1876,19 @@
           "DeliveryViolations": "집으로 먼저 배송",
           "PaymentViolations": "첫 번째 숙소 요청"
         },
-        "all_violations_content": "이 정보를 업데이트하고 주문을 완료하려면 전화 또는 {{emailLink}}로 문의하세요."
+        "all_violations_content": "이 정보를 업데이트하고 주문을 완료하려면 전화 또는 {{emailLink}}로 문의하세요.",
+        "all_violations_email_link": "메일",
+        "editable_shipping_address_violations_message_title": "이 정보를 업데이트하여 주문을 완료하세요.",
+        "editable_shipping_address_violations_email_link": "문의해 주세요",
+        "company_location_changed_product_removed": "일부 상품은이 위치에서 사용할 수 없으므로 장바구니가 업데이트되었습니다. 주문을 확인한 후 제출하십시오.",
+        "shipping_address_incomplete_title": "배송지 주소에 결함이 있습니다.",
+        "calculating_shipping": "배송료를 아직 계산하고 있습니다. 몇 초 후에 다시 시도해 주세요. 청구는 이루어지지 않았습니다.",
+        "calculating_taxes": "세금은 아직 계산 중입니다. 몇 초 후에 다시 시도해 주세요. 청구는 아직 이루어지지 않았습니다."
+      },
+      "marketplaces": {
+        "legal_notice": {
+          "legal_text": "심사"
+        }
       }
     }
   }
