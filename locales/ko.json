@@ -238,5 +238,20 @@
       "send": "전송",
       "post_success": "문의해 주셔서 감사합니다. 2 영업일 이내에 회신 하겠습니다."
     }
+  },
+  "shopify": {
+    "sentence": {
+      "two_words_connector": " 그리고 ",
+      "words_connector": "、 ",
+      "last_word_connector": ", "
+    },
+    "checkout": {
+      "general": {
+        "skip_to_content": "건너뛰고 콘텐츠로 이동",
+        "breadcrumb": "빵 부스러기 목록",
+        "continue_button_label": "계속하다",
+        "pay_now_button_label": "지금 지불"
+      }
+    }
   }
 }
