@@ -1562,7 +1562,23 @@
         "fixed_direct_payment_terms": "The card payment deadline is {{dueDate}}."
       },
       "thank_you": {
-        "confirmation_email_sent_text": "A confirmation email has been sent to: %{email}"
+        "confirmation_email_sent_text": "A confirmation email has been sent to: %{email}",
+        "print_link_label": "print receipt",
+        "shipping_information_title": "Delivery information",
+        "page_title": "%{display_name}, thank you.",
+        "page_title_no_name": "thank you. customer!",
+        "cancelled_page_title": "Canceled orders",
+        "contact_information_title": "Contact Information",
+        "billing_address_title": "Request first accommodation",
+        "shipping_address_title": "Delivery to residence first",
+        "shipping_address_map_title": "Google Maps has pinned the following shipping address: %{address}",
+        "payment_method_title": "Payment Method",
+        "shipping_method_title": "Distribution Method",
+        "tracking_number": "tracking number:",
+        "company_tracking_number": "Tracking number for %{company}:",
+        "estimated_arrival": "Delivery date: ",
+        "re-order": "reorder the same item",
+        "thank_you_title": "Your order has been confirmed"
       }
     }
   }
