@@ -724,7 +724,21 @@
         "subscriptions": "구독",
         "duties_and_taxes_label": "관세와 세금",
         "error_duties_tooltip": "이 주문은 다른 국가에서 배송하므로 관세 및 세금이 배송 시 청구될 수 있습니다.",
-        "may_be_charged_on_delivery": "배송 시 청구될 수 있음"
+        "may_be_charged_on_delivery": "배송 시 청구될 수 있음",
+        "total_updated_label_with_price": "갱신 후 총 금액: %{totalPrice}",
+        "recurring_payments": "정기 결제",
+        "recurring_total_multiple_label": "이 주문에는 여러 항목의 정기 결제가 발생합니다.",
+        "deferred_total_due_date_label": "총 지불: {{date}}",
+        "full_price": "전체 가격: %{price}",
+        "custom_discount": "맞춤 할인",
+        "expand_component_information": {
+          "one": "%{count}개의 항목 보기",
+          "other": "%{count}개의 항목 보기"
+        },
+        "collapse_component_information": {
+          "one": "%{count}개의 항목 숨기기",
+          "other": "%{count}개의 항목 숨기기"
+        }
       }
     }
   }
