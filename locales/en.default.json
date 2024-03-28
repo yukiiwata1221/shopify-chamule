@@ -2230,7 +2230,38 @@
       "billing": {
         "billing_address_title": "Billing address",
         "add_address": "use a different address",
-        "edit": "edit"
+        "edit": "edit",
+        "delete": "delete",
+        "address_more": "Other actions for this address",
+        "address_edit": "edit address",
+        "address_confirm": "Are you sure you want to remove this address from your account?",
+        "address_form": {
+          "add_address": "add address",
+          "save": "keep",
+          "cancel": "cancel"
+        }
+      },
+      "address_management": {
+        "confirm_address_deletion": "Are you sure you want to delete address ({{address}})?"
+      },
+      "redeemable_errors": {
+        "gift_card": {
+          "duplicate": "Gift card has already been used on your order",
+          "insufficient_funds": "This gift card has no balance",
+          "invalid": "Please enter a valid gift card",
+          "currency_mismatch": "Only %{shop_currency} gift cards are available",
+          "generic": "Gift card could not be added to checkout",
+          "throttle_limit_exceeded": "The maximum number of attempts allowed has been exceeded. Please try again later."
+        }
+      },
+      "vaulted": {
+        "change_button": "change"
+      },
+      "shop_pay_external": {
+        "errors": {
+          "problem_loading": "There was a problem loading Shop Pay",
+          "try_again_later": "Please check your connection or close this window and try again later."
+        }
       }
     }
   }
