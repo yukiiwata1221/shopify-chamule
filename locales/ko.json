@@ -1278,8 +1278,21 @@
         "shipping_method": "주문 배송 방법이 변경되었습니다. 선택 내용을 확인하고 다시 시도해 주세요.",
         "shipping_method_not_available": "장바구니가 업데이트되고 추가한 항목은 고객 주소로 배송할 수 없습니다. 항목을 삭제하고 주문을 완료합니다.",
         "shipping_method_not_available_generic": {
-          "one": "주문은 선택한 주소로 배송할 수 없습니다. 주소를 확인하고 정확한지 확인한 후 다시 입력하거나 다른 주소를 선택하세요."
-        }
+          "one": "주문은 선택한 주소로 배송할 수 없습니다. 주소를 확인하고 정확한지 확인한 후 다시 입력하거나 다른 주소를 선택하세요.",
+          "other": "장바구니의 일부 항목은 입력한 주소로 배송할 수 없습니다. 주소를 확인하고 정확한지 확인한 후 다시 입력하거나 다른 주소를 선택하세요."
+        },
+        "shipping_method_not_available_updated": {
+          "one": "추가한 항목은 내 위치로 발송할 수 없습니다. 항목을 삭제하고 체크아웃하거나 상점에 문의하세요.",
+          "other": "추가한 하나 이상의 항목은 내 위치로 발송할 수 없습니다. 항목을 삭제하고 체크아웃하거나 상점에 문의하세요."
+        },
+        "payment_method_not_supported": "%{country}에서는 이 결제 방법을 사용할 수 없습니다. 다른 결제 방법을 사용하여 이 국가로 배송해 주세요.",
+        "empty_state": "배송지 주소를 입력하여 사용 가능한 배송 방법을 확인하세요.",
+        "shipping_method_not_available_due_to_unsatisfied_conditions": "장바구니의 항목은 배송 대상 가격이나 무게 요구 사항을 충족하지 않습니다. 장바구니를 업데이트하고 다시 시도해 주세요.",
+        "title": "배송은 사용할 수 없습니다."
+      },
+      "alternative_payment_method_banner": {
+        "express_checkout": "익스프레스 체크아웃",
+        "show_more_options": "기타 옵션 표시"
       }
     }
   }
