@@ -591,7 +591,17 @@
         "reduced_label": "남은",
         "reduced_with_quantity_label": "나머지 불과 %{quantity_available}",
         "remove_from_cart_button_label": "장바구니에서 삭제",
-        "continue_shopping_button_label": "계속하다"
+        "continue_shopping_button_label": "계속하다",
+        "remove": "삭제",
+        "empty_cart_label": "장바구니가 비어 있습니다.",
+        "quantity_update": {
+          "description": "이 제품의 판매 가능한 수량이 변경되고 장바구니에서 업데이트됩니다."
+        },
+        "unpurchasable_product": {
+          "title": "구입할 수 없는 상품",
+          "header": "장바구니에서 일부 항목이 삭제되었습니다.",
+          "message": "이 항목은 B2B 주문에 사용할 수 없습니다."
+        }
       }
     }
   }
