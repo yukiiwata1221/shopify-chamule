@@ -2336,7 +2336,15 @@
       "contains_html_tags": "Cannot contain HTML tags",
       "too_short": "is too short (at least %{count} characters)",
       "too_long": "is too long (maximum %{count} characters or less)",
-      "password_mismatch": "must match the password entered"
+      "password_mismatch": "must match the password entered",
+      "email_domain_invalid": "Provider not supported",
+      "invalid_for_country": "is not valid in 20001",
+      "invalid_for_country_and_province": "is not valid in %{province} and %{country}",
+      "invalid_province_in_country": "is not valid in the territory of %{country}",
+      "invalid_state_in_country": "is not valid in the state of %{country}",
+      "invalid_region_in_country": "is not valid in region %{country}",
+      "less_than_or_equal_to": "must be less than or equal to 20001",
+      "full_name_required": "Enter your first and last name"
     }
   }
 }
