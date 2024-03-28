@@ -1419,7 +1419,17 @@
         "marker": {
           "current": "상품의 현재 위치",
           "shipping": "집으로 먼저 배송"
-        }
+        },
+        "fulfillment": {
+          "fulfilled_table_title": "이 배송에서 상품",
+          "unfulfilled_table_title": "배송 준비 중 상품",
+          "product_image_label": "상품 이미지"
+        },
+        "order_updates_description_missing": "배송 상태 업데이트를 받지 못했습니다.",
+        "order_updates_subscribe_to_email_notifications": "배송 상태 업데이트를 이메일로 받으세요.",
+        "order_updates_subscribe_to_email_or_phone_notifications": "배송 상태 업데이트를 이메일이나 텍스트로 받으세요.",
+        "order_updates_subscribe_to_phone_notifications": "배송 상태 업데이트를 텍스트로 받으세요.",
+        "order_updates_submit_subscription": "보내기"
       }
     }
   }
