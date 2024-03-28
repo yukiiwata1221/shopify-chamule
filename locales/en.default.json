@@ -1136,7 +1136,14 @@
         "missing_credit_card_error": "Please enter your card details to complete payment",
         "generic_incorrect_card_info": "We were unable to confirm your payment details. Please check your card details and try again.",
         "sofort_label": "Immediately",
-        "bank_picker_label": "bank"
+        "bank_picker_label": "bank",
+        "klarna_pay_later_label": "Pay later using Klarna",
+        "eps_label": "eps transfer",
+        "card_expiration_month_label": "Expiration date (month)",
+        "card_expiration_year_label": "Expiration date (years)",
+        "card_information_notice": "All transactions are encrypted and secure. Credit card information is never stored.",
+        "credit_card_start_month": "Month of issue",
+        "credit_card_start_year": "Year of publication"
       }
     }
   }
