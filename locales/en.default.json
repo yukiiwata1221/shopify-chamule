@@ -504,6 +504,18 @@
             "must_fulfill_from_same_location_constraint_not_satisfied": "The fulfillment constraint rule is not met because the item cannot be fulfilled from the same location.",
             "delivery_strategy_conditions_not_satisfied": "A delivery strategy is available for this location, but the conditions are not met.",
             "out_of_stock_at_origin_location": "There is no stock in the original location."
+          },
+          "discount": {
+            "custom_discount_not_honoured": "The custom discount offered was not fulfilled.",
+            "unsupported_expectation": "The discount item offered has an expected value that the policy cannot interpret.",
+            "additional_requested_discount_code_discarded": "Any other coupon codes requested have been discarded.",
+            "allocations_mismatch": "The expected discount allocation does not match the actual discount allocation.",
+            "discount_code_not_honoured": "Coupon code has not been applied."
+          },
+          "tax": {
+            "new_tax_must_be_accepted": "The new tax line in the seller's proposal must be approved to proceed.",
+            "unresolvable_tax_terms": "The proposed condition is unresolvable given the current opportunity status.",
+            "delivery_price_is_abstract": "The associated delivery price is not specific."
           }
         }
       }
