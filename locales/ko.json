@@ -1357,7 +1357,13 @@
         "page_title_no_name": "감사합니다. 고객!",
         "cancelled_page_title": "취소된 주문",
         "customer_information_title": "주문 상세",
-        "billing_address_title": "첫 번째 숙소 요청"
+        "billing_address_title": "첫 번째 숙소 요청",
+        "shipping_address_map_title": "Google지도는 다음 배송 주소에 고정되어 있습니다 : %{address}",
+        "shipping_address_title": "집으로 먼저 배송",
+        "shipping_method_title": "배포방법",
+        "estimated_arrival": "배달 예정일: ",
+        "re-order": "같은 상품을 재주문",
+        "thank_you_title": "주문이 확인되었습니다."
       }
     }
   }
