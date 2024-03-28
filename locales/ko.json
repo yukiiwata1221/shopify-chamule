@@ -416,7 +416,21 @@
             "tips_not_allowed_for_deferred_purchase_options": "후불 구매 옵션에서는 칩을 아직 사용할 수 없습니다."
           },
           "sale_attribution": {
-            "draft_order_not_exist": "이 초안 주문은 현재 상점에 존재하지 않습니다."
+            "draft_order_not_exist": "이 초안 주문은 현재 상점에 존재하지 않습니다.",
+            "point_of_sale_device_not_exist": "이 POS 장치는 현재 상점에 존재하지 않습니다.",
+            "unresolvable_target_merchandise_lines": "제안된 판매 속성은 현재 기회 상황을 고려하면 해결할 수 없습니다."
+          },
+          "non_negotiable": {
+            "missing_non_negotiable_terms": "구매자 제안서에는 non-negotiable_terms가 포함됩니다.",
+            "invalid_signature": "{{target_terms}}의 서명이 잘못되었습니다."
+          },
+          "inventory": {
+            "missing_quantity_value": "구매자 재고 항목의 수량 필드가 입력되지 않았습니다.",
+            "changing_behavior_not_allowed": "이 클라이언트는 인벤토리 행동을 변경할 권한이 없습니다.",
+            "only_one_inventory_behavior_allowed": "현재 체크아웃 당 허용되는 재고 행동은 하나뿐입니다."
+          },
+          "optional_duties": {
+            "optional_duties_not_permitted": "관세 거부는 이 체크아웃에서 허용되지 않습니다."
           }
         }
       }
