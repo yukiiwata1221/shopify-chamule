@@ -523,7 +523,17 @@
             "merchandise_terms_must_be_defined": "Merchandise conditions must be defined.",
             "merchandise_discount_terms_must_be_defined": "Merchandise discount conditions must be defined.",
             "allocated_required": "The Assigned field is empty.",
-            "value_required": "The Value field is empty."
+            "value_required": "The Value field is empty.",
+            "line_splits_not_supported": "The Merchandise Items field must be split for each single item component of the seller's proposal."
+          },
+          "payment": {
+            "manual_payments_not_allowed_for_b2b": "Manual payment methods are not allowed in B2B stores.",
+            "positive_amount_expected": "Payment amount must be greater than 0.",
+            "total_amount_mismatch": "The total payment amount does not match the total payment amount.",
+            "missing_session_id": "Credit card session information has not been entered.",
+            "gateway_not_supported": "Payment gateway services do not support saving payment methods.",
+            "credit_card_last_name_required": "\"Last name\" cannot be nil.",
+            "installments_amount_invalid": "The installment payment amount is invalid."
           }
         }
       }
