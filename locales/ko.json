@@ -1089,7 +1089,23 @@
         "order_edit_banner_items_removed": {
           "in_full": "삭제됨",
           "with_quantities": "{{quantity}}개 중 {{delta}}개 삭제됨"
-        }
+        },
+        "order_edit_banner_items_returned": {
+          "with_quantities": "{{quantity}}개 중{{delta}}개 반품됨"
+        },
+        "edit_credit_card_modal": {
+          "description": "카드 청구서 수신 주소만 변경할 수 있습니다.",
+          "fields": {
+            "expiry": "만료",
+            "name": "카드의 명의인",
+            "billing": "청구처"
+          }
+        },
+        "subscription_heading": "구독 계약",
+        "use_order_billing_address_label": "주문 청구서 수신 주소 사용",
+        "use_location_billing_address_label": "위치 청구서 수신 주소 사용",
+        "use_location_shipping_address_label": "위치 배송지 주소 사용",
+        "purchase_options_agreement_label_wallets": "결제를 계속하면 이 페이지에 나와 있는 향후 요금 및 취소 정책에 동의한 것으로 간주됩니다."
       }
     }
   }
