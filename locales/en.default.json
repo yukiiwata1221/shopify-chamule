@@ -2888,7 +2888,25 @@
       "not_applicable": "Not applicable",
       "fully_refunded_label": "Refunded",
       "partially_refunded_label": "Partially refunded",
-      "discount": "discount"
+      "discount": "discount",
+      "no_data": "none",
+      "returns": {
+        "expand_events_label": "View details",
+        "print_shipping_label": "Print a shipping label",
+        "tracking_number": "tracking number:",
+        "ineligible_return_message": "Items in this order are not eligible for return.",
+        "ineligible_return_message_when_returned": "Additional items to this order are not eligible for return."
+      },
+      "request_return_failed": "There was a problem completing your request. Please try again.",
+      "mobile_summary_toggle_button": {
+        "open": "View order summary"
+      },
+      "shipment_timeline": {
+        "expand_events_label": "View details",
+        "expand_events_accessibility_label": "View shipping details for your order",
+        "hide_events_accessibility_label": "Hide shipping details for orders"
+      },
+      "show_order_summary": "View order summary"
     }
   }
 }
