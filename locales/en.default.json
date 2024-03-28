@@ -1236,7 +1236,19 @@
           }
         },
         "vaulting_agreement_label": "Save your payment information in %{company} for faster checkout.",
-        "business_customer_vaulting_payment_label": "Save this card at checkout and authorize %{company} to charge this card for future purchases at this location. Customers assigned to this location are authorized to use this card."
+        "business_customer_vaulting_payment_label": "Save this card at checkout and authorize %{company} to charge this card for future purchases at this location. Customers assigned to this location are authorized to use this card.",
+        "purchase_options_and_vaulting_agreement_label": "One or more items in your cart are postpaid or subscription purchases. By continuing to make payments, you agree that you will be automatically charged at the price and frequency listed on this page until your payment method expires or you cancel it. %{cancellation_policy_label} applies to all cancellations.",
+        "use_different_credit_card_label": "use another card",
+        "saved_credit_card": "credit card saved",
+        "saved_credit_card_info": "Last 4 digits",
+        "saved_credit_cards_modal": {
+          "done": "completion",
+          "cancel": "cancel"
+        },
+        "expired_cards_info": {
+          "one": "There are %{count} cards that have expired. You can view and edit that card in your account.",
+          "other": "There are %{count} cards that have expired. You can view and edit that card in your account."
+        }
       }
     }
   }
