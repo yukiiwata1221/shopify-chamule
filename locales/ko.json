@@ -2253,6 +2253,28 @@
       "message": "계속하려면 로봇이 아니라는 것을 알려주세요.",
       "error": "당신의 대답은 정확하지 않습니다. 다시 시도해 주세요.",
       "submit_button_text": "전송"
+    },
+    "checkpoint": {
+      "message": "Captcha를 해결하고 계속합니다.",
+      "error": "Captcha 인증에 실패했습니다.",
+      "submit_button_text": "전송"
+    },
+    "email_marketing": {
+      "subscribed": {
+        "confirmation": "메일링 리스트에 등록해 주셔서 감사합니다.",
+        "disclaimer": "언제든지 등록을 취소할 수 있습니다.",
+        "unsubscribe": "등록 취소"
+      },
+      "unsubscribed": {
+        "confirmation": "메일링 리스트에서 등록을 취소했습니다.",
+        "disclaimer": "메일 배달 정지 등록을 받았습니다. 구독해 주셔서 감사합니다.",
+        "preview": "고객이 등록을 취소할 때 표시되는 내용을 미리 봅니다."
+      },
+      "open_tracking": {
+        "opt_in": {
+          "opted_in_html": "<b>이메일의 개봉 추적을 선택했습니다.<\/b>"
+        }
+      }
     }
   }
 }
