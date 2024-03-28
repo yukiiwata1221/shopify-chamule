@@ -909,6 +909,22 @@
         },
         "collapse_component_information": {
           "one": "Hide %{count} items"
+        },
+        "discount_discovery": {
+          "add_code": "add discount",
+          "merchandise_quantity_label": {
+            "one": "%{count} items"
+          }
+        },
+        "component_quantity_title": "%{quantity} x %{product_title}",
+        "alternative_payment_currency_total": "Request amount:%{amount_due}",
+        "calculating": "Calculating...",
+        "discount_title_stacking": {
+          "one": "discount",
+          "other": "discount"
+        },
+        "discount_order_stacking": {
+          "one": "order discount"
         }
       }
     }
