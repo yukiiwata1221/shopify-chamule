@@ -3062,7 +3062,12 @@
       "submit": "전송",
       "processing": "처리 중...",
       "minimumReached": "{{value}}의 최소값에 도달했습니다.",
-      "maximumReached": "{{value}}의 최대값에 도달했습니다."
+      "maximumReached": "{{value}}의 최대값에 도달했습니다.",
+      "july": "칠월",
+      "august": "팔월",
+      "september": "구월",
+      "october": "십월",
+      "november": "십일월"
     }
   }
 }
