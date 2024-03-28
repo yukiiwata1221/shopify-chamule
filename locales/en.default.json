@@ -2411,7 +2411,28 @@
         "financial_status": {
           "pending": "reserve",
           "paid": "paid",
-          "unpaid": "unpaid"
+          "unpaid": "unpaid",
+          "voided": "invalid"
+        },
+        "fulfillment_status": {
+          "fulfilled": "Shipped",
+          "complete": "completion",
+          "partial": "Part",
+          "unfulfilled": "undispatched",
+          "restocked": "stock has been replenished"
+        },
+        "transaction_status": {
+          "pending": "reserve",
+          "success": "success",
+          "failure": "fail",
+          "error": "error"
+        },
+        "cancel_reason": {
+          "declined": "payment declined",
+          "inventory": "Product not available",
+          "fraud": "fraudulent orders",
+          "other": "others",
+          "staff": "staff mistake"
         }
       }
     }
