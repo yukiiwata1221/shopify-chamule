@@ -1143,7 +1143,17 @@
         "card_expiration_year_label": "Expiration date (years)",
         "card_information_notice": "All transactions are encrypted and secure. Credit card information is never stored.",
         "credit_card_start_month": "Month of issue",
-        "credit_card_start_year": "Year of publication"
+        "credit_card_start_year": "Year of publication",
+        "billing_address_not_supported_for_payment_method_error": "The specified payment method is not available for this billing address and currency. Please try a different payment method.",
+        "change_currency_section_description": "Select your currency option",
+        "no_real_orders_dev_store": "This store does not accept real orders or real payments.",
+        "subscription_agreement_label_html": "I understand that you agree to the subscription. Your subscription will renew at the listed price and frequency until terminated or <a class=\"link--small\" data-modal=\"true\" data-title-text=\"%{subscription_policy}\" href=\"%{policy_href}\">canceled<\/a> .\n",
+        "waiting_on_payment_methods": "Retrieving available payment methods...",
+        "apple_pay_payment_error": "We were unable to complete your payment. Please try again or use a different payment method.",
+        "subscription_card_update_agreement_label": "Changing your payment method will update your subscriptions and recurring payments.",
+        "card_security_vault_notice": "Details are required for future payments. All transactions are encrypted and secure.",
+        "taxes_not_included": "Tax not included",
+        "no_taxes_banner_content": "There is no tax on this order. Once you collect a payment, you can no longer add taxes."
       }
     }
   }
