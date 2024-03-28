@@ -897,7 +897,21 @@
         "discount_button_action_label": "쿠폰 코드 적용",
         "apply_gift_card_button_label": "적용하다",
         "gift_card_balance_label": "잔액:",
-        "supported_card_brands_more_label": "등"
+        "supported_card_brands_more_label": "등",
+        "detected_card_brand": "감지된 카드 브랜드 : {brand}",
+        "card_pay_with": "지불 방법:",
+        "name_on_card_label": "카드의 명의인",
+        "name_on_card_placeholder": "카드의 명의인",
+        "card_expiry_label": "만료일(월\/년)",
+        "card_expiry_placeholder": "만료일(월\/년)",
+        "card_expiry_date_explanation": "카드 유효기간의 입력 형식:월(2자리 표시)\/기원(하2자리)",
+        "card_verification_value_explanation": "카드 뒷면에 있는 3자리 보안 코드입니다. American Express 카드는 전면에 있는 4자리 코드입니다.",
+        "card_verification_value_explanation_amex": "카드 전면에 있는 4자리 코드입니다.",
+        "card_verification_value_explanation_other": "카드 뒷면에 있는 3자리 보안 코드입니다.",
+        "card_start_label": "발행일(월\/년)",
+        "card_start_placeholder": "발행일(월\/년)",
+        "card_issue_number_label": "발행번호",
+        "card_issue_number_placeholder": "발행번호"
       }
     }
   }
