@@ -1845,8 +1845,18 @@
           "disclaimer": {
             "privacy_policy": "privacy policy",
             "terms_of_service": "terms of service",
-            "description_html": "By signing up by text, you agree to receive periodic automated marketing messages, including cart reminders, at the phone number you entered. Consent is not a condition of purchase. To unsubscribe, please reply STOP. If you need assistance, please reply to HELP. Message frequency varies. Message and data charges may apply. Display %{privacy_policy_link} and %{terms_of_service_link}."
-          }
+            "description_html": "By signing up by text, you agree to receive periodic automated marketing messages, including cart reminders, at the phone number you entered. Consent is not a condition of purchase. To unsubscribe, please reply STOP. If you need assistance, please reply to HELP. Message frequency varies. Message and data charges may apply. Display %{privacy_policy_link} and %{terms_of_service_link}.",
+            "description_transactional_html": "Receive order confirmations and shipping updates via text message. To unsubscribe, please reply STOP. If you need assistance, please reply to HELP. Message frequency varies. Message and data charges may apply. Display %{privacy_policy_modal_link} and %{terms_of_service_modal_link}."
+          },
+          "mobile_phone_number": "mobile number",
+          "get_offers_by_text": "Receive offers by text"
+        },
+        "post_accept_marketing_checkbox_label": "You are registered to receive email news and offers",
+        "pending_accept_marketing_checkbox_label": "Check your email to confirm your subscription for news and offers",
+        "accept_shop_pay_marketing_checkbox_label": "Sign up for news and offers from this store",
+        "disclaimer": {
+          "privacy_policy": "privacy policy",
+          "terms_of_service": "terms of service"
         }
       }
     }
