@@ -1248,6 +1248,16 @@
         "expired_cards_info": {
           "one": "There are %{count} cards that have expired. You can view and edit that card in your account.",
           "other": "There are %{count} cards that have expired. You can view and edit that card in your account."
+        },
+        "local_payment_method_receiver_notice": "After placing your order, we will notify you of payment details. Please make the payment at an ATM or online within {{dueDays}} days.",
+        "order_edit_banner_title": "Payment of {{amount_owed}} is required",
+        "order_edit_banner_subtitle": "{{order_number}} order has been updated. After reviewing these changes, complete your payment and confirm your order.",
+        "order_edit_banner_single_item_removed": "deleted",
+        "order_edit_banner_multiple_items_removed": "{{amount}} has been deleted",
+        "gift_card_wrapper": {
+          "heading": "gift card",
+          "apply_gift_card_label": "Apply Gift Card",
+          "payment_tag": "gift card"
         }
       }
     }
