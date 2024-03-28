@@ -44,8 +44,8 @@
       }
     },
     "newsletter_form": {
-      "newsletter_email": "メールアドレスを入力する",
-      "newsletter_confirmation": "登録ありがとうございます！",
+      "newsletter_email": "Enter your email address",
+      "newsletter_confirmation": "Thank you for registering!",
       "submit": "登録する"
     },
     "search": {
