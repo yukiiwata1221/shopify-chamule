@@ -1658,7 +1658,15 @@
         },
         "thank_you_confirmed_order_with_email_pick_up": "You will receive an email when your order is ready for pickup.",
         "thank_you_confirmed_order_with_phone_pick_up": "You will receive a text when your order is ready for pickup.",
-        "thank_you_confirmed_order_with_email_and_phone_pick_up": "You will receive an email when your order is ready for pickup."
+        "thank_you_confirmed_order_with_email_and_phone_pick_up": "You will receive an email when your order is ready for pickup.",
+        "ready_for_pickup_description": "Your order is ready for pickup. Please bring your order confirmation with you when picking up your order.",
+        "picked_up_title": "Order received successfully",
+        "picked_up_description_html": "Your order was picked up in %{date} in %{location_name}.",
+        "shop_phone_description": "You'll receive a text with a link to the Shop app to track your order.",
+        "ready_for_delivery_title": "We are preparing your order for delivery.",
+        "ready_for_delivery_description": "Your order has been prepared.",
+        "order_status_confirmed_order_local": "We are preparing your order for delivery.",
+        "gift_card_sent_confirmation": "gift card sent"
       }
     }
   }
