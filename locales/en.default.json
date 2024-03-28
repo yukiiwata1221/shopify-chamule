@@ -2367,7 +2367,23 @@
           "header": "Are you a store owner?",
           "fix_domain": "Finish setting up the new URL and proceed to %{domain_settings_link}. Click [ドメインを接続する] and enter %{domain}.<br>If you can't access the store, try the %{forgot_your_store_link} page.",
           "fix_domain_link_text": "Domain settings",
-          "forgot_your_store_link_text": "Unregister your store"
+          "forgot_your_store_link_text": "Unregister your store",
+          "add_storefront": "You can add an online store channel to %{admin_link} and set up your website. If you can't access the store, try the %{forgot_your_store_link} page.",
+          "admin_link_text": "Management screen"
+        },
+        "ctas": {
+          "sell_in_person": {
+            "header": "Physical store sales",
+            "caption": "Get the features you need to start or scale your retail store.",
+            "link_text": "Start your free trial"
+          },
+          "open_a_store": {
+            "caption": "Start your 3-day free trial. You can continue for the next three months at $1 per month."
+          },
+          "editions": {
+            "header": "Take a look at Shopify Editions",
+            "caption": "With the latest news on over 100 products, you can be more productive, more creative, and more powerful in commerce than you ever imagined."
+          }
         }
       }
     }
