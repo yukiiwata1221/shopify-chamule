@@ -1017,7 +1017,19 @@
         "subscription_pickup": "Subscription Receipt",
         "delivery_today": "Same day delivery (%{time})",
         "delivery_tomorrow": "Next day delivery (%{time})",
-        "two_day_delivery": "Delivery in 2 days (%{time})"
+        "two_day_delivery": "Delivery in 2 days (%{time})",
+        "address2_add_label": "Add building name, room number, etc.",
+        "delivery": "Delivered in %{time}",
+        "duties_and_taxes_title": "customs duties and taxes",
+        "shipping_information_required_notice": "Shipping information required. {{link}}.",
+        "shipping_information_redirect_link": "Please enter your information here",
+        "loading_progressive_rates": "Find more prices...",
+        "no_other_methods_available": "There are no other methods available",
+        "duties_and_taxes_options": {
+          "ddu_title": "cash on delivery",
+          "ddu_caption": "Additional charges may apply",
+          "ddp_title": "pay now"
+        }
       }
     }
   }
