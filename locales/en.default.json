@@ -1606,7 +1606,15 @@
         "out_for_delivery_title": "Your order is being delivered",
         "out_for_delivery_description_html": "Your order is being delivered. We will arrive today. %{contact_us} if your order does not arrive within 2 days.",
         "attempted_delivery": "absentee return",
-        "attempted_delivery_title": "We have attempted to deliver your order."
+        "attempted_delivery_title": "We have attempted to deliver your order.",
+        "attempted_delivery_description_html": "We attempted to deliver your order, but we were unable to deliver it. %{contact_us} to arrange another delivery.",
+        "delivered_description_html": "Your order has been delivered to the address you entered. %{contact_us} if you did not receive it or have any problems.",
+        "contact_us": "inquiry",
+        "contact_us_lowercase": "inquiry",
+        "contact_us_html": "Is there something troubling you? %{contact_us}",
+        "updated_time": "Updated before %{time_ago}",
+        "failure": "delivery failure",
+        "failed_title": "Your order could not be delivered"
       }
     }
   }
