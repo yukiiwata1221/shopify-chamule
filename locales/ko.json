@@ -2932,7 +2932,15 @@
     },
     "shop_policies": {
       "legal_notice": "특정 상거래법에 근거한 표기",
-      "privacy_policy": "개인 정보 보호 정책"
+      "privacy_policy": "개인 정보 보호 정책",
+      "subscription_policy": "구독 정책",
+      "terms_of_service": "이용 약관"
+    },
+    "payment_methods": {
+      "payment_details": {
+        "title": "결제 방법에 대해 자세히 알아보기",
+        "close_payment_modal": "닫다"
+      }
     }
   }
 }
