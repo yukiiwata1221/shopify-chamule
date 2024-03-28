@@ -2060,7 +2060,25 @@
         "could_not_resolve_address": "The address could not be determined. Please try again or use a different address",
         "no_pickup_points_near_you": "No pick-up locations found near the address you selected",
         "no_pickup_points_near_location": "No designated pickup locations found near your location",
-        "no_pickup_points_found": "There is no designated pick-up location"
+        "no_pickup_points_found": "There is no designated pick-up location",
+        "paginator": {
+          "next_accessibility_label": "Following page",
+          "header": {
+            "one": "Displaying %{first} - %{count}of %{last}",
+            "other": "Displaying %{first} - %{count}of %{last}"
+          },
+          "selected_pickup_point_label": {
+            "one": "%{pickup_point_index} of %{count} points"
+          },
+          "selected_page": {
+            "one": "%{count} points of %{first}～%{last}",
+            "other": "%{count} points of %{first}～%{last}"
+          }
+        },
+        "number_of_pickup_points_near_location": {
+          "one": "There are %{count} designated pickup locations near your location.",
+          "other": "There are %{count} designated pickup locations near your location."
+        }
       }
     }
   }
