@@ -1139,7 +1139,17 @@
         "address_last_name_blank": "성을 입력하세요.",
         "address_address1_blank": "주소를 입력하세요.",
         "address_address2_blank": "건물 이름, 방 번호 등을 입력하십시오.",
-        "address_city_blank": "시구정촌을 입력하세요"
+        "address_city_blank": "시구정촌을 입력하세요",
+        "address_country_not_supported": "이 나라나 지역에는 배송하고 있지 않습니다. 새 배송지 주소를 입력하고 다시 시도해 주세요.",
+        "address_province_blank": "도도부 현을 선택하십시오",
+        "address_company_blank": "회사명을 입력하세요",
+        "address_phone_blank": "유효한 전화번호를 입력하세요.",
+        "address_zip_blank": "우편번호를 입력하세요",
+        "address_zip_invalid_for_country": "%{country}의 유효한 우편 번호를 입력하세요.",
+        "address_zip_invalid_for_country_and_province": "%{country}, %{province}의 유효한 우편 번호를 입력하세요.",
+        "credit_card_name_blank": "카드에 명시된 대로 이름을 입력하세요.",
+        "credit_card_name_invalid": "카드에 명시된 대로 이름을 입력하세요.",
+        "credit_card_number_invalid": "유효한 카드 번호를 입력하세요."
       }
     }
   }
