@@ -2990,7 +2990,12 @@
       "no_addresses_banner": "Address not added"
     },
     "address_form": {
-      "auto_complete_title": "candidate"
+      "auto_complete_title": "candidate",
+      "cancel": "cancel",
+      "cancel_accessibility_label": "Cancel editing of address ({{address}})",
+      "default_address": "This is the default address",
+      "loading_finished_accessibility_message": "Address form loaded",
+      "save": "keep"
     }
   }
 }
