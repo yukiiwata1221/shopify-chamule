@@ -3328,7 +3328,18 @@
     "ui_components": {
       "closeNotification": "close",
       "expandNotification": "Show more",
-      "closeModal": "close"
+      "closeModal": "close",
+      "submit": "send",
+      "processing": "processing...",
+      "increase": "{{type}} increase",
+      "decrease": "{{type}} decrease",
+      "minimumReached": "The minimum of {{value}} has been reached",
+      "maximumReached": "Maximum value of {{value}} has been reached",
+      "mondayAbbreviation": "Monday",
+      "tuesdayAbbreviation": "Tuesday",
+      "wednesdayAbbreviation": "Wednesday",
+      "thursdayAbbreviation": "Thursday",
+      "fridayAbbreviation": "Friday"
     }
   }
 }
