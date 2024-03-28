@@ -2685,8 +2685,12 @@
       "zero_duties_tooltip": "이 주문은 다른 국가에서 배송됩니다. 이 금액의 주문에는 관세가 청구되지 않습니다.",
       "group_title_label": "{{groupTitle}}의 일부",
       "fees": {
-        "restocking_fee": "반품 수수료"
+        "restocking_fee": "반품 수수료",
+        "return_shipping_fee": "반품 배송료"
       }
+    },
+    "addresses": {
+      "address_deleted_notification": "주소가 삭제되었습니다."
     }
   }
 }
