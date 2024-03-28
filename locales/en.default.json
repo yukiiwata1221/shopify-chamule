@@ -2199,9 +2199,38 @@
           },
           "missing": {
             "first_name": "Please enter your first name",
-            "last_name": "Please enter your last name"
-          }
-        }
+            "last_name": "Please enter your last name",
+            "address2": "Please enter the building name, room number, etc.",
+            "address1": "Please enter your address",
+            "city": "Please enter your city\/ward\/town\/village",
+            "province": "Select the prefecture",
+            "country": "Select country\/region",
+            "zip": "Please enter your postal code",
+            "phone": "Please enter your phone number"
+          },
+          "formatting": {
+            "name_contains_emojis": "Remove emoji from name",
+            "postal_code_contains_emoji": "Remove emoji from postal code",
+            "first_name_too_long": "First name has too many characters",
+            "last_name_too_long": "Last name has too many characters"
+          },
+          "select_different_shipping_address_to_resolve_errors": "Shipping address is invalid. Please select a different address or use a new shipping address."
+        },
+        "redirection_notice": "After clicking \"{{buttonLabel}}\", you will be redirected to {{walletName}} for secure payment."
+      },
+      "markets": {
+        "invalid_market_manager_error": "Verify your contact information before completing payment"
+      },
+      "store_credit_errors": {
+        "generic_error": "There was a problem with your store credit. Please try again or reload the page."
+      },
+      "note": {
+        "length_exceeds_maximum": "Please keep the note size below 5000 characters."
+      },
+      "billing": {
+        "billing_address_title": "Billing address",
+        "add_address": "use a different address",
+        "edit": "edit"
       }
     }
   }
