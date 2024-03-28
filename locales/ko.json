@@ -2979,7 +2979,15 @@
       },
       "edit_payment_method": {
         "payment_method_updated_toast": "결제 방법이 업데이트되었습니다.",
-        "billing_address": "첫 번째 숙소 요청"
+        "billing_address": "첫 번째 숙소 요청",
+        "future_purchases_notice": "이 결제 방법은 향후 구매를 위해 저장됩니다.",
+        "generic_error": "업데이트하는 동안 문제가 발생했습니다. 다시 시도해 주세요."
+      },
+      "card_fields": {
+        "name_on_card_label": "카드의 명의인",
+        "name_on_card_placeholder": "카드의 명의인",
+        "card_expiry_label": "만료일(월\/년)",
+        "card_expiry_placeholder": "만료일(월\/년)"
       }
     }
   }
