@@ -2572,7 +2572,19 @@
     "order_details": {
       "billing_address": "첫 번째 숙소 요청",
       "card_ending_with": "아래 4자리{{lastDigits}}",
-      "hide_items": "항목 숨기기"
+      "hide_items": "항목 숨기기",
+      "loading": "주문 세부정보 로드 중",
+      "loading_finished_accessibility_message": "주문 세부정보가 로드되었습니다.",
+      "payment": {
+        "status_in_review": "확인 후 지불 기한",
+        "status_unpaid": "지불 기한: {{date}}",
+        "card_payment_details": "후미가 {{lastDigits}} - {{formattedTransactionAmount}}",
+        "shop_pay_installments": {
+          "paid_in_installments": "Shop Pay의 할부로 결제됨",
+          "view_schedule": "일정 보기"
+        },
+        "gift_card_payment_details": "후미가 {{lastDigits}} - {{formattedTransactionAmount}}"
+      }
     }
   }
 }
