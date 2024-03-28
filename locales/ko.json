@@ -486,7 +486,17 @@
           }
         },
         "datepicker": {
-          "show_previous_month": "지난 달 ({{year}}{{month}}) 표시"
+          "show_previous_month": "지난 달 ({{year}}{{month}}) 표시",
+          "show_next_month": "다음 달 ({{year}}{{month}}) 표시",
+          "range_end": "범위 종료"
+        },
+        "list_formatter": {
+          "and": {
+            "wordConnector": "{{previousWords}}、{{anotherWord}}"
+          },
+          "or": {
+            "wordConnector": "{{previousWords}}、{{anotherWord}}"
+          }
         }
       }
     }
