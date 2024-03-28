@@ -442,7 +442,18 @@
         },
         "tooltip_accessibility_label": "detailed",
         "errors": {
-          "session_identifier_not_unique_error": "There was a problem with your order. Please check out again."
+          "session_identifier_not_unique_error": "There was a problem with your order. Please check out again.",
+          "line_item_limit_reached": "The maximum number of items has been reached.",
+          "only_empty_terms_accepted": "This policy only accepts default conditions.",
+          "session_is_already_finished": "This checkout session has already been confirmed.",
+          "merchandise": {
+            "only_value_constraint": "Merchandise input only allows exact values.",
+            "merchandise_variant_not_found": "No product variations found.",
+            "merchandise_not_applicable": "Product variations cannot be purchased.",
+            "bundle_products_not_supported_for_b2b": "Bundled products cannot be added to B2B orders for this location.",
+            "gift_card_quantity_mismatch": "If you specify gift card codes, the item quantity and number of gift card codes must match.",
+            "gift_card_not_supported": "This checkout does not support gift cards."
+          }
         }
       }
     }
