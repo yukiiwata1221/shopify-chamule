@@ -404,7 +404,19 @@
             "store_credit_insufficient_funds": "상점 크레딧 계정의 자금이 부족합니다.",
             "store_credit_buying_gift_card": "상점 크레딧을 사용하여 기프트 카드를 구입할 수 없습니다.",
             "gift_cards_not_allowed_for_b2b": "기프트 카드는 B2B 상점에서 허용되지 않습니다.",
-            "method_required": "결제 방법을 제안해야 합니다."
+            "method_required": "결제 방법을 제안해야 합니다.",
+            "shop_cash_unsupported_currency": "Shop Cash에서는 이 통화를 사용할 수 없습니다.",
+            "saved_payment_methods_cvv_verification_disabled": "선택한 결제 방법에는 CVV 인증이 필요하지만 이 상점에서는 사용할 수 없습니다. 다른 결제 방법을 선택하세요."
+          },
+          "tip": {
+            "not_accepted_by_shop": "Shop에서는 칩을 받아들이지 않습니다.",
+            "only_one_tip_line_allowed": "다중 항목 칩은 사용할 수 없습니다.",
+            "tips_not_allowed_for_b2b": "칩은 B2B 상점에서 허용되지 않습니다.",
+            "currency_change_reset": "통화 변경으로 칩이 재설정되었습니다.",
+            "tips_not_allowed_for_deferred_purchase_options": "후불 구매 옵션에서는 칩을 아직 사용할 수 없습니다."
+          },
+          "sale_attribution": {
+            "draft_order_not_exist": "이 초안 주문은 현재 상점에 존재하지 않습니다."
           }
         }
       }
