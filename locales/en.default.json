@@ -2906,7 +2906,17 @@
         "expand_events_accessibility_label": "View shipping details for your order",
         "hide_events_accessibility_label": "Hide shipping details for orders"
       },
-      "show_order_summary": "View order summary"
+      "show_order_summary": "View order summary",
+      "company": "company",
+      "no_data_provided_accessibility_label": "{{fieldName}} is blank",
+      "marketing_description": "You will receive a marketing email shortly. You can unsubscribe at any time.",
+      "marketing_checkbox_label": "Receive news and offers by email",
+      "marketing_checkmark_label": "You are registered to receive email news and offers",
+      "image_gallery": {
+        "product_name_and_quantity": "Quantity of {{productName}}: {{quantity}}",
+        "next": "Show next item",
+        "previous": "Show previous item"
+      }
     }
   }
 }
