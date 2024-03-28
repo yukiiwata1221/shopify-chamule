@@ -787,7 +787,21 @@
         "shipping_line_delivery_phone_label": "휴대폰 번호",
         "shipping_line_delivery_instructions": "도어 코드나 드롭오프 지시 등 필요한 정보를 입력합니다.",
         "local_delivery": "로컬 배송",
-        "subscription_shipping": "정기 구입품의 배송 방법"
+        "subscription_shipping": "정기 구입품의 배송 방법",
+        "shipping_method_one_time_purchase_group_title": "일회성 구매",
+        "shipping_method_subscription_group_title": "구독",
+        "subscription_delivery_description": {
+          "prepaid_delivery_frequency": {
+            "one": "%{count}개의 배송",
+            "other": "%{count}개의 배송"
+          },
+          "subscription_delivery_frequency": {
+            "month": {
+              "one": "매월",
+              "other": "%{count}개월마다"
+            }
+          }
+        }
       }
     }
   }
