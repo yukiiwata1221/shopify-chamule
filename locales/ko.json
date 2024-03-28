@@ -1013,7 +1013,17 @@
           "apply_label": "상점 크레딧 적용",
           "buying_gift_card": "상점 크레딧을 사용하여 기프트 카드를 구입할 수 없습니다.",
           "no_fixed_selling_plans": "후불 구매를 선택하면 상점 크레딧을 사용할 수 없습니다."
-        }
+        },
+        "clear": "삭제",
+        "billing_must_match_shipping_notice": "이용 결제 방법의 청구지 주소와 배송지 주소가 일치해야 합니다.",
+        "same_billing_address_checkbox_label": "배송지 주소를 청구지 주소로 사용",
+        "location_billing_address_label": "위치 청구서 수신 주소",
+        "fact_billing_address_label": "첫 번째 숙소 요청",
+        "location_shipping_address_label": "위치 배송지 주소",
+        "no_working_method_error": "현재 이 상점에서는 결제를 수락할 수 없습니다. 페이지를 업데이트하거나 나중에 사용해 보세요.",
+        "brand_not_available": "이 상점에서는 {{brand}}을 허용하지 않습니다. 다른 카드로 결제하십시오.",
+        "shipping_rate_updated": "사용 가능한 배송 방법이 업데이트되었습니다. 체크아웃하기 전에 선택한 내용을 확인하십시오.",
+        "billing_address_invalid_phone": "{{label}} {{last_digits}} 청구지 주소의 전화번호를 업데이트하고 계속하세요."
       }
     }
   }
