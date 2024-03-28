@@ -2675,7 +2675,18 @@
       },
       "order_details": "주문 상세",
       "login_to_view_all_order_details": "모든 주문 세부사항을 보려면 로그인하십시오.",
-      "remaining_amount": "남은"
+      "remaining_amount": "남은",
+      "order_details_skeleton_accessibility_label": "모든 주문 세부사항을 보려면 로그인하십시오.",
+      "tip": "지원 금액",
+      "logged_in_account_no_permission_to_order": "{{email}}로 로그인했습니다. 이 계정에는 이 주문을 관리할 권한이 없습니다.",
+      "log_in_to_a_different_account": "다른 계정에 로그인하세요.",
+      "ok_duties_tooltip": "이 주문은 다른 국가에서 배송되므로 주문 총액에 관세가 추가됩니다.",
+      "error_duties_tooltip": "이 주문은 다른 국가에서 배송하므로 관세 및 세금이 배송 시 청구될 수 있습니다.",
+      "zero_duties_tooltip": "이 주문은 다른 국가에서 배송됩니다. 이 금액의 주문에는 관세가 청구되지 않습니다.",
+      "group_title_label": "{{groupTitle}}의 일부",
+      "fees": {
+        "restocking_fee": "반품 수수료"
+      }
     }
   }
 }
