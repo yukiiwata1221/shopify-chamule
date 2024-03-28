@@ -943,7 +943,17 @@
         "sofort_label": "즉시",
         "paypal_label": "페이팔",
         "ideal_label": "이상적인",
-        "klarna_pay_now_label": "지금 Klarna로 지불"
+        "klarna_pay_now_label": "지금 Klarna로 지불",
+        "klarna_pay_later_label": "Klarna를 사용한 후불",
+        "bancontact_label": "반콘택트",
+        "giropay_label": "지로페이",
+        "eps_label": "EPS 전송",
+        "klarna_slice_it_label": "Klarna를 사용한 재무",
+        "card_expiration_month_label": "만료일(월)",
+        "card_expiration_year_label": "유효기간(년)",
+        "card_information_notice": "모든 거래는 암호화되고 안전합니다. 신용카드 정보는 절대로 저장되지 않습니다.",
+        "credit_card_start_month": "발행한 달",
+        "credit_card_start_year": "발행한 해"
       }
     }
   }
