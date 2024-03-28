@@ -2995,7 +2995,28 @@
       "cancel_accessibility_label": "Cancel editing of address ({{address}})",
       "default_address": "This is the default address",
       "loading_finished_accessibility_message": "Address form loaded",
-      "save": "keep"
+      "save": "keep",
+      "save_accessibility_label": "Save address ({{address}}",
+      "attention": "address",
+      "attention_help_text": "Individual or department name",
+      "attention_company": "Company\/Destination"
+    },
+    "B2B": {
+      "account_information": {
+        "company_card_name_label": "Company Name",
+        "company_card_section_accessibility_label": "company"
+      },
+      "locations": {
+        "contact_list_title": "member",
+        "contact_name": "name",
+        "contact_permissions": "authority",
+        "contact_phone_number": "telephone number",
+        "location_picker_label": "Location Name",
+        "net_payment_terms_description": "{{name}}: Payment due within {{numberOfDays}} days",
+        "payment_terms": "Payment period",
+        "permissions_label": "your authority",
+        "permissions_title": "authority"
+      }
     }
   }
 }
