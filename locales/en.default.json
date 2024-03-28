@@ -1774,7 +1774,17 @@
         "order_status_payments_app_pending_payment_description_default_with_email_and_phone_pick_up": "You will receive a confirmation email shortly. Track your orders using the Shop app.",
         "order_status_payments_app_pending_payment_description_default_with_email_payment": "You will receive a confirmation email shortly. Track your orders using the Shop app.",
         "order_status_payments_app_pending_payment_description_default_with_email_pick_up": "You will receive a confirmation email shortly. Track your orders using the Shop app.",
-        "order_status_payments_app_pending_payment_description_default_with_phone_payment": "You will receive a confirmation text message shortly. Track your orders using the Shop app."
+        "order_status_payments_app_pending_payment_description_default_with_phone_payment": "You will receive a confirmation text message shortly. Track your orders using the Shop app.",
+        "order_status_payments_app_pending_payment_description_default_with_phone_pick_up": "You will receive a confirmation text message shortly. Track your orders using the Shop app.",
+        "order_status_payments_app_pending_payment_description_buyer_action_required_with_missing": "To receive confirmation of your order, please contact us via email or phone.",
+        "order_status_payments_app_pending_payment_description_buyer_action_required_with_missing_payment": "To receive confirmation of your order, please contact us via email or phone.",
+        "order_status_payments_app_pending_payment_description_buyer_action_required_with_missing_pick_up": "To receive confirmation of your order, please contact us via email or phone.",
+        "order_status_payments_app_pending_payment_description_buyer_action_required_with_email_and_phone_payment": "Once the payment is completed, you will receive a confirmation email. Track your orders using the Shop app.",
+        "order_status_payments_app_pending_payment_description_buyer_action_required_with_email_and_phone_pick_up": "Once the payment is completed, you will receive a confirmation email. Track your orders using the Shop app.",
+        "order_status_payments_app_pending_payment_description_buyer_action_required_with_email_payment": "Once the payment is completed, you will receive a confirmation email. Track your orders using the Shop app.",
+        "order_status_payments_app_pending_payment_description_buyer_action_required_with_phone_payment": "Once your payment is complete, you will receive a confirmation text message. Track your orders using the Shop app.",
+        "order_status_payments_app_pending_payment_description_buyer_action_required_with_phone_pick_up": "Once your payment is complete, you will receive a confirmation text message. Track your orders using the Shop app.",
+        "order_status_payments_app_failed_pending_payment_payment": "Your order was not charged. Please return to your cart to review your order and pay again."
       }
     }
   }
