@@ -1211,7 +1211,14 @@
           "add_label": "Add Store Credit",
           "buying_gift_card": "You cannot purchase gift cards using store credit",
           "no_fixed_selling_plans": "Store credit is not available if you choose a deferred purchase"
-        }
+        },
+        "clear": "delete",
+        "billing_must_match_shipping_notice": "The billing address and shipping address for your payment method must match.",
+        "fact_billing_address_label": "Request first accommodation",
+        "no_working_method_error": "This store is currently unable to accept payments. Please refresh the page or try later.",
+        "brand_not_available": "This store does not accept {{brand}}. Please pay with another card.",
+        "shipping_rate_updated": "Available shipping methods have been updated. Please review your selections before checking out.",
+        "billing_address_invalid_phone": "Please update your billing address phone number for {{label}} {{last_digits}} to continue."
       }
     }
   }
