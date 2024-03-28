@@ -15,11 +15,11 @@
       "page": "Page {{ page }}"
     },
     "pagination": {
-      "previous": "＜＜前へ",
-      "next": "次へ＞＞"
+      "previous": "＜＜Previous",
+      "next": "Next >>"
     },
     "password_page": {
-      "login_form_heading": "パスワードを入力する",
+      "login_form_heading": "Enter password",
       "login_form_password_label": "パスワード",
       "login_form_password_placeholder": "パスワード",
       "login_form_submit": "ログイン",
@@ -46,7 +46,7 @@
     "newsletter_form": {
       "newsletter_email": "Enter your email address",
       "newsletter_confirmation": "Thank you for registering!",
-      "submit": "登録する"
+      "submit": "register"
     },
     "search": {
       "view_more": "View more",
