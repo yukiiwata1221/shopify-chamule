@@ -2610,7 +2610,31 @@
       "settings_link": "setting"
     },
     "account_information": {
-      "loading_finished_accessibility_message": "Account information has been loaded"
+      "loading_finished_accessibility_message": "Account information has been loaded",
+      "profile_card": {
+        "cancel": "cancel",
+        "cancel_accessibility_label": "Cancel editing your profile",
+        "edit": "edit",
+        "email_help_text": "The email address used to log in cannot be changed",
+        "first_name": "name",
+        "last_name": "surname",
+        "phone_number_help_text": "The phone number used to log in cannot be changed",
+        "save": "keep",
+        "title": "profile"
+      },
+      "profile_update_confirmation_message": "Updated my profile",
+      "title": "profile",
+      "people": {
+        "pagination": {
+          "load_more_accessibility_label": "Load more users",
+          "loading_accessibility_label": "Loading users"
+        }
+      },
+      "add_button": "addition"
+    },
+    "orders": {
+      "list_layout_accessibility_label": "layout options",
+      "list_title": "order"
     }
   }
 }
