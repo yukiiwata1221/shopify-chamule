@@ -800,6 +800,27 @@
           "description": "These products are no longer available and have been removed from your cart.",
           "items_unavailable": "Some items have been discontinued and removed from your cart."
         }
+      },
+      "order_summary": {
+        "discount_title": "discount",
+        "shopping_cart_label": "shopping cart",
+        "discount_label": "Coupon code",
+        "discount_placeholder": "Coupon code",
+        "gift_card_title": "gift card",
+        "gift_card_label": "gift card",
+        "gift_card_and_discount_title": "coupon code or gift card",
+        "gift_card_and_discount_label": "coupon code or gift card",
+        "gift_card_and_discount_placeholder": "coupon code or gift card",
+        "remove_gift_card_label": "clear gift card",
+        "remove_discount_label": "clear discount",
+        "free_shipping_discount_label": "free shipping",
+        "apply_discount_button_label": "apply",
+        "applied_discount_message": "%{amount} was discounted from the total",
+        "discount_has_been_applied": "Discount applied",
+        "discount_has_been_removed": "discount removed",
+        "gift_card_has_been_applied": "Gift card applied",
+        "gift_card_has_been_removed": "gift card deleted",
+        "discount_already_applied": "A discount has been applied to this order. You cannot add another discount."
       }
     }
   }
