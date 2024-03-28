@@ -2063,7 +2063,16 @@
     },
     "errors": {
       "blank": "를 입력해야",
-      "credit_card_session_expired": "신용카드 오솔리가 만료되었습니다. 다시 결제 정보를 입력하세요. 카드에 청구되지 않습니다."
+      "credit_card_session_expired": "신용카드 오솔리가 만료되었습니다. 다시 결제 정보를 입력하세요. 카드에 청구되지 않습니다.",
+      "empty": "공란이 될 수 없습니다.",
+      "invalid_email": "유효한 이메일 주소여야 합니다.",
+      "discount_disabled": "이 할인을 사용할 수 없습니다.",
+      "discount_expired": "이 할인은 만료",
+      "discount_limit_reached": "이 할인은 사용 횟수의 상한을 맞습니다.",
+      "discount_not_found": "입력한 코드와 일치하는 할인을 찾을 수 없습니다.",
+      "customer_already_used_once_per_customer_discount_notice": "이 할인은 사용 횟수의 상한을 맞습니다.",
+      "gift_card_already_applied": "코드가 이미 결제에 적용되었습니다.",
+      "gift_card_currency_mismatch": "기프트 카드는 %{gift_card_currency}입니다. %{checkout_currency}에서 재발행하려면 저희에게 알려주십시오."
     }
   }
 }
