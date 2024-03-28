@@ -2853,6 +2853,24 @@
             "description": "청구되지 않았습니다."
           },
           "pay_now_accessibility_label": "주문 ({{orderName}})을 지금 지불하십시오."
+        },
+        "title": "주문 ({{name}})",
+        "subtitle": "보낸 날짜: {{date}}",
+        "order_timeline": {
+          "expand_events_label": "세부정보 보기",
+          "expand_events_accessibility_label": "초안 주문 세부정보 보기",
+          "hide_events_label": "세부정보 숨기기",
+          "hide_events_accessibility_label": "초안 주문 세부정보 숨기기"
+        }
+      },
+      "payment_methods": {
+        "payment_delete": {
+          "description_without_replacement": "이 결제 방법은 이 위치에서 향후 구매에 사용할 수 없습니다.",
+          "description_with_replacement": "이 결제 방법을 삭제하면이 위치의 사전 승인 된 결제에 영향을 미칩니다. 향후 주문을 계속 받으려면 대체 결제 방법으로 변경하세요."
+        },
+        "payment_details": {
+          "order_label": "주문 ({{name}})",
+          "draft_label": "초안 주문 ({{name}})"
         }
       }
     }
