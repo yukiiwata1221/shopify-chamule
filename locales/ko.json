@@ -549,7 +549,16 @@
         "region_none": "선택되지 않음",
         "civic_number_warning": "해당하는 경우 주소도 입력하세요.",
         "optional_last_name_label": "성(아무거나)",
-        "optional_recipient_label": "확인(선택사항)"
+        "optional_recipient_label": "확인(선택사항)",
+        "ship_to_company": "{{companyName}}로 배송",
+        "shipping_used_as_billing_notice": "이 주문의 청구지 주소로도 사용됩니다.",
+        "company_attention_label": "회사\/받는 사람",
+        "optional_company_attention_label": "회사\/받는 사람 (선택 사항)"
+      },
+      "delivery_options": {
+        "ship": "발송",
+        "pick_up": "매장 수령",
+        "pick_up_in_two_hours": "보통 2시간 만에 준비가 완료"
       }
     }
   }
