@@ -1111,7 +1111,15 @@
         "card_start_placeholder": "Publication date (month\/year)",
         "card_issue_number_label": "issue number",
         "card_issue_number_placeholder": "issue number",
-        "card_change_label": "change"
+        "card_change_label": "change",
+        "ends_with_label": "Ending number: %{last_digits}",
+        "saved_by_payment_method": "Saved in %{payment_method}",
+        "free_order_notice_html": "Your order is <strong>free<\/strong> . No payment required.",
+        "express_checkout_free_order": "Free orders don't cost anything",
+        "order_covered_by_gift_cards_notice": {
+          "one": "Orders are paid for with gift cards.",
+          "other": "Your order was placed with a gift card."
+        }
       }
     }
   }
