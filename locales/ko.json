@@ -2629,7 +2629,32 @@
         "hide_events_label": "세부정보 숨기기",
         "hide_events_accessibility_label": "주문 배송 세부정보 숨기기"
       },
-      "show_order_summary": "주문 요약 보기"
+      "show_order_summary": "주문 요약 보기",
+      "no_data_provided_accessibility_label": "{{fieldName}}이 비어 있습니다.",
+      "marketing_section_title": "뉴스와 제안",
+      "marketing_description": "곧 마케팅 메일이 도착합니다. 언제든지 등록을 취소할 수 있습니다.",
+      "marketing_checkbox_label": "뉴스와 제안을 이메일로 받기",
+      "marketing_checkmark_label": "이메일 뉴스 및 쿠폰을 받기 위해 등록되었습니다.",
+      "image_gallery": {
+        "product_name_and_quantity": "{{productName}} 수량 : {{quantity}}",
+        "next": "다음 항목 표시",
+        "previous": "이전 항목 표시"
+      },
+      "shop_order_tracking": {
+        "download_shop_to_track": "Shop 다운로드 및 패키지 추적",
+        "track_order_with_shop": "Shop에서 주문 추적",
+        "title_header": "휴대전화로 스캔",
+        "real_time_delivery_updates": "주문이 배송되면 Shop에서 실시간 배송 상태를 보냅니다."
+      },
+      "shop_pay": {
+        "order_completed_with": "아래에서 주문 완료:",
+        "learn_more": "자세한 것은 이쪽"
+      },
+      "edit_summary": {
+        "added_with_quantity": "{{quantity}}이 추가되었습니다.",
+        "removed": "삭제됨",
+        "removed_with_quantity": "{{quantity}}이 삭제되었습니다."
+      }
     }
   }
 }
