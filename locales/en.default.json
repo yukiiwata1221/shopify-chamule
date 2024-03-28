@@ -2916,6 +2916,20 @@
         "product_name_and_quantity": "Quantity of {{productName}}: {{quantity}}",
         "next": "Show next item",
         "previous": "Show previous item"
+      },
+      "shop_order_tracking": {
+        "download_shop_to_track": "Download Shop and track your packages",
+        "track_order_with_shop": "Track your order in Shop",
+        "title_header": "scan with mobile phone",
+        "real_time_delivery_updates": "Once your order is shipped, Shop will send you real-time shipping status."
+      },
+      "shop_pay": {
+        "order_completed_with": "Complete your order with:",
+        "learn_more": "Click here for details"
+      },
+      "edit_summary": {
+        "removed": "deleted",
+        "removed_with_quantity": "{{quantity}} has been deleted"
       }
     }
   }
