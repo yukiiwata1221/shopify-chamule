@@ -3239,7 +3239,18 @@
       "generic_card": "card",
       "payment_delete": {
         "description_with_replacement": "Removing this payment method will affect pre-approved payments. To continue receiving future orders, you have the option to change to a different payment method.",
-        "payment_method_selector_placeholder": "Choose an alternative payment method (optional)"
+        "payment_method_selector_placeholder": "Choose an alternative payment method (optional)",
+        "replace_method_with_new_method_description": "{{currentPaymentMethodName}} will be deleted and changed to {{newPaymentMethodName}}.",
+        "error_when_deleting": "We're sorry, but a problem prevented you from removing this payment method. Please try again later or refresh the page.",
+        "delete_and_replace_button": "delete and change",
+        "delete_and_replace_button_accessibility_label": "Delete {{currentPaymentMethodName}} and change it to {{newPaymentMethodName}}.",
+        "deleted_successfully": "Payment method has been successfully deleted.",
+        "payment_method_selector_no_alternative_payment": "No alternative method",
+        "warning_message_with_replacement": {
+          "with_pending_orders_and_subscriptions": "Removing this payment method will affect pre-approved payments. Unless you choose a different payment method, you will continue to be charged the unpaid balance of your existing order to this payment method. By selecting a different payment method, you can accept future subscription orders without interruption.",
+          "with_pending_orders": "If you delete this payment method, it will be removed from your account and will no longer be available for future purchases. Unless you choose a different payment method, you will continue to be charged the unpaid balance of your existing order to this payment method.",
+          "with_subscriptions": "Removing this payment method will affect pre-approved payments. To continue receiving future orders, please change to a different payment method."
+        }
       }
     }
   }
