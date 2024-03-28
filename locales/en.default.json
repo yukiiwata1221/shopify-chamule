@@ -1881,7 +1881,18 @@
         },
         "additional_payment_requested": "Payment required for %{total_outstanding}",
         "checkout_review_and_pay": "%{order_name} order has been updated. After reviewing these changes, complete your payment and confirm your order.",
-        "order_updated_on": "Order updated in %{last_edited_at}."
+        "order_updated_on": "Order updated in %{last_edited_at}.",
+        "order_review_and_pay": "Your order has been updated. After confirmation, please complete the payment and confirm your order.",
+        "pay_now": "pay now"
+      },
+      "change_currency": {
+        "credit_card_will_be_charged_html": "%{amount} will be charged to your credit card.",
+        "conversion_rate": "1 %{from_currency_code} = %{rate}%{to_currency_code}",
+        "card_provider_fx_charges_warning": "Your card provider may charge you a fee on %{currency_code} transactions.",
+        "currency_not_supported_by_shop": "The selected currency is no longer available. All prices are now displayed in %{currency_code}."
+      },
+      "tips": {
+        "title": "support the store"
       }
     }
   }
