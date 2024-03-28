@@ -1725,7 +1725,23 @@
         },
         "manage_order_label": "Manage your orders",
         "gift_card_confirmation_by_text_typ": {
-          "one": "You will receive a text with your gift card within minutes."
+          "one": "You will receive a text with your gift card within minutes.",
+          "other": "You will receive a text with your gift card within minutes."
+        },
+        "gift_card_confirmation_by_email_typ": {
+          "one": "You will receive an email with your gift card within minutes.",
+          "other": "You will receive an email with your gift card within minutes."
+        },
+        "gift_card_email_title": {
+          "one": "Your gift card has been emailed to you",
+          "other": "Your gift card has been emailed to you"
+        },
+        "gift_card_text_title": {
+          "one": "Gift card sent via text message",
+          "other": "Gift card sent via text message"
+        },
+        "gift_card_resent_confirmation": {
+          "one": "Your gift card has been resent."
         }
       }
     }
