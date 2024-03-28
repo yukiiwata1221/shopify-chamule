@@ -769,6 +769,24 @@
           "title": "Products that cannot be purchased",
           "header": "Some items have been removed from your cart",
           "status_column_header": "You can not use it"
+        },
+        "unpurchasable_product_generic": {
+          "title": "Products that cannot be purchased",
+          "header": "Some items have been removed from your cart",
+          "message": "Item cannot be purchased.",
+          "status_column_header": "Not available for purchase"
+        },
+        "unshippable_product": {
+          "title": "Unable to deliver",
+          "header": {
+            "one": "%{count} items cannot be delivered",
+            "other": "%{count} items cannot be delivered"
+          },
+          "message": {
+            "one": "There are no delivery options available for your address, so this item will be removed from your cart.",
+            "other": "These items will be removed from your cart because no delivery method is available for your address."
+          },
+          "status_column_header": "Unable to deliver"
         }
       }
     }
