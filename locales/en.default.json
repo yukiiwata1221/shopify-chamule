@@ -1997,8 +1997,22 @@
           "sold_out": {
             "heading": "Items in your cart are sold out",
             "storefront_body": "Return to the store and continue shopping",
-            "no_storefront_body": "We're sorry, but the item you requested is no longer available."
+            "no_storefront_body": "We're sorry, but the item you requested is no longer available.",
+            "link": "Back to Store"
           }
+        },
+        "title": "queue",
+        "time_to_checkout_title": "Check-out time - {{shopName}}",
+        "estimated_wait_time": {
+          "calculating": "Calculating processing time",
+          "less_than_one": "Processing time: less than 1 minute",
+          "one": "Processing time: {{count}} minutes",
+          "other": "Processing time: {{count}} minutes"
+        },
+        "last_checked": "(Last confirmation:{{time}})",
+        "footer": {
+          "heading": "This page updates automatically, so please do not refresh it.",
+          "body": "Items in your cart are not reserved until checkout is complete."
         }
       }
     }
