@@ -246,12 +246,12 @@
       "subtotal": "Subtotal"
     },
     "recover_password": {
-      "title": "Reset your password",
-      "email": "Email",
-      "submit": "Submit",
-      "cancel": "Cancel",
-      "subtext": "We will send you an email to reset your password.",
-      "success": "We've sent you an email with a link to update your password."
+      "title": "Did you forget your password?",
+      "email": "email address",
+      "submit": "Send",
+      "cancel": "cancel",
+      "subtext": "We will send you a password reset email.",
+      "success": "Please reset your password from the email you received."
     },
     "reset_password": {
       "title": "Reset account password",
