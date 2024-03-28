@@ -2181,7 +2181,17 @@
           "declined": "결제가 거부됨",
           "inventory": "상품을 사용할 수 없음",
           "staff": "직원의 실수"
-        }
+        },
+        "cash_on_delivery": "대금 상환"
+      },
+      "cart": {
+        "only_n_items_available": "%{count}개의 %{name}만 장바구니에 추가할 수 있습니다.",
+        "too_many_items_in_cart": "장바구니에 더 이상 %{name}을 추가할 수 없습니다.",
+        "all_items_in_cart": "%{count}개의 %{name}가 장바구니에 있습니다.",
+        "missing_parameters": "매개변수가 잘못되었습니다.",
+        "too_many_line_items_error": "장바구니에 %{max}개 이상의 상품을 넣을 수 없습니다.",
+        "link_expired": "링크가 끊어졌습니다.",
+        "link_no_longer_exists": "링크는 더 이상 존재하지 않습니다."
       }
     }
   }
