@@ -1901,7 +1901,25 @@
         },
         "toggle_location": "위치 변경",
         "search_button": "상점 찾기",
-        "no_stores_found": "상점을 찾을 수 없음"
+        "no_stores_found": "상점을 찾을 수 없음",
+        "could_not_resolve_address": "주소를 확인할 수 없습니다. 다시 시도하거나 다른 주소를 사용하세요.",
+        "paginator": {
+          "accessibility_label": "매장 수취 목록의 페이지 네이션",
+          "label": {
+            "one": "%{count}개의 상점 중 %{first}~%{last}",
+            "other": "%{count}개의 상점 중 %{first}~%{last}"
+          }
+        },
+        "reveal_more_label": {
+          "one": "%{count}개의 위치 추가",
+          "other": "%{count}개의 위치 추가"
+        }
+      },
+      "captcha": {
+        "title": "계속하려면 CAPTCHA를 완료하세요.",
+        "errors": {
+          "not_solved": "계속하려면 CAPTCHA를 완료하세요."
+        }
       }
     }
   }
