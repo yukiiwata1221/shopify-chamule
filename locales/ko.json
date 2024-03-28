@@ -2288,8 +2288,24 @@
           "privacy_policy": "이 이메일을 보내면 Shopify는 개인정보취급방침을 업데이트하고 개봉을 추적할 수 없습니다."
         },
         "track": {
-          "status_html": "<b>이메일의 개봉 추적이 보고되었습니다.<\/b>"
+          "status_html": "<b>이메일의 개봉 추적이 보고되었습니다.<\/b>",
+          "visibility": "Shopify는 메일 개봉 비율 집계의 일환으로 메일을 개봉했는지 여부만 확인합니다."
+        },
+        "updated_policy": {
+          "status_html": "<b>이메일의 개봉 추적이 보고되었습니다.<\/b>",
+          "visibility": "Shopify는 정책을 업데이트하고 메일의 개봉을 추적할 수 있습니다. 메일 개봉률은 익명으로 보고됩니다. Shopify는 메일 개봉 비율 집계의 일환으로 메일을 개봉했는지 여부만 확인합니다.",
+          "opt_out_html": "이 정보를 공유하지 않으 <a style='text-decoration:underline;' href='%{link}'>려면 등록을 취소<\/a> 할 수 있습니다."
         }
+      }
+    },
+    "store_availability": {
+      "pick_up_time": {
+        "one_hour": "보통 1시간 만에 준비 완료",
+        "two_hours": "보통 2시간 만에 준비가 완료",
+        "four_hours": "보통 4시간 만에 준비 완료",
+        "twenty_four_hours": "보통 24시간 만에 준비 완료",
+        "two_to_four_days": "보통 2~4일 만에 준비 완료",
+        "five_or_more_days": "보통 5일 이상으로 준비가 완료됩니다."
       }
     }
   }
