@@ -1892,7 +1892,19 @@
         "currency_not_supported_by_shop": "The selected currency is no longer available. All prices are now displayed in %{currency_code}."
       },
       "tips": {
-        "title": "support the store"
+        "title": "support the store",
+        "description": "Show your support for the team in %{shop_name}",
+        "presets_description": "Select tip percentage",
+        "custom_label": "custom chip",
+        "add_tip": "support the store",
+        "update_tip": "Update amount",
+        "message": "thank you very much.",
+        "no_tip_label": "none"
+      },
+      "open_graph_meta_tag": {
+        "title_with_products": {
+          "one": "Purchase %{product_name} and another item %{count} pieces"
+        }
       }
     }
   }
