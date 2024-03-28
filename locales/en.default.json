@@ -1962,7 +1962,24 @@
       "customer_payment_methods": {
         "page_title": "Payment Method",
         "title": "Payment Method",
-        "update_card_button_label": "Update your card"
+        "update_card_button_label": "Update your card",
+        "delete_customer_mandate": {
+          "generic_error": "A problem occurred while processing your request."
+        }
+      },
+      "mor_policies": {
+        "terms_and_conditions": "Terms of Use for Merchant of Record",
+        "privacy_policy": "Privacy policy of the merchant with final sales responsibility (Merchant of Record)"
+      },
+      "contextual_availability": {
+        "title": {
+          "one": "Unavailable Products",
+          "other": "Unavailable Products"
+        },
+        "products_not_available": {
+          "one": "This product is not available in your country\/region and will be removed from your cart.",
+          "other": "These products are not available in your country\/region and will be removed from your cart."
+        }
       }
     }
   }
