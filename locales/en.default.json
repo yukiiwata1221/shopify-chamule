@@ -3124,6 +3124,22 @@
             "description": "I wasn't charged."
           },
           "pay_now_accessibility_label": "Pay now for order ({{orderName}})"
+        },
+        "subtitle": "Sent date: {{date}}",
+        "title": "Order ({{name}})",
+        "order_timeline": {
+          "expand_events_label": "View details",
+          "expand_events_accessibility_label": "View draft order details"
+        }
+      },
+      "payment_methods": {
+        "payment_delete": {
+          "description_without_replacement": "This payment method will no longer be accepted for future purchases from this location.",
+          "description_with_replacement": "Deleting this payment method will affect pre-approved payments for this location. To continue receiving future orders, please change to an alternative payment method."
+        },
+        "payment_details": {
+          "order_label": "Order ({{name}})",
+          "draft_label": "Draft order ({{name}})"
         }
       }
     }
