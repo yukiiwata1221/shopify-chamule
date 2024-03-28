@@ -2939,7 +2939,15 @@
     "payment_methods": {
       "payment_details": {
         "title": "결제 방법에 대해 자세히 알아보기",
-        "close_payment_modal": "닫다"
+        "close_payment_modal": "닫다",
+        "close_payment_modal_accessibility_label": "결제 방법 상세 모달 닫기",
+        "payment_method_not_found_error": "결제 방법을 찾을 수 없습니다.",
+        "payment_details_loading": "결제 방법에 대해 자세히 알아보기",
+        "total_amount_of_subscription_line_items_left": "그리고 더{{total}}개",
+        "total_amount_of_subscription_line_items_left_accessibility_label": "총 {{totalItems}}개의 항목, {{totalItemsToDisplay}}개의 항목을 표시합니다.",
+        "next_payment_due": "다음 지불 기한: {{dueDateInMonthDayYear}}",
+        "edit_payment_method_button_accessibility_label": "{{lastDigits}}로 끝나는 결제 방법 편집",
+        "credit_card_details_accessibility_label": "카드 끝 번호:{{lastDigits}}"
       }
     }
   }
