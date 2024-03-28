@@ -2871,8 +2871,24 @@
         "address": "Delivery to residence first",
         "address_map_marker": "Delivery to residence first",
         "method": "Distribution Method",
-        "summary": "delivery"
-      }
+        "summary": "delivery",
+        "free": "free",
+        "free_shipping_discount": "free shipping",
+        "one_time": "One-time delivery",
+        "subscription": "Shipping method for regular purchases"
+      },
+      "subtitle": "Confirmation date: {{date}}",
+      "summary_list_title_accessibility_label": "order item",
+      "summary_totals_title_accessibility_label": "Order Total",
+      "taxes": "tax",
+      "title": "Order ({{name}})",
+      "total": "total",
+      "unit_price": "{{price}}\/unit",
+      "location": "location",
+      "not_applicable": "Not applicable",
+      "fully_refunded_label": "Refunded",
+      "partially_refunded_label": "Partially refunded",
+      "discount": "discount"
     }
   }
 }
