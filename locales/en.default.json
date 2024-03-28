@@ -561,7 +561,20 @@
             "store_credit_mismatched_currency": "The currency of your store credit account does not match the currency of your checkout.",
             "store_credit_insufficient_funds": "There are insufficient funds in your store credit account.",
             "store_credit_buying_gift_card": "You cannot purchase gift cards using store credit.",
-            "method_required": "You will need to suggest a payment method."
+            "method_required": "You will need to suggest a payment method.",
+            "shop_cash_unsupported_currency": "This currency is not available in Shop Cash.",
+            "market_manager_blocks_wallet_payments": "Market Manager does not support payment methods.",
+            "saved_payment_methods_cvv_verification_disabled": "The selected payment method requires CVV verification, but it is not enabled for this shop. Please select another payment method."
+          },
+          "tip": {
+            "not_accepted_by_shop": "The Shop does not accept tips.",
+            "only_one_tip_line_allowed": "Multi-item tips are not available.",
+            "tips_not_allowed_for_b2b": "Tipping is not allowed in B2B stores.",
+            "currency_change_reset": "Chips were reset due to currency change.",
+            "tips_not_allowed_for_deferred_purchase_options": "Chips are not yet available for the Pay later purchase option."
+          },
+          "sale_attribution": {
+            "draft_order_not_exist": "This draft order does not exist in your current shop."
           }
         }
       }
