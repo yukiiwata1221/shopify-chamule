@@ -2703,7 +2703,16 @@
       "edit_modal_title": {
         "billing": "청구서 수신 주소 수정",
         "shipping": "배송지 주소 수정"
-      }
+      },
+      "add_address_banner": "체크아웃 시 사용할 주소 추가",
+      "billing_address_dropdown_placeholder": "첫 번째 숙소 요청",
+      "back_button_accessibility_label": "돌아가서 주소({{address}}) 편집",
+      "no_addresses_banner": "주소가 추가되지 않았습니다."
+    },
+    "address_form": {
+      "auto_complete_close_accessibility_label": "후보 닫기",
+      "auto_complete_title": "후보",
+      "billing_address": "청구지 주소로 사용"
     }
   }
 }
