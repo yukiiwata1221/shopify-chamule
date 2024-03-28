@@ -2668,9 +2668,17 @@
             "descending": "Location (Z~A)"
           },
           "order_number": {
-            "ascending": "Order number (ascending)"
+            "ascending": "Order number (ascending)",
+            "descending": "Order number (descending order)"
+          },
+          "order_total": {
+            "ascending": "Order total (ascending)",
+            "descending": "Order total (descending order)"
           }
-        }
+        },
+        "two_images_accessibility_label": "Order includes {{lineItemName1}} and {{lineItemName2}}",
+        "no_filtered_results_description": "Remove or adjust filters and review orders",
+        "no_filtered_results_title": "There are no filter results"
       }
     }
   }
