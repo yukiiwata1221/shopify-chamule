@@ -2831,7 +2831,14 @@
           }
         },
         "attempted_to_deliver_label": "attempted delivery"
-      }
+      },
+      "buy_again": "repurchase",
+      "buy_again_accessibility_label": "Repurchase order ({{orderId}})",
+      "manage": "manage",
+      "manage_accessiblity_label": "Manage orders ({{orderId}})",
+      "group_title_label": "Part of {{groupTitle}}",
+      "havent_received_your_delivery": "Didn't receive your delivery?",
+      "didnt_pick_up_order": "Didn't receive your order?"
     }
   }
 }
