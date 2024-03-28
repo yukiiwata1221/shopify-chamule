@@ -1379,7 +1379,17 @@
         "gift_card_already_applied": "This gift card has already been used on your order",
         "gift_card_depleted": "This gift card has no balance",
         "gift_card_currency_mismatch": "Only %{checkout_currency} gift cards can be used for this order.",
-        "payment_gateway_needs_paid_plan_error": "This payment method is currently not available in store"
+        "payment_gateway_needs_paid_plan_error": "This payment method is currently not available in store",
+        "physical_gift_card_invalid_quantity": "The quantity of physical gift card items must match the number of gift card codes.",
+        "payment_gateway_incompatible_with_multi_currency": "You must pay by credit card to complete this checkout in your local currency.",
+        "physical_gift_card_duplicate_code": "The physical gift card item contains a duplicate code.",
+        "physical_gift_card_invalid_code": "Physical gift card codes are not valid.",
+        "payment_gateway_not_in_test_mode": "is not a test order configuration. This store cannot accept physical orders or physical payments.",
+        "tips_invalid_tip_amount": "Please enter a chip less than %{amount}",
+        "payment_gateway_unsupported_for_subscriptions": "This payment method is not available for subscription orders.",
+        "address_first_name_too_long": "First name too long (maximum 255 characters)",
+        "address_last_name_too_long": "Last name too long (maximum 255 characters)",
+        "address_address1_too_long": "First line of address is too long (maximum 255 characters)"
       }
     }
   }
