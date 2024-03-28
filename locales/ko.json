@@ -658,7 +658,22 @@
         "shipping_information_does_not_meet_discount_requirements_notice": "<strong style=\"text-transform:uppercase\">%{code}<\/strong> 쿠폰 코드는 고객의 배송 주소에서 사용할 수 없습니다.",
         "customer_already_used_once_per_customer_discount_notice": "<strong style=\"text-transform:uppercase\">%{code}<\/strong>쿠폰 코드가 이미 사용 중입니다.",
         "tip_label": "지원 금액",
-        "shipping_default_value": "배송지 주소 입력"
+        "shipping_default_value": "배송지 주소 입력",
+        "shipping_pending_message": "아직 선택되지 않았습니다.",
+        "shipping_policy_link": "우송료",
+        "total_label": "합계",
+        "total_outstanding_label": "지불액",
+        "partial_total_label": "합계",
+        "paid_label": "결제",
+        "payment_due_label": "지불기일",
+        "vat_label_html": "%{amount}의 세금 포함",
+        "discount_and_gift_card_savings_notice": "%{discount_amount}할인 및 %{gift_card_amount} 기프트카드 후",
+        "discount_savings_notice": "%{discount_amount}할인 후",
+        "gift_card_savings_notice": "%{gift_card_amount} 기프트 카드 후",
+        "cost_table_title": "비용 집계",
+        "description_label": "상세한",
+        "product_image_label": "상품 이미지",
+        "scroll_order_summary": "더 많은 제품을 보려면 스크롤"
       }
     }
   }
