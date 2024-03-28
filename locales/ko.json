@@ -1119,7 +1119,18 @@
           "in_full": "반품에서 삭제됨",
           "with_quantities": "반품에서 {{delta}}개를 삭제했습니다."
         },
-        "order_edit_banner_single_item_return_line_item_removed": "반품에서 삭제됨"
+        "order_edit_banner_single_item_return_line_item_removed": "반품에서 삭제됨",
+        "order_edit_banner_multiple_items_return_line_item_removed": "반품에서 {{amount}}개를 삭제했습니다.",
+        "proposed_gateway_unavailable": "제안된 결제 게이트웨이 서비스를 사용할 수 없습니다.",
+        "pay_in_installments_split_pay_short": "%{amount}의 4분 할부"
+      },
+      "payment_summary": {
+        "credit_card_expires_on_notice": "만료일: %{month}\/%{year}",
+        "express_payment_gateway_label": "익스프레스",
+        "billing_address_title": "첫 번째 숙소 요청"
+      },
+      "field_errors": {
+        "handle_phone_invalid": "유효한 전화번호를 입력하세요."
       }
     }
   }
