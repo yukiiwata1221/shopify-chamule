@@ -1649,6 +1649,20 @@
       },
       "notifications": {
         "title": "통지하다"
+      },
+      "order_payment_collection": {
+        "custom_line_item_description": "주문%{order_name} 결제 금액",
+        "changes_summary": {
+          "added": {
+            "other": "%{count}이 추가되었습니다."
+          },
+          "removed": "삭제됨",
+          "subtracted": "%{count}이 삭제되었습니다.",
+          "return_line_item_removed": "반품에서 %{count}개를 삭제했습니다."
+        },
+        "additional_payment_requested": "%{total_outstanding} 결제 필요",
+        "checkout_review_and_pay": "%{order_name} 주문이 업데이트되었습니다. 이러한 변경 사항을 확인한 후 결제를 완료하고 주문을 확인하십시오.",
+        "order_updated_on": "%{last_edited_at}에 주문이 업데이트되었습니다."
       }
     }
   }
