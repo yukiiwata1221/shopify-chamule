@@ -945,7 +945,15 @@
         "shipping_method_title": "Distribution Method",
         "waiting_on_rate_notice": "Loading available shipping rates",
         "waiting_on_pickup_location_notice": "Obtaining available pickup locations...",
-        "no_pickup_location_notice": "At least one item cannot be picked up"
+        "no_pickup_location_notice": "At least one item cannot be picked up",
+        "no_rates_for_country_notice": "No shipping rates found available for this address.",
+        "no_rates_contact_notice": "Please contact us for more information",
+        "free_rate_label": "free",
+        "estimated_delivery_date": {
+          "one": "%{count}Business days",
+          "other": "%{count}Business days"
+        },
+        "shipping_line_phone": "The courier may use your phone number to contact you."
       }
     }
   }
