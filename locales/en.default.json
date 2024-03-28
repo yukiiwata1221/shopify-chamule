@@ -2400,7 +2400,19 @@
         "denylisted_reset_password": "Your account could not be accessed because your current password is not secure. You will receive an email to update your password."
       },
       "address": {
-        "updated": "Address updated successfully."
+        "updated": "Address updated successfully.",
+        "error_updating": "Address update failed.",
+        "created": "Address created successfully",
+        "error_creating": "Address creation failed.",
+        "deleted": "The address was successfully deleted.",
+        "error_deleting": "Address deletion failed."
+      },
+      "order": {
+        "financial_status": {
+          "pending": "reserve",
+          "paid": "paid",
+          "unpaid": "unpaid"
+        }
       }
     }
   }
