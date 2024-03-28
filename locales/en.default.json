@@ -1351,7 +1351,17 @@
         "address_address1_blank": "Please enter your address",
         "address_address2_blank": "Please enter the building name, room number, etc.",
         "address_city_blank": "Please enter your city\/ward\/town\/village",
-        "address_country_blank": "Select country\/region"
+        "address_country_blank": "Select country\/region",
+        "address_country_not_supported": "We do not ship to this country or region. Please enter a new shipping address and try again.",
+        "address_province_blank": "Select the prefecture",
+        "address_company_blank": "Please enter your company name",
+        "address_phone_blank": "Please enter a valid phone number",
+        "address_zip_blank": "Please enter your postal code",
+        "address_zip_invalid_for_country": "Please enter a valid zip code in %{country}",
+        "address_zip_invalid_for_country_and_province": "Please enter a valid postal code in %{country}, %{province}",
+        "credit_card_name_blank": "Please enter your name exactly as it appears on your card",
+        "credit_card_name_invalid": "Please enter your name exactly as it appears on your card",
+        "credit_card_number_invalid": "Please enter a valid card number"
       }
     }
   }
