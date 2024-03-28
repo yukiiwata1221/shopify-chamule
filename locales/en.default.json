@@ -1070,7 +1070,21 @@
         "split_cart_shipping_label": "method",
         "split_cart_ships_date": "Delivery　%{date}",
         "split_cart_multiple_shipment_quantity_label": "%{quantity} pieces of luggage",
-        "split_cart_multiple_shipment_notice": "Your order will arrive in multiple packages."
+        "split_cart_multiple_shipment_notice": "Your order will arrive in multiple packages.",
+        "delivery_title": "delivery",
+        "split_cart_shipped_by_shop": "Shipped in %{shop_name}",
+        "shipping_method_first_shipment_group_title": {
+          "one": "first shipment",
+          "other": "first shipment"
+        },
+        "shipping_method_recurring_shipments_group_title": {
+          "one": "regular shipping",
+          "other": "regular shipping"
+        }
+      },
+      "payment": {
+        "amazon_payments_login_hint": "Amazon login required. Click \"Complete Order\" and enter your details on the next page.",
+        "amazon_payments_logout": "Log out of Amazon Pay"
       }
     }
   }
