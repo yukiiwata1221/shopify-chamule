@@ -2191,7 +2191,17 @@
         "missing_parameters": "매개변수가 잘못되었습니다.",
         "too_many_line_items_error": "장바구니에 %{max}개 이상의 상품을 넣을 수 없습니다.",
         "link_expired": "링크가 끊어졌습니다.",
-        "link_no_longer_exists": "링크는 더 이상 존재하지 않습니다."
+        "link_no_longer_exists": "링크는 더 이상 존재하지 않습니다.",
+        "stock_problems_html": "하나 이상의 상품이 매진되었습니다. <a href='%{link}'>장바구니를 업데이트합니다<\/a> .",
+        "changed": "장바구니 변경",
+        "items_changed": "하나 이상의 상품을 변경했습니다.",
+        "product_sold_out": "'%{name}'은 이미 매진되었습니다.",
+        "variant_not_found": "다른 모델을 찾을 수 없습니다.",
+        "variant_requires_selling_plan": "유사 콘텐츠는 판매 플랜에서만 구매할 수 있습니다.",
+        "shipping_address_not_required": "이 장바구니에는 배송지 주소가 필요하지 않습니다.",
+        "shipping_address_invalid": "배송비를 계산하는 중에 문제가 발생했습니다. 주문을 완료하기 전에 계속 체크아웃하여 배송비를 선택하세요.",
+        "selling_plan_not_applicable": "변형에 판매 플랜을 적용할 수 없음",
+        "selling_plan_not_available_for_company_locations": "B2B 주문의 경우, 일회성 구매만 가능합니다."
       }
     }
   }
