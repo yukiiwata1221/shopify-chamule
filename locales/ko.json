@@ -517,7 +517,23 @@
         "stored_addresses_label": "주소를 저장했습니다.",
         "new_address_label": "새 주소 사용",
         "optional_first_name_label": "이름(아무거나)",
-        "optional_company_label": "클럽(선택사항)"
+        "optional_company_label": "클럽(선택사항)",
+        "address1_label": "그 이후 주소",
+        "address2_label": "건물명, 방 번호 등",
+        "optional_address2_label": "건물명, 방 번호(있는 경우에만)",
+        "city_label": "시구정촌",
+        "province_label": "도도부현",
+        "province_placeholder": "도도부현",
+        "county_label": "카운티",
+        "county_placeholder": "카운티",
+        "state_label": "상태",
+        "state_placeholder": "상태",
+        "prefecture_label": "도도부현",
+        "prefecture_placeholder": "도도부현",
+        "governorate_label": "행정구역",
+        "governorate_placeholder": "행정구역",
+        "emirate_label": "에미레이트 항공",
+        "emirate_placeholder": "에미레이트 항공"
       }
     }
   }
