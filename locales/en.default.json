@@ -1371,7 +1371,15 @@
         "credit_card_verification_value_blank": "Please enter your card's CVV or security code",
         "delivery_line_detail_changed": "Some delivery details may have changed. Please check your shipping method and try again.",
         "reduction_code_code_not_found": "Please enter a valid coupon code or gift card",
-        "reduction_code_discount_not_found": "Please enter a valid coupon code"
+        "reduction_code_discount_not_found": "Please enter a valid coupon code",
+        "reduction_code_gift_card_code_invalid": "Please enter a valid gift card",
+        "reduction_code_gift_card_unusable": "A gift card cannot be used to purchase another gift card",
+        "shipping_line_phone_blank": "Please enter your phone number to use this delivery method",
+        "shipping_line_phone_invalid": "Please enter a valid phone number",
+        "gift_card_already_applied": "This gift card has already been used on your order",
+        "gift_card_depleted": "This gift card has no balance",
+        "gift_card_currency_mismatch": "Only %{checkout_currency} gift cards can be used for this order.",
+        "payment_gateway_needs_paid_plan_error": "This payment method is currently not available in store"
       }
     }
   }
