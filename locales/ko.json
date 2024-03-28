@@ -231,15 +231,21 @@
       "order_number": "주문하다",
       "title": "주문 내역",
       "date": "날짜",
-      "payment_status": "지불 상태"
+      "payment_status": "지불 상태",
+      "total": "총",
+      "fulfillment_status": "이행 상태",
+      "none": "아직 주문하지 않으셨습니다."
     },
     "order": {
-      "title": "Order {{ name }}",
-      "date_html": "Placed on {{ date }}",
-      "cancelled_html": "Order cancelled on {{ date }}",
-      "cancelled_reason": "Reason: {{ reason }}",
+      "title": "주문 {{ name }}",
+      "date_html": "{{ date }}에 배치됨",
+      "cancelled_html": "{{ date }}에 주문이 취소되었습니다.",
+      "cancelled_reason": "이유: {{ reason }}",
       "product": "제품",
-      "fulfilled_at_html": "Fulfilled {{ date }}"
+      "fulfilled_at_html": "Fulfilled {{ date }}",
+      "billing_address": "청구 지 주소",
+      "payment_status": "지불 상태",
+      "shipping_address": "배송 주소"
     },
     "activate_account": {
       "title": "계정 활성화",
