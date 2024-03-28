@@ -1804,7 +1804,19 @@
         "thank_you_payments_app_pending_payment_description_buyer_action_required_with_missing_payment": "To receive confirmation of your order, please contact us via email or phone.",
         "thank_you_payments_app_pending_payment_description_buyer_action_required_with_missing_pick_up": "To receive confirmation of your order, please contact us via email or phone.",
         "thank_you_payments_app_pending_payment_description_buyer_action_required_with_email_and_phone": "Once payment is complete, you will receive a confirmation email containing your order number.",
-        "thank_you_payments_app_pending_payment_description_buyer_action_required_with_email_and_phone_payment": "Once payment is complete, you will receive a confirmation email containing your order number."
+        "thank_you_payments_app_pending_payment_description_buyer_action_required_with_email_and_phone_payment": "Once payment is complete, you will receive a confirmation email containing your order number.",
+        "thank_you_payments_app_pending_payment_description_buyer_action_required_with_email": "Once payment is complete, you will receive a confirmation email containing your order number.",
+        "thank_you_payments_app_pending_payment_description_buyer_action_required_with_email_and_phone_pick_up": "Once payment is complete, you will receive a confirmation email containing your order number.",
+        "thank_you_payments_app_pending_payment_description_buyer_action_required_with_email_payment": "Once payment is complete, you will receive a confirmation email containing your order number.",
+        "thank_you_payments_app_pending_payment_description_buyer_action_required_with_email_pick_up": "Once payment is complete, you will receive a confirmation email containing your order number.",
+        "thank_you_payments_app_pending_payment_description_buyer_action_required_with_phone": "Once payment is complete, you will receive a confirmation text message with your order number.",
+        "thank_you_payments_app_pending_payment_description_buyer_action_required_with_phone_payment": "Once payment is complete, you will receive a confirmation text message with your order number.",
+        "thank_you_payments_app_pending_payment_description_buyer_action_required_with_phone_pick_up": "Once payment is complete, you will receive a confirmation text message with your order number."
+      },
+      "review": {
+        "title": "confirmation",
+        "review_title": "Confirmation and payment",
+        "checkout_as_guest": "Purchase as a guest"
       }
     }
   }
