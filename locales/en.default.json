@@ -747,7 +747,29 @@
       "stock": {
         "page_title": "inventory problem",
         "title": "out of stock",
-        "items_unavailable_notice": "Some items are not available."
+        "items_unavailable_notice": "Some items are not available.",
+        "product_column_header": "merchandise",
+        "quantity_column_header": "quantity",
+        "price_column_header": "price",
+        "status_column_header": "situation",
+        "sold_out_label": "sold out",
+        "reduced_label": "Only a few left",
+        "reduced_with_quantity_label": "Only a few left %{quantity_available}",
+        "remove_from_cart_button_label": "remove from cart",
+        "continue_shopping_button_label": "continue",
+        "go_back_to_cart_button_label": "Return to cart",
+        "remove": "delete",
+        "empty_cart_label": "cart is empty",
+        "quantity_update": {
+          "page_title": "Update quantity",
+          "title": "Update quantity",
+          "description": "The available quantities of these items will change and update in your cart."
+        },
+        "unpurchasable_product": {
+          "title": "Products that cannot be purchased",
+          "header": "Some items have been removed from your cart",
+          "status_column_header": "You can not use it"
+        }
       }
     }
   }
