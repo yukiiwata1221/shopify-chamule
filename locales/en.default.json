@@ -1487,8 +1487,20 @@
         "shipping_method": "The shipping method for your order has changed. Please check your selections and try again.",
         "shipping_method_not_available": "Your cart has been updated and the items you added cannot be shipped to your address. Please remove the item and complete your order.",
         "shipping_method_not_available_generic": {
-          "one": "Your order cannot be delivered to the address you selected. Please check your address and ensure it is accurate before re-entering or choosing a different address."
-        }
+          "one": "Your order cannot be delivered to the address you selected. Please check your address and ensure it is accurate before re-entering or choosing a different address.",
+          "other": "Some items in your cart cannot be delivered to the address you entered. Please check your address and ensure it is accurate before re-entering or choosing a different address."
+        },
+        "shipping_method_not_available_updated": {
+          "one": "Items you add cannot be shipped to your location. Please remove the item and checkout or contact the store.",
+          "other": "The item or items you added cannot be shipped to your location. Please remove the item and checkout or contact the store."
+        },
+        "payment_method_not_supported": "This payment method cannot be used in %{country}. Please use another payment method to ship to this country.",
+        "empty_state": "Enter your shipping address to see available shipping methods.",
+        "shipping_method_not_available_due_to_unsatisfied_conditions": "The items in your cart do not meet price or weight requirements for shipping. Please update your cart and try again."
+      },
+      "alternative_payment_method_banner": {
+        "express_checkout": "express checkout",
+        "or": "or"
       }
     }
   }
