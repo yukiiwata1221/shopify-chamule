@@ -1510,7 +1510,21 @@
         "redirecting_title": "Redirecting...",
         "redirecting_notice": "Please wait a moment while we redirect you.",
         "continue_to_payment_gateway_notice": "Proceed to checkout and enter your payment information.",
-        "continue_to_payment_gateway_button_label": "Proceed to payment"
+        "continue_to_payment_gateway_button_label": "Proceed to payment",
+        "complete_your_purchase_title_error": "Please enter your payment information correctly",
+        "continue_to_payment_gateway_notice_error": "We were unable to verify your payment information.",
+        "continue_to_payment_gateway_button_label_error": "Please update your payment information",
+        "page_title": "Processing your order",
+        "title": "Processing Order",
+        "your_order_has_been_received_title": "Thank you for your order.",
+        "you_will_receive_confirmation": "We are currently receiving a large number of orders. You will receive a notification via email or text as soon as your order is confirmed. If you do not hear from us within 1 hour, please let the store know.",
+        "wait": {
+          "short": "Your order is currently being processed.",
+          "medium": {
+            "one": "Your order is currently being processed. Please wait for about %{count} minutes.",
+            "other": "Your order is currently being processed. Please wait for about %{count} minutes."
+          }
+        }
       }
     }
   }
