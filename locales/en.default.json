@@ -2433,7 +2433,19 @@
           "fraud": "fraudulent orders",
           "other": "others",
           "staff": "staff mistake"
-        }
+        },
+        "cash_on_delivery": "cash on delivery"
+      },
+      "cart": {
+        "only_n_items_available": "You can only add %{count} of %{name} to your cart.",
+        "too_many_items_in_cart": "You cannot add more %{name} to your cart.",
+        "all_items_in_cart": "%{count} pieces %{name} are in your cart.",
+        "empty_update": "You cannot update an empty cart",
+        "missing_parameters": "invalid parameter",
+        "generic_error": "Cart error",
+        "too_many_line_items_error": "Your cart cannot contain more than %{max} items.",
+        "link_expired": "Link broken",
+        "link_no_longer_exists": "The link no longer exists."
       }
     }
   }
