@@ -2583,7 +2583,20 @@
           "paid_in_installments": "Shop Pay의 할부로 결제됨",
           "view_schedule": "일정 보기"
         },
-        "gift_card_payment_details": "후미가 {{lastDigits}} - {{formattedTransactionAmount}}"
+        "gift_card_payment_details": "후미가 {{lastDigits}} - {{formattedTransactionAmount}}",
+        "manual_payment_methods": {
+          "cash_on_delivery": "대금 상환 - {{formattedTransactionAmount}}",
+          "bank_deposit": "은행 송금 - {{formattedTransactionAmount}}",
+          "manual": "매뉴얼 - {{formattedTransactionAmount}}"
+        },
+        "transactions": {
+          "show_less": "디스플레이 감소"
+        }
+      },
+      "shipping": {
+        "address": "집으로 먼저 배송",
+        "address_map_marker": "집으로 먼저 배송",
+        "method": "배포방법"
       }
     }
   }
