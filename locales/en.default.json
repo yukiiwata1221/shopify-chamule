@@ -1341,7 +1341,17 @@
         "free_label": "free"
       },
       "field_errors": {
-        "handle_phone_invalid": "Please enter a valid phone number"
+        "handle_phone_invalid": "Please enter a valid phone number",
+        "handle_email_invalid": "Please enter a valid email address",
+        "email_invalid": "Please enter a valid email address",
+        "email_or_phone_blank": "Enter your email address or phone number",
+        "email_or_phone_invalid": "Please enter a valid email address or mobile number",
+        "address_first_name_blank": "Please enter your first name",
+        "address_last_name_blank": "Please enter your last name",
+        "address_address1_blank": "Please enter your address",
+        "address_address2_blank": "Please enter the building name, room number, etc.",
+        "address_city_blank": "Please enter your city\/ward\/town\/village",
+        "address_country_blank": "Select country\/region"
       }
     }
   }
