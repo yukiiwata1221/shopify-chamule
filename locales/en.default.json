@@ -2634,7 +2634,21 @@
     },
     "orders": {
       "list_layout_accessibility_label": "layout options",
-      "list_title": "order"
+      "list_title": "order",
+      "order_list": {
+        "column_headers": {
+          "total": "total",
+          "items": "item",
+          "order": "order"
+        },
+        "delivered": "Delivered: {{date}}",
+        "empty_state_order_source_description": "Only orders placed by {{email}} will appear here.",
+        "empty_state_subtitle": "Go to store and place your order.",
+        "estimated_delivery": "Estimated delivery date: {{date}}",
+        "items": {
+          "one": "{{count}} items"
+        }
+      }
     }
   }
 }
