@@ -1887,8 +1887,21 @@
       },
       "marketplaces": {
         "legal_notice": {
-          "legal_text": "심사"
+          "legal_text": "심사",
+          "link_label": "{{partnerDisplayName}} 이용약관"
         }
+      },
+      "online_store_chat": {
+        "title": "질문이 있으십니까? 채팅"
+      },
+      "local_pickup": {
+        "location_information": {
+          "one": "%{address}에서 가까운 위치에 재고가있는 상점이 %{count} 곳에 있습니다.",
+          "other": "%{address}에서 가까운 위치에 재고가있는 상점이 %{count} 곳에 있습니다."
+        },
+        "toggle_location": "위치 변경",
+        "search_button": "상점 찾기",
+        "no_stores_found": "상점을 찾을 수 없음"
       }
     }
   }
