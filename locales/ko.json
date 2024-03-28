@@ -2690,7 +2690,11 @@
       }
     },
     "addresses": {
-      "address_deleted_notification": "주소가 삭제되었습니다."
+      "address_deleted_notification": "주소가 삭제되었습니다.",
+      "loading_accessibility_message": "주소를 로드 중입니다.",
+      "loading_addresses_accessibility_message": "주소를 로드 중입니다.",
+      "loading_billing_accessibility_message": "청구지 주소를 로드 중입니다.",
+      "loading_finished_accessibility_message": "주소의 새 페이지가 로드되었습니다."
     }
   }
 }
