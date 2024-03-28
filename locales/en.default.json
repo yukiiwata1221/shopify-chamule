@@ -685,7 +685,27 @@
         "province_label": "prefectures",
         "province_placeholder": "prefectures",
         "county_label": "county",
-        "county_placeholder": "county"
+        "county_placeholder": "county",
+        "state_label": "state",
+        "state_placeholder": "state",
+        "region_label": "region",
+        "region_placeholder": "region",
+        "prefecture_label": "prefectures",
+        "prefecture_placeholder": "prefectures",
+        "governorate_label": "Administrative regions",
+        "governorate_placeholder": "Administrative regions",
+        "emirate_label": "emirates",
+        "emirate_placeholder": "emirates",
+        "state_and_territory_label": "State\/Region",
+        "state_and_territory_placeholder": "State\/Region",
+        "phone_label": "telephone number",
+        "optional_phone_label": "Phone number (optional)",
+        "phone_placeholder": "telephone number",
+        "phone_tooltip": "Used when we need to contact you about your order.",
+        "zip_code_label": "post code",
+        "zip_code_placeholder": "post code",
+        "postal_code_label": "post code",
+        "postal_code_placeholder": "post code"
       }
     }
   }
