@@ -2281,6 +2281,28 @@
     },
     "feed": {
       "more": "moreover"
+    },
+    "attributes": {
+      "email": "Email",
+      "password_confirmation": "Reconfirm password",
+      "first_name": "name",
+      "last_name": "surname",
+      "signature": "address"
+    },
+    "addresses": {
+      "zip_code": "post code",
+      "postal_code": "post code",
+      "postcode": "post code",
+      "pincode": "PIN code",
+      "region": "region",
+      "prefecture": "prefectures",
+      "province": "state",
+      "state": "state",
+      "state_and_territory": "State\/Region",
+      "county": "county",
+      "emirate": "emirates",
+      "governorate": "Administrative regions",
+      "confirm": "Are you sure you want to delete this address?"
     }
   }
 }
