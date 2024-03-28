@@ -3210,7 +3210,25 @@
     },
     "shop_policies": {
       "legal_notice": "Description based on Specified Commercial Transactions Law",
-      "privacy_policy": "privacy policy"
+      "privacy_policy": "privacy policy",
+      "subscription_policy": "Subscription Policy",
+      "terms_of_service": "terms of service"
+    },
+    "payment_methods": {
+      "title": "Payment Method",
+      "payment_details": {
+        "payment_method_expiring_on": "Expiration date: {{expiryDate}}",
+        "preauthorized_payments": "Pre-approved payments",
+        "close_payment_modal": "close",
+        "payment_method_not_found_error": "No payment method found",
+        "pre_authorized_payments": "Pre-approved payments",
+        "total_amount_of_subscription_line_items_left": "and more {{total}} pieces",
+        "total_amount_of_subscription_line_items_left_accessibility_label": "Total {{totalItems}} items, showing {{totalItemsToDisplay}} items.",
+        "next_payment_due": "Next payment deadline:{{dueDateInMonthDayYear}}",
+        "edit_payment_method_button": "edit",
+        "edit_payment_method_button_accessibility_label": "Edit payment methods ending in {{lastDigits}}",
+        "credit_card_details_accessibility_label": "Number at the end of the card:{{lastDigits}}"
+      }
     }
   }
 }
