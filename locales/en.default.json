@@ -3193,8 +3193,24 @@
       },
       "retry_action_label": "Try again",
       "load_orders_error": {
-        "title": "Unable to load order"
+        "title": "Unable to load order",
+        "description": "Please try again or come back later.",
+        "retry_button": "Try again"
+      },
+      "load_paypal_error": {
+        "description": "There was a problem loading PayPal. please try again."
+      },
+      "load_extension_error": {
+        "title": "error",
+        "description": "Please refresh this page or try again later."
+      },
+      "logout_everywhere": {
+        "description": "There was a problem logging out. please try again."
       }
+    },
+    "shop_policies": {
+      "legal_notice": "Description based on Specified Commercial Transactions Law",
+      "privacy_policy": "privacy policy"
     }
   }
 }
