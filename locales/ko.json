@@ -738,7 +738,16 @@
         "collapse_component_information": {
           "one": "%{count}개의 항목 숨기기",
           "other": "%{count}개의 항목 숨기기"
-        }
+        },
+        "component_quantity_title": "%{quantity} x %{product_title}",
+        "discount_discovery": {
+          "merchandise_quantity_label": {
+            "one": "%{count}개 항목",
+            "other": "%{count}개 항목"
+          }
+        },
+        "alternative_payment_currency_total": "요청 금액:%{amount_due}",
+        "group_title_label": "'%{group_title}'의 일부"
       }
     }
   }
