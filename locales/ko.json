@@ -2044,7 +2044,14 @@
     "addresses": {
       "zip_code": "우편번호",
       "postal_code": "우편번호",
-      "postcode": "우편번호"
+      "postcode": "우편번호",
+      "prefecture": "도도부현",
+      "province": "상태",
+      "state": "상태",
+      "state_and_territory": "주\/지역",
+      "county": "카운티",
+      "emirate": "에미레이트 항공",
+      "governorate": "행정구역"
     }
   }
 }
