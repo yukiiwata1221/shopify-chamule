@@ -1247,7 +1247,17 @@
         "checkout_amount_changed": "체크아웃 시 미결제 금액이 변경되었으므로 결제를 처리할 수 없습니다. 주문을 확인하고 다시 시도해 주세요.",
         "deferred_payment_not_allowed": "후불 결제는 할 수 없습니다. 주문을 확인하고 다시 시도해 주세요.",
         "deferred_payment_required": "이 주문에는 후불 결제가 필요합니다. 주문을 확인하고 다시 시도해 주세요.",
-        "deferred_amount_changed": "후불 결제 금액이 변경되었기 때문에 결제를 처리할 수 없습니다. 주문을 확인하고 다시 시도해 주세요."
+        "deferred_amount_changed": "후불 결제 금액이 변경되었기 때문에 결제를 처리할 수 없습니다. 주문을 확인하고 다시 시도해 주세요.",
+        "deferred_date_changed": "후불 결제 날짜가 변경되었으므로 결제를 처리할 수 없습니다. 주문을 확인하고 다시 시도해 주세요.",
+        "multiple_deferred_payment_not_allowed": "요청 당 1회 후불 결제만 가능합니다. 요청을 검토한 후 다시 시도해 주세요.",
+        "shipping_must_match_billing": "청구지 주소는 배송지 주소와 일치해야 합니다. 다른 결제 방법을 사용하십시오.",
+        "decision_rule_block": "결제를 처리하는 중에 문제가 발생했습니다. 상점 소유자에게 문의하십시오.",
+        "pick_up_card": "카드가 거부되었습니다. 다시 시도하거나 다른 결제 방법을 사용하세요.",
+        "cannot_verify": "결제 세부정보를 확인할 수 없습니다. 카드 세부정보를 확인하고 다시 시도해 주세요.",
+        "invalid_number": "유효한 카드 번호를 입력하세요.",
+        "invalid_expiry_date": "유효한 마감일을 입력하세요.",
+        "invalid_cvc": "유효한 보안 코드를 입력하세요.",
+        "expired_card": "카드가 만료되었습니다. 다른 결제 방법을 선택하세요."
       }
     }
   }
