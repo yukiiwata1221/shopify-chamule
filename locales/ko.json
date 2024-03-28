@@ -962,7 +962,17 @@
         "subscription_card_update_agreement_label": "결제 방법을 변경하면 구독 및 정기 결제가 업데이트됩니다.",
         "card_security_vault_notice": "향후 결제를 위해 자세한 정보가 필요합니다. 모든 거래는 암호화되고 안전합니다.",
         "taxes_not_included": "세금은 포함되지 않음",
-        "no_taxes_banner_content": "이 주문에는 세금이 부과되지 않습니다. 결제를 회수하면 세금을 추가할 수 없습니다."
+        "no_taxes_banner_content": "이 주문에는 세금이 부과되지 않습니다. 결제를 회수하면 세금을 추가할 수 없습니다.",
+        "paypal": {
+          "connect": "클릭하여 PayPal 계정 연동"
+        },
+        "subscription_agreement_label": "장바구니의 하나 이상의 항목은 후불 구매 또는 구독 구매입니다. 결제를 계속하면 고객 결제 방법이 만료되거나 고객이 취소할 때까지 이 페이지에 설명된 가격과 빈도로 고객 결제 방법에 자동으로 청구됩니다. 해야 합니다. 모든 취소에는 %{cancelled}이 적용됩니다.",
+        "card_verification_confirm": "본인 확인을 위해 카드의 보안 코드를 입력하십시오.",
+        "different_credit_card_label": "다른 신용카드를 사용하세요.",
+        "apple": {
+          "connect": "클릭하여 Apple Pay 계정 연동",
+          "not_available": "Apple Pay는 이 브라우저에서 사용할 수 없습니다. Apple Pay 계정을 연결하려면 Apple 기기의 Safari를 사용해야 합니다."
+        }
       }
     }
   }
