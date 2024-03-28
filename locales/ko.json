@@ -242,10 +242,18 @@
       "cancelled_html": "{{ date }}에 주문이 취소되었습니다.",
       "cancelled_reason": "이유: {{ reason }}",
       "product": "제품",
-      "fulfilled_at_html": "Fulfilled {{ date }}",
+      "fulfilled_at_html": "이행됨 {{ date }}",
       "billing_address": "청구 지 주소",
       "payment_status": "지불 상태",
-      "shipping_address": "배송 주소"
+      "shipping_address": "배송 주소",
+      "discount": "할인",
+      "fulfillment_status": "이행 상태",
+      "shipping": "배송",
+      "tax": "세",
+      "sku": "SKU",
+      "price": "가격",
+      "quantity": "수량",
+      "total": "총"
     },
     "activate_account": {
       "title": "계정 활성화",
