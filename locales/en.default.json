@@ -3037,7 +3037,20 @@
         "title": "Which location would you like to purchase from?",
         "continue_to_store": "continue store",
         "no_location_title": "Individual orders only",
-        "no_location_description": "You are no longer authorized to place orders for {{company}}. Individual orders can still be placed."
+        "no_location_description": "You are no longer authorized to place orders for {{company}}. Individual orders can still be placed.",
+        "no_locations_found": "location not found",
+        "search_location_title": "Select location"
+      },
+      "addresses": {
+        "billing_address_card_title": "Request first accommodation",
+        "shipping_address_card_title": "Delivery to residence first"
+      },
+      "orders": {
+        "draft_order_list": {
+          "hide_all_accessibility_label": "Hide all pending orders",
+          "show_all_accessibility_label": "View all pending orders",
+          "title": "reserve"
+        }
       }
     }
   }
