@@ -858,7 +858,19 @@
         "address_confirm": "계정에서이 주소를 삭제하시겠습니까?",
         "address_form": {
           "generic_error": "주소를 저장하는 중에 문제가 발생했습니다. 다시 시도해 주세요."
-        }
+        },
+        "different_shipping_method_summary": "다른 배송지 주소를 입력하여 사용 가능한 배송 방법을 확인하세요.",
+        "invalid_shipping_method_summary": "유효한 배송지 주소를 입력하여 사용 가능한 배송 방법을 확인하세요.",
+        "method_summary": {
+          "incomplete_address_entered": "전체 배송지 주소를 입력하여 사용 가능한 배송 방법을 확인하세요.",
+          "incomplete_address_selected": "전체 배송지 주소를 선택하여 사용 가능한 배송 방법을 확인하세요."
+        },
+        "local_pickup": {
+          "rollup_title": "수취 위치"
+        },
+        "missing_shipping_address": "배송지 주소를 찾을 수 없음",
+        "split_cart_merchandise_quantity_label_standard": "%{quantity}개 항목",
+        "split_cart_merchandise_quantity_label_additional": "더%{quantity}개"
       }
     }
   }
