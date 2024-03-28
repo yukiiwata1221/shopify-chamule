@@ -1043,7 +1043,17 @@
         },
         "simulated_checkout": "미리보기는 곧 공개",
         "vaulting_agreement_label": "신속한 체크아웃을 위해 결제 정보를 %{company}로 저장합니다.",
-        "business_customer_vaulting_payment_label": "체크아웃 시 이 카드를 저장하고 %{company}이 이 위치에서 향후 구매를 위해 이 카드에 청구할 수 있도록 승인합니다. 이 위치에 할당된 고객에게는 이 카드를 사용할 수 있는 권한이 있습니다."
+        "business_customer_vaulting_payment_label": "체크아웃 시 이 카드를 저장하고 %{company}이 이 위치에서 향후 구매를 위해 이 카드에 청구할 수 있도록 승인합니다. 이 위치에 할당된 고객에게는 이 카드를 사용할 수 있는 권한이 있습니다.",
+        "purchase_options_and_vaulting_agreement_label": "장바구니의 하나 이상의 항목은 후불 구매 또는 구독 구매입니다. 결제를 계속하면 귀하의 결제 방법이 만료되거나 고객이 취소할 때까지 이 페이지에 설명된 가격과 빈도로 자동으로 청구됩니다. 모든 취소에는 %{cancellation_policy_label}이 적용됩니다.",
+        "saved_credit_card": "신용카드를 저장함",
+        "saved_credit_card_info": "아래 4자리",
+        "saved_credit_cards_modal": {
+          "view_all_label": "모든 저장된 카드 보기"
+        },
+        "expired_cards_info": {
+          "one": "%{count}장이 만료된 카드가 있습니다. 해당 카드는 계정에서 확인 및 수정할 수 있습니다.",
+          "other": "%{count}장이 만료된 카드가 있습니다. 해당 카드는 계정에서 확인 및 수정할 수 있습니다."
+        }
       }
     }
   }
