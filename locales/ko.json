@@ -1506,7 +1506,25 @@
           "button_label": "구독 관리"
         },
         "gift_card_confirmation_by_text_typ": {
-          "one": "몇 분 이내에 기프트 카드가 포함된 텍스트가 도착합니다."
+          "one": "몇 분 이내에 기프트 카드가 포함된 텍스트가 도착합니다.",
+          "other": "몇 분 이내에 기프트 카드가 포함된 텍스트가 도착합니다."
+        },
+        "gift_card_confirmation_by_email_typ": {
+          "one": "몇 분 이내에 기프트 카드가 포함된 이메일을 받게 됩니다.",
+          "other": "몇 분 이내에 기프트 카드가 포함된 이메일을 받게 됩니다."
+        },
+        "gift_card_email_title": {
+          "one": "기프트 카드가 이메일로 전송되었습니다.",
+          "other": "기프트 카드가 이메일로 전송되었습니다."
+        },
+        "gift_card_text_title": {
+          "one": "기프트 카드가 문자 메시지로 전송되었습니다.",
+          "other": "기프트 카드가 문자 메시지로 전송되었습니다."
+        },
+        "resend_gift_cards_by_email": "이메일 재전송",
+        "resend_gift_cards_by_text": "문자 메시지 재전송",
+        "gift_card_resent_confirmation": {
+          "one": "기프트 카드가 다시 전송되었습니다."
         }
       }
     }
