@@ -1400,7 +1400,18 @@
         "contact_us_html": "뭔가 곤란한가요? %{contact_us}",
         "updated_time": "%{time_ago}이전 업데이트",
         "failure": "배달 실패",
-        "failed_title": "고객의 주문을 배달하지 못했습니다."
+        "failed_title": "고객의 주문을 배달하지 못했습니다.",
+        "failed_contact_merchant": "배송을 준비하려면 %{company}에 문의하세요.",
+        "failed_contact_merchant_no_company": "배송을 준비하려면 당사에 문의하십시오.",
+        "login_title": "모든 주문 세부사항을 보려면 로그인하세요.",
+        "login_description": "메일로 받은 영수증에 주문 번호가 기재되어 있습니다.",
+        "login_description_phone": "주문 번호는 문자 메시지로 전송된 영수증에 기재되어 있습니다.",
+        "login_not_customer_html": "%{name}이 아닌가요? 이쪽을 부디%{link}",
+        "login_reorder_link_text": {
+          "one": "이 상품도 구입",
+          "other": "이 상품도 구입"
+        },
+        "customer_information_hidden_fields_message": "로그인하여 고객의 모든 정보를 봅니다."
       }
     }
   }
