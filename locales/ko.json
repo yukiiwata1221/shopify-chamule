@@ -651,7 +651,14 @@
         "applied_discount_message": "%{amount}이 합계에서 할인되었습니다.",
         "discount_has_been_removed": "할인이 삭제되었습니다.",
         "gift_card_has_been_removed": "기프트 카드가 삭제되었습니다.",
-        "discount_already_applied": "이 주문에는 할인이 적용됩니다. 다른 할인을 추가할 수 없습니다."
+        "discount_already_applied": "이 주문에는 할인이 적용됩니다. 다른 할인을 추가할 수 없습니다.",
+        "cart_does_not_meet_discount_requirements_notice": "<strong style=\"text-transform:uppercase\">%{code}<\/strong>쿠폰 코드는 장바구니의 항목에 유효하지 않습니다.",
+        "discount_requires_customer_notice": "<strong style=\"text-transform:uppercase\">%{code}<\/strong> 쿠폰 코드를 적용하려면 배송 정보를 입력하세요.",
+        "customer_does_not_meet_discount_requirements_notice": "<strong style=\"text-transform:uppercase\">%{code}<\/strong>쿠폰 코드는 현재 사용할 수 없습니다.",
+        "shipping_information_does_not_meet_discount_requirements_notice": "<strong style=\"text-transform:uppercase\">%{code}<\/strong> 쿠폰 코드는 고객의 배송 주소에서 사용할 수 없습니다.",
+        "customer_already_used_once_per_customer_discount_notice": "<strong style=\"text-transform:uppercase\">%{code}<\/strong>쿠폰 코드가 이미 사용 중입니다.",
+        "tip_label": "지원 금액",
+        "shipping_default_value": "배송지 주소 입력"
       }
     }
   }
