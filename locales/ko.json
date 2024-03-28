@@ -2987,7 +2987,21 @@
         "name_on_card_label": "카드의 명의인",
         "name_on_card_placeholder": "카드의 명의인",
         "card_expiry_label": "만료일(월\/년)",
-        "card_expiry_placeholder": "만료일(월\/년)"
+        "card_expiry_placeholder": "만료일(월\/년)",
+        "card_start_label": "발행일 (월\/년)",
+        "card_start_placeholder": "발행일 (월\/년)",
+        "tooltip": {
+          "tooltip_accessibility_label": "상세한",
+          "card_verification_value_explanation_amex": "카드 전면에 있는 4자리 코드입니다.",
+          "card_verification_value_explanation_other": "카드 뒷면에 있는 3자리 보안 코드입니다.",
+          "card_verification_value_explanation": "카드 뒷면에 있는 3자리 보안 코드입니다. 아메리칸 익스프레스 카드는 전면에 있는 4자리 코드입니다.",
+          "card_security_notice": "모든 거래는 안전하고 암호화되어 있습니다."
+        },
+        "field_errors": {
+          "credit_card_name_invalid": "카드에 명시된 대로 이름을 입력하세요.",
+          "credit_card_number_invalid": "유효한 카드 번호를 입력하세요.",
+          "credit_card_expiry_invalid": "유효한 카드의 만료일을 입력하세요."
+        }
       }
     }
   }
