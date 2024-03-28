@@ -205,7 +205,9 @@
       "set_default": "기본 주소로 설정",
       "add": "주소 추가",
       "update": "주소 업데이트",
-      "cancel": "취소"
+      "cancel": "취소",
+      "delete": "삭제",
+      "delete_confirm": "이 주소를 삭제하시겠습니까?"
     },
     "login": {
       "title": "로그인",
@@ -226,7 +228,10 @@
       "submit": "보내기"
     },
     "orders": {
-      "order_number": "주문"
+      "order_number": "주문하다",
+      "title": "주문 내역",
+      "date": "날짜",
+      "payment_status": "지불 상태"
     },
     "order": {
       "title": "Order {{ name }}",
