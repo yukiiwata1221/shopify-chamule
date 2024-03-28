@@ -936,7 +936,16 @@
         "return_restocking_fee_label": "restocking fee",
         "return_shipping_fee_label": "Return shipping fee",
         "enter_shipping_address": "Enter your shipping address",
-        "shipping_discount_title": "shipping discounts"
+        "shipping_discount_title": "shipping discounts",
+        "discount_code_applied": "Coupon code applied",
+        "duties_included_label": "The total price includes all applicable taxes and duties, and there are no additional charges at the time of delivery."
+      },
+      "shipping": {
+        "title": "delivery",
+        "shipping_method_title": "Distribution Method",
+        "waiting_on_rate_notice": "Loading available shipping rates",
+        "waiting_on_pickup_location_notice": "Obtaining available pickup locations...",
+        "no_pickup_location_notice": "At least one item cannot be picked up"
       }
     }
   }
