@@ -847,7 +847,17 @@
         "price_label": "price",
         "quantity_label": "quantity",
         "product_change_label": "change",
-        "scroll_order_summary": "Scroll for more products"
+        "scroll_order_summary": "Scroll for more products",
+        "expand_order_summary_short": "express",
+        "collapse_order_summary_short": "non-expression",
+        "expand_order_summary": "Display order details\/enter coupon",
+        "total_updated_label": "Total amount updated:",
+        "total_already_paid_label": "paid",
+        "unit_price": {
+          "accessible_separator": "around",
+          "content_html": "%{per_unit}%{accessible_separator}%{price}"
+        },
+        "pickup_label": "Pick up in store"
       }
     }
   }
