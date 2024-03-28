@@ -1061,7 +1061,16 @@
           "rollup_title": "Pick up location"
         },
         "missing_shipping_address": "Shipping address not found",
-        "split_cart_merchandise_quantity_label_additional": "%{quantity} more pieces"
+        "split_cart_merchandise_quantity_label_additional": "%{quantity} more pieces",
+        "merchandise_quantity_label_inline_primary": "Quantity: 20001",
+        "split_cart_merchandise_shipment_number": "Luggage: %{number}\/%{total}",
+        "split_cart_ships_now": "Ship now",
+        "split_cart_ships_later": "ship later",
+        "split_cart_multiple_shipment_label": "multiple deliveries",
+        "split_cart_shipping_label": "method",
+        "split_cart_ships_date": "Delivery　%{date}",
+        "split_cart_multiple_shipment_quantity_label": "%{quantity} pieces of luggage",
+        "split_cart_multiple_shipment_notice": "Your order will arrive in multiple packages."
       }
     }
   }
