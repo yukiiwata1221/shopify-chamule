@@ -2012,9 +2012,39 @@
       "shop_pay_external": {
         "errors": {
           "problem_loading": "Shop Pay를 로드하는 중에 문제가 발생했습니다.",
-          "try_again_later": "연결을 확인하거나 이 창을 닫고 잠시 후 다시 시도하십시오."
+          "try_again_later": "연결을 확인하거나 이 창을 닫고 잠시 후 다시 시도하십시오.",
+          "checkout_has_expired": "체크아웃이 만료되었습니다. 이 창을 닫고 {{shopName}}에서 다시 체크아웃해 보세요."
+        },
+        "return_to_store": "{{shopName}}로 돌아가기"
+      },
+      "one": {
+        "errors": {
+          "merchandise": {
+            "subtotal_limit_reached": "항목의 최대 수에 도달했습니다."
+          }
         }
       }
+    },
+    "pagination": {
+      "previous": "앞으로",
+      "next": "이류"
+    },
+    "links": {
+      "powered_by_shopify": "제공: Shopify",
+      "learn_more": "자세한 것은 이쪽"
+    },
+    "feed": {
+      "more": "또한"
+    },
+    "attributes": {
+      "email": "메일",
+      "password_confirmation": "비밀번호 재확인",
+      "body": "바디"
+    },
+    "addresses": {
+      "zip_code": "우편번호",
+      "postal_code": "우편번호",
+      "postcode": "우편번호"
     }
   }
 }
