@@ -1577,7 +1577,29 @@
         "thank_you_payments_app_pending_payment_description_default_with_email_and_phone": "주문 번호가 기재된 확인 메일이 곧 도착합니다.",
         "thank_you_payments_app_pending_payment_description_default_with_email_and_phone_payment": "주문 번호가 기재된 확인 메일이 곧 도착합니다.",
         "thank_you_payments_app_pending_payment_description_default_with_email_and_phone_pick_up": "주문 번호가 기재된 확인 메일이 곧 도착합니다.",
-        "thank_you_payments_app_pending_payment_description_default_with_email": "주문 번호가 기재된 확인 메일이 곧 도착합니다."
+        "thank_you_payments_app_pending_payment_description_default_with_email": "주문 번호가 기재된 확인 메일이 곧 도착합니다.",
+        "thank_you_payments_app_pending_payment_description_default_with_email_pick_up": "주문 번호가 기재된 확인 메일이 곧 도착합니다.",
+        "thank_you_payments_app_pending_payment_description_default_with_email_payment": "주문 번호가 기재된 확인 메일이 곧 도착합니다.",
+        "thank_you_payments_app_pending_payment_description_default_with_phone": "주문 번호가 포함된 확인 텍스트 메시지가 곧 도착합니다.",
+        "thank_you_payments_app_pending_payment_description_default_with_phone_payment": "주문 번호가 포함된 확인 텍스트 메시지가 곧 도착합니다.",
+        "thank_you_payments_app_pending_payment_description_default_with_phone_pick_up": "주문 번호가 포함된 확인 텍스트 메시지가 곧 도착합니다.",
+        "thank_you_payments_app_pending_payment_description_buyer_action_required_with_missing": "주문 확인을 받으려면 이메일 또는 전화로 문의하세요.",
+        "thank_you_payments_app_pending_payment_description_buyer_action_required_with_missing_payment": "주문 확인을 받으려면 이메일 또는 전화로 문의하세요.",
+        "thank_you_payments_app_pending_payment_description_buyer_action_required_with_missing_pick_up": "주문 확인을 받으려면 이메일 또는 전화로 문의하세요.",
+        "thank_you_payments_app_pending_payment_description_buyer_action_required_with_email_and_phone": "결제가 완료되면 주문 번호가 포함된 확인 이메일이 발송됩니다.",
+        "thank_you_payments_app_pending_payment_description_buyer_action_required_with_email_and_phone_payment": "결제가 완료되면 주문 번호가 포함된 확인 이메일이 발송됩니다.",
+        "thank_you_payments_app_pending_payment_description_buyer_action_required_with_email_and_phone_pick_up": "결제가 완료되면 주문 번호가 포함된 확인 이메일이 발송됩니다.",
+        "thank_you_payments_app_pending_payment_description_buyer_action_required_with_email": "결제가 완료되면 주문 번호가 포함된 확인 이메일이 발송됩니다.",
+        "thank_you_payments_app_pending_payment_description_buyer_action_required_with_email_payment": "결제가 완료되면 주문 번호가 포함된 확인 이메일이 발송됩니다.",
+        "thank_you_payments_app_pending_payment_description_buyer_action_required_with_email_pick_up": "결제가 완료되면 주문 번호가 포함된 확인 이메일이 발송됩니다.",
+        "thank_you_payments_app_pending_payment_description_buyer_action_required_with_phone": "결제가 완료되면 주문 번호가 포함된 확인 텍스트 메시지가 전송됩니다.",
+        "thank_you_payments_app_pending_payment_description_buyer_action_required_with_phone_payment": "결제가 완료되면 주문 번호가 포함된 확인 텍스트 메시지가 전송됩니다.",
+        "thank_you_payments_app_pending_payment_description_buyer_action_required_with_phone_pick_up": "결제가 완료되면 주문 번호가 포함된 확인 텍스트 메시지가 전송됩니다."
+      },
+      "review": {
+        "title": "확인",
+        "review_title": "확인 및 결제",
+        "checkout_as_guest": "손님으로 구매"
       }
     }
   }
