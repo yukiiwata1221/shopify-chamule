@@ -3025,9 +3025,19 @@
       },
       "apple_pay": {
         "errors": {
-          "generic": "Apple Pay에 문제가 발생했습니다. 다시 시도하거나 다른 결제 방법을 사용하세요."
+          "generic": "Apple Pay에 문제가 발생했습니다. 다시 시도하거나 다른 결제 방법을 사용하세요.",
+          "missing_billing_address": "Apple Pay를 이용하려면 청구지 주소가 필요합니다. 계정에 1건을 추가하세요.",
+          "not_available": "Apple Pay는 이 기기에서 사용할 수 없습니다."
         }
-      }
+      },
+      "add_payment_method_banner": "신속한 체크아웃 및 사전 승인된 서비스를 위한 결제 방법 추가",
+      "edit_payment_method_button_accessibility_label": "후행 번호가 {{lastDigits}}인 {{paymentMethodName}} 수정",
+      "expiration_warning_button_accessibility_label": "후행 번호가 {{lastDigits}}인 {{paymentMethodName}}인 만료 경고를 표시합니다.",
+      "no_payment_methods_banner": "결제 방법이 추가되지 않았습니다."
+    },
+    "payment_method_brands": {
+      "visa": "비자",
+      "mastercard": "마스터 카드"
     }
   }
 }
