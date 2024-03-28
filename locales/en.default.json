@@ -3339,7 +3339,32 @@
       "tuesdayAbbreviation": "Tuesday",
       "wednesdayAbbreviation": "Wednesday",
       "thursdayAbbreviation": "Thursday",
-      "fridayAbbreviation": "Friday"
+      "fridayAbbreviation": "Friday",
+      "saturdayAbbreviation": "Saturday",
+      "sundayAbbreviation": "Sunday",
+      "showNextMonth": "Show next month ({{year}}{{month}})",
+      "showPreviousMonth": "Show last month ({{year}}{{month}})",
+      "rangeStart": "Range Start",
+      "inRange": "within range",
+      "rangeEnd": "End of range",
+      "autocompleteOptionsAvailable": {
+        "one": "{{count}} items available",
+        "other": "{{count}} available"
+      },
+      "removeItem": "Delete {{label}}",
+      "removeTag": "remove tag",
+      "month": {
+        "one": "moon",
+        "other": "moon"
+      }
+    },
+    "profile_preview_bar": {
+      "customize_button": "customization",
+      "hide_bar": "hide bar",
+      "navigate_to_admin": "Guide to management screen",
+      "previewing": "Previewing:",
+      "saved_at": "Saved in {{time}} of {{date}}",
+      "viewing": "Representing:"
     }
   }
 }
