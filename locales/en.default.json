@@ -3250,7 +3250,19 @@
           "with_pending_orders_and_subscriptions": "Removing this payment method will affect pre-approved payments. Unless you choose a different payment method, you will continue to be charged the unpaid balance of your existing order to this payment method. By selecting a different payment method, you can accept future subscription orders without interruption.",
           "with_pending_orders": "If you delete this payment method, it will be removed from your account and will no longer be available for future purchases. Unless you choose a different payment method, you will continue to be charged the unpaid balance of your existing order to this payment method.",
           "with_subscriptions": "Removing this payment method will affect pre-approved payments. To continue receiving future orders, please change to a different payment method."
+        },
+        "warning_message_without_replacement": {
+          "with_pending_orders": "If you delete this payment method, it will be removed from your account and will no longer be available for future purchases. You will still be charged the unpaid balance of your existing order.",
+          "with_pending_orders_and_subscriptions": "Removing this payment method will affect pre-approved payments. You will continue to be charged the unpaid balance of your existing orders to this payment method, but you will not receive future subscription orders. To continue accepting subscription orders, please add another payment method.",
+          "with_subscriptions": "Removing this payment method will affect pre-approved payments. To continue accepting future orders, please add another payment method."
         }
+      },
+      "edit_payment_method": {
+        "save_payment_method_button": "keep",
+        "cancel_edit_payment_method_button": "cancel",
+        "payment_method_updated_toast": "Payment method has been updated",
+        "billing_address": "Request first accommodation",
+        "billing_address_choose_from_list": "select from list"
       }
     }
   }
