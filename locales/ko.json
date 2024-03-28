@@ -2405,7 +2405,23 @@
         "three_images_accessibility_label": "주문에는 {{lineItemName1}}, {{lineItemName2}}, {{lineItemName3}}이 포함됩니다.",
         "four_images_accessibility_label": "주문에는 {{lineItemName1}}, {{lineItemName2}}, {{lineItemName3}}, {{lineItemName4}}이 포함됩니다.",
         "no_filtered_results_description": "필터링을 삭제하거나 조정하여 주문 확인",
-        "no_filtered_results_title": "필터링 결과 없음"
+        "no_filtered_results_title": "필터링 결과 없음",
+        "estimated_shortform": "예정일:{{date}}",
+        "payment_status": {
+          "list_view": {
+            "overdue": "지불 기한 초과",
+            "due": "지불 기한: {{date}}",
+            "due_today": "오늘은 지불 기한",
+            "due_without_date": "지불기일",
+            "due_on_fulfillment": "지불 기한은 완성시",
+            "pay_to_confirm": "결제를 통해 확인",
+            "payment_not_due": "미지급"
+          },
+          "table_view": {
+            "overdue": "시간 제한이 초과되었습니다",
+            "due": "마감일: {{date}}"
+          }
+        }
       }
     }
   }
