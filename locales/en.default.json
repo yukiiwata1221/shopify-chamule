@@ -1007,7 +1007,17 @@
         },
         "one_time_purchase_shipping": "One-time delivery",
         "estimated_delivery_time": "Scheduled for delivery in %{time}",
-        "estimated_delivery_time_range": "Expected delivery date: %{min_time}–%{max_time}"
+        "estimated_delivery_time_range": "Expected delivery date: %{min_time}–%{max_time}",
+        "arrives_time_range": "Arrival: %{min_time}–%{max_time}",
+        "arrives_time": "Arrival: %{time}",
+        "estimated_time": "Scheduled for delivery in %{time}",
+        "estimated_time_range": "Scheduled for delivery between %{min_time} and %{max_time}",
+        "delivery_date_range": "%{min_time}～%{max_time}",
+        "subscription_local_delivery": "Local delivery subscription",
+        "subscription_pickup": "Subscription Receipt",
+        "delivery_today": "Same day delivery (%{time})",
+        "delivery_tomorrow": "Next day delivery (%{time})",
+        "two_day_delivery": "Delivery in 2 days (%{time})"
       }
     }
   }
