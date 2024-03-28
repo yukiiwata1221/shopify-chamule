@@ -2768,7 +2768,32 @@
         "attempted_delivery_description": "Delivery could not be made.",
         "confirmed_description": "Your order has been accepted.",
         "on_its_way_description": "This package is currently being delivered.",
-        "out_for_delivery_description": "This package is currently being delivered."
+        "out_for_delivery_description": "This package is currently being delivered.",
+        "preparing_for_shipping_label": "Preparing for delivery",
+        "preparing_for_shipping_description": "These items are currently being prepared for shipment.",
+        "ready_for_pickup_description": "You can now receive these items. Please bring your order confirmation with you when picking up your order.",
+        "picked_up_label": "Picked up in store",
+        "picked_up_description": "You have received these items.",
+        "submitted_description": "Please check your order details and payment method.",
+        "last_updated": "Last update date: {{date}}",
+        "view_order_for_details": "View order details",
+        "confirmed_description_digital": "You will receive an email when your order is ready.",
+        "delivered_description_digital": "Your order has been completed.",
+        "delivered_description_gift_card": {
+          "one": "The gift card was sent via email.",
+          "other": "The gift card was sent via email."
+        },
+        "gift_card_label": {
+          "one": "gift card",
+          "other": "gift card"
+        },
+        "gift_card_resend": {
+          "other": "Resend email"
+        },
+        "gift_card_resend_description": {
+          "one": "If you did not receive it, please resend the email or",
+          "other": "If you did not receive it, please resend the email or"
+        }
       }
     }
   }
