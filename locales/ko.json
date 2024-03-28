@@ -683,7 +683,15 @@
         "unit_price": {
           "content_html": "%{per_unit}%{accessible_separator}%{price}"
         },
-        "pickup_label": "매장 수령"
+        "pickup_label": "매장 수령",
+        "no_pickup_location": "이 주문에서는 수령을 선택할 수 없습니다. 다른 배송 방법을 선택하세요.",
+        "estimated_taxes_label": "가정 세액",
+        "information_estimated_taxes_label": "세금 (상정)",
+        "gift_card_ending": "끝이 %{last_characters}인 선물 카드",
+        "estimated_tax_label": "예정 납세",
+        "multiple_shipping_lines_label": "배송 총",
+        "original_price": "원래 가격",
+        "sale_price": "판매 가격"
       }
     }
   }
