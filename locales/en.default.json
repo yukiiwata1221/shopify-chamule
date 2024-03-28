@@ -160,12 +160,12 @@
   },
   "contact": {
     "form": {
-      "name": "名前",
-      "email": "メールアドレス",
-      "phone": "電話番号",
-      "message": "お問い合わせ内容",
-      "send": "送信",
-      "post_success": "お問い合わせありがとうございます。 ２営業日以内に返信致します。"
+      "name": "name",
+      "email": "email address",
+      "phone": "telephone number",
+      "message": "Content of inquiry",
+      "send": "send",
+      "post_success": "Thank you for your inquiry. We will reply within 2 business days."
     }
   },
   "customer": {
