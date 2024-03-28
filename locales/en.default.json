@@ -1465,7 +1465,17 @@
         "invalid_number": "Please enter a valid card number",
         "invalid_expiry_date": "Please enter a valid expiry date",
         "invalid_cvc": "Please enter a valid security code",
-        "expired_card": "Your card has expired. Please select another payment method."
+        "expired_card": "Your card has expired. Please select another payment method.",
+        "processing_error": "There was a problem processing your payment. Please try again or use a different payment method.",
+        "card_declined": "Card declined. Please try again or use a different payment method.",
+        "call_issuer": "Card declined. Please use a different payment method or contact your bank for more information.",
+        "test_mode_live_card": "This store cannot accept physical orders or payments.",
+        "transient_error": "There was a problem processing your payment. Please refresh this page or check your internet connection.",
+        "missing_shipping_address": "Your payment could not be processed because the shipping address is missing. Please add your shipping address and try again.",
+        "invalid_shipping_address": "Your payment could not be processed because the shipping address was not found. Please check your shipping address and try again.",
+        "successful_offsite_with_gift_card_error": "There was a problem processing your gift card payment. Please try again or use a different payment method.",
+        "development_store_order_limit_reached": "You have reached the limit for development store orders with this payment processing service. To place another order, you must use a test payment gateway service. Click here for more information about %{development_store_order_testing_docs_link}.",
+        "development_store_with_order_limit": "To place a test order, you must use a test payment gateway service. Click here for more information about %{development_store_order_testing_docs_link}."
       }
     }
   }
