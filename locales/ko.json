@@ -2372,6 +2372,12 @@
         "items": {
           "one": "{{count}}개의 아이템",
           "other": "{{count}}개의 아이템"
+        },
+        "order_link": "주문보기 ({{name}})",
+        "order_number": "주문 ({{name}})",
+        "pagination": {
+          "nav_accessibility_label": "주문 메뉴 버튼",
+          "load_more": "추가로 로드"
         }
       }
     }
