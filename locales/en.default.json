@@ -2051,7 +2051,16 @@
         "session_already_finished": "This order has already been submitted. You can return to the store and start a new order."
       },
       "pickup_point": {
-        "business_hours": "business hours"
+        "business_hours": "business hours",
+        "title": "Designated pick-up location",
+        "search_button": "search",
+        "selector_tabs": "Designated pick-up location selector",
+        "selector_tab_map": "map",
+        "selector_tab_list": "list",
+        "could_not_resolve_address": "The address could not be determined. Please try again or use a different address",
+        "no_pickup_points_near_you": "No pick-up locations found near the address you selected",
+        "no_pickup_points_near_location": "No designated pickup locations found near your location",
+        "no_pickup_points_found": "There is no designated pick-up location"
       }
     }
   }
