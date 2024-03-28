@@ -298,7 +298,17 @@
             "selling_plan_mismatch": "정기 구매가 업데이트되었습니다.",
             "selling_plan_not_supported": "정기 구매는 사용할 수 없습니다.",
             "selling_plan_not_supported_b2b": "B2B 체크아웃에서는 정기 구매를 이용할 수 없습니다.",
-            "price_mismatch": "이 머천다이즈의 이전 발표 가격은 유효하지 않으므로 업데이트되었습니다."
+            "price_mismatch": "이 머천다이즈의 이전 발표 가격은 유효하지 않으므로 업데이트되었습니다.",
+            "inventory_not_found": "이 판매자의 재고를 찾을 수 없습니다.",
+            "product_not_published": "상품은 공개되지 않습니다.",
+            "duplicated_stable_id": "이 머천다이즈 항목의 stable-ID는 다른 항목과 동일합니다.",
+            "minimum_quantity_not_met": "일부 항목의 수량이 요구되는 최소량을 충족하지 않습니다.",
+            "maximum_quantity_exceeded": "일부 항목의 수량이 허용되는 최대 양을 초과했습니다.",
+            "quantity_increment_not_met": "일부 상품의 수량이 주문 기준값을 충족하지 않습니다.",
+            "quantity_rules_not_met": "일부 상품의 수량이 주문 기준값을 충족하지 않습니다.",
+            "bundle_requires_components": "이 번들의 머천다이즈에는 구성 요소가 없습니다.",
+            "title_too_long": "머천다이즈의 제목이 너무 깁니다.",
+            "title_empty": "머천다이즈 이름이 비어 있습니다."
           }
         }
       }
