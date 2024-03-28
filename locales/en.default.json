@@ -3084,6 +3084,23 @@
               "description": "Please make payment to confirm this order.",
               "title": "Make payment and confirm"
             }
+          },
+          "paid": {
+            "description": "This order is fully paid.",
+            "title": "paid",
+            "title_with_date": "Paid{{date}}"
+          },
+          "pay_now": "pay now",
+          "pending": {
+            "banner_overdue": {
+              "one": "Payment is {{count}} days late",
+              "other": "Payment is {{count}} days late"
+            },
+            "banner_due": {
+              "one": "Payment deadline is {{count}}",
+              "other": "Payment deadline is {{count}} days"
+            },
+            "banner_due_today": "Payment deadline is today"
           }
         }
       }
