@@ -574,7 +574,21 @@
             "tips_not_allowed_for_deferred_purchase_options": "Chips are not yet available for the Pay later purchase option."
           },
           "sale_attribution": {
-            "draft_order_not_exist": "This draft order does not exist in your current shop."
+            "draft_order_not_exist": "This draft order does not exist in your current shop.",
+            "location_not_exist": "This location does not exist in your current shop.",
+            "staff_member_not_exist": "This staff member does not exist at the current shop.",
+            "point_of_sale_device_not_exist": "This POS device does not exist in the current store.",
+            "unresolvable_target_merchandise_lines": "The proposed sales attribute is unresolvable given the current opportunity status."
+          },
+          "non_negotiable": {
+            "missing_non_negotiable_terms": "The buyer's proposal includes non-negotiable_terms."
+          },
+          "inventory": {
+            "missing_quantity_value": "The quantity field for a buyer inventory item is not filled in.",
+            "only_one_inventory_behavior_allowed": "Currently, only one inventory action is allowed per checkout."
+          },
+          "optional_duties": {
+            "optional_duties_not_permitted": "Tariff denials are not allowed at this checkout."
           }
         }
       }
