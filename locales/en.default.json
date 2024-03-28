@@ -603,8 +603,16 @@
             "token_expired": "The captcha token you entered has expired. Please enter your new captcha to proceed with checkout.",
             "token_invalid": "The captcha token entered is invalid. Please enter your new captcha to proceed with checkout.",
             "token_not_valid_for_session": "The captcha you entered is not available for this checkout."
+          },
+          "fx_reconciliation_override": {
+            "shop_currency_mismatch": "Amounts received must be denominated in store currency."
           }
-        }
+        },
+        "full_price": "Full amount:",
+        "display_name": "{{lastName}} {{firstName}}",
+        "google_map_title": "Google Maps",
+        "submit_for_review_button_label": "Submit for confirmation",
+        "submit_for_review_notice_label": "Payment will not be made until order is confirmed"
       }
     }
   }
