@@ -1149,7 +1149,17 @@
         "address_zip_invalid_for_country_and_province": "%{country}, %{province}의 유효한 우편 번호를 입력하세요.",
         "credit_card_name_blank": "카드에 명시된 대로 이름을 입력하세요.",
         "credit_card_name_invalid": "카드에 명시된 대로 이름을 입력하세요.",
-        "credit_card_number_invalid": "유효한 카드 번호를 입력하세요."
+        "credit_card_number_invalid": "유효한 카드 번호를 입력하세요.",
+        "credit_card_month_invalid": "유효한 기한 월을 입력하세요.",
+        "credit_card_expiry_invalid": "유효한 마감일을 입력하세요.",
+        "credit_card_year_invalid": "유효한 기한 연도를 입력하세요.",
+        "credit_card_start_invalid": "유효한 카드의 시작일을 입력하세요.",
+        "credit_card_start_month_invalid": "유효한 카드의 시작 월을 입력하세요.",
+        "credit_card_start_year_invalid": "유효한 카드의 시작 연도를 입력하세요.",
+        "credit_card_verification_value_blank": "카드의 CVV 또는 보안 코드를 입력하세요.",
+        "delivery_line_detail_changed": "배송 세부사항이 일부 변경되었을 수 있습니다. 배송 방법을 확인하고 다시 시도해 주세요.",
+        "reduction_code_code_not_found": "유효한 쿠폰 코드 또는 기프트 카드를 입력하세요.",
+        "reduction_code_discount_not_found": "유효한 쿠폰 코드를 입력하세요."
       }
     }
   }
