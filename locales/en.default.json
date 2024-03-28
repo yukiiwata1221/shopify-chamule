@@ -97,10 +97,10 @@
       "back_to_blog": "Back to {{ title }}"
     },
     "comments": {
-      "title": "コメントをする",
-      "name": "名前",
-      "email": "メールアドレス",
-      "message": "メッセージ",
+      "title": "Make a comment",
+      "name": "name",
+      "email": "email address",
+      "message": "message",
       "post": "コメントをする",
       "moderated": "Please note, comments must be approved before they are published",
       "success_moderated": "Your comment was posted successfully. We will publish it in a little while, as our blog is moderated.",
