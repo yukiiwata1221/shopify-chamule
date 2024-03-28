@@ -2914,7 +2914,25 @@
       "profile_update_error": {
         "description": "프로필을 업데이트하는 중에 문제가 발생했습니다. 이 페이지를 업데이트하거나 인터넷 연결을 확인하세요."
       },
-      "retry_action_label": "다시 시도하십시오"
+      "retry_action_label": "다시 시도하십시오",
+      "load_orders_error": {
+        "description": "다시 시도하거나 나중에 돌아오십시오.",
+        "retry_button": "다시 시도하십시오"
+      },
+      "load_paypal_error": {
+        "description": "PayPal을 로드하는 중에 문제가 발생했습니다. 다시 시도해 주세요."
+      },
+      "load_extension_error": {
+        "description": "이 페이지를 업데이트하거나 잠시 후 다시 시도해 주세요.",
+        "refresh_button": "페이지 업데이트"
+      },
+      "logout_everywhere": {
+        "description": "로그아웃하는 중에 문제가 발생했습니다. 다시 시도해 주세요."
+      }
+    },
+    "shop_policies": {
+      "legal_notice": "특정 상거래법에 근거한 표기",
+      "privacy_policy": "개인 정보 보호 정책"
     }
   }
 }
