@@ -265,7 +265,20 @@
         "choose_payment_method": "결제 방법을 선택하세요.",
         "choose_billing_address": "결제 주소를 선택하세요.",
         "contact_us_html": "자세한 내용은 문의",
-        "autocomplete_title": "후보"
+        "autocomplete_title": "후보",
+        "autocomplete_multi_item": "{{number}} 사용 가능",
+        "autocomplete_single_item": "1개 사용 가능",
+        "autocomplete_selection": "{{total}} 중 {{number}}",
+        "autocomplete_close": "후보 닫기",
+        "forwarding_indicator": {
+          "new_window": "새 창에서 열기",
+          "external": "외부 웹사이트로 이동합니다.",
+          "external_and_new_window": "외부 웹사이트를 새 창에서 열기"
+        },
+        "tooltip_accessibility_label": "상세한",
+        "errors": {
+          "session_identifier_not_unique_error": "주문에 문제가 발생했습니다. 다시 체크 아웃하십시오."
+        }
       }
     }
   }
