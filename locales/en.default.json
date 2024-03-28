@@ -787,6 +787,18 @@
             "other": "These items will be removed from your cart because no delivery method is available for your address."
           },
           "status_column_header": "Unable to deliver"
+        },
+        "price_update": {
+          "title": "Price Updates",
+          "description": "The prices of these items have changed and are being updated in your cart."
+        },
+        "return_to_store_label": "Back to Store",
+        "item_label": {
+          "one": "{{count}} items"
+        },
+        "out_of_stock": {
+          "description": "These products are no longer available and have been removed from your cart.",
+          "items_unavailable": "Some items have been discontinued and removed from your cart."
         }
       }
     }
