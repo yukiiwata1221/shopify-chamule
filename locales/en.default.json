@@ -2592,7 +2592,25 @@
         "loading_message": "Loading account menu"
       },
       "action_menu_accessibility_label": "Other operations",
-      "close_menu_accessibility_label": "Close main menu"
+      "close_menu_accessibility_label": "Close main menu",
+      "contact_email_subject": "Inquire from {{shopName}}'s online store",
+      "contact_link": "inquiry",
+      "delete_confirmation": {
+        "cancel": "cancel",
+        "delete": "delete"
+      },
+      "dismiss_toast": "close",
+      "log_out_link": "Logout",
+      "nav_label_accessibility_label": "Main menu",
+      "logout_overlay_label": "Logging out...",
+      "navigation_accessibility_message": "Moved to {{sectionName}}",
+      "open_menu_accessibility_label": "Open the main menu",
+      "orders_link_label": "order",
+      "subscriptions_link_label": "subscription",
+      "settings_link": "setting"
+    },
+    "account_information": {
+      "loading_finished_accessibility_message": "Account information has been loaded"
     }
   }
 }
