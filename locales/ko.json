@@ -1524,8 +1524,20 @@
         "resend_gift_cards_by_email": "이메일 재전송",
         "resend_gift_cards_by_text": "문자 메시지 재전송",
         "gift_card_resent_confirmation": {
-          "one": "기프트 카드가 다시 전송되었습니다."
-        }
+          "one": "기프트 카드가 다시 전송되었습니다.",
+          "other": "기프트 카드가 다시 전송되었습니다."
+        },
+        "gift_card_resend_failure": {
+          "one": "기프트 카드를 다시 제출하는 중에 문제가 발생했습니다. 다시 시도하거나 당사에 문의하십시오.",
+          "other": "기프트 카드를 다시 제출하는 중에 문제가 발생했습니다. 다시 시도하거나 당사에 문의하십시오."
+        },
+        "failed_pending_payment_page_title": "결제 시 문제가 발생했습니다.",
+        "thank_you_title_payments_app_pending_default": "결제가 처리 중입니다.",
+        "thank_you_title_payments_app_pending_buyer_action_required": "주문을 수락했습니다.",
+        "thank_you_title_payments_app_failed_pending_payment": "결제를 처리할 수 없습니다.",
+        "thank_you_payments_app_failed_pending_payment": "주문에 대한 청구는 이루어지지 않았습니다. 장바구니로 돌아와 주문을 확인하고 다시 지불합니다.",
+        "order_status_payments_app_pending_payment_description_default_with_email_and_phone": "확인 메일이 곧 도착합니다. Shop 앱을 사용하여 주문을 추적합니다.",
+        "order_status_payments_app_pending_payment_description_default_with_email": "확인 메일이 곧 도착합니다. Shop 앱을 사용하여 주문을 추적합니다."
       }
     }
   }
