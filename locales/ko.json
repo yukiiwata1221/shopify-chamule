@@ -1079,7 +1079,17 @@
         "alternative_payment_currency_total_notice": "참고: %{amount_due}이 청구됩니다.",
         "waiting_on_taxes_message": "세금이 몇 초 이내에 계산되지 않으면 페이지를 새로고침하세요.",
         "waiting_on_taxes_notice": "세금 계산",
-        "shop_pay_installments_label": "Shop Pay의 할부"
+        "shop_pay_installments_label": "Shop Pay의 할부",
+        "delete_credit_card_modal": {
+          "confirmation": "끝이 {{lastDigits}}인 {{brandName}}를 삭제하시겠습니까?"
+        },
+        "order_edit_banner_items_added": {
+          "other": "%{count}이 추가되었습니다."
+        },
+        "order_edit_banner_items_removed": {
+          "in_full": "삭제됨",
+          "with_quantities": "{{quantity}}개 중 {{delta}}개 삭제됨"
+        }
       }
     }
   }
