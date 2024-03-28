@@ -2431,8 +2431,16 @@
         "carousel": {
           "one_products_accessibility_label": "주문에는 {{lineItemName1}}의 수량 {{lineItemQuantity1}}이 포함됩니다.",
           "two_products_accessibility_label": "주문에는 {{lineItemName1}}의 수량 {{lineItemQuantity1}}, {{lineItemName2}}의 수량 {{lineItemQuantity2}}이 포함됩니다.",
-          "three_products_accessibility_label": "주문에는 {{lineItemName1}}의 수량 {{lineItemQuantity1}}, {{lineItemName2}}의 수량 {{lineItemQuantity2}}, {{lineItemName3}}의 수량 {{lineItemQuantity3}}이 포함됩니다."
-        }
+          "three_products_accessibility_label": "주문에는 {{lineItemName1}}의 수량 {{lineItemQuantity1}}, {{lineItemName2}}의 수량 {{lineItemQuantity2}}, {{lineItemName3}}의 수량 {{lineItemQuantity3}}이 포함됩니다.",
+          "five_products_accessibility_label": "주문에는 {{lineItemName1}}의 수량 {{lineItemQuantity1}}, {{lineItemName2}}의 수량 {{lineItemQuantity2}}, {{lineItemName3}}의 수량 {{lineItemQuantity3}}, {{lineItemName4}}의 수량 {{lineItemQuantity4}}, {{lineItemName5}}의 수량 {{lineItemQuantity5}}이 포함됩니다.",
+          "four_products_accessibility_label": "주문에는 {{lineItemName1}}의 수량 {{lineItemQuantity1}}, {{lineItemName2}}의 수량 {{lineItemQuantity2}}, {{lineItemName3}}의 수량 {{lineItemQuantity3}}, {{lineItemName4}}의 수량 {{lineItemQuantity4}}이 포함됩니다.",
+          "six_products_accessibility_label": "주문에는 {{lineItemName1}} 수량 {{lineItemQuantity1}}, {{lineItemName2}} 수량 {{lineItemQuantity2}}, {{lineItemName3}} 수량 {{lineItemQuantity3}}, {{lineItemName4}} 수량 {{lineItemQuantity4}}, {{lineItemName5}} 수량 {{lineItemQuantity5}}0_1",
+          "six_and_more_products_accessibility_label": "주문에는 {{lineItemName1}}의 수량 {{lineItemQuantity1}}, {{lineItemName2}}의 수량 {{lineItemQuantity2}}, {{lineItemName3}}의 수량 {{lineItemQuantity3}}, {{lineItemName4}}의 수량 {{lineItemQuantity4}}, {{lineItemName5}}의 수량 {{lineItemQuantity5}}, _1 다",
+          "view_order_details": "주문 세부정보 보기",
+          "previous": "앞으로"
+        },
+        "show_order_actions_accessibility_label": "주문 ({{name}})의 주문 작업 표시",
+        "more_than_four_products_accessibility_label": "주문에는 {{lineItemName1}}, {{lineItemName2}}, {{lineItemName3}} 및 {{numberOfAdditionalProducts}}개 이상의 상품이 있습니다."
       }
     }
   }
