@@ -825,7 +825,14 @@
         },
         "one_time_purchase_shipping": "일회용 배송",
         "estimated_delivery_time": "%{time}에 배송 예정",
-        "estimated_delivery_time_range": "%{min_time}–%{max_time}에 배송 예정"
+        "estimated_delivery_time_range": "%{min_time}–%{max_time}에 배송 예정",
+        "estimated_time": "%{time}에 배송 예정",
+        "estimated_time_range": "%{min_time}~%{max_time}에 배송 예정",
+        "subscription_local_delivery": "로컬 딜리버리 구독",
+        "subscription_pickup": "구독 수령",
+        "delivery_today": "당일 배송 (%{time})",
+        "delivery_tomorrow": "다음날 배달 (%{time})",
+        "two_day_delivery": "2일 만에 배달 (%{time})"
       }
     }
   }
