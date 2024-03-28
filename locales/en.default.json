@@ -1268,7 +1268,20 @@
         "markets_pro_disclaimer_terms_and_conditions": "terms of service",
         "markets_pro_disclaimer_privacy_policy": "privacy policy",
         "markets_pro_disclaimer_terms_and_conditions_title": "Terms of Use for Merchant of Record",
-        "markets_pro_disclaimer_privacy_policy_title": "Privacy policy of the merchant with final sales responsibility (Merchant of Record)"
+        "markets_pro_disclaimer_privacy_policy_title": "Privacy policy of the merchant with final sales responsibility (Merchant of Record)",
+        "purchase_order_number": {
+          "title": "Purchase order number",
+          "label": "Purchase order number (optional)"
+        },
+        "alternative_payment_currency_total_notice": "Note: You will be charged %{amount_due}.",
+        "waiting_on_taxes_message": "If your tax isn't calculated within a few seconds, please refresh the page.",
+        "waiting_on_taxes_notice": "calculate tax",
+        "order_edit_banner_multiple_items_returned": "{{amount}} pieces have been returned",
+        "shop_pay_installments_label": "Shop Pay installment payments",
+        "add_credit_card_modal": {
+          "title": "add card",
+          "cancel": "cancel"
+        }
       }
     }
   }
