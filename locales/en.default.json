@@ -1703,7 +1703,18 @@
         "thank_you_confirmed_order_with_draft": "We will let you know if any further information is required or when your order is confirmed.",
         "payment_method_draft_order": "Deadline after order is confirmed",
         "breadcrumbs_submitted": "sent",
-        "breadcrumbs_in_review": "Under confirmation"
+        "breadcrumbs_in_review": "Under confirmation",
+        "missing_shipping_address_banner": {
+          "title": "The order does not have a shipping address.",
+          "text_html": "%{contact_us}, add address",
+          "contact_us": "inquiry"
+        },
+        "order_status_confirmed_with_installments_payment_return": "Please speak to the sales staff.",
+        "order_status_confirmed_with_installments_payment_confirm": "You will shortly receive a confirmation email with your order number and details on how to schedule your installment payment.",
+        "first_payment_complete": "First payment completed",
+        "in_store_purchase": "Purchase at a physical store",
+        "choose_payment_method_later": "Choose your payment method later",
+        "purchase_order_number_title": "Purchase order number #%{purchase_order_number}"
       }
     }
   }
