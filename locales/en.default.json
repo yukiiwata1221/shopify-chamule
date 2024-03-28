@@ -1536,6 +1536,22 @@
         "title": "Payment could not be processed",
         "payment_not_processed_title": "Payment could not be processed",
         "payment_not_processed_text": "No charges have been filed. Please return to your cart and complete your purchase."
+      },
+      "payment_gateway": {
+        "bank_deposit_label": "Bank transfer",
+        "credit_card_label": "credit card",
+        "cash_on_delivery_label": "cash on delivery",
+        "money_order_label": "Postal money order",
+        "debit_card_label": "debit card",
+        "deferred_payment_label": "Choose your payment method later",
+        "generic_payment_terms": "The period is {{translatedName}}. The payment due date is {{dueDate}}.",
+        "login_prompt": {
+          "no_access": {
+            "message": "To add and use saved payment methods, please {{logIn}} an account with access to this location.",
+            "link": "Login"
+          }
+        },
+        "direct_payment_terms": "The period is {{translatedName}}. The due date for card payment is {{dueDate}}."
       }
     }
   }
