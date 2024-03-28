@@ -342,6 +342,18 @@
             "must_fulfill_from_same_location_constraint_not_satisfied": "동일한 위치에서 항목을 채울 수 없기 때문에 선불 제한 규칙이 충족되지 않습니다.",
             "delivery_strategy_conditions_not_satisfied": "이 위치에서는 배달 전략을 사용할 수 있지만 조건은 충족되지 않습니다.",
             "out_of_stock_at_origin_location": "원래 위치에는 재고가 없습니다."
+          },
+          "discount": {
+            "discounts_not_allowed_for_b2b": "할인은 B2B 상점에서 허용되지 않습니다.",
+            "custom_discount_not_honoured": "제공된 맞춤 할인이 이행되지 않았습니다.",
+            "unsupported_expectation": "제공된 할인 항목에는 정책을 해석할 수 없는 예상 값이 포함됩니다.",
+            "additional_requested_discount_code_discarded": "요청한 기타 쿠폰 코드가 삭제되었습니다.",
+            "discount_code_not_honoured": "쿠폰 코드가 적용되지 않았습니다."
+          },
+          "tax": {
+            "new_tax_must_be_accepted": "계속하려면 판매자 제안서의 새 세금 항목이 승인되어야 합니다.",
+            "unresolvable_tax_terms": "제안된 조건은 현재 기회 상황을 고려하면 해결할 수 없습니다.",
+            "delivery_price_is_abstract": "관련 배달 가격이 구체적이지 않습니다."
           }
         }
       }
