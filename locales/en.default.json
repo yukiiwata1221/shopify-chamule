@@ -1049,7 +1049,19 @@
           "save": "keep",
           "cancel": "cancel",
           "generic_error": "There was a problem saving your address. please try again."
-        }
+        },
+        "different_shipping_method_summary": "Please enter a different shipping address to see available shipping methods",
+        "invalid_shipping_method_summary": "Please enter a valid shipping address to see available shipping methods",
+        "method_summary": {
+          "incomplete_address_entered": "Please enter your full shipping address to see available shipping methods",
+          "incomplete_address_selected": "Select your complete shipping address to see available shipping methods"
+        },
+        "local_pickup": {
+          "search_address": "Search for an address",
+          "rollup_title": "Pick up location"
+        },
+        "missing_shipping_address": "Shipping address not found",
+        "split_cart_merchandise_quantity_label_additional": "%{quantity} more pieces"
       }
     }
   }
