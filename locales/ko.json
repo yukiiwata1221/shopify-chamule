@@ -3082,7 +3082,19 @@
         "one": "사용 가능한 {{count}}개 항목",
         "other": "{{count}} 사용 가능"
       },
-      "removeItem": "{{label}} 삭제"
+      "removeItem": "{{label}} 삭제",
+      "month": {
+        "one": "달",
+        "other": "달"
+      },
+      "removeTag": "태그 삭제"
+    },
+    "profile_preview_bar": {
+      "customize_button": "맞춤형",
+      "hide_bar": "막대 숨기기",
+      "navigate_to_admin": "관리 화면으로 안내",
+      "saved_at": "{{date}}의 {{time}}에 저장됨",
+      "viewing": "대표:"
     }
   }
 }
