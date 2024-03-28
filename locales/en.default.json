@@ -1405,7 +1405,17 @@
         "address_phone_contains_emojis": "Phone numbers cannot contain emojis",
         "address_zip_contains_emojis": "Postal codes cannot contain emojis",
         "address_first_name_contains_url": "name cannot contain URL",
-        "gift_cards_not_supported_with_deferred_purchase_options": "Gift cards are not supported with the Pay later purchase option."
+        "gift_cards_not_supported_with_deferred_purchase_options": "Gift cards are not supported with the Pay later purchase option.",
+        "address_zip_not_supported": "This location is not supported.",
+        "gift_card_buying_gift_card": "A gift card cannot be used to purchase another gift card",
+        "payment_gateway_unsupported_for_country": "This payment method is not available in the destination country.",
+        "purchase_options_agreement_blank": "To continue purchasing, please agree to the terms of the Pay Later Purchase or Subscription.",
+        "payment_gateway_unsupported_for_deferred_purchase_options": "This payment method is not available with the Pay later purchase option.",
+        "reduction_code_gift_cards_not_supported_with_deferred_purchase_options": "Gift cards are not supported with the Pay later purchase option.",
+        "delivery_zone_not_found": "The specified area was not found in the specified country.",
+        "payment_gateway_unsupported_for_development_store_html": "To place a test order, you must use a test payment gateway service. For more information, see <a href=\"%{docs_link}\">Test orders in your development store<\/a> .",
+        "payment_gateway_unsupported_for_order_above_maximum_orders_html": "You have reached the limit for development store orders with this payment processing service. To place another order, you must use a test payment gateway service. For more information, see <a href=\"%{docs_link}\">Test orders in your development store<\/a> .",
+        "email_blank": "Enter email address"
       }
     }
   }
