@@ -1187,7 +1187,17 @@
         "address_address2_contains_html_tags": "주소 2에는 HTML 태그를 포함할 수 없습니다.",
         "address_city_contains_html_tags": "시구정촌에는 HTML 태그를 포함할 수 없습니다.",
         "address_company_contains_html_tags": "회사 이름에는 HTML 태그를 포함할 수 없습니다.",
-        "address_first_name_contains_emojis": "이름에 이모티콘을 포함할 수 없습니다."
+        "address_first_name_contains_emojis": "이름에 이모티콘을 포함할 수 없습니다.",
+        "address_last_name_contains_emojis": "성에는 이모티콘을 포함할 수 없습니다.",
+        "address_address1_contains_emojis": "주소에 이모티콘을 포함할 수 없습니다.",
+        "address_address2_contains_emojis": "주소 2에는 이모티콘을 포함할 수 없습니다.",
+        "address_city_contains_emojis": "도시 이름에는 이모티콘을 포함할 수 없습니다.",
+        "address_company_contains_emojis": "회사 이름에는 이모티콘을 포함할 수 없습니다.",
+        "address_phone_contains_emojis": "전화번호에는 이모티콘을 포함할 수 없습니다.",
+        "address_zip_contains_emojis": "우편번호에는 이모티콘을 포함할 수 없습니다.",
+        "address_first_name_contains_url": "이름에 URL을 포함할 수 없습니다.",
+        "address_last_name_contains_url": "성에 URL을 포함할 수 없습니다.",
+        "gift_cards_not_supported_with_deferred_purchase_options": "기프트 카드는 후불 구매 옵션에서 지원되지 않습니다."
       }
     }
   }
