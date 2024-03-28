@@ -261,10 +261,10 @@
       "submit": "Reset Password"
     },
     "register": {
-      "title": "Create Account",
-      "first_name": "First Name",
-      "last_name": "Last Name",
-      "email": "Email",
+      "title": "New member registration (free)",
+      "first_name": "name",
+      "last_name": "Last name",
+      "email": "email address",
       "password": "Password",
       "submit": "Create",
       "cancel": "Return to Store"
