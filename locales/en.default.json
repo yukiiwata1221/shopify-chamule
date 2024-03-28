@@ -620,7 +620,21 @@
         "stepper": {
           "increase": "{{type}} increase",
           "decrease": "{{type}} decrease",
-          "minimum_reached": "The minimum of {{value}} has been reached"
+          "minimum_reached": "The minimum of {{value}} has been reached",
+          "maximum_reached": "Maximum value of {{value}} has been reached"
+        },
+        "remove_item": "Delete %{label}",
+        "remove_tag": "remove tag",
+        "dates": {
+          "weekdays_abbreviation": {
+            "monday": "Monday",
+            "tuesday": "Tuesday",
+            "wednesday": "Wednesday",
+            "thursday": "Thursday",
+            "friday": "Friday",
+            "saturday": "Saturday",
+            "sunday": "Sunday"
+          }
         }
       }
     }
