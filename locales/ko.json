@@ -1676,7 +1676,18 @@
         "currency_not_supported_by_shop": "선택한 통화를 더 이상 사용할 수 없습니다. 모든 가격은 %{currency_code}로 표시됩니다."
       },
       "tips": {
-        "title": "가게 지원"
+        "title": "가게 지원",
+        "description": "%{shop_name} 팀에 대한 지원 보기",
+        "presets_description": "칩 비율 선택",
+        "custom_label": "맞춤형 칩",
+        "add_tip": "가게 지원",
+        "update_tip": "금액 업데이트",
+        "message": "정말 고마워요."
+      },
+      "open_graph_meta_tag": {
+        "title_with_products": {
+          "one": "%{product_name}과 다른 아이템 %{count}개 구매"
+        }
       }
     }
   }
