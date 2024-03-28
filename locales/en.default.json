@@ -675,7 +675,17 @@
         "optional_first_name_label": "First name (any)",
         "last_name_label": "surname",
         "company_label": "company",
-        "optional_company_label": "Club (optional)"
+        "optional_company_label": "Club (optional)",
+        "address1_label": "address after that",
+        "address2_label": "Building name, room number, etc.",
+        "optional_address2_label": "Building name, room number (if available)",
+        "city_label": "municipalities",
+        "country_label": "Country \/ Region",
+        "country_code": "Country\/Region Code",
+        "province_label": "prefectures",
+        "province_placeholder": "prefectures",
+        "county_label": "county",
+        "county_placeholder": "county"
       }
     }
   }
