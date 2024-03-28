@@ -2809,8 +2809,28 @@
           "other": "Resend the text"
         },
         "gift_card_resend_description_text": {
-          "one": "If you haven't received it, please resend the text or"
-        }
+          "one": "If you haven't received it, please resend the text or",
+          "other": "If you haven't received it, please resend the text or"
+        },
+        "confirmed_gift_card_additional_description_text": {
+          "one": "The gift card will be sent separately via text.",
+          "other": "The gift card will be sent separately via text."
+        },
+        "gift_resend_success": {
+          "one": "Gift card has been resent",
+          "other": "Gift card has been resent"
+        },
+        "gift_resend_failure": {
+          "one": "There was a problem resending your gift card. Please try again or contact us.",
+          "other": "There was a problem resending your gift card. Please try again or contact us."
+        },
+        "amazon_buy_with_prime": {
+          "order_tracking_link": {
+            "text": "Track and manage your Buy with Prime orders",
+            "new_window_disclaimer": "(Opens new window)"
+          }
+        },
+        "attempted_to_deliver_label": "attempted delivery"
       }
     }
   }
