@@ -2941,8 +2941,16 @@
         "pickup_point": "Designated pick-up location"
       },
       "paid_with_shop_pay_installments_card": {
-        "paid_with_shop_pay_installments": "Paid with Shop Pay installments"
-      }
+        "paid_with_shop_pay_installments": "Paid with Shop Pay installments",
+        "desktop_qr_code_content": {
+          "description": "Get Shop Pay installment payment reminders."
+        }
+      },
+      "contact_information": "Contact Information",
+      "login_to_view_all_order_details": "Please log in to view all order details.",
+      "log_in": "Login",
+      "paid_amount": "paid",
+      "remaining_amount": "rest"
     }
   }
 }
