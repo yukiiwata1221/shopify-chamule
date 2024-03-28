@@ -2391,9 +2391,21 @@
             "descending": "위치 (Z~A)"
           },
           "order_number": {
-            "ascending": "주문 번호 (오름차순)"
+            "ascending": "주문 번호 (오름차순)",
+            "descending": "주문 번호 (내림차순)"
+          },
+          "order_total": {
+            "ascending": "주문 합계 (오름차순)",
+            "descending": "주문 합계 (내림차순)"
           }
-        }
+        },
+        "table_view": "테이블 뷰 표시",
+        "one_images_accessibility_label": "주문에는 {{lineItemName1}}이 포함됩니다.",
+        "two_images_accessibility_label": "주문에는 {{lineItemName1}} 및 {{lineItemName2}}이 포함됩니다.",
+        "three_images_accessibility_label": "주문에는 {{lineItemName1}}, {{lineItemName2}}, {{lineItemName3}}이 포함됩니다.",
+        "four_images_accessibility_label": "주문에는 {{lineItemName1}}, {{lineItemName2}}, {{lineItemName3}}, {{lineItemName4}}이 포함됩니다.",
+        "no_filtered_results_description": "필터링을 삭제하거나 조정하여 주문 확인",
+        "no_filtered_results_title": "필터링 결과 없음"
       }
     }
   }
