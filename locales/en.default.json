@@ -2303,6 +2303,30 @@
       "emirate": "emirates",
       "governorate": "Administrative regions",
       "confirm": "Are you sure you want to delete this address?"
+    },
+    "collections": {
+      "sorting": {
+        "manual": "recommendation",
+        "best_selling": "bestseller",
+        "az": "Alphabetical order, A-Z",
+        "za": "Alphabetical, Z-A",
+        "price_ascending": "Lowest price order",
+        "price_descending": "High to high price",
+        "date_ascending": "Oldest products",
+        "date_descending": "New arrival order"
+      }
+    },
+    "errors": {
+      "blank": "must be entered",
+      "credit_card_session_expired": "Your credit card authorization has expired. Please enter your payment information again. Your card will not be charged.",
+      "invalid_email": "Must be a valid email address",
+      "empty": "Cannot be left blank",
+      "discount_disabled": "This discount cannot be used",
+      "discount_expired": "This discount has expired",
+      "discount_not_found": "No discounts were found that match the code you entered",
+      "gift_card_already_applied": "Code has already been applied to your payment",
+      "gift_card_code_invalid": "The code is not valid",
+      "gift_card_currency_mismatch": "The gift card is %{gift_card_currency}. Please contact us to reissue in %{checkout_currency}."
     }
   }
 }
