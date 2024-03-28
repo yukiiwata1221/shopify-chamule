@@ -332,16 +332,24 @@
     },
     "article": {
       "by_author": "작성자: {{ author }}",
-      "back_to_blog": "Back to {{ title }}",
+      "back_to_blog": "{{ title }}로 돌아가기",
       "tags": "태그:",
-      "all_topics": "모든 주제"
+      "all_topics": "모든 주제",
+      "read_more": "더 읽어보세요",
+      "posted_in": "에 게시 됨"
     },
     "comments": {
       "name": "이름",
       "comments_with_count": {
         "one": "{{ count }} comment",
         "other": "{{ count }} comments"
-      }
+      },
+      "title": "코멘트를 남겨주세요",
+      "email": "이메일",
+      "message": "메시지",
+      "post": "댓글 달기",
+      "moderated": "댓글은 게시되기 전에 승인을 받아야 합니다.",
+      "success_moderated": "귀하의 댓글이 성공적으로 게시되었습니다. 블로그가 조정되는 대로 잠시 후에 게시하겠습니다."
     }
   },
   "cart": {
