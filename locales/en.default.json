@@ -2108,7 +2108,20 @@
           "OtherViolations": "Order information",
           "UnhandledViolations": "Order information"
         },
-        "all_violations_content": "To update this information and complete your order, please contact us by phone or at {{emailLink}}."
+        "all_violations_content": "To update this information and complete your order, please contact us by phone or at {{emailLink}}.",
+        "all_violations_email_link": "Email",
+        "editable_shipping_address_violations_message_title": "Please update this information to complete your order.",
+        "editable_shipping_address_violations_message_footer": "{{emailLink}} to permanently update the address for this location.",
+        "editable_shipping_address_violations_email_link": "Please contact us",
+        "company_location_changed_product_removed": "Your cart has been updated because some products are not available at this location. Please review your order before submitting.",
+        "shipping_address_incomplete_title": "The shipping address is incorrect",
+        "calculating_shipping": "We are still calculating shipping costs. Please try again in a few seconds. No charges have been filed.",
+        "calculating_taxes": "Taxes are still being calculated. Please try again in a few seconds. No charges have been made yet."
+      },
+      "marketplaces": {
+        "legal_notice": {
+          "legal_text": "examination"
+        }
       }
     }
   }
