@@ -576,7 +576,14 @@
       },
       "customer_account": {
         "not_user_label": "%{first_name}이 아닌가요?",
-        "have_an_account_label": "계정이 있으십니까?"
+        "have_an_account_label": "계정이 있으십니까?",
+        "save_my_information_label": "다음 번에 이 정보를 저장",
+        "invalid_address": "선택한 주소가 잘못되었습니다. %{update_address_link}하거나 다른 주소를 선택하세요.",
+        "incomplete_address": "선택한 주소가 불완전합니다. %{update_address_link}하거나 다른 주소를 선택하세요.",
+        "invalid_shipping_method_summary": "유효한 배송지 주소를 선택하여 사용 가능한 배송 방법을 확인하세요."
+      },
+      "stock": {
+        "items_unavailable_notice": "일부 항목은 사용할 수 없습니다."
       }
     }
   }
