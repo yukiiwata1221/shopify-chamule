@@ -2357,6 +2357,23 @@
           "load_more_accessibility_label": "사용자 추가 로드"
         }
       }
+    },
+    "orders": {
+      "order_list": {
+        "column_headers": {
+          "total": "합계",
+          "items": "아이템"
+        },
+        "delivered": "배달됨: {{date}}",
+        "empty_state_order_source_description": "{{email}}의 주문만 여기에 표시됩니다.",
+        "empty_state_subtitle": "상점으로 이동하여 주문하십시오.",
+        "empty_state_title": "주문이 아직 없습니다.",
+        "estimated_delivery": "배달 예정일: {{date}}",
+        "items": {
+          "one": "{{count}}개의 아이템",
+          "other": "{{count}}개의 아이템"
+        }
+      }
     }
   }
 }
