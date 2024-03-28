@@ -2052,6 +2052,18 @@
       "county": "카운티",
       "emirate": "에미레이트 항공",
       "governorate": "행정구역"
+    },
+    "collections": {
+      "sorting": {
+        "price_ascending": "가격이 저렴한 순서",
+        "price_descending": "가격이 높은 순서",
+        "date_ascending": "오래된 상품 순서",
+        "date_descending": "신착순"
+      }
+    },
+    "errors": {
+      "blank": "를 입력해야",
+      "credit_card_session_expired": "신용카드 오솔리가 만료되었습니다. 다시 결제 정보를 입력하세요. 카드에 청구되지 않습니다."
     }
   }
 }
