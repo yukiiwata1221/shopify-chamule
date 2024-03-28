@@ -2213,6 +2213,24 @@
         "view_lines_limit_reached": "선은 %{limit}보다 작아야 합니다.",
         "merchandise_line_transformers": {
           "run_error": "장바구니에 오류가 발생했습니다."
+        },
+        "gift_card_price_must_be_greater_than_zero": "번들 '%{name}'을 장바구니에 추가할 수 없습니다."
+      },
+      "storefront": {
+        "invalid_password": "비밀번호가 잘못되었습니다. 다시 시도해 주세요."
+      },
+      "tags": {
+        "add_articles": "태그 (%{tag})도있는 기사로 검색 범위를 좁히십시오.",
+        "add_products": "태그 %{tag})와 일치하는 제품으로 선택을 필터링",
+        "remove_articles": "태그(%{tag})가 없는 기사로 검색 범위 넓히기",
+        "remove_products": "태그 (%{tag}) 삭제"
+      },
+      "line_item": {
+        "item_status": {
+          "add_variant": "%{delta}에 추가됨",
+          "increment_item": "%{delta}에 추가됨",
+          "decrement_item": "%{total}개 중%{delta}개를 삭제했습니다.",
+          "decrement_fulfilled_line_item": "%{total}건 중%{delta}건을 반품했습니다."
         }
       }
     }
