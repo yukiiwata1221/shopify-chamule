@@ -481,7 +481,19 @@
             "email_domain_is_invalid": "The specified domain cannot be resolved.",
             "missing_contact_method": "There is no valid contact method.",
             "checkout_completion_target_is_missing": "Checkout completion target is empty.",
-            "customer_profile_access_restricted": "Checkout does not have permission to access customer profiles."
+            "customer_profile_access_restricted": "Checkout does not have permission to access customer profiles.",
+            "checkout_completion_target_is_invalid_proc": "Checkout completion target is invalid."
+          },
+          "delivery": {
+            "only_one_delivery_line_allowed": "A cart can only contain one delivery item.",
+            "wrong_number_of_delivery_lines": "You must specify delivery items for each product group.",
+            "external_delivery_promise_error": "Error retrieving external delivery promise.",
+            "options_instructions_invalid": "The specified procedure does not match the expected type.",
+            "destination_address_required": "Please enter your shipping address to continue.",
+            "pickup_points_unavailable": "The designated pick-up location is currently unavailable.",
+            "local_pickup_delivery_line_detail_changed": "To continue, you'll need to change your current store pickup delivery strategy.",
+            "local_pickup_no_delivery_strategy_available": "No in-store pickup delivery strategy available.",
+            "origin_location_id_required": "The original location ID is required to request a RETAIL delivery method."
           }
         }
       }
