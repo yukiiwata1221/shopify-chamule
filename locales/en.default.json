@@ -2544,8 +2544,19 @@
           "privacy_policy": "After this email is sent, Shopify will update its privacy policy and will no longer be able to track opens."
         },
         "track": {
-          "status_html": "<b>Email open tracking has been reported.<\/b>"
+          "status_html": "<b>Email open tracking has been reported.<\/b>",
+          "visibility": "Shopify only checks whether you open an email as part of calculating email open rates."
+        },
+        "updated_policy": {
+          "status_html": "<b>Email open tracking has been reported.<\/b>",
+          "visibility": "Shopify has updated its policies and now allows you to track email opens. Email open rates are reported anonymously. Shopify only checks whether you open an email as part of calculating email open rates.",
+          "opt_out_html": "If you do not want to share this information, you may <a style='text-decoration:underline;' href='%{link}'>unsubscribe<\/a> ."
         }
+      }
+    },
+    "store_availability": {
+      "pick_up_time": {
+        "five_or_more_days": "Usually ready in 5 days or more"
       }
     }
   }
