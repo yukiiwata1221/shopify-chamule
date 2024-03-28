@@ -993,8 +993,18 @@
         "multibanco_label": "ATM",
         "receiver_payment_experience_hint": "주문 후, 결제의 상세를 알려 드리겠습니다. %{due_days}일 이내에 Multibanco 또는 온라인으로 결제하십시오.",
         "pending_payment": {
-          "due_notice": "%{amount_due}의 지불 기한은 %{due_date}입니다."
-        }
+          "due_notice": "%{amount_due}의 지불 기한은 %{due_date}입니다.",
+          "multibanco": {
+            "instruction_html": "다음 세부정보를 사용하여 Multibanco 또는 온라인으로 결제를 수행합니다. 질문이나 결제 정보의 갱신에 대해서는,%{contact_us}.",
+            "entity": "엔티티",
+            "find_nearest_atm": "가장 가까운 ATM 찾기"
+          }
+        },
+        "purchase_options_agreement_label": "장바구니의 하나 이상의 항목은 후불 구매 또는 정기 구매입니다. 결제를 계속하면 고객의 결제 방법이 만료되거나 고객이 취소할 때까지 이 페이지에 설명된 가격과 빈도로 고객의 결제 방법에 자동으로 청구됩니다. 해야 합니다. 모든 취소에는 %{cancellation_policy_label}이 적용됩니다.",
+        "paypal_modal": {
+          "order_contains_fixed_selling_plans": "총 금액에는 세금, 배송비, 연체료, 일부 할인이 포함되지 않을 수 있습니다. 계속해서, 오늘 지불하시는 금액의 체크아웃을 실시합니다."
+        },
+        "purchase_options_agreement_label_html": "장바구니의 하나 이상의 항목은 후불 구매 또는 정기 구매임을 이해합니다. 계속해서 저는 <a class=\"link--small\" data-modal=\"true\" data-title-text=\"%{subscription_policy}\" href=\"%{policy_href}\">취소 정책<\/a> 에 동의하고 주문이 완료될 때까지 또는 허용되는 경우 내가 취소할 때까지 이 페이지에 나열된 가격, 횟수 및 날짜로 선택한 결제 방법에 대한 청구를 승인해야 합니다.\n"
       }
     }
   }
