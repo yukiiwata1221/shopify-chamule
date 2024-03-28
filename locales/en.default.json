@@ -2170,7 +2170,23 @@
         "call_to_action": "Payment at {{walletName}}",
         "errors": {
           "unavailable": {
-            "title": "{{walletName}} is not available"
+            "title": "{{walletName}} is not available",
+            "description": "{{walletName}} was not available. Please use a different payment method or try again later.",
+            "instructions": "There was a problem with \"Purchase for {{walletName}}\". Please return to the store and try again or check another method."
+          },
+          "generic": "There was a problem with {{walletName}}. Please try again or use a different payment method.",
+          "terminal": "There was a problem with {{walletName}}. Please use another payment method.",
+          "detour": {
+            "stock_problems": "Some items are not available. Please close {{walletName}} and try again.",
+            "price_change": "Some item prices have changed. Please close {{walletName}}, review your order, and try again.",
+            "queue": "You have been queued for checkout, please close {{walletName}} to continue."
+          },
+          "unsupported": {
+            "address": "The merchant cannot deliver to the selected shipping address.",
+            "postal_code": "This location is not supported"
+          },
+          "outdated": {
+            "shipping_method": "The shipping method for your order has changed. Please check your selections."
           }
         }
       }
