@@ -2483,9 +2483,20 @@
           "add_variant": "Added in %{delta}",
           "increment_item": "Added in %{delta}",
           "decrement_item": "%{delta} out of %{total} were deleted.",
-          "decrement_fulfilled_line_item": "%{delta} out of %{total} returned."
+          "decrement_fulfilled_line_item": "%{delta} out of %{total} returned.",
+          "decrement_return_line_item": "Removed %{delta} from returns"
         }
       }
+    },
+    "page_titles": {
+      "products": "merchandise",
+      "shopping_cart": "shopping cart",
+      "account": "account",
+      "create_account": "Create an account",
+      "reset_account": "Reset your account",
+      "addresses": "address",
+      "search": "search",
+      "collections": "collection"
     }
   }
 }
