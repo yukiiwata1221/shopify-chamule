@@ -2163,7 +2163,24 @@
           "authorized": "오솔리",
           "pending": "예약하다",
           "paid": "결제",
-          "unpaid": "미지급"
+          "unpaid": "미지급",
+          "partially_paid": "일부 결제",
+          "voided": "무효",
+          "partially_refunded": "일부 환불"
+        },
+        "fulfillment_status": {
+          "fulfilled": "배송됨",
+          "unfulfilled": "미발송",
+          "restocked": "재고가 보충되었습니다."
+        },
+        "transaction_status": {
+          "pending": "예약하다",
+          "failure": "실패하다"
+        },
+        "cancel_reason": {
+          "declined": "결제가 거부됨",
+          "inventory": "상품을 사용할 수 없음",
+          "staff": "직원의 실수"
         }
       }
     }
