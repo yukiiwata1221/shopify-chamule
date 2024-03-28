@@ -2929,7 +2929,19 @@
       },
       "edit_summary": {
         "removed": "deleted",
-        "removed_with_quantity": "{{quantity}} has been deleted"
+        "removed_with_quantity": "{{quantity}} has been deleted",
+        "updated_at": "Order updated to {{date}}",
+        "returned_with_quantities": "{{delta}} out of {{total}} pieces have been returned.",
+        "removed_with_quantities": "{{delta}} out of {{total}} have been deleted",
+        "return_line_item_removed": "Removed from returns"
+      },
+      "pickup": {
+        "pickup": "Receipt",
+        "pickup_location": "Pick up location",
+        "pickup_point": "Designated pick-up location"
+      },
+      "paid_with_shop_pay_installments_card": {
+        "paid_with_shop_pay_installments": "Paid with Shop Pay installments"
       }
     }
   }
