@@ -2333,7 +2333,17 @@
         "loading_message": "계정 메뉴를 로드하는 중"
       },
       "action_menu_accessibility_label": "기타 조작",
-      "close_menu_accessibility_label": "메인 메뉴 닫기"
+      "close_menu_accessibility_label": "메인 메뉴 닫기",
+      "contact_email_subject": "{{shopName}} 온라인 상점에서 문의",
+      "contact_link": "문의",
+      "dismiss_toast": "닫다",
+      "go_to_store_link": "상점으로 이동",
+      "nav_label_accessibility_label": "메인 메뉴",
+      "navigation_accessibility_message": "{{sectionName}}로 이동했습니다.",
+      "open_menu_accessibility_label": "메인 메뉴 열기"
+    },
+    "account_information": {
+      "loading_finished_accessibility_message": "계정 정보가 로드되었습니다."
     }
   }
 }
