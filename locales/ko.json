@@ -691,7 +691,19 @@
         "estimated_tax_label": "예정 납세",
         "multiple_shipping_lines_label": "배송 총",
         "original_price": "원래 가격",
-        "sale_price": "판매 가격"
+        "sale_price": "판매 가격",
+        "recurring_subtotal_label": "정기 소계",
+        "recurring_total_label": "정기 합계",
+        "recurring_total_tooltip": "배송비, 세금, 관세, 적용할 할인은 포함되지 않습니다.",
+        "gift_card_subscriptions_notice": "기프트 카드는 첫 결제에만 적용됩니다.",
+        "confirmation_number_label": "확인 번호: %{confirmation_number}",
+        "estimated_taxes_finalization_tooltip_content": "주문을 마친 후 최종 세금과 총 금액을 확인하기 위해 이메일 또는 짧은 이메일이 발송됩니다.",
+        "deferred_payment_info": {
+          "title": "%{amount_due} 결제 마감일은 %{due_at}",
+          "description_html": "주문에 대한 문의는 %{contact_us}",
+          "paid_today": "총 지불 (오늘)",
+          "due_on_fulfillment_title": "%{amount_due}의 지불 기한은 완성시"
+        }
       }
     }
   }
