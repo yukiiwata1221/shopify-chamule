@@ -265,27 +265,27 @@
       "first_name": "name",
       "last_name": "Last name",
       "email": "email address",
-      "password": "Password",
-      "submit": "Create",
-      "cancel": "Return to Store"
+      "password": "password",
+      "submit": "register",
+      "cancel": "Back to Store"
     }
   },
   "home_page": {
     "onboarding": {
       "product_title": "Example product",
-      "product_description": "This area is used to describe your product’s details. Tell customers about the look, feel, and style of your product. Add details on color,  materials used, sizing, and where it was made.",
+      "product_description": "This area is used to describe your product’s details. Tell customers about the look, feel, and style of your product. Add details on color, materials used, sizing, and where it was made.",
       "collection_title": "Example collection",
       "no_content": "This section doesn’t currently include any content. Add content to this section using the sidebar."
     }
   },
   "layout": {
     "cart": {
-      "title": "カート"
+      "title": "cart"
     },
     "customer": {
       "account": "アカウント",
-      "log_out": "ログアウト",
-      "log_in": "ログイン",
+      "log_out": "Logout",
+      "log_in": "Login",
       "create_account": "新規会員登録（無料）"
     },
     "footer": {
