@@ -2101,7 +2101,23 @@
       "reset_password_html": "이 이메일 주소는 이미 계정과 연결되어 있습니다. 이 계정이 귀하의 소유인 경우 <a href=\"\/account\/login#recover\">비밀번호를 재설정<\/a> 할 수 있습니다.",
       "verify_email": "이메일을 %{customer_email}에 전송했습니다. 이메일 주소를 인증하려면 이메일의 링크를 클릭하세요.",
       "blocked_address": "이 위치는 지원되지 않습니다.",
-      "product_not_available": "상품은 이 고객을 위해 공개되지 않습니다."
+      "product_not_available": "상품은 이 고객을 위해 공개되지 않습니다.",
+      "shop_404": {
+        "heros": {
+          "store_unavailable": "죄송합니다. 이 스토어는 현재 사용할 수 없습니다.",
+          "store_not_exist": "이 상점은 존재하지 않습니다.",
+          "no_storefront": "이 상점에는 아직 웹사이트가 없습니다."
+        },
+        "title": "EC 사이트를 만들어 온라인으로 판매하세요! Shopify의 전자상거래 소프트웨어",
+        "links": {
+          "explore_other_stores": "다른 상점 찾기"
+        },
+        "owner_ctas": {
+          "header": "당신은 상점 소유자입니까?",
+          "fix_domain": "새 URL 설정을 완료하고 %{domain_settings_link}으로 이동합니다. [ドメインを接続する]을 클릭하고 %{domain}를 입력합니다.<br>상점에 액세스할 수 없는 경우 %{forgot_your_store_link}페이지를 사용해 보세요.",
+          "forgot_your_store_link_text": "스토어 등록 취소"
+        }
+      }
     }
   }
 }
