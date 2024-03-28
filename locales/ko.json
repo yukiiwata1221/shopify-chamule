@@ -2551,8 +2551,16 @@
             "new_window_disclaimer": "(새 창 열기)"
           }
         },
-        "attempted_to_deliver_label": "배달을 시도했습니다."
-      }
+        "attempted_to_deliver_label": "배달을 시도했습니다.",
+        "there_was_a_problem_label": "문제가 발생했습니다."
+      },
+      "status_title": "주문 상황",
+      "buy_again_accessibility_label": "주문 ({{orderId}}) 재구매",
+      "manage": "관리하다",
+      "manage_accessiblity_label": "주문 ({{orderId}}) 관리",
+      "group_title_label": "{{groupTitle}}의 일부",
+      "havent_received_your_delivery": "배달물을 받지 않았습니까?",
+      "didnt_pick_up_order": "주문을 받지 못했습니까?"
     }
   }
 }
