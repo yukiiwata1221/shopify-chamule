@@ -1257,7 +1257,17 @@
         "invalid_number": "유효한 카드 번호를 입력하세요.",
         "invalid_expiry_date": "유효한 마감일을 입력하세요.",
         "invalid_cvc": "유효한 보안 코드를 입력하세요.",
-        "expired_card": "카드가 만료되었습니다. 다른 결제 방법을 선택하세요."
+        "expired_card": "카드가 만료되었습니다. 다른 결제 방법을 선택하세요.",
+        "card_declined": "카드가 거부되었습니다. 다시 시도하거나 다른 결제 방법을 사용하세요.",
+        "processing_error": "결제 처리 중에 문제가 발생했습니다. 다시 시도하거나 다른 결제 방법을 사용하세요.",
+        "call_issuer": "카드가 거부되었습니다. 다른 결제 방법을 사용하거나 자세한 내용은 은행에 문의하십시오.",
+        "test_mode_live_card": "이 상점에서는 실제 주문 또는 실제 결제를 허용하지 않습니다.",
+        "transient_error": "결제 처리 중에 문제가 발생했습니다. 이 페이지를 업데이트하거나 인터넷 연결을 확인하세요.",
+        "missing_shipping_address": "배송지 주소가 없기 때문에 결제를 처리할 수 없습니다. 배송지 주소를 추가하고 다시 시도해 주세요.",
+        "invalid_shipping_address": "배송지 주소를 찾을 수 없으므로 결제를 처리할 수 없습니다. 배송지 주소를 확인하고 다시 시도해 주세요.",
+        "successful_offsite_with_gift_card_error": "기프트 카드 결제를 처리하는 중에 문제가 발생했습니다. 다시 시도하거나 다른 결제 방법을 사용하세요.",
+        "development_store_order_limit_reached": "이 결제 처리 서비스에서 개발 스토어 주문 한도에 도달했습니다. 다른 주문을 하려면 테스트 결제 게이트웨이 서비스를 사용해야 합니다. %{development_store_order_testing_docs_link}에 대해 자세히 알아보기",
+        "development_store_with_order_limit": "테스트 주문을 하려면 테스트 결제 게이트웨이 서비스를 사용해야 합니다. %{development_store_order_testing_docs_link}에 대해 자세히 알아보기"
       }
     }
   }
