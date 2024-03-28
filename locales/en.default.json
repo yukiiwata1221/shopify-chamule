@@ -1942,8 +1942,27 @@
           },
           "week": {
             "other": "%{count}week"
+          },
+          "month": {
+            "one": "moon"
+          },
+          "year": {
+            "one": "Year",
+            "other": "%{count} year"
+          }
+        },
+        "recurring_totals_with_initial_order_shipping_discount": "First payment (%{total_price_with_discount}), then %{recurring_total}",
+        "recurring_totals_with_initial_order_shipping_discount_with_policies": {
+          "first_cycles": {
+            "one": ", then %{total_price}'s %{count} one-time payment",
+            "other": ", then %{total_price} and %{count} installments respectively."
           }
         }
+      },
+      "customer_payment_methods": {
+        "page_title": "Payment Method",
+        "title": "Payment Method",
+        "update_card_button_label": "Update your card"
       }
     }
   }
