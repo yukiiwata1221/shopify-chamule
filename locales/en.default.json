@@ -3100,7 +3100,16 @@
               "one": "Payment deadline is {{count}}",
               "other": "Payment deadline is {{count}} days"
             },
-            "banner_due_today": "Payment deadline is today"
+            "banner_due_today": "Payment deadline is today",
+            "title_with_date": "Payment deadline: {{date}}",
+            "title": "Payment date",
+            "description_overdue": "Payment is delayed.",
+            "description_partially_paid": "Part of this order has been paid and there is a balance.",
+            "title_due_on_receipt": "Payment deadline has not arrived yet",
+            "description_due_on_receipt": "You will receive an invoice when payment is due.",
+            "title_due_on_fulfillment": "Payment is due at time of fulfillment",
+            "description_due_on_fulfillment": "Payment is due when all items in this order are shipped.",
+            "description_waiting_for_manual_payment": "Once payment is received, your order will be marked as paid."
           }
         }
       }
