@@ -1292,7 +1292,18 @@
       },
       "alternative_payment_method_banner": {
         "express_checkout": "익스프레스 체크아웃",
-        "show_more_options": "기타 옵션 표시"
+        "show_more_options": "기타 옵션 표시",
+        "hide_more_options": "기타 옵션 숨기기",
+        "or_pay_another_way": "또는 다른 방법으로 지불",
+        "or_check_out_another_way": "또는 다른 방법으로 체크아웃",
+        "or_pay_with_credit_card": "또는 신용카드로 결제"
+      },
+      "processing": {
+        "redirecting_page_title": "리디렉션 중…",
+        "redirecting_title": "리디렉션 중…",
+        "redirecting_notice": "리디렉션하므로 조금 기다려주십시오.",
+        "continue_to_payment_gateway_notice": "결제로 이동하여 결제 정보를 입력합니다.",
+        "continue_to_payment_gateway_button_label": "결제로 이동"
       }
     }
   }
