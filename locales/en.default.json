@@ -2749,7 +2749,26 @@
         "come_back": "Please see this page for delivery status.",
         "company_tracking_number": "Tracking number for {{company}}:",
         "confirmed_title": "order confirmed",
-        "delivered_description": "This package has been delivered."
+        "delivered_description": "This package has been delivered.",
+        "delivered_title": "Your package has been delivered",
+        "estimated_delivery": "Estimated delivery date: {{date}}",
+        "in_review_description": "We will let you know if any further information is required or when your order is confirmed.",
+        "in_review_label": "Under confirmation",
+        "in_review_title": "Checking your order",
+        "no_tracking_number": "There is no tracking number for this package.",
+        "on_its_way_label": "Under delivery",
+        "on_its_way_title": "Your product is being delivered",
+        "out_for_delivery_label": "Under delivery",
+        "resume_tracking": "resume tracking",
+        "out_for_delivery_title": "Your package is being delivered",
+        "submitted_label": "sent",
+        "track_shipment": "track your package",
+        "request_return": "Return request",
+        "attempted_delivery_label": "absentee return",
+        "attempted_delivery_description": "Delivery could not be made.",
+        "confirmed_description": "Your order has been accepted.",
+        "on_its_way_description": "This package is currently being delivered.",
+        "out_for_delivery_description": "This package is currently being delivered."
       }
     }
   }
