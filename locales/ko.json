@@ -870,7 +870,13 @@
         },
         "missing_shipping_address": "배송지 주소를 찾을 수 없음",
         "split_cart_merchandise_quantity_label_standard": "%{quantity}개 항목",
-        "split_cart_merchandise_quantity_label_additional": "더%{quantity}개"
+        "split_cart_merchandise_quantity_label_additional": "더%{quantity}개",
+        "merchandise_quantity_label_inline_primary": "수량:%{quantity}",
+        "split_cart_merchandise_shipment_number": "수하물: %{number}\/%{total}",
+        "split_cart_multiple_shipment_label": "여러 배송",
+        "split_cart_ships_date": "배송%{date}",
+        "split_cart_multiple_shipment_quantity_label": "%{quantity}개의 수하물",
+        "split_cart_multiple_shipment_notice": "주문 상품은 수하물이 여러 개로 나뉘어 도착합니다."
       }
     }
   }
