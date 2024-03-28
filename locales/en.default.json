@@ -400,24 +400,26 @@
   },
   "shopify": {
     "sentence": {
-      "two_words_connector": "と",
-      "last_word_connector": "、と"
+      "two_words_connector": " and ",
+      "last_word_connector": ",and ",
+      "words_connector": "、 "
     },
     "checkout": {
       "general": {
-        "page_title": "お支払い",
-        "error_page_title": "エラー",
-        "skip_to_content": "スキップしてコンテンツに移動する",
-        "continue_button_label": "続ける",
-        "complete_purchase_button_label": "ご注文完了",
-        "pay_now_button_label": "今すぐ支払う",
+        "page_title": "Payment",
+        "error_page_title": "error",
+        "skip_to_content": "Skip to content",
+        "continue_button_label": "continue",
+        "complete_purchase_button_label": "Order completed",
+        "pay_now_button_label": "pay now",
         "authenticate_purchase_button_label": "支払いを認証",
         "edit_link_label": "編集",
         "print_policies_link_label": "印刷",
         "cart": "カート",
         "close_modal_label": "閉じる",
         "close_notice_label": "閉じる",
-        "expand_notice_label": "もっと見る"
+        "expand_notice_label": "もっと見る",
+        "breadcrumb": "breadcrumb trail"
       }
     }
   }
