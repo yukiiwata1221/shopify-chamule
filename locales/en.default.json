@@ -1202,7 +1202,16 @@
           "order_contains_subscriptions": "subscription",
           "order_contains_fixed_selling_plans": "Total price may exclude taxes, shipping, late fees, and some discounts. You will then proceed to checkout for the amount you will pay today."
         },
-        "purchase_options_agreement_label_html": "I understand that one or more items in my cart are deferred purchases or subscriptions. By continuing, I agree to <a class=\"link--small\" data-modal=\"true\" data-title-text=\"%{subscription_policy}\" href=\"%{policy_href}\">the cancellation policy<\/a> and authorize my selected payment method to be charged at the prices, times, and dates listed on this page until my order is fulfilled or, if permitted, until I cancel it.\n"
+        "purchase_options_agreement_label_html": "I understand that one or more items in my cart are deferred purchases or subscriptions. By continuing, I agree to <a class=\"link--small\" data-modal=\"true\" data-title-text=\"%{subscription_policy}\" href=\"%{policy_href}\">the cancellation policy<\/a> and authorize my selected payment method to be charged at the prices, times, and dates listed on this page until my order is fulfilled or, if permitted, until I cancel it.\n",
+        "card_vaulted_company_location": "Card for this location has been saved",
+        "order_covered_by_store_credit_notice": "Orders are eligible for store credit.",
+        "order_covered_by_redeemables_notice": "Orders are eligible.",
+        "store_credit": {
+          "label": "store credit",
+          "add_label": "Add Store Credit",
+          "buying_gift_card": "You cannot purchase gift cards using store credit",
+          "no_fixed_selling_plans": "Store credit is not available if you choose a deferred purchase"
+        }
       }
     }
   }
