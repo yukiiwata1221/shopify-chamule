@@ -1816,7 +1816,21 @@
       "review": {
         "title": "confirmation",
         "review_title": "Confirmation and payment",
-        "checkout_as_guest": "Purchase as a guest"
+        "checkout_as_guest": "Purchase as a guest",
+        "blocks": {
+          "contact_method_title": "contact address",
+          "billing_address_title": "Request",
+          "shipping_address_title": "Shipping address",
+          "shipping_method_title": "Distribution Method",
+          "payment_method_title": "Payment Method",
+          "change_link_label": "change",
+          "pick_up_in_store_shipping_method_html": "Pick up in store: %{location_name}",
+          "purchase_order_number_title": "Purchase order number",
+          "change_purchase_order_number_label": "Change purchase order number",
+          "no_purchase_order_number": "(No purchase order number)",
+          "due_after_order_reviewed_html": "Deadline after order is confirmed",
+          "review_title_free_order": "Confirm and complete your order"
+        }
       }
     }
   }
