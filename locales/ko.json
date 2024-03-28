@@ -2149,6 +2149,22 @@
         "invalid_credentials": "이메일 또는 비밀번호가 올바르지 않습니다.",
         "denylisted_reset_password": "현재 비밀번호가 안전하지 않아 계정에 액세스할 수 없습니다. 비밀번호를 업데이트하는 이메일이 전송됩니다.",
         "signup_disabled": "고객 계정 생성이 사용 중지되었습니다."
+      },
+      "address": {
+        "error_updating": "주소 업데이트에 실패했습니다.",
+        "created": "주소가 성공적으로 작성되었습니다.",
+        "error_creating": "주소를 만들지 못했습니다.",
+        "deleted": "주소 삭제에 성공했습니다.",
+        "error_deleting": "주소를 삭제하지 못했습니다."
+      },
+      "order": {
+        "not_available": "이 주문은 사용할 수 없습니다.",
+        "financial_status": {
+          "authorized": "오솔리",
+          "pending": "예약하다",
+          "paid": "결제",
+          "unpaid": "미지급"
+        }
       }
     }
   }
