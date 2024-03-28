@@ -117,19 +117,40 @@
       "home_link_title": "홈으로 돌아가기"
     },
     "social": {
-      "share_on_facebook": "공유"
+      "share_on_facebook": "공유하다",
+      "share_on_twitter": "트위터",
+      "share_on_pinterest": "그것을 핀",
+      "alt_text": {
+        "share_on_facebook": "페이스북에 공유",
+        "share_on_twitter": "트위터에 트윗하기",
+        "share_on_pinterest": "핀터레스트에 있는 핀"
+      }
     },
     "accessibility": {
       "skip_to_content": "콘텐츠로 건너뛰기",
       "close_modal": "닫기(esc)",
       "close": "닫다",
       "learn_more": "더 알아보기"
+    },
+    "drawers": {
+      "close_menu": "메뉴 닫기",
+      "navigation": "사이트 탐색",
+      "expand_submenu": "하위 메뉴 확장",
+      "collapse_submenu": "하위 메뉴 접기"
+    },
+    "currency": {
+      "dropdown_label": "통화"
+    },
+    "language": {
+      "dropdown_label": "언어"
     }
   },
   "blogs": {
     "article": {
       "tags": "태그",
-      "back_to_blog": "Back to {{ title }}"
+      "back_to_blog": "{{ title }}로 돌아가기",
+      "view_all": "모두보기",
+      "read_more": "계속 읽기"
     },
     "comments": {
       "title": "댓글 달기",
