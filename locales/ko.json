@@ -601,6 +601,24 @@
           "title": "구입할 수 없는 상품",
           "header": "장바구니에서 일부 항목이 삭제되었습니다.",
           "message": "이 항목은 B2B 주문에 사용할 수 없습니다."
+        },
+        "unpurchasable_product_generic": {
+          "title": "구입할 수 없는 상품",
+          "header": "장바구니에서 일부 항목이 삭제되었습니다.",
+          "message": "아이템은 구입할 수 없습니다.",
+          "status_column_header": "구매할 수 없음"
+        },
+        "unshippable_product": {
+          "title": "배송 불가",
+          "header": {
+            "one": "%{count}개의 항목을 배달할 수 없음",
+            "other": "%{count}개의 항목을 배달할 수 없음"
+          },
+          "message": {
+            "one": "주소에서 사용할 수 있는 배송 방법이 없으므로 이 항목은 장바구니에서 삭제됩니다.",
+            "other": "주소에 사용할 수 있는 배송 방법이 없기 때문에 이러한 항목은 장바구니에서 삭제됩니다."
+          },
+          "status_column_header": "배송 불가"
         }
       }
     }
