@@ -994,8 +994,20 @@
           "prepaid_initial_order_discounted_with_per_delivery_price": "First shipping fee (%{discounted_shipping_price})%{prepaid_delivery_frequency} (%{discounted_cost_per_delivery})",
           "prepaid_initial_order_discounted_with_renewal": "Initial shipping fee (%{discounted_shipping_price})%{prepaid_delivery_frequency}, and every %{billing_cycle} %{shipping_price}",
           "prepaid_initial_order_discounted_with_per_delivery_price_and_renewal": "First shipping charge (%{discounted_shipping_price})%{prepaid_delivery_frequency} (%{discounted_cost_per_delivery}), then %{shipping_price} every %{billing_cycle}",
-          "shipping_price_included": "include"
-        }
+          "shipping_price_included": "include",
+          "first_order_shipping_price_included": "Contains the first order, followed by %{recurring_order_shipping_price}",
+          "first_order_different_shipping_price": "%{first_order_shipping_price} (%{per_delivery_price} for each delivery) followed by %{recurring_order_shipping_price}",
+          "first_n_order_free": {
+            "one": "First order is free",
+            "other": "First %{count} orders are free"
+          },
+          "free_for_first_n_order": {
+            "other": "For the first %{count} orders"
+          }
+        },
+        "one_time_purchase_shipping": "One-time delivery",
+        "estimated_delivery_time": "Scheduled for delivery in %{time}",
+        "estimated_delivery_time_range": "Expected delivery date: %{min_time}–%{max_time}"
       }
     }
   }
