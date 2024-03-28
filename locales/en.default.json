@@ -876,8 +876,19 @@
           "title": "Payment due date for %{amount_due} is %{due_at}",
           "description_html": "For inquiries regarding orders, please contact %{contact_us}",
           "paid_today": "Payment total (today)",
-          "due_on_fulfillment_title": "Payment deadline for %{amount_due} is at the time of fulfillment."
-        }
+          "due_on_fulfillment_title": "Payment deadline for %{amount_due} is at the time of fulfillment.",
+          "due_on_receipt_title": "Receipt is due for payment of %{amount_due}"
+        },
+        "amount_off_shipping": "%{amount}off shipping",
+        "payment_terms_totals": {
+          "due_today": "Payment total (today)",
+          "due_later": "Payment total: %{due_at}",
+          "due_later_checkout_to_draft": "Payment total (later)",
+          "due_on_fulfillment": "Total payment at time of fulfillment",
+          "due_on_receipt": "Receipt payment total",
+          "total_paid": "payment total"
+        },
+        "higher_value_discount_applied": "<strong style=\"text-transform:uppercase\">%{code}<\/strong> could not be used in conjunction with an existing discount."
       }
     }
   }
