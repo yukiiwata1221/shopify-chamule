@@ -1415,7 +1415,17 @@
         "delivery_zone_not_found": "The specified area was not found in the specified country.",
         "payment_gateway_unsupported_for_development_store_html": "To place a test order, you must use a test payment gateway service. For more information, see <a href=\"%{docs_link}\">Test orders in your development store<\/a> .",
         "payment_gateway_unsupported_for_order_above_maximum_orders_html": "You have reached the limit for development store orders with this payment processing service. To place another order, you must use a test payment gateway service. For more information, see <a href=\"%{docs_link}\">Test orders in your development store<\/a> .",
-        "email_blank": "Enter email address"
+        "email_blank": "Enter email address",
+        "phone_blank": "Please enter your phone number",
+        "address_country_invalid": "Select your country\/region from the list",
+        "address_zip_invalid": "Please enter a valid zip code",
+        "gift_card_invalid": "Gift card \"••••%{last_four_characters}\" is currently invalid",
+        "vaulting_agreement_blank": "Payment for this order will occur at a later date, so you must continue to save a new credit card.",
+        "sms_marketing_phone_invalid": "Please enter a valid phone number",
+        "address_suggestion_did_you_mean_html": "Isn't it %{html}?",
+        "address_zip_invalid_for_province": "Please enter a valid postal code in %{province}",
+        "address_zip_too_long": "Postal code is too long (maximum 255 characters)",
+        "address_phone_invalid": "Please enter a valid phone number"
       }
     }
   }
