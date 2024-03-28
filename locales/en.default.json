@@ -515,7 +515,15 @@
           "tax": {
             "new_tax_must_be_accepted": "The new tax line in the seller's proposal must be approved to proceed.",
             "unresolvable_tax_terms": "The proposed condition is unresolvable given the current opportunity status.",
-            "delivery_price_is_abstract": "The associated delivery price is not specific."
+            "delivery_price_is_abstract": "The associated delivery price is not specific.",
+            "tax_exemption_not_supported": "Tax exemptions are not available for your current sales session.",
+            "tax_inclusivity_mismatch": "Please negotiate again with the specific value of totalTaxAndDutyAmount or totalAmountIncludedInTarget.",
+            "delivery_tax_exemption_not_supported": "Tax exemption is currently not available for delivery items.",
+            "proposed_allocations_required": "The Proposed Assignment field is empty.",
+            "merchandise_terms_must_be_defined": "Merchandise conditions must be defined.",
+            "merchandise_discount_terms_must_be_defined": "Merchandise discount conditions must be defined.",
+            "allocated_required": "The Assigned field is empty.",
+            "value_required": "The Value field is empty."
           }
         }
       }
