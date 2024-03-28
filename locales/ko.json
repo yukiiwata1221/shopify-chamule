@@ -702,8 +702,20 @@
           "title": "%{amount_due} 결제 마감일은 %{due_at}",
           "description_html": "주문에 대한 문의는 %{contact_us}",
           "paid_today": "총 지불 (오늘)",
-          "due_on_fulfillment_title": "%{amount_due}의 지불 기한은 완성시"
-        }
+          "due_on_fulfillment_title": "%{amount_due}의 지불 기한은 완성시",
+          "due_on_receipt_title": "%{amount_due} 지급이 영수증 마감일입니다."
+        },
+        "percent_off_shipping": "%{percent}% 할인 배송",
+        "amount_off_shipping": "%{amount}OFF 배송",
+        "payment_terms_totals": {
+          "due_today": "총 지불 (오늘)",
+          "due_later": "총 지불: %{due_at}",
+          "due_later_checkout_to_draft": "총 지불 (나중)",
+          "due_on_fulfillment": "완성시 지불 총",
+          "due_on_receipt": "영수증 지불 총",
+          "total_paid": "결제 합계"
+        },
+        "higher_value_discount_applied": "<strong style=\"text-transform:uppercase\">%{code}<\/strong>을 기존 할인과 함께 사용할 수 없습니다."
       }
     }
   }
