@@ -20,18 +20,18 @@
     },
     "password_page": {
       "login_form_heading": "Enter password",
-      "login_form_password_label": "パスワード",
-      "login_form_password_placeholder": "パスワード",
-      "login_form_submit": "ログイン",
-      "signup_form_email_label": "メールアドレス",
-      "signup_form_success": "登録が完了しました！",
+      "login_form_password_label": "password",
+      "login_form_password_placeholder": "password",
+      "login_form_submit": "Login",
+      "signup_form_email_label": "email address",
+      "signup_form_success": "Registration has been completed!",
       "admin_link_html": "Store owner? <a href=\"\/admin\" class=\"text-link\">Log in here<\/a>",
-      "password_link": "パスワード",
+      "password_link": "password",
       "powered_by_shopify_html": "This shop will be powered by {{ shopify }}"
     },
     "breadcrumbs": {
-      "home": "ホーム",
-      "home_link_title": "ホームに戻る"
+      "home": "home",
+      "home_link_title": "Return to home"
     },
     "social": {
       "share_on_facebook": "Share",
