@@ -1429,7 +1429,19 @@
         "order_updates_subscribe_to_email_notifications": "배송 상태 업데이트를 이메일로 받으세요.",
         "order_updates_subscribe_to_email_or_phone_notifications": "배송 상태 업데이트를 이메일이나 텍스트로 받으세요.",
         "order_updates_subscribe_to_phone_notifications": "배송 상태 업데이트를 텍스트로 받으세요.",
-        "order_updates_submit_subscription": "보내기"
+        "order_updates_submit_subscription": "보내기",
+        "track_shipment": "배송 상황 확인",
+        "order_status_confirmed_order_with_email_pick_up": "주문을 받을 준비가 되면 이메일을 받게 됩니다.",
+        "order_status_confirmed_order_with_phone_pick_up": "주문을 받을 준비가 되면 텍스트가 도착합니다.",
+        "order_status_confirmed_order_with_email_and_phone_pick_up": "주문을 받을 준비가 되면 이메일과 텍스트를 받게 됩니다.",
+        "pick_up_in_store_marker": {
+          "current": "상품의 현재 위치",
+          "shipping": "수취 위치"
+        },
+        "thank_you_confirmed_order_with_email_pick_up": "주문을 받을 준비가 되면 이메일을 받게 됩니다.",
+        "thank_you_confirmed_order_with_phone_pick_up": "주문을 받을 준비가 되면 텍스트가 도착합니다.",
+        "thank_you_confirmed_order_with_email_and_phone_pick_up": "주문을 받을 준비가 되면 이메일을 받게 됩니다.",
+        "ready_for_pickup_title": "주문을 받을 준비가 되었습니다."
       }
     }
   }
