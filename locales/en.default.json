@@ -635,6 +635,9 @@
             "saturday": "Saturday",
             "sunday": "Sunday"
           }
+        },
+        "datepicker": {
+          "show_previous_month": "Show last month ({{year}}{{month}})"
         }
       }
     }
