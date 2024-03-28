@@ -2382,9 +2382,25 @@
           },
           "editions": {
             "header": "Take a look at Shopify Editions",
-            "caption": "With the latest news on over 100 products, you can be more productive, more creative, and more powerful in commerce than you ever imagined."
+            "caption": "With the latest news on over 100 products, you can be more productive, more creative, and more powerful in commerce than you ever imagined.",
+            "link_text": "Find the latest editions"
+          },
+          "store_owner": {
+            "header": "Are you a store owner?",
+            "caption": "Can't access your store? Try the %{forgot_your_store_link} feature. If you would like to reactivate your store contacts, please visit %{shopify_support_link}."
           }
         }
+      }
+    },
+    "notices": {
+      "customer": {
+        "password_reset_error": "Password Reset Error",
+        "no_account_found": "Account not found.",
+        "invalid_credentials": "Your email or password is incorrect.",
+        "denylisted_reset_password": "Your account could not be accessed because your current password is not secure. You will receive an email to update your password."
+      },
+      "address": {
+        "updated": "Address updated successfully."
       }
     }
   }
