@@ -1858,6 +1858,30 @@
           "privacy_policy": "privacy policy",
           "terms_of_service": "terms of service"
         }
+      },
+      "shop_policies": {
+        "privacy_policy": "privacy policy",
+        "terms_of_service": "terms of service",
+        "legal_notice": "Description based on Specified Commercial Transactions Law",
+        "subscription_policy": "Subscription Policy",
+        "purchase_options_policy": "Purchase option policy",
+        "contact_information": "Contact Information",
+        "purchase_options_cancellation_policy": "cancellation policy"
+      },
+      "notifications": {
+        "title": "notify"
+      },
+      "order_payment_collection": {
+        "custom_line_item_description": "Amount paid for order%{order_name}",
+        "changes_summary": {
+          "removed": "deleted",
+          "subtracted": "%{count} has been deleted",
+          "returned": "%{count} pieces have been returned",
+          "return_line_item_removed": "Deleted %{count} pieces from returned goods."
+        },
+        "additional_payment_requested": "Payment required for %{total_outstanding}",
+        "checkout_review_and_pay": "%{order_name} order has been updated. After reviewing these changes, complete your payment and confirm your order.",
+        "order_updated_on": "Order updated in %{last_edited_at}."
       }
     }
   }
