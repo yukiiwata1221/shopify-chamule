@@ -2596,8 +2596,14 @@
       "shipping": {
         "address": "집으로 먼저 배송",
         "address_map_marker": "집으로 먼저 배송",
-        "method": "배포방법"
-      }
+        "method": "배포방법",
+        "one_time": "일회용 배송",
+        "subscription": "정기 구입품의 배송 방법"
+      },
+      "show_items": "항목 표시",
+      "subtitle": "확인일: {{date}}",
+      "summary_list_title_accessibility_label": "주문 항목",
+      "summary_totals_title_accessibility_label": "주문 총"
     }
   }
 }
