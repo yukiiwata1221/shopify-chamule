@@ -2000,7 +2000,19 @@
       },
       "redeemable_errors": {
         "gift_card": {
-          "duplicate": "기프트 카드는 고객의 주문에 이미 사용 중입니다."
+          "duplicate": "기프트 카드는 고객의 주문에 이미 사용 중입니다.",
+          "insufficient_funds": "이 기프트 카드에는 잔액이 없습니다.",
+          "expired": "이 기프트 카드가 만료되었습니다.",
+          "invalid": "유효한 기프트 카드를 입력하세요.",
+          "currency_mismatch": "%{shop_currency}의 기프트 카드만 사용할 수 있습니다.",
+          "generic": "기프트 카드를 체크아웃에 추가할 수 없습니다.",
+          "throttle_limit_exceeded": "시도 횟수의 최대 권한 수를 초과했습니다. 나중에 다시 시도해 주세요."
+        }
+      },
+      "shop_pay_external": {
+        "errors": {
+          "problem_loading": "Shop Pay를 로드하는 중에 문제가 발생했습니다.",
+          "try_again_later": "연결을 확인하거나 이 창을 닫고 잠시 후 다시 시도하십시오."
         }
       }
     }
