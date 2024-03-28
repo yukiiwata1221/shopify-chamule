@@ -2753,7 +2753,14 @@
         "location_picker_accessibility_label": "위치명:{{locationName}}"
       },
       "location_selection": {
-        "description": "장바구니에 이미 항목이있는 경우 위치를 변경하면 장바구니 가격과 수량에 영향을 줄 수 있습니다."
+        "description": "장바구니에 이미 항목이있는 경우 위치를 변경하면 장바구니 가격과 수량에 영향을 줄 수 있습니다.",
+        "list_loading_address_accessibility_message": "{{locationName}}의 주소를 로드 중입니다.",
+        "list_loading_finished_accessibility_message": "위치 목록이 로드되었습니다.",
+        "loading_store_accessibility_message": "상점으로 이동 중",
+        "title": "어떤 위치에서 구입합니까?",
+        "continue_to_store": "상점 계속",
+        "no_location_title": "개인 주문만",
+        "no_location_description": "{{company}}을 주문할 권한이 없습니다. 개인 주문은 계속할 수 있습니다."
       }
     }
   }
