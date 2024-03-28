@@ -747,7 +747,17 @@
           }
         },
         "alternative_payment_currency_total": "요청 금액:%{amount_due}",
-        "group_title_label": "'%{group_title}'의 일부"
+        "group_title_label": "'%{group_title}'의 일부",
+        "price_per_item": {
+          "accessibility_label": "아이템당%{price}",
+          "label": "%{price}\/유닛"
+        },
+        "updated_shipping_method": "배송 방법이 업데이트되었습니다: %{shipping_method}",
+        "discount_not_found": "입력한 코드와 일치하는 할인을 찾을 수 없습니다.",
+        "total_savings": "총 할인액",
+        "return_restocking_fee_label": "반품 수수료",
+        "return_shipping_fee_label": "반품 배송료",
+        "enter_shipping_address": "배송지 주소 입력"
       }
     }
   }
