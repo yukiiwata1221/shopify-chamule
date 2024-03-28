@@ -2353,7 +2353,23 @@
       "reset_password_html": "This email address is already associated with your account. If this account is yours, you can also <a href=\"\/account\/login#recover\">reset your password<\/a> .",
       "verify_email": "Email sent to %{customer_email}. Click the link in the email to verify your email address.",
       "blocked_address": "This location is not supported.",
-      "product_not_available": "The product is not published for this customer."
+      "product_not_available": "The product is not published for this customer.",
+      "shop_404": {
+        "title": "Create an EC site and sell online! Shopify e-commerce software",
+        "heros": {
+          "store_unavailable": "very sorry. This store is currently unavailable."
+        },
+        "links": {
+          "explore_other_stores": "Find other stores",
+          "start_free_trial": "Start your free trial"
+        },
+        "owner_ctas": {
+          "header": "Are you a store owner?",
+          "fix_domain": "Finish setting up the new URL and proceed to %{domain_settings_link}. Click [ドメインを接続する] and enter %{domain}.<br>If you can't access the store, try the %{forgot_your_store_link} page.",
+          "fix_domain_link_text": "Domain settings",
+          "forgot_your_store_link_text": "Unregister your store"
+        }
+      }
     }
   }
 }
