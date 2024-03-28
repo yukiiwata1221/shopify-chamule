@@ -673,7 +673,17 @@
         "cost_table_title": "비용 집계",
         "description_label": "상세한",
         "product_image_label": "상품 이미지",
-        "scroll_order_summary": "더 많은 제품을 보려면 스크롤"
+        "scroll_order_summary": "더 많은 제품을 보려면 스크롤",
+        "expand_order_summary_short": "표현하다",
+        "collapse_order_summary_short": "비표현",
+        "expand_order_summary": "주문 내용 표시 · 쿠폰 입력",
+        "collapse_order_summary": "주문 개요 숨기기",
+        "total_updated_label": "총 금액이 업데이트되었습니다.",
+        "order_total_updated_label": "업데이트 후 합계",
+        "unit_price": {
+          "content_html": "%{per_unit}%{accessible_separator}%{price}"
+        },
+        "pickup_label": "매장 수령"
       }
     }
   }
