@@ -2653,7 +2653,20 @@
       "edit_summary": {
         "added_with_quantity": "{{quantity}}이 추가되었습니다.",
         "removed": "삭제됨",
-        "removed_with_quantity": "{{quantity}}이 삭제되었습니다."
+        "removed_with_quantity": "{{quantity}}이 삭제되었습니다.",
+        "updated_at": "{{date}}에 주문이 업데이트되었습니다.",
+        "returned_with_quantities": "{{total}}개 중{{delta}}개 반품됨",
+        "removed_with_quantities": "{{total}}개 중 {{delta}}개 삭제됨",
+        "return_line_item_removed": "반품에서 삭제됨",
+        "return_line_item_removed_with_quantities": "반품에서 {{delta}}을 삭제했습니다."
+      },
+      "pickup": {
+        "pickup": "수령",
+        "pickup_location": "수취 위치",
+        "pickup_point": "지정 수취 장소"
+      },
+      "paid_with_shop_pay_installments_card": {
+        "paid_with_shop_pay_installments": "Shop Pay의 할부로 결제됨"
       }
     }
   }
