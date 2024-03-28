@@ -972,7 +972,15 @@
         "apple": {
           "connect": "클릭하여 Apple Pay 계정 연동",
           "not_available": "Apple Pay는 이 브라우저에서 사용할 수 없습니다. Apple Pay 계정을 연결하려면 Apple 기기의 Safari를 사용해야 합니다."
-        }
+        },
+        "billing_address_associated_with_mandate": "결제 방법과 관련된 주소 사용",
+        "billing_address_associated_with_mandate_info": "결제 주소를 변경하려면 신용카드 정보를 삭제하고 다시 입력하세요.",
+        "credit_card_vaulting_sign_in_banner_title": "신용카드 정보 저장",
+        "credit_card_vaulting_sign_in_banner_info": "로그인 또는 계정을 만들어 향후 구매를 위해 신용카드 정보를 저장합니다.",
+        "expiry_long": "(유효 기한 : %{month}\/%{year})",
+        "expiry_short": "(유효 기한 : %{month}\/%{year})",
+        "ftd_vault_credit_card_label": "신속한 체크아웃을 위해 이 신용카드 정보를 내 계정에 저장",
+        "delete_customer_mandate_modal_title": "이 결제 카드를 삭제하시겠습니까?"
       }
     }
   }
