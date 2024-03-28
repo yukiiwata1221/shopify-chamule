@@ -888,7 +888,16 @@
       "payment": {
         "amazon_payments_label": "아마존페이",
         "amazon_payments_login_hint": "Amazon에 로그인해야 합니다. '주문 완료'를 클릭하고 다음 페이지에서 입력하십시오.",
-        "amazon_payments_logout": "Amazon Pay에서 로그아웃"
+        "amazon_payments_logout": "Amazon Pay에서 로그아웃",
+        "amazon_payments_abandoned_mfa_challenge": "결제를 완료할 수 없습니다. 다른 결제 방법을 시도하거나 은행 또는 카드 발급 회사에 문의하십시오.",
+        "amazon_payments_failed_mfa_challenge": "선택한 결제 방법을 사용할 수 없습니다. 다른 방법을 선택하거나 은행 또는 카드 발급 회사에 문의하십시오.",
+        "amazon_payments_could_not_enqueue_authorize": "결제 처리 중 문제가 발생했습니다. 다시 시도하거나 다른 결제 방법을 사용하세요.",
+        "title": "지불",
+        "amount_left_to_pay_label": "지불 기한:",
+        "discount_button_action_label": "쿠폰 코드 적용",
+        "apply_gift_card_button_label": "적용하다",
+        "gift_card_balance_label": "잔액:",
+        "supported_card_brands_more_label": "등"
       }
     }
   }
