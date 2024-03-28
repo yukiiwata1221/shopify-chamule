@@ -59,29 +59,34 @@
       "save_html": "저장 {{ saved_amount }}",
       "collection_return": "{{ collection }}로 돌아가기",
       "next_product": "다음: {{ title }}",
-      "from_text_html": "from {{ price }}",
+      "from_text_html": "{{ price }}에서",
       "recent_products": "최근 본 아이템",
       "color_swatch_trigger": "색상",
       "sale": "판매",
       "sale_price": "판매 가격",
-      "regular_price": "정가"
+      "regular_price": "정가",
+      "reviews": "리뷰"
     }
   },
   "general": {
     "404": {
       "title": "페이지를 찾을 수 없습니다.",
-      "subtext_html": "<p>The page you were looking for does not exist.<\/p><p> <a href=\"&lt;span%20class=\" notranslate>{{ url }} '&gt;Continue shopping<\/a><\/p>"
+      "subtext_html": "<p>찾으시는 페이지가 존재하지 않습니다. <\/p><p><a href='{{ url }}'>쇼핑을 계속<\/a><\/p>"
     },
     "search": {
-      "no_results_html": "\" {{terms}} \"의 결과를 찾을 수 없습니다.",
-      "title": "검색",
-      "submit": "검색",
-      "placeholder": "검색...",
-      "results_for_html": "Your search for \" {{ terms }} \" revealed the following:",
+      "no_results_html": "\"{{terms}}\"의 결과를 찾을 수 없습니다.",
+      "title": "찾다",
+      "submit": "찾다",
+      "placeholder": "찾다...",
+      "results_for_html": "\"{{ terms }}\"에 대한 검색 결과는 다음과 같습니다.",
       "result_count": {
         "one": "{{ count }} 결과",
-        "other": "{{ count }} results"
-      }
+        "other": "{{ count }} 결과"
+      },
+      "view_more": "더보기",
+      "collections": "컬렉션:",
+      "pages": "페이지:",
+      "articles": "조항:"
     },
     "newsletter_form": {
       "newsletter_email": "이메일 주소 입력",
