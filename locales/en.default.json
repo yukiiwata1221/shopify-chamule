@@ -1093,7 +1093,25 @@
         "discount_button_action_label": "Apply coupon code",
         "gift_card_code_label": "gift card code",
         "apply_gift_card_button_label": "apply",
-        "supported_card_brands_more_label": "Such"
+        "supported_card_brands_more_label": "Such",
+        "card_number_label": "card number",
+        "card_number_placeholder": "card number",
+        "card_pay_with": "method of payment:",
+        "name_on_card_label": "card holder",
+        "name_on_card_placeholder": "card holder",
+        "card_expiry_label": "Expiration date (month\/year)",
+        "card_expiry_placeholder": "Expiration date (month\/year)",
+        "card_verification_value_label": "security code",
+        "card_verification_value_placeholder": "security code",
+        "card_expiry_date_explanation": "Input format for card expiration date: Month (two digits)\/Year (last two digits)",
+        "card_verification_value_explanation": "This is the 3-digit security code on the back of your card. American Express cards have a 4-digit code on the front.",
+        "card_verification_value_explanation_amex": "This is the 4-digit code on the front of your card.",
+        "card_verification_value_explanation_other": "This is the 3-digit security code on the back of your card.",
+        "card_start_label": "Publication date (month\/year)",
+        "card_start_placeholder": "Publication date (month\/year)",
+        "card_issue_number_label": "issue number",
+        "card_issue_number_placeholder": "issue number",
+        "card_change_label": "change"
       }
     }
   }
