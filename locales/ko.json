@@ -476,7 +476,17 @@
             "friday": "금요일",
             "saturday": "토요일",
             "sunday": "일요일"
+          },
+          "months": {
+            "july": "칠월",
+            "august": "팔월",
+            "september": "구월",
+            "october": "십월",
+            "november": "십일월"
           }
+        },
+        "datepicker": {
+          "show_previous_month": "지난 달 ({{year}}{{month}}) 표시"
         }
       }
     }
