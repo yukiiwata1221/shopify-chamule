@@ -331,7 +331,17 @@
             "pickup_points_unavailable": "지정 수취 장소는 현재 이용할 수 없습니다.",
             "local_pickup_delivery_line_detail_changed": "계속하려면 현재 매장 수령 배달 전략을 변경해야 합니다.",
             "local_pickup_no_delivery_strategy_available": "사용 가능한 상점 수령 배달 전략은 없습니다.",
-            "origin_location_id_required": "RETAIL 배송 방법을 요청하려면 원래 위치 ID가 필요합니다."
+            "origin_location_id_required": "RETAIL 배송 방법을 요청하려면 원래 위치 ID가 필요합니다.",
+            "invalid_origin_location_id": "인벤토리 공급자의 위치 ID와 일치하는 위치를 찾을 수 없습니다.",
+            "origin_location_id_not_allowed": "요청한 배송 방법은 원래 위치 ID에 해당하지 않습니다.",
+            "auto_fulfill_not_allowed": "이 세션에는 완성 동작을 덮어쓸 권한이 없습니다.",
+            "auto_fulfill_required": "RETAIL 배송 방법을 요청하려면 자동 선불이 필요합니다.",
+            "prefetch_shipping_rates_used": "사전 설정된 배송 요금은 결코 요금을 반환해서는 안 됩니다.",
+            "fulfillment_constraints_not_satisfied": "하나 이상의 선불 제한 규칙이 충족되지 않았습니다.",
+            "must_fulfill_from_constraint_not_satisfied": "요청한 위치에서 항목을 채울 수 없으므로 선불 제한 규칙이 충족되지 않았습니다.",
+            "must_fulfill_from_same_location_constraint_not_satisfied": "동일한 위치에서 항목을 채울 수 없기 때문에 선불 제한 규칙이 충족되지 않습니다.",
+            "delivery_strategy_conditions_not_satisfied": "이 위치에서는 배달 전략을 사용할 수 있지만 조건은 충족되지 않습니다.",
+            "out_of_stock_at_origin_location": "원래 위치에는 재고가 없습니다."
           }
         }
       }
