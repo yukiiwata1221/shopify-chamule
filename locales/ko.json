@@ -188,9 +188,24 @@
     },
     "addresses": {
       "company": "회사",
-      "city": "시",
-      "phone": "전화",
-      "edit": "편집"
+      "city": "도시",
+      "phone": "핸드폰",
+      "edit": "편집하다",
+      "title": "구애",
+      "default": "기본",
+      "add_new": "주소 추가",
+      "edit_address": "주소 수정",
+      "first_name": "이름",
+      "last_name": "이름",
+      "address1": "주소 1",
+      "address2": "주소 2",
+      "country": "국가",
+      "province": "주",
+      "zip": "우편번호",
+      "set_default": "기본 주소로 설정",
+      "add": "주소 추가",
+      "update": "주소 업데이트",
+      "cancel": "취소"
     },
     "login": {
       "title": "로그인",
@@ -226,7 +241,8 @@
       "subtext": "계정을 활성화하려면 비밀번호를 만드세요.",
       "password": "비밀번호",
       "submit": "계정 활성화",
-      "password_confirm": "비밀번호 확인"
+      "password_confirm": "비밀번호 확인",
+      "cancel": "초대 거절"
     }
   },
   "home_page": {
