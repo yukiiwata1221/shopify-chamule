@@ -1441,7 +1441,16 @@
         "thank_you_confirmed_order_with_email_pick_up": "주문을 받을 준비가 되면 이메일을 받게 됩니다.",
         "thank_you_confirmed_order_with_phone_pick_up": "주문을 받을 준비가 되면 텍스트가 도착합니다.",
         "thank_you_confirmed_order_with_email_and_phone_pick_up": "주문을 받을 준비가 되면 이메일을 받게 됩니다.",
-        "ready_for_pickup_title": "주문을 받을 준비가 되었습니다."
+        "ready_for_pickup_title": "주문을 받을 준비가 되었습니다.",
+        "ready_for_pickup_description": "주문 받을 준비가 되었습니다. 수령시 주문 확인서를 지참하십시오.",
+        "picked_up_title": "주문 수령이 완료되었습니다.",
+        "picked_up_description_html": "주문은 %{date}에 %{location_name}로 수집되었습니다.",
+        "shop_phone_description": "주문을 추적하기 위해 Shop 앱에 링크된 텍스트가 도착합니다.",
+        "ready_for_delivery_title": "주문의 배달 준비를 실시하고 있습니다",
+        "ready_for_delivery_description": "주문을 준비했습니다.",
+        "order_status_confirmed_order_local": "주문의 배달 준비를 실시하고 있습니다.",
+        "delivery_information_label": "납품 정보:",
+        "gift_card_sent_confirmation": "기프트 카드가 전송되었습니다."
       }
     }
   }
