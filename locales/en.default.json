@@ -2137,7 +2137,26 @@
         "cancel": "cancel",
         "your_location": "location",
         "search_button": "find store",
-        "no_stores_found": "Store not found"
+        "no_stores_found": "Store not found",
+        "could_not_resolve_address": "The address could not be determined. Please try again or use a different address",
+        "paginator": {
+          "accessibility_label": "Pagination of store pickup list",
+          "next": "Following page",
+          "label": {
+            "one": "%{count} stores %{first}～%{last}",
+            "other": "%{count} stores %{first}～%{last}"
+          }
+        },
+        "reveal_more_label": {
+          "one": "See %{count} more locations",
+          "other": "See %{count} more locations"
+        }
+      },
+      "captcha": {
+        "title": "Please complete the CAPTCHA to continue",
+        "errors": {
+          "not_solved": "Please complete the CAPTCHA to continue"
+        }
       }
     }
   }
