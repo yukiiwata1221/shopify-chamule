@@ -2466,6 +2466,24 @@
         "view_lines_limit_reached": "line must be less than 20001",
         "merchandise_line_transformers": {
           "run_error": "There was an error in your cart."
+        },
+        "gift_card_price_must_be_greater_than_zero": "Bundle product \"%{name}\" cannot be added to cart."
+      },
+      "storefront": {
+        "invalid_password": "your password is incorrect. please try again."
+      },
+      "tags": {
+        "add_articles": "Narrow your search to articles that also have the tag (%{tag})",
+        "add_products": "Refine selection to products matching tag %{tag})",
+        "remove_articles": "Expand your search to articles that do not have the tag (%{tag})",
+        "remove_products": "Delete tag (%{tag})"
+      },
+      "line_item": {
+        "item_status": {
+          "add_variant": "Added in %{delta}",
+          "increment_item": "Added in %{delta}",
+          "decrement_item": "%{delta} out of %{total} were deleted.",
+          "decrement_fulfilled_line_item": "%{delta} out of %{total} returned."
         }
       }
     }
