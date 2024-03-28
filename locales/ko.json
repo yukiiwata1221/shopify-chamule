@@ -1226,7 +1226,18 @@
         "address_city_contains_mathematical_symbols": "도시 이름에는 수학 기호를 포함할 수 없습니다.",
         "address_company_contains_mathematical_symbols": "회사 이름에는 수학 기호를 포함할 수 없습니다.",
         "address_zip_contains_mathematical_symbols": "우편번호에는 수학 기호를 포함할 수 없습니다.",
-        "address_province_invalid": "유효한 주를 선택하세요."
+        "address_province_invalid": "유효한 주를 선택하세요.",
+        "address_generic_invalid": "잘못된 항목"
+      },
+      "payment_errors": {
+        "generic_error": "결제 처리 중 문제가 발생했습니다. 다시 시도하거나 다른 결제 방법을 사용하세요.",
+        "rejected_transaction": "결제가 거부되었습니다. 다시 시도하거나 다른 결제 방법을 사용하세요.",
+        "credit_card_processing": "기술적인 이유로 결제를 처리할 수 없습니다. 몇 분 후에 다시 시도하거나 다른 결제 방법을 사용하세요.",
+        "order_total_changed": "총 주문 수가 변경되었으므로 결제를 처리할 수 없습니다. 총 주문 수를 확인한 후 다시 시도해 주세요.",
+        "payment_processing": "기술적인 이유로 결제를 처리할 수 없습니다. 다시 시도하거나 다른 결제 방법을 사용하세요.",
+        "paypal_zero_amount": "%{amount} 주문에는 PayPal을 사용할 수 없습니다. 주문이 올바른지 확인하고 PayPal 이외의 방법으로 체크아웃하세요.",
+        "paypal_invalid_token": "PayPal을 사용할 수 없습니다. 다시 시도하거나 다른 체크아웃 옵션을 사용하세요.",
+        "pay_later_failed": "Pay later에서 결제 처리 중 오류가 발생했습니다. 다른 결제 방법을 선택하고 다시 시도해 주세요."
       }
     }
   }
