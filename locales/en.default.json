@@ -1551,7 +1551,18 @@
             "link": "Login"
           }
         },
-        "direct_payment_terms": "The period is {{translatedName}}. The due date for card payment is {{dueDate}}."
+        "direct_payment_terms": "The period is {{translatedName}}. The due date for card payment is {{dueDate}}.",
+        "order_due_on_fulfillment_payment": "Your card will be charged once your order is fulfilled",
+        "order_due_on_fulfillment_choose_later": "Payment is due once the order is fulfilled.",
+        "draft_order_payment_due_later_no_terms": "Once your order is confirmed, it will be subject to payment.",
+        "draft_order_payment_due_later_no_terms_payment_selected": "Your card will be charged once your order is confirmed",
+        "draft_order_payment_due_later_terms": "Once the order is confirmed, it will enter the {{translatedName}} period.",
+        "draft_order_payment_due_on_fulfillment": "Payment is due once the order is confirmed and fulfilled.",
+        "fixed_payment_label": "The payment due date is {{dueDate}}.",
+        "fixed_direct_payment_terms": "The card payment deadline is {{dueDate}}."
+      },
+      "thank_you": {
+        "confirmation_email_sent_text": "A confirmation email has been sent to: %{email}"
       }
     }
   }
