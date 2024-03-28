@@ -2760,7 +2760,27 @@
         "title": "어떤 위치에서 구입합니까?",
         "continue_to_store": "상점 계속",
         "no_location_title": "개인 주문만",
-        "no_location_description": "{{company}}을 주문할 권한이 없습니다. 개인 주문은 계속할 수 있습니다."
+        "no_location_description": "{{company}}을 주문할 권한이 없습니다. 개인 주문은 계속할 수 있습니다.",
+        "try_new_search": "새 검색 시도"
+      },
+      "addresses": {
+        "add_billing_address_button": "청구지 주소 추가",
+        "add_billing_address_section_accessibility_label": "청구지 주소 추가",
+        "add_shipping_address_button": "배송지 주소 추가",
+        "add_shipping_address_section_accessibility_label": "배송지 주소 추가",
+        "billing_address_card_title": "첫 번째 숙소 요청",
+        "cancel_adding_billing_address_accessibility_label": "청구서 수신 주소 추가 취소",
+        "cancel_adding_shipping_address_accessibility_label": "배송지 주소 추가 취소",
+        "save_new_billing_address_accessibility_label": "청구지 주소 저장",
+        "save_new_shipping_address_accessibility_label": "배송지 주소 저장",
+        "shipping_address_card_title": "집으로 먼저 배송"
+      },
+      "orders": {
+        "draft_order_list": {
+          "hide_all_accessibility_label": "확인 중인 모든 주문 숨기기",
+          "show_all_accessibility_label": "확인 중인 모든 주문 보기",
+          "title": "예약하다"
+        }
       }
     }
   }
