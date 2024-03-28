@@ -612,7 +612,16 @@
         "display_name": "{{lastName}} {{firstName}}",
         "google_map_title": "Google Maps",
         "submit_for_review_button_label": "Submit for confirmation",
-        "submit_for_review_notice_label": "Payment will not be made until order is confirmed"
+        "submit_for_review_notice_label": "Payment will not be made until order is confirmed",
+        "continue_to_payment_plans_button_label": "Proceed to payment plan",
+        "choose_delivery_strategy": "Select delivery method",
+        "submit": "send",
+        "processing": "processing...",
+        "stepper": {
+          "increase": "{{type}} increase",
+          "decrease": "{{type}} decrease",
+          "minimum_reached": "The minimum of {{value}} has been reached"
+        }
       }
     }
   }
