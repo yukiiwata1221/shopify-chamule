@@ -3012,6 +3012,21 @@
           "choose_billing_address_from_list_button_accessibility_label": "목록에서 결제 주소를 선택하세요.",
           "missing_billing_address_error_message": "청구지 주소를 지정하세요."
         }
+      },
+      "expired": "이 카드가 만료되었습니다.",
+      "expires_soon": "이 카드는 곧 만료됩니다.",
+      "card_update_consent": "이 결제 방법은 향후 구매를 위해 저장됩니다.",
+      "credit_or_debit_card_title": "신용카드\/직불카드",
+      "google_pay": {
+        "errors": {
+          "generic": "Google Pay에 문제가 발생했습니다. 다시 시도하거나 다른 결제 방법을 사용하세요.",
+          "missing_billing_address": "Google Pay에는 결제 주소가 필요합니다. 계정에 1건을 추가하세요."
+        }
+      },
+      "apple_pay": {
+        "errors": {
+          "generic": "Apple Pay에 문제가 발생했습니다. 다시 시도하거나 다른 결제 방법을 사용하세요."
+        }
       }
     }
   }
