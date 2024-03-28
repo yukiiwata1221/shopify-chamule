@@ -1768,8 +1768,22 @@
           "sold_out": {
             "heading": "장바구니 상품은 매진되었습니다",
             "storefront_body": "상점으로 돌아가서 쇼핑을 계속",
-            "no_storefront_body": "죄송합니다만, 희망하시는 아이템은 입수할 수 없게 되어 있습니다."
+            "no_storefront_body": "죄송합니다만, 희망하시는 아이템은 입수할 수 없게 되어 있습니다.",
+            "link": "상점으로 돌아가기"
           }
+        },
+        "title": "큐",
+        "time_to_checkout_title": "체크아웃 시간 - {{shopName}}",
+        "estimated_wait_time": {
+          "calculating": "처리 시간 계산 중",
+          "less_than_one": "처리 시간: 1분 미만",
+          "one": "처리 시간:{{count}}min",
+          "other": "처리 시간:{{count}}min"
+        },
+        "last_checked": "(최종 확인 : {{time}})",
+        "footer": {
+          "heading": "이 페이지는 자동으로 업데이트되므로 업데이트하지 마십시오.",
+          "body": "장바구니의 항목은 체크아웃이 완료될 때까지 예약되지 않습니다."
         }
       }
     }
