@@ -2440,7 +2440,21 @@
           "previous": "앞으로"
         },
         "show_order_actions_accessibility_label": "주문 ({{name}})의 주문 작업 표시",
-        "more_than_four_products_accessibility_label": "주문에는 {{lineItemName1}}, {{lineItemName2}}, {{lineItemName3}} 및 {{numberOfAdditionalProducts}}개 이상의 상품이 있습니다."
+        "more_than_four_products_accessibility_label": "주문에는 {{lineItemName1}}, {{lineItemName2}}, {{lineItemName3}} 및 {{numberOfAdditionalProducts}}개 이상의 상품이 있습니다.",
+        "order_status_and_message": "{{orderStatus}}~{{message}}",
+        "plus_more_products": "{{numberOfAdditionalProducts}}개 이상의 상품",
+        "order_status_message": {
+          "list_view": {
+            "view_order_for_details": "주문 세부정보 보기",
+            "estimated_delivery": "배송 예정일:{{date}}",
+            "last_updated": "마지막 업데이트 날짜: {{date}}"
+          },
+          "table_view": {
+            "estimated_delivery": "예정 배송일:{{date}}"
+          }
+        },
+        "more_than_three_products_accessibility_label": "주문에는 {{lineItemName1}}, {{lineItemName2}}, 더 많은 상품이 {{numberOfAdditionalProducts}}개 있습니다.",
+        "filter_title": "필터링"
       }
     }
   }
