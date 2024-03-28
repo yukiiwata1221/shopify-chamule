@@ -619,7 +619,24 @@
             "other": "주소에 사용할 수 있는 배송 방법이 없기 때문에 이러한 항목은 장바구니에서 삭제됩니다."
           },
           "status_column_header": "배송 불가"
+        },
+        "price_update": {
+          "description": "이 제품의 가격이 변경되고 장바구니에서 업데이트되었습니다."
+        },
+        "return_to_store_label": "상점으로 돌아가기",
+        "item_label": {
+          "one": "{{count}}개의 아이템",
+          "other": "{{count}}개의 아이템"
+        },
+        "continue_cta_label": "체크아웃 계속",
+        "out_of_stock": {
+          "description": "이 제품은 판매가 끝나고 장바구니에서 제거되었습니다.",
+          "items_unavailable": "일부 아이템은 판매 종료되어 카트에서 삭제되었습니다."
         }
+      },
+      "order_summary": {
+        "title": "주문 개요",
+        "order_name_label": "주문 %{name}"
       }
     }
   }
