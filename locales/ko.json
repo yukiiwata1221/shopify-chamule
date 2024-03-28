@@ -2091,7 +2091,17 @@
       "invalid_region_in_country": "%{country} 지역에서 유효하지 않습니다.",
       "less_than_or_equal_to": "는 %{count} 이하이거나 같은 숫자여야 합니다.",
       "not_supported": "지원되지 않음",
-      "full_name_required": "성과 이름을 입력합니다."
+      "full_name_required": "성과 이름을 입력합니다.",
+      "invalid_for_card_type": "유효하지 않음",
+      "invalid_type": "죄송합니다. 이 유형의 카드는 접수하지 않습니다.",
+      "invalid_format": "형식이 잘못되었습니다.",
+      "expired": "만료됨",
+      "invalid_start_date_or_issue_number_for_debit": "시작일 또는 발행 번호가 필요합니다.",
+      "invalid_expiry_year": "유효한 만료 날짜가 아닙니다.",
+      "reset_password_html": "이 이메일 주소는 이미 계정과 연결되어 있습니다. 이 계정이 귀하의 소유인 경우 <a href=\"\/account\/login#recover\">비밀번호를 재설정<\/a> 할 수 있습니다.",
+      "verify_email": "이메일을 %{customer_email}에 전송했습니다. 이메일 주소를 인증하려면 이메일의 링크를 클릭하세요.",
+      "blocked_address": "이 위치는 지원되지 않습니다.",
+      "product_not_available": "상품은 이 고객을 위해 공개되지 않습니다."
     }
   }
 }
