@@ -283,10 +283,10 @@
       "title": "cart"
     },
     "customer": {
-      "account": "アカウント",
+      "account": "account",
       "log_out": "Logout",
       "log_in": "Login",
-      "create_account": "新規会員登録（無料）"
+      "create_account": "New member registration (free)"
     },
     "footer": {
       "social_platform": "{{ name }} on {{ platform }}"
