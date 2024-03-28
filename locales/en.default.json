@@ -650,8 +650,32 @@
           "or": {
             "wordConnector": "{{previousWords}}、{{anotherWord}}",
             "lastWordConnector": "{{previousWords}} or {{lastWord}}"
+          },
+          "narrow": {
+            "lastWordConnector": "{{previousWords}}、{{lastWord}}",
+            "wordConnector": "{{previousWords}}、{{anotherWord}}",
+            "twoWordConnector": "{{firstWord}}、{{secondWord}}"
+          }
+        },
+        "map": {
+          "cluster_title": {
+            "one": "Cluster of {{number}} markers"
           }
         }
+      },
+      "contact": {
+        "title": "information",
+        "address_title": "address",
+        "contact_method_title": "contact address",
+        "email_or_phone_label": "Email address or mobile phone number",
+        "email_or_phone_placeholder": "Email address or mobile phone number",
+        "stored_addresses_label": "address saved",
+        "new_address_label": "Use new address",
+        "first_name_label": "name",
+        "optional_first_name_label": "First name (any)",
+        "last_name_label": "surname",
+        "company_label": "company",
+        "optional_company_label": "Club (optional)"
       }
     }
   }
