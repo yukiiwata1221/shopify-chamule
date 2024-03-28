@@ -1640,6 +1640,15 @@
           "privacy_policy": "개인 정보 보호 정책",
           "terms_of_service": "이용 약관"
         }
+      },
+      "shop_policies": {
+        "privacy_policy": "개인 정보 보호 정책",
+        "terms_of_service": "이용 약관",
+        "legal_notice": "특정 상거래법에 근거한 표기",
+        "subscription_policy": "구독 정책"
+      },
+      "notifications": {
+        "title": "통지하다"
       }
     }
   }
