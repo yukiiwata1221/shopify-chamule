@@ -865,7 +865,19 @@
         "gift_card_ending": "Gift cards ending in %{last_characters}",
         "estimated_tax_label": "Estimated tax payment",
         "applied_free_shipping_discount_label": "applied",
-        "original_price": "original price"
+        "original_price": "original price",
+        "recurring_subtotal_label": "periodic subtotal",
+        "recurring_total_label": "Regular Total",
+        "recurring_total_tooltip": "Excludes shipping, taxes, duties and applicable discounts.",
+        "gift_card_subscriptions_notice": "Gift card applies only to first payment",
+        "confirmation_number_label": "Confirmation number: %{confirmation_number}",
+        "estimated_taxes_finalization_tooltip_content": "After placing your order, you will receive an email or text message to confirm the final tax amount and total amount.",
+        "deferred_payment_info": {
+          "title": "Payment due date for %{amount_due} is %{due_at}",
+          "description_html": "For inquiries regarding orders, please contact %{contact_us}",
+          "paid_today": "Payment total (today)",
+          "due_on_fulfillment_title": "Payment deadline for %{amount_due} is at the time of fulfillment."
+        }
       }
     }
   }
