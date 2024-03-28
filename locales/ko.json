@@ -922,7 +922,19 @@
         "order_covered_by_gift_cards_notice": {
           "one": "주문은 기프트 카드로 지불됩니다.",
           "other": "고객의 주문은 기프트 카드로 이루어졌습니다."
-        }
+        },
+        "offsite_gateway_redirect_hint": "“%{button_label}”을 클릭하면 안전하게 결제하기 위해 %{gateway_label}로 리디렉션됩니다.",
+        "offsite_gateway_redirect_hint_multi_currency_html": "%{gateway_label} 합계 %{total_shop_price}",
+        "billing_address_title": "첫 번째 숙소 요청",
+        "billing_address_description": "카드 또는 결제 방법과 일치하는 주소를 선택합니다.",
+        "billing_address_description_no_shipping_address": "카드나 결제 방법과 일치하는 주소를 입력하세요.",
+        "no_js_credit_card_fields_redirect_hint": "결제 정보를 추가하기 위해 리디렉션됩니다.",
+        "card_fields_container_prefix": "폼 컨테이너:",
+        "card_fields_unavailable_html": {
+          "one": "신용카드 및 직불카드 결제는 현재 이용하실 수 없습니다.<br><a href=\"%{current_url}\">이 페이지를 업데이트하거나<\/a> 다시 시도해 주세요.",
+          "other": "신용카드 및 직불카드 결제는 현재 이용하실 수 없습니다.<br><a href=\"%{current_url}\">이 페이지를 업데이트하거나<\/a> 다른 결제 방법을 사용해 보세요."
+        },
+        "card_fields_processing_error": "결제 처리 중에 문제가 발생했습니다. 이 페이지를 업데이트하거나 인터넷 연결을 확인하세요."
       }
     }
   }
