@@ -757,7 +757,18 @@
         "total_savings": "총 할인액",
         "return_restocking_fee_label": "반품 수수료",
         "return_shipping_fee_label": "반품 배송료",
-        "enter_shipping_address": "배송지 주소 입력"
+        "enter_shipping_address": "배송지 주소 입력",
+        "gift_card_applied": "기프트 카드가 적용되었습니다.",
+        "discount_code_applied": "쿠폰 코드가 적용되었습니다.",
+        "duties_included_label": "총 금액에는 적용되는 모든 세금과 관세가 추가되며 배송 시 추가 요금이 부과되지 않습니다."
+      },
+      "shipping": {
+        "title": "배달",
+        "shipping_method_title": "배포방법",
+        "waiting_on_rate_notice": "사용 가능한 배송비 로드 중",
+        "waiting_on_pickup_location_notice": "사용 가능한 수취 위치를 얻는 중…",
+        "no_rates_for_cart_or_destination_notice": "귀하의 장바구니 또는 주소에서 사용할 수있는 배송 방법이 없습니다.",
+        "no_pickup_location_notice": "하나 이상의 상품을 픽업할 수 없음"
       }
     }
   }
