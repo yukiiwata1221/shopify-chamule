@@ -2013,7 +2013,30 @@
         "footer": {
           "heading": "This page updates automatically, so please do not refresh it.",
           "body": "Items in your cart are not reserved until checkout is complete."
+        },
+        "too_many_attempts": {
+          "description": "Please try again later"
         }
+      },
+      "cart_checkout_validation": {
+        "runtime_error": "A problem occurred while processing your request. Please contact the store owner."
+      },
+      "deliverability": {
+        "not_deliverable": {
+          "title": {
+            "one": "%{count} items cannot be delivered",
+            "other": "%{count} items cannot be delivered"
+          },
+          "message": {
+            "one": "There are no delivery options available for your address, so this item will be removed from your cart.",
+            "other": "These items will be removed from your cart because no delivery method is available for your address."
+          },
+          "label": "Unable to deliver"
+        }
+      },
+      "no_address_location": {
+        "title": "Location without address",
+        "header": "No shipping address available for this location"
       }
     }
   }
