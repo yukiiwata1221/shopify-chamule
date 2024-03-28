@@ -1318,7 +1318,30 @@
         "subscription_heading": "subscription agreement",
         "use_order_billing_address_label": "Use your order's billing address",
         "use_location_shipping_address_label": "Use a location's shipping address",
-        "purchase_options_agreement_label_wallets": "By continuing to pay, you agree to future rates and cancellation policies listed on this page."
+        "purchase_options_agreement_label_wallets": "By continuing to pay, you agree to future rates and cancellation policies listed on this page.",
+        "gift_card_store_credit": {
+          "add_label": "Add gift cards and store credits",
+          "manage_label": "Manage gift cards and store credits"
+        },
+        "saved_credit_card_cvv_verification": "Please enter your card's security code to verify your identity.",
+        "order_edit_banner_updated_order_label": "Order updated",
+        "order_edit_banner_items_return_line_item_removed": {
+          "in_full": "Removed from returns",
+          "with_quantities": "Removed {{delta}} pieces from returned goods"
+        },
+        "order_edit_banner_single_item_return_line_item_removed": "Removed from returns",
+        "order_edit_banner_multiple_items_return_line_item_removed": "Removed {{amount}} pieces from returned goods",
+        "proposed_gateway_unavailable": "The proposed payment gateway service is not available",
+        "pay_in_installments_split_pay_short": "%{amount} 4 installments"
+      },
+      "payment_summary": {
+        "gift_card_current_balance_notice": "Current balance　%{amount}",
+        "credit_card_expires_on_notice": "Expiration date: %{month}\/%{year}",
+        "billing_address_title": "Request first accommodation",
+        "free_label": "free"
+      },
+      "field_errors": {
+        "handle_phone_invalid": "Please enter a valid phone number"
       }
     }
   }
