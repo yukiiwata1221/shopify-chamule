@@ -3175,7 +3175,25 @@
         "description": "There was a problem updating your address. Please refresh this page or check your internet connection."
       },
       "no_access": {
-        "back_to_authentication_link": "Log in to another account"
+        "back_to_authentication_link": "Log in to another account",
+        "description": "You are not registered as a B2B customer in {{shopName}}"
+      },
+      "no_access_to_locations": {
+        "description": "No access to any location"
+      },
+      "not_found": {
+        "description": "Please check the URL or try again later.",
+        "title": "There was a problem loading this page"
+      },
+      "order_not_found": {
+        "description": "This order does not exist or you do not have permission to view orders."
+      },
+      "profile_update_error": {
+        "description": "There was a problem updating your profile. Please refresh this page or check your internet connection."
+      },
+      "retry_action_label": "Try again",
+      "load_orders_error": {
+        "title": "Unable to load order"
       }
     }
   }
