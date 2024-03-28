@@ -2560,7 +2560,19 @@
       "manage_accessiblity_label": "주문 ({{orderId}}) 관리",
       "group_title_label": "{{groupTitle}}의 일부",
       "havent_received_your_delivery": "배달물을 받지 않았습니까?",
-      "didnt_pick_up_order": "주문을 받지 못했습니까?"
+      "didnt_pick_up_order": "주문을 받지 못했습니까?",
+      "let_us_know": "알려주세요.",
+      "contact_us": "문의하십시오.",
+      "if_you_didnt_receive_this": "이 주문을 받지 않은 경우,",
+      "if_not_received": {
+        "one": "받지 못하면",
+        "other": "받지 못하면"
+      }
+    },
+    "order_details": {
+      "billing_address": "첫 번째 숙소 요청",
+      "card_ending_with": "아래 4자리{{lastDigits}}",
+      "hide_items": "항목 숨기기"
     }
   }
 }
