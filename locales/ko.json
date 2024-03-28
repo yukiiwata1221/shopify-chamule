@@ -2,6 +2,10 @@
   "sections": {
     "map": {
       "address_query_limit_html": "You have exceeded the Google API usage limit. Consider upgrading to a <a href=\"https:\/\/developers.google.com\/maps\/premium\/usage-limits\">Premium Plan<\/a> ."
+    },
+    "slideshow": {
+      "pause_slideshow": "슬라이드쇼 일시중지",
+      "play_slideshow": "슬라이드쇼 재생"
     }
   },
   "collections": {
@@ -3094,7 +3098,18 @@
       "hide_bar": "막대 숨기기",
       "navigate_to_admin": "관리 화면으로 안내",
       "saved_at": "{{date}}의 {{time}}에 저장됨",
-      "viewing": "대표:"
+      "viewing": "대표:",
+      "actions_button": "액션",
+      "close_preview": "미리보기 닫기"
+    },
+    "settings": {
+      "log_out_everywhere": {
+        "title": "어디서나 로그아웃",
+        "description": "기기를 분실했거나 보안 문제가 있는 경우 계정을 안전하게 보호하기 위해 어디서나 로그아웃하세요.",
+        "button": "어디서나 로그아웃",
+        "warning_message": "이 기기에서도 로그아웃됩니다."
+      },
+      "loading_accessibility_message": "페이지 설정 로드 중"
     }
   }
 }
