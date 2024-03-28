@@ -636,7 +636,15 @@
       },
       "order_summary": {
         "title": "주문 개요",
-        "order_name_label": "주문 %{name}"
+        "order_name_label": "주문 %{name}",
+        "shopping_cart_label": "장바구니",
+        "discount_label": "쿠폰 코드",
+        "discount_placeholder": "쿠폰 코드",
+        "gift_card_title": "선물 카드",
+        "gift_card_label": "선물 카드",
+        "gift_card_and_discount_title": "쿠폰 코드 또는 기프트 카드",
+        "gift_card_and_discount_label": "쿠폰 코드 또는 기프트 카드",
+        "gift_card_and_discount_placeholder": "쿠폰 코드 또는 기프트 카드"
       }
     }
   }
