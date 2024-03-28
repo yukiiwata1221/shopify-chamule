@@ -1237,7 +1237,17 @@
         "payment_processing": "기술적인 이유로 결제를 처리할 수 없습니다. 다시 시도하거나 다른 결제 방법을 사용하세요.",
         "paypal_zero_amount": "%{amount} 주문에는 PayPal을 사용할 수 없습니다. 주문이 올바른지 확인하고 PayPal 이외의 방법으로 체크아웃하세요.",
         "paypal_invalid_token": "PayPal을 사용할 수 없습니다. 다시 시도하거나 다른 체크아웃 옵션을 사용하세요.",
-        "pay_later_failed": "Pay later에서 결제 처리 중 오류가 발생했습니다. 다른 결제 방법을 선택하고 다시 시도해 주세요."
+        "pay_later_failed": "Pay later에서 결제 처리 중 오류가 발생했습니다. 다른 결제 방법을 선택하고 다시 시도해 주세요.",
+        "three_d_secure_failed": "결제를 확인할 수 없습니다. 다시 시도하거나 다른 결제 방법을 사용하세요.",
+        "three_d_secure_throttled": "시도 횟수가 너무 많습니다. 다시 입력하기 전에 기다려주십시오.",
+        "subscription_agreement_blank": "구독을 구매하려면 결제 세부정보를 저장해야 합니다. 계속하려면 동의했는지 확인하거나 주문에서 구독 항목을 삭제하세요.",
+        "three_d_secure_failed_duplicate": "다른 신용카드 처리가 이미 진행 중이므로 신용카드의 3D 보안 인증에 실패했습니다.",
+        "insufficient_funds": "부족한 자금으로 인해 결제가 거부되었습니다. 다시 시도하거나 다른 결제 방법을 사용하세요.",
+        "payment_processing_no_retry": "기술적인 이유로 결제를 처리할 수 없습니다. 다른 결제 방법으로 시도해보십시오.",
+        "checkout_amount_changed": "체크아웃 시 미결제 금액이 변경되었으므로 결제를 처리할 수 없습니다. 주문을 확인하고 다시 시도해 주세요.",
+        "deferred_payment_not_allowed": "후불 결제는 할 수 없습니다. 주문을 확인하고 다시 시도해 주세요.",
+        "deferred_payment_required": "이 주문에는 후불 결제가 필요합니다. 주문을 확인하고 다시 시도해 주세요.",
+        "deferred_amount_changed": "후불 결제 금액이 변경되었기 때문에 결제를 처리할 수 없습니다. 주문을 확인하고 다시 시도해 주세요."
       }
     }
   }
