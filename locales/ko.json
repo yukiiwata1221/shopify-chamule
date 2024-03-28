@@ -2694,7 +2694,16 @@
       "loading_accessibility_message": "주소를 로드 중입니다.",
       "loading_addresses_accessibility_message": "주소를 로드 중입니다.",
       "loading_billing_accessibility_message": "청구지 주소를 로드 중입니다.",
-      "loading_finished_accessibility_message": "주소의 새 페이지가 로드되었습니다."
+      "loading_finished_accessibility_message": "주소의 새 페이지가 로드되었습니다.",
+      "pagination": {
+        "load_more": "추가로 로드",
+        "load_more_accessibility_label": "주소 추가 로드"
+      },
+      "loading_shipping_accessibility_message": "배송지 주소 로드 중",
+      "edit_modal_title": {
+        "billing": "청구서 수신 주소 수정",
+        "shipping": "배송지 주소 수정"
+      }
     }
   }
 }
