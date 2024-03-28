@@ -1450,7 +1450,19 @@
         "ready_for_delivery_description": "주문을 준비했습니다.",
         "order_status_confirmed_order_local": "주문의 배달 준비를 실시하고 있습니다.",
         "delivery_information_label": "납품 정보:",
-        "gift_card_sent_confirmation": "기프트 카드가 전송되었습니다."
+        "gift_card_sent_confirmation": "기프트 카드가 전송되었습니다.",
+        "out_for_delivery_local_title": "주문은 배송중입니다",
+        "out_for_delivery_local_description_html": "상품은 곧 도착하겠습니다.",
+        "delivered_local_title": "주문이 배송되었습니다",
+        "delivered_local_description_html": "아직 주문을 받지 않은 경우 %{let_us_know}.",
+        "let_us_know": "알려주세요.",
+        "qr_code": {
+          "title": "휴대전화로 추적",
+          "send_link_to_phone": "또는 휴대전화로 링크 보내기"
+        },
+        "gift_card_confirmation_by_text": "기프트 카드를 받지 못한 경우 텍스트를 다시 제출하거나 문의하시기 바랍니다.",
+        "gift_card_confirmation_by_email": "기프트 카드를 받지 못했다면 이메일을 다시 제출하거나 문의하시기 바랍니다.",
+        "gift_card_title": "선물 카드"
       }
     }
   }
