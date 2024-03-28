@@ -20,9 +20,10 @@
       "see_more": "더 보기",
       "items_with_count": {
         "one": "{{ count }} 제품",
-        "other": "{{ count }} products"
+        "other": "{{ count }} 제품"
       },
-      "see_less": "간략히 보기"
+      "see_less": "간략히 보기",
+      "no_matches": "죄송합니다. 이 컬렉션에는 제품이 없습니다."
     },
     "sorting": {
       "title": "정렬"
@@ -37,13 +38,21 @@
     "product": {
       "include_taxes": "(세금 포함)",
       "add_to_cart": "장바구니에 담기",
-      "shipping_policy_html": "<a href=\"&lt;span%20class=\" notranslate>{{ link}} '&gt;Shipping<\/a> calculated at checkout.",
-      "will_not_ship_until": "Ready to ship {{ date }}",
-      "will_be_in_stock_after": "Back in stock {{ date }}",
+      "shipping_policy_html": "<a href='{{ link }}'>배송비는<\/a> 결제 시 계산됩니다.",
+      "will_not_ship_until": "배송 준비 완료 {{ date }}",
+      "will_be_in_stock_after": "재입고 {{ date }}",
       "stock_label": {
         "one": "Low stock - {{ count }} item left",
         "other": "Low stock - {{ count }} items left"
-      }
+      },
+      "description": "설명",
+      "in_stock_label": "재고 있음, 배송 준비 완료",
+      "unavailable": "없는",
+      "sold_out": "매진",
+      "quantity": "수량",
+      "preorder": "선주문",
+      "waiting_for_stock": "재고가 진행 중입니다.",
+      "view_in_space": "내 공간에서 보기"
     },
     "general": {
       "save_html": "Save {{ saved_amount }}",
