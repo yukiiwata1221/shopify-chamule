@@ -1865,6 +1865,18 @@
             "cta": "페이지 업데이트"
           }
         }
+      },
+      "notice_banner": {
+        "return_to_cart_link_text": "장바구니로 돌아가기",
+        "return_to_cart_to_update_quantities": "%{return_to_cart_link_text}, 수량을 업데이트하세요.",
+        "subscription_changed": "구독 중 하나가 변경되었습니다.",
+        "company_location_changed": "장바구니가 업데이트되었습니다. 주문을 확인한 후 제출하십시오.",
+        "violations_title": "{{violation}}이(가) 없거나 잘못되었습니다.",
+        "individual_violations_title": {
+          "DeliveryViolations": "집으로 먼저 배송",
+          "PaymentViolations": "첫 번째 숙소 요청"
+        },
+        "all_violations_content": "이 정보를 업데이트하고 주문을 완료하려면 전화 또는 {{emailLink}}로 문의하세요."
       }
     }
   }
