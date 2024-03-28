@@ -3066,7 +3066,26 @@
           "pending_orders_count_more_than_pagination_length": "{{count}} or more"
         },
         "order_list_column_headers_location": "location",
-        "order_list_column_headers_contact": "contact address"
+        "order_list_column_headers_contact": "contact address",
+        "removed_company_contact_tooltip": "removed from company"
+      },
+      "draft_order_details": {
+        "draft_order_subtitle": "Confirmation date of order ({{draftOrderName}}): {{date}}",
+        "loading_finished_accessibility_message": "Order details loaded",
+        "payment_status": {
+          "draft": {
+            "description": "Payment details will be determined upon confirmation of order.",
+            "title": "outstanding amount",
+            "in_review": {
+              "description": "Payment details will be determined upon confirmation of order.",
+              "title": "unpaid"
+            },
+            "submitted": {
+              "description": "Please make payment to confirm this order.",
+              "title": "Make payment and confirm"
+            }
+          }
+        }
       }
     }
   }
