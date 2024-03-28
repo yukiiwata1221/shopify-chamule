@@ -3227,7 +3227,12 @@
         "next_payment_due": "Next payment deadline:{{dueDateInMonthDayYear}}",
         "edit_payment_method_button": "edit",
         "edit_payment_method_button_accessibility_label": "Edit payment methods ending in {{lastDigits}}",
-        "credit_card_details_accessibility_label": "Number at the end of the card:{{lastDigits}}"
+        "credit_card_details_accessibility_label": "Number at the end of the card:{{lastDigits}}",
+        "billing_title": "Request first accommodation",
+        "invalid_payment_method_message": "Please use your new credit card to continue accepting future orders.",
+        "replace_payment_method": "Change payment method",
+        "checkout_card_banner": "This payment method can only be used for pre-approved payments. If you are logged in to this store, it will not appear at checkout.",
+        "default_checkbox": "Set as Default"
       }
     }
   }
