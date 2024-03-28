@@ -1023,7 +1023,27 @@
         "no_working_method_error": "현재 이 상점에서는 결제를 수락할 수 없습니다. 페이지를 업데이트하거나 나중에 사용해 보세요.",
         "brand_not_available": "이 상점에서는 {{brand}}을 허용하지 않습니다. 다른 카드로 결제하십시오.",
         "shipping_rate_updated": "사용 가능한 배송 방법이 업데이트되었습니다. 체크아웃하기 전에 선택한 내용을 확인하십시오.",
-        "billing_address_invalid_phone": "{{label}} {{last_digits}} 청구지 주소의 전화번호를 업데이트하고 계속하세요."
+        "billing_address_invalid_phone": "{{label}} {{last_digits}} 청구지 주소의 전화번호를 업데이트하고 계속하세요.",
+        "billing_address_invalid_phone_no_card": "결제 주소의 전화번호를 업데이트하고 계속하세요.",
+        "preview_not_available": {
+          "title": "미리보기를 사용할 수 없습니다.",
+          "content": "안심하세요. 이 익스프레스 체크아웃은 고객에게 유효합니다.",
+          "button": "좋아요"
+        },
+        "card_fields": {
+          "errors": {
+            "required": {
+              "issue_date": "유효한 발행일을 입력하세요.",
+              "issue_number": "유효한 발행 번호를 입력하세요."
+            },
+            "invalid": {
+              "verification_value": "유효한 CVV 또는 보안 코드를 입력하세요."
+            }
+          }
+        },
+        "simulated_checkout": "미리보기는 곧 공개",
+        "vaulting_agreement_label": "신속한 체크아웃을 위해 결제 정보를 %{company}로 저장합니다.",
+        "business_customer_vaulting_payment_label": "체크아웃 시 이 카드를 저장하고 %{company}이 이 위치에서 향후 구매를 위해 이 카드에 청구할 수 있도록 승인합니다. 이 위치에 할당된 고객에게는 이 카드를 사용할 수 있는 권한이 있습니다."
       }
     }
   }
