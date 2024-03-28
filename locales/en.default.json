@@ -897,7 +897,19 @@
         "duties_label": "customs duty",
         "duties_and_taxes_label": "customs duties and taxes",
         "error_duties_tooltip": "Because this order is shipping from another country, customs duties and taxes may be charged upon delivery.",
-        "may_be_charged_on_delivery": "May be charged upon delivery"
+        "may_be_charged_on_delivery": "May be charged upon delivery",
+        "recurring_payments": "recurring payments",
+        "total_updated_label_with_price": "Total amount after update:%{totalPrice}",
+        "recurring_total_multiple_label": "This order will result in recurring charges for multiple items.",
+        "deferred_total_due_date_label": "Payment total: {{date}}",
+        "custom_discount": "custom discount",
+        "expand_component_information": {
+          "one": "Displaying %{count} items",
+          "other": "Displaying %{count} items"
+        },
+        "collapse_component_information": {
+          "one": "Hide %{count} items"
+        }
       }
     }
   }
