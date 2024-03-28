@@ -3141,6 +3141,18 @@
           "order_label": "Order ({{name}})",
           "draft_label": "Draft order ({{name}})"
         }
+      },
+      "purchase_order_number": {
+        "add_accessibility_label": "Add purchase order number",
+        "add_modal_title": "Add purchase order number",
+        "cancel": "cancel",
+        "close_modal_accessibility_label": "Close purchase order modal",
+        "discard": "destruction",
+        "discard_changes_modal_title": "Do you want to discard your changes?",
+        "edit_accessibility_label": "Edit purchase order number",
+        "edit_modal_title": "Editing a Purchase Order Number",
+        "empty_state": "No purchase order number",
+        "modal_po_number_input_label": "Purchase order number"
       }
     }
   }
