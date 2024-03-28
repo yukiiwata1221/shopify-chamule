@@ -1611,7 +1611,25 @@
           "change_purchase_order_number_label": "주문서 번호 변경",
           "no_purchase_order_number": "(주문서 번호 없음)",
           "due_after_order_reviewed_html": "주문이 확인된 후 기한",
-          "review_title_free_order": "주문을 확인하고 완료"
+          "review_title_free_order": "주문을 확인하고 완료",
+          "payment_method_saved_company_location": "이 위치의 카드 저장"
+        },
+        "block_title": "귀하의 정보를 확인",
+        "checkout_a_different_way": "다른 방법으로 체크아웃"
+      },
+      "marketing": {
+        "accept_marketing_checkbox_label": "뉴스와 제안을 이메일로 받기",
+        "unsubscribe": {
+          "title": "고객 등록을 취소했습니다.",
+          "description": "이것보다 고객에게 장바구니 알림 알림을 삼가하겠습니다."
+        },
+        "accept_sms_checkbox_label": "뉴스와 제안을 텍스트로 받기",
+        "sms": {
+          "disclaimer": {
+            "privacy_policy": "개인 정보 보호 정책",
+            "terms_of_service": "이용 약관",
+            "description_html": "텍스트로 가입하면 장바구니 알림을 포함한 자동 마케팅 메시지를 입력한 전화번호로 정기적으로 수신하는 데 동의하게 됩니다. 동의는 구매 조건이 아닙니다. 등록을 취소하려면 STOP에 회신하세요. 도움이 필요하면 HELP에 회신하십시오. 메시지의 빈도는 다릅니다. 메시지 요금이나 데이터 요금이 발생할 수 있습니다. %{privacy_policy_link}과 %{terms_of_service_link}를 표시한다."
+          }
         }
       }
     }
