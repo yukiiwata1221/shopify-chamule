@@ -853,7 +853,12 @@
         "shipping_used_as_billing_notice": "이 주문의 청구지 주소로도 사용됩니다.",
         "enter_address_manually_label": "주소를 수동으로 입력",
         "shipping_address_title": "배송지",
-        "add_delivery_instructions": "배송 안내 추가"
+        "add_delivery_instructions": "배송 안내 추가",
+        "address_more": "이 주소에 대한 기타 작업",
+        "address_confirm": "계정에서이 주소를 삭제하시겠습니까?",
+        "address_form": {
+          "generic_error": "주소를 저장하는 중에 문제가 발생했습니다. 다시 시도해 주세요."
+        }
       }
     }
   }
