@@ -3029,7 +3029,15 @@
       },
       "location_selection": {
         "description": "If you already have items in your cart, changing your location may affect the price and quantity in your cart.",
-        "list_accessibility_label": "location list"
+        "list_accessibility_label": "location list",
+        "list_loading_finished_accessibility_message": "List of locations loaded",
+        "loading_store_accessibility_message": "Moving to store",
+        "selection_cancel_button": "cancel",
+        "selection_confirmation_button": "Select location",
+        "title": "Which location would you like to purchase from?",
+        "continue_to_store": "continue store",
+        "no_location_title": "Individual orders only",
+        "no_location_description": "You are no longer authorized to place orders for {{company}}. Individual orders can still be placed."
       }
     }
   }
