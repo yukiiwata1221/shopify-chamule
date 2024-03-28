@@ -810,8 +810,22 @@
           "prepaid_initial_order_discounted_with_per_delivery_price": "첫 배송료 (%{discounted_shipping_price})%{prepaid_delivery_frequency} (%{discounted_cost_per_delivery})",
           "prepaid_initial_order_discounted_with_renewal": "첫 배송료 (%{discounted_shipping_price})%{prepaid_delivery_frequency}, 심지어 %{billing_cycle} 당 %{shipping_price}",
           "prepaid_initial_order_discounted_with_per_delivery_price_and_renewal": "첫 배송료 (%{discounted_shipping_price})%{prepaid_delivery_frequency} (%{discounted_cost_per_delivery}), 또한 %{billing_cycle} 당 %{shipping_price}",
-          "shipping_price_included": "포함"
-        }
+          "shipping_price_included": "포함",
+          "recurring_order_shipping_price": "나중에%{recurring_order_shipping_price}이 계속",
+          "first_order_shipping_price_included": "첫 주문이 포함된 다음 %{recurring_order_shipping_price}",
+          "first_order_different_shipping_price": "%{first_order_shipping_price} (배달 당 %{per_delivery_price}), 그 후 %{recurring_order_shipping_price}",
+          "first_n_order_free": {
+            "one": "첫 주문은 무료",
+            "other": "첫 %{count}회 주문은 무료"
+          },
+          "free_for_first_n_order": {
+            "one": "첫 주문의 경우",
+            "other": "첫 %{count}회 주문의 경우"
+          }
+        },
+        "one_time_purchase_shipping": "일회용 배송",
+        "estimated_delivery_time": "%{time}에 배송 예정",
+        "estimated_delivery_time_range": "%{min_time}–%{max_time}에 배송 예정"
       }
     }
   }
