@@ -286,34 +286,55 @@
       "log_in": "로그인",
       "create_account": "신규 회원 등록(무료)",
       "account": "계정"
+    },
+    "footer": {
+      "social_platform": "{{ name }} {{ platform }}에"
     }
   },
   "store_availability": {
     "general": {
-      "pick_up_available_at_html": "Pickup available at <strong>{{ location_name }}<\/strong>",
-      "pick_up_unavailable_at_html": "Pickup currently unavailable at <strong>{{ location_name }}<\/strong>"
+      "pick_up_available_at_html": "픽업 가능 장소: <strong>{{ location_name }}<\/strong>",
+      "pick_up_unavailable_at_html": "현재 픽업은 불가능합니다. <strong>{{ location_name }}<\/strong>",
+      "view_store_info": "매장정보 보기",
+      "check_other_stores": "다른 매장 재고 확인",
+      "pick_up_available": "픽업 가능",
+      "pick_up_currently_unavailable": "현재 픽업이 불가능합니다"
     }
   },
   "gift_cards": {
     "issued": {
-      "title_html": "Here's your {{ value }} gift card for {{ shop }} !",
-      "expired": "Expired on {{ expiry }}",
-      "active": "Expires on {{ expiry }}",
-      "print": "인쇄"
+      "title_html": "여기 {{ shop }}의 {{ value }} 기프트 카드가 있습니다!",
+      "expired": "{{ expiry }}에 만료됨",
+      "active": "{{ expiry }}에 만료됩니다.",
+      "print": "인쇄",
+      "disabled": "장애가 있는",
+      "subtext": "여기 기프트 카드가 있습니다!",
+      "redeem": "결제 시 이 코드를 사용하여 기프트 카드를 교환하세요.",
+      "shop_link": "쇼핑 시작",
+      "add_to_apple_wallet": "Apple Wallet에 추가"
     }
   },
   "date_formats": {
-    "month_day_year": "%월 %일, %년"
+    "month_day_year": "%월 일 년"
   },
   "pagefly": {
     "products": {
       "product": {
-        "back_to_collection": "Back to {{ title }}"
+        "back_to_collection": "{{ title }}로 돌아가기",
+        "regular_price": "정가",
+        "sold_out": "매진",
+        "unavailable": "없는",
+        "on_sale": "판매",
+        "quantity": "수량",
+        "add_to_cart": "장바구니에 추가",
+        "view_details": "세부 정보보기"
       }
     },
     "article": {
-      "by_author": "by {{ author }}",
-      "back_to_blog": "Back to {{ title }}"
+      "by_author": "작성자: {{ author }}",
+      "back_to_blog": "Back to {{ title }}",
+      "tags": "태그:",
+      "all_topics": "모든 주제"
     },
     "comments": {
       "name": "이름",
