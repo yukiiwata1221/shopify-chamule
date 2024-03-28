@@ -1389,7 +1389,15 @@
         "payment_gateway_unsupported_for_subscriptions": "This payment method is not available for subscription orders.",
         "address_first_name_too_long": "First name too long (maximum 255 characters)",
         "address_last_name_too_long": "Last name too long (maximum 255 characters)",
-        "address_address1_too_long": "First line of address is too long (maximum 255 characters)"
+        "address_address1_too_long": "First line of address is too long (maximum 255 characters)",
+        "address_address2_too_long": "Second line of address is too long (maximum 255 characters)",
+        "address_city_too_long": "City name is too long (maximum 255 characters)",
+        "address_company_too_long": "Company name is too long (maximum 255 characters)",
+        "address_first_name_contains_html_tags": "The name cannot contain HTML tags.",
+        "address_address1_contains_html_tags": "Street addresses cannot contain HTML tags.",
+        "address_address2_contains_html_tags": "Address 2 cannot contain HTML tags.",
+        "address_company_contains_html_tags": "Company names cannot contain HTML tags.",
+        "address_first_name_contains_emojis": "Name cannot contain emojis"
       }
     }
   }
