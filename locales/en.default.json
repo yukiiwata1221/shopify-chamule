@@ -1587,7 +1587,26 @@
         "order_status_confirmed_order_with_email_and_phone": "You will receive an email when your order is ready.",
         "order_status_updates_with_email": "Get shipping and delivery updates by email.",
         "order_status_updates_with_phone": "Get shipping and delivery updates via text.",
-        "order_status_updates_with_email_and_phone": "Get shipping and delivery updates by email."
+        "order_status_updates_with_email_and_phone": "Get shipping and delivery updates by email.",
+        "order_status_updates_with_missing": "Choose how you want to receive shipping status updates.",
+        "confirmed_title": "Your order has been confirmed",
+        "confirmed_description": "We have received your order. It is currently in preparation. Please see this page for delivery status.",
+        "order_updates_title": "Update order",
+        "order_updates_description_html": "A confirmation email was sent on %{customer_contact}",
+        "order_updates_past_step_prefix": "Completed steps: ",
+        "order_updates_upcoming_step_prefix": "Future steps: ",
+        "in_transit": "Under delivery",
+        "in_transit_title": "Your order is out for delivery",
+        "in_transit_description": "You will be notified of the progress of that order.",
+        "in_transit_description_days": "Your order will arrive within %{number} days.",
+        "in_transit_description_today": "Your order will arrive today.",
+        "in_transit_description_tomorrow": "Your order will arrive the next day.",
+        "no_tracking_number": "This order does not have a tracking number.",
+        "out_for_delivery": "Under delivery",
+        "out_for_delivery_title": "Your order is being delivered",
+        "out_for_delivery_description_html": "Your order is being delivered. We will arrive today. %{contact_us} if your order does not arrive within 2 days.",
+        "attempted_delivery": "absentee return",
+        "attempted_delivery_title": "We have attempted to deliver your order."
       }
     }
   }
