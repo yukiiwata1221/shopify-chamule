@@ -2616,8 +2616,20 @@
         "expand_events_label": "세부정보 보기",
         "hide_events_label": "세부정보 숨기기",
         "print_shipping_label": "배송 라벨 인쇄",
-        "ineligible_return_message": "이 주문의 항목은 반품 대상이 아닙니다."
-      }
+        "ineligible_return_message": "이 주문의 항목은 반품 대상이 아닙니다.",
+        "ineligible_return_message_when_returned": "이 주문의 추가 항목은 반품 대상이 아닙니다."
+      },
+      "request_return_failed": "요청을 처리하는 중에 문제가 발생했습니다. 다시 시도해 주세요.",
+      "mobile_summary_toggle_button": {
+        "open": "주문 요약 보기"
+      },
+      "shipment_timeline": {
+        "expand_events_label": "세부정보 보기",
+        "expand_events_accessibility_label": "주문 배송 세부정보 보기",
+        "hide_events_label": "세부정보 숨기기",
+        "hide_events_accessibility_label": "주문 배송 세부정보 숨기기"
+      },
+      "show_order_summary": "주문 요약 보기"
     }
   }
 }
