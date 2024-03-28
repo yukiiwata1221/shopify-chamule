@@ -94,12 +94,12 @@
       "submit": "등록하다"
     },
     "meta": {
-      "tags": "Tagged \" {{ tags }} \"",
+      "tags": "태그됨 \"{{ tags }}\"",
       "page": "페이지 {{ page }}"
     },
     "pagination": {
-      "previous": "&lt;&lt; 이전",
-      "next": "다음 &gt;&gt;"
+      "previous": "<< 이전",
+      "next": "다음 >>"
     },
     "password_page": {
       "login_form_heading": "비밀번호 입력",
@@ -109,7 +109,8 @@
       "signup_form_email_label": "이메일 주소",
       "signup_form_success": "등록이 완료되었습니다!",
       "password_link": "비밀번호",
-      "powered_by_shopify_html": "This shop will be powered by {{ shopify }}"
+      "powered_by_shopify_html": "이 상점은 {{ shopify }}에 의해 운영됩니다.",
+      "admin_link_html": "가게 주인? <a href=\"\/admin\" class=\"text-link\">여기에 로그인하세요<\/a>"
     },
     "breadcrumbs": {
       "home": "홈",
@@ -117,6 +118,12 @@
     },
     "social": {
       "share_on_facebook": "공유"
+    },
+    "accessibility": {
+      "skip_to_content": "콘텐츠로 건너뛰기",
+      "close_modal": "닫기(esc)",
+      "close": "닫다",
+      "learn_more": "더 알아보기"
     }
   },
   "blogs": {
