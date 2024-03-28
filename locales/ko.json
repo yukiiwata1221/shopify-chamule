@@ -363,7 +363,19 @@
             "merchandise_discount_terms_must_be_defined": "머천다이즈 디스칸트 조건을 정의해야 합니다.",
             "delivery_discount_terms_must_be_defined": "배달 디스캔트 조건을 정의해야 합니다.",
             "allocated_required": "할당됨 필드가 입력되지 않았습니다.",
-            "value_required": "값 필드가 입력되지 않았습니다."
+            "value_required": "값 필드가 입력되지 않았습니다.",
+            "line_splits_not_supported": "판매자 항목 필드는 판매자 제안서의 단일 항목 구성요소별로 분할되어야 합니다."
+          },
+          "payment": {
+            "manual_payments_not_allowed_for_b2b": "수동 결제 방법은 B2B 상점에서 허용되지 않습니다.",
+            "positive_amount_expected": "결제 금액은 0보다 큰 금액이어야 합니다.",
+            "total_amount_mismatch": "총 지불액이 결제액의 합계와 일치하지 않습니다.",
+            "subscription_terms_not_accepted": "정기 구매 조건이 수락되지 않았습니다.",
+            "missing_session_id": "신용카드 세션 정보가 입력되지 않았습니다.",
+            "gateway_not_supported": "결제 게이트웨이 서비스는 결제 방법의 저장을 지원하지 않습니다.",
+            "credit_card_last_name_required": "\"성\"은 nil이 될 수 없습니다.",
+            "credit_card_update_failed": "신용카드 업데이트에 실패했습니다.",
+            "installments_amount_invalid": "할부 결제 금액이 잘못되었습니다."
           }
         }
       }
