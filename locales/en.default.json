@@ -637,7 +637,20 @@
           }
         },
         "datepicker": {
-          "show_previous_month": "Show last month ({{year}}{{month}})"
+          "show_previous_month": "Show last month ({{year}}{{month}})",
+          "show_next_month": "Show next month ({{year}}{{month}})",
+          "range_start": "Range Start",
+          "in_range": "within range",
+          "range_end": "End of range"
+        },
+        "list_formatter": {
+          "and": {
+            "wordConnector": "{{previousWords}}、{{anotherWord}}"
+          },
+          "or": {
+            "wordConnector": "{{previousWords}}、{{anotherWord}}",
+            "lastWordConnector": "{{previousWords}} or {{lastWord}}"
+          }
         }
       }
     }
