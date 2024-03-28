@@ -1711,6 +1711,21 @@
             "other": "첫 %{count}회 지불은 각각 %{total_price}"
           },
           "following_cycles": ", 그 후 %{interval} 당 %{total_price}"
+        },
+        "recurring_total_intervals": {
+          "month": {
+            "one": "달"
+          },
+          "year": {
+            "one": "년도"
+          }
+        },
+        "recurring_totals_with_initial_order_shipping_discount": "첫 지불 (%{total_price_with_discount}), 심지어 %{recurring_total}",
+        "recurring_totals_with_initial_order_shipping_discount_with_policies": {
+          "first_cycles": {
+            "one": "이후 %{total_price}의 %{count}회불",
+            "other": ", 그 후 각각 %{total_price}의 %{count}회불"
+          }
         }
       }
     }
