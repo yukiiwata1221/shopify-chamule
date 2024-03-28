@@ -857,7 +857,15 @@
           "accessible_separator": "around",
           "content_html": "%{per_unit}%{accessible_separator}%{price}"
         },
-        "pickup_label": "Pick up in store"
+        "pickup_label": "Pick up in store",
+        "calculating_shipping": "Calculating...",
+        "no_pickup_location": "Pick-up is not available for this order. Please choose another delivery method.",
+        "estimated_taxes_label": "Estimated tax amount",
+        "information_estimated_taxes_label": "Tax (assumed)",
+        "gift_card_ending": "Gift cards ending in %{last_characters}",
+        "estimated_tax_label": "Estimated tax payment",
+        "applied_free_shipping_discount_label": "applied",
+        "original_price": "original price"
       }
     }
   }
