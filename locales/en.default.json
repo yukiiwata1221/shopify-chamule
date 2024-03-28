@@ -1433,7 +1433,19 @@
         "address_city_contains_mathematical_symbols": "City names cannot contain mathematical symbols",
         "address_company_contains_mathematical_symbols": "Company name cannot contain mathematical symbols",
         "address_zip_contains_mathematical_symbols": "Postal codes cannot contain mathematical symbols",
-        "address_province_invalid": "Please select a valid state"
+        "address_province_invalid": "Please select a valid state",
+        "address_generic_invalid": "invalid entry",
+        "address_generic_error": "field error"
+      },
+      "payment_errors": {
+        "generic_error": "There was a problem processing your payment. Please try again or use a different payment method.",
+        "rejected_transaction": "Payment has been declined. Please try again or use a different payment method.",
+        "credit_card_processing": "Your payment could not be processed due to technical reasons. Please try again in a few minutes or use a different payment method.",
+        "order_total_changed": "Your payment could not be processed because the total number of orders has changed. Please check your order total and try again.",
+        "payment_processing": "Your payment could not be processed due to technical reasons. Please try again or use a different payment method.",
+        "paypal_zero_amount": "PayPal cannot be used for orders of %{amount}. Please make sure your order is correct and checkout using a method other than PayPal.",
+        "paypal_invalid_token": "PayPal was not available. Please try again or use a different checkout option.",
+        "pay_later_failed": "An error occurred during payment processing with Pay Later. Please select a different payment method and try again."
       }
     }
   }
