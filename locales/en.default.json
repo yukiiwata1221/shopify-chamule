@@ -533,7 +533,17 @@
             "missing_session_id": "Credit card session information has not been entered.",
             "gateway_not_supported": "Payment gateway services do not support saving payment methods.",
             "credit_card_last_name_required": "\"Last name\" cannot be nil.",
-            "installments_amount_invalid": "The installment payment amount is invalid."
+            "installments_amount_invalid": "The installment payment amount is invalid.",
+            "installments_test_mode_not_allowed": "Test mode is not allowed.",
+            "installments_gift_card_not_allowed": "Gift cards cannot be used for installment payments.",
+            "installments_unsupported_currency": "This currency cannot be used for installment payments.",
+            "installments_unsupported_shipping": "We cannot ship to this address using installment payments.",
+            "installments_unsupported_billing": "This billing address cannot be used for installment payments.",
+            "installments_unsupported_subscriptions": "Subscriptions are not available for installment payments.",
+            "installments_ineligible_line_item": "Installment payments are not available for this purchase item.",
+            "shop_cash_not_allowed": "If you use Shop Cash, you must use Shop Pay.",
+            "shop_cash_unsupported_checkout_source": "This checkout is not available with Shop Cash.",
+            "shop_cash_gift_card_not_allowed": "Shop Cash cannot be used to purchase gift cards."
           }
         }
       }
