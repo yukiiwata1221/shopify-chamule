@@ -3285,7 +3285,31 @@
         "field_errors": {
           "credit_card_name_invalid": "Please enter your name exactly as it appears on your card",
           "credit_card_number_invalid": "Please enter a valid card number",
-          "credit_card_expiry_invalid": "Please enter a valid card expiration date"
+          "credit_card_expiry_invalid": "Please enter a valid card expiration date",
+          "credit_card_verification_value_blank": "Please enter your card's CVV or security code"
+        }
+      },
+      "add_payment_method": {
+        "billing_address": {
+          "title": "Request first accommodation",
+          "add_billing_address_button": "Newly added",
+          "choose_billing_address_from_list_button": "Select from list",
+          "choose_billing_address_from_list_button_accessibility_label": "Please select your billing address from the list",
+          "missing_billing_address_error_message": "Please provide your billing address"
+        }
+      },
+      "expires_soon": "This card is about to expire",
+      "expired": "This card has expired",
+      "digital_wallet_title": "digital wallet",
+      "credit_or_debit_card_title": "credit card\/debit card",
+      "google_pay": {
+        "errors": {
+          "generic": "There was a problem with Google Pay. Please try again or use a different payment method."
+        }
+      },
+      "apple_pay": {
+        "errors": {
+          "generic": "There was a problem with Apple Pay. Please try again or use a different payment method."
         }
       }
     }
