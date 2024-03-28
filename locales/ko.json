@@ -3037,7 +3037,32 @@
     },
     "payment_method_brands": {
       "visa": "비자",
-      "mastercard": "마스터 카드"
+      "mastercard": "마스터 카드",
+      "shoppay": "샵페이",
+      "applepay": "애플 페이",
+      "googlepay": "구글페이",
+      "paypal": "페이팔",
+      "americanexpress": "아메리칸 익스프레스",
+      "discover": "발견하다",
+      "dinersclub": "다이너스 클럽",
+      "elo": "얼마나 많이",
+      "visaelectron": "비자 일렉트론",
+      "forbrugsforeningen": "소비자 협회",
+      "maestro": "거장",
+      "dankort": "단코르트",
+      "hipercard": "하이퍼카드",
+      "unionpay": "유니온페이",
+      "laser": "레이저"
+    },
+    "enable_javascript": "탐색하려면 브라우저 설정에서 JavaScript를 활성화하거나 다른 브라우저로 로그인하세요.",
+    "ui_components": {
+      "closeNotification": "닫다",
+      "expandNotification": "더 보기",
+      "closeModal": "닫다",
+      "submit": "전송",
+      "processing": "처리 중...",
+      "minimumReached": "{{value}}의 최소값에 도달했습니다.",
+      "maximumReached": "{{value}}의 최대값에 도달했습니다."
     }
   }
 }
