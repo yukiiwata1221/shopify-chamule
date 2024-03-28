@@ -1028,8 +1028,17 @@
         "duties_and_taxes_options": {
           "ddu_title": "cash on delivery",
           "ddu_caption": "Additional charges may apply",
-          "ddp_title": "pay now"
-        }
+          "ddp_title": "pay now",
+          "ddp_caption": "No additional charges on delivery"
+        },
+        "shipping_method_combinations": {
+          "without_separator": "%{firstMethod}、%{secondMethod}",
+          "with_separator": "%{rest}、%{current}、"
+        },
+        "shipping_used_as_billing_notice": "Also used as the billing address for this order.",
+        "address_update": "Update your address",
+        "shipping_address_title": "Shipping address",
+        "add_address": "use a different address"
       }
     }
   }
