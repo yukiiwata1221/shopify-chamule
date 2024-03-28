@@ -2666,8 +2666,16 @@
         "pickup_point": "지정 수취 장소"
       },
       "paid_with_shop_pay_installments_card": {
-        "paid_with_shop_pay_installments": "Shop Pay의 할부로 결제됨"
-      }
+        "paid_with_shop_pay_installments": "Shop Pay의 할부로 결제됨",
+        "description": "Shop 앱 알림을 통해 결제 일정을 제대로 관리하세요.",
+        "desktop_qr_code_content": {
+          "title": "리맨더 스캔",
+          "description": "Shop Pay의 할부 알림을 받으세요."
+        }
+      },
+      "order_details": "주문 상세",
+      "login_to_view_all_order_details": "모든 주문 세부사항을 보려면 로그인하십시오.",
+      "remaining_amount": "남은"
     }
   }
 }
