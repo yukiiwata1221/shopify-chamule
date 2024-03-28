@@ -138,10 +138,10 @@
   },
   "collections": {
     "general": {
-      "catalog_title": "Catalog",
-      "all_of_collection": "全て見る",
-      "view_all_products_html": "{{ count }} 個の商品を見る",
-      "see_more": "もっと見る",
+      "catalog_title": "Cataloｇ",
+      "all_of_collection": "See all",
+      "view_all_products_html": "View {{ count }} items",
+      "see_more": "See more",
       "see_less": "Show less",
       "no_matches": "Sorry, there are no products in this collection.",
       "items_with_count": {
@@ -150,12 +150,12 @@
       }
     },
     "sorting": {
-      "title": "並び替え"
+      "title": "Sort"
     },
     "filters": {
-      "title_tags": "絞り込み",
-      "all_tags": "全商品",
-      "categories_title": "カテゴリー"
+      "title_tags": "Narrow down",
+      "all_tags": "All products",
+      "categories_title": "Category"
     }
   },
   "contact": {
@@ -318,7 +318,7 @@
       "quantity": "Quantity",
       "add_to_cart": "カートに追加する",
       "preorder": "Pre-order",
-      "include_taxes": "（税込）",
+      "include_taxes": "(tax included)",
       "shipping_policy_html": "<a href='{{ link }}'>Shipping<\/a> calculated at checkout.",
       "will_not_ship_until": "Ready to ship {{ date }}",
       "will_be_in_stock_after": "Back in stock {{ date }}",
