@@ -567,7 +567,16 @@
         "pick_up_in_two_to_four_days": "보통 2~4일 만에 준비 완료",
         "pick_up_in_five_or_more_days": "보통 5일 이상으로 준비가 완료됩니다.",
         "pick_up_in_zero_to_two_hours": "2시간 이내에 매장 수령 준비 완료",
-        "pick_up_in_two_to_four_hours": "4시간 이내에 수령 준비 완료"
+        "pick_up_in_two_to_four_hours": "4시간 이내에 수령 준비 완료",
+        "pick_up_locations": "수취 위치",
+        "shipping_address": "집으로 먼저 배송",
+        "pickup_point_method_definition": "지정 수취 장소에 배송",
+        "subscription_pickup_information": "이 배송 방법은 이 주문의 모든 항목과 이 구독의 향후 주문에 모두 적용됩니다.",
+        "pick_up_from_store": "상점에서 받기"
+      },
+      "customer_account": {
+        "not_user_label": "%{first_name}이 아닌가요?",
+        "have_an_account_label": "계정이 있으십니까?"
       }
     }
   }
