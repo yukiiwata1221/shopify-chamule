@@ -1,7 +1,11 @@
 {
   "sections": {
     "map": {
-      "address_query_limit_html": "You have exceeded the Google API usage limit. Consider upgrading to a <a href=\"https:\/\/developers.google.com\/maps\/premium\/usage-limits\">Premium Plan<\/a> ."
+      "address_query_limit_html": "Google API 사용 제한을 초과했습니다. <a href=\"https:\/\/developers.google.com\/maps\/premium\/usage-limits\">프리미엄 플랜<\/a> 으로 업그레이드하는 것을 고려해 보세요.",
+      "auth_error_html": "Google 지도 계정을 인증하는 중에 문제가 발생했습니다. 앱의 <a href=\"https:\/\/developers.google.com\/maps\/documentation\/javascript\/get-api-key\">JavaScript API<\/a> 및 <a href=\"https:\/\/developers.google.com\/maps\/documentation\/geocoding\/get-api-key\">Geocoding API<\/a> 권한을 생성하고 활성화합니다.",
+      "address_no_results": "해당 주소에 대한 검색결과가 없습니다.",
+      "address_error": "해당 주소를 찾는 중에 오류가 발생했습니다.",
+      "get_directions": "길찾기"
     },
     "slideshow": {
       "pause_slideshow": "슬라이드쇼 일시중지",
@@ -11,13 +15,14 @@
   "collections": {
     "general": {
       "all_of_collection": "모두 보기",
-      "catalog_title": "카탈로그",
-      "view_all_products_html": "{{ count }} 개의 상품 보기",
+      "catalog_title": "카탈로ｇ",
+      "view_all_products_html": "{{ count }}개의 상품 보기",
       "see_more": "더 보기",
       "items_with_count": {
         "one": "{{ count }} 제품",
         "other": "{{ count }} products"
-      }
+      },
+      "see_less": "간략히 보기"
     },
     "sorting": {
       "title": "정렬"
