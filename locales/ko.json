@@ -1662,7 +1662,21 @@
         },
         "additional_payment_requested": "%{total_outstanding} 결제 필요",
         "checkout_review_and_pay": "%{order_name} 주문이 업데이트되었습니다. 이러한 변경 사항을 확인한 후 결제를 완료하고 주문을 확인하십시오.",
-        "order_updated_on": "%{last_edited_at}에 주문이 업데이트되었습니다."
+        "order_updated_on": "%{last_edited_at}에 주문이 업데이트되었습니다.",
+        "order_review_and_pay": "주문이 업데이트되었습니다. 확인 후 지불을 마치고 주문을 확인하십시오.",
+        "pay_now": "지금 지불"
+      },
+      "change_currency": {
+        "currency_button_label": "%{currency} (%{currency_symbol})",
+        "credit_card_will_be_charged_html": "%{amount}이 신용카드로 청구됩니다.",
+        "payment_total_label": "결제 합계",
+        "conversion_rate": "1 %{from_currency_code} = %{rate}%{to_currency_code}",
+        "change_currency_link": "%{currency_name}로 변경",
+        "card_provider_fx_charges_warning": "카드 제공업체가 %{currency_code} 거래에서 수수료를 청구할 수 있습니다.",
+        "currency_not_supported_by_shop": "선택한 통화를 더 이상 사용할 수 없습니다. 모든 가격은 %{currency_code}로 표시됩니다."
+      },
+      "tips": {
+        "title": "가게 지원"
       }
     }
   }
