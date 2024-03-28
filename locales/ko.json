@@ -1727,6 +1727,30 @@
             "other": ", 그 후 각각 %{total_price}의 %{count}회불"
           }
         }
+      },
+      "customer_payment_methods": {
+        "delete_customer_mandate": {
+          "success_message": "결제 방법이 제대로 삭제되었습니다.",
+          "generic_error": "요청을 처리하는 중에 문제가 발생했습니다."
+        }
+      },
+      "mor_policies": {
+        "terms_and_conditions": "최종 판매 책임을 지는 상업자(Merchant of Record) 이용 약관",
+        "privacy_policy": "최종 판매 책임을 지는 상업자(Merchant of Record)의 프라이버시 정책"
+      },
+      "contextual_availability": {
+        "title": {
+          "one": "사용할 수 없는 상품",
+          "other": "사용할 수 없는 상품"
+        },
+        "products_not_available": {
+          "one": "이 제품은 해당 국가\/지역에서 사용할 수 없으므로 장바구니에서 삭제됩니다.",
+          "other": "이 제품은 해당 국가\/지역에서 사용할 수 없으므로 장바구니에서 삭제됩니다."
+        },
+        "all_products_in_cart_unavailable": {
+          "one": "이 제품은 거주 국가\/지역에서 사용할 수 없습니다.",
+          "other": "이 제품은 해당 국가\/지역에서 사용할 수 없습니다."
+        }
       }
     }
   }
