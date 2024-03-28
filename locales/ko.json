@@ -1847,6 +1847,23 @@
         "number_of_pickup_points_near_location": {
           "one": "위치 근처에 %{count}곳의 지정된 수령 장소가 있습니다.",
           "other": "위치 근처에 %{count}곳의 지정된 수령 장소가 있습니다."
+        },
+        "waiting_on_pickup_point_location_notice": "지정된 수령 장소 검색 중 ...",
+        "geolocation": {
+          "shared_location_button": "위치 사용",
+          "errors": {
+            "unsuported_by_browser": "귀하의 브라우저는 지리적 위치 획득을 지원하지 않습니다. 다시 시도하거나 다른 브라우저를 사용하세요.",
+            "permission_denied": "위치를 가져오지 못했습니다. 다시 시도해 주세요."
+          }
+        }
+      },
+      "error_page": {
+        "terminal": {
+          "title": "체크아웃에 문제가 발생했습니다.",
+          "message": "이 페이지를 업데이트하거나 잠시 후 다시 시도해 주세요.",
+          "action": {
+            "cta": "페이지 업데이트"
+          }
         }
       }
     }
