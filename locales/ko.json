@@ -2812,6 +2812,23 @@
               "description": "이 주문을 확정하려면 결제하십시오.",
               "title": "결제를 통해 확인"
             }
+          },
+          "paid": {
+            "description": "이 주문은 전액 결제되었습니다.",
+            "title_with_date": "결제됨{{date}}"
+          },
+          "pay_now": "지금 지불",
+          "title": "결제 상황",
+          "pending": {
+            "banner_overdue": {
+              "one": "결제가{{count}}일 늦었음",
+              "other": "결제가{{count}}일 늦었음"
+            },
+            "banner_due": {
+              "one": "지불기한은{{count}}",
+              "other": "지불기한은{{count}}일"
+            },
+            "banner_due_today": "지불기한은 오늘"
           }
         }
       }
