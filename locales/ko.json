@@ -3067,7 +3067,22 @@
       "august": "팔월",
       "september": "구월",
       "october": "십월",
-      "november": "십일월"
+      "november": "십일월",
+      "mondayAbbreviation": "월요일",
+      "tuesdayAbbreviation": "화요일",
+      "wednesdayAbbreviation": "수요일",
+      "thursdayAbbreviation": "목요일",
+      "fridayAbbreviation": "금요일",
+      "saturdayAbbreviation": "토요일",
+      "sundayAbbreviation": "일요일",
+      "showNextMonth": "다음 달 ({{year}}{{month}}) 표시",
+      "showPreviousMonth": "지난 달 ({{year}}{{month}}) 표시",
+      "rangeEnd": "범위 종료",
+      "autocompleteOptionsAvailable": {
+        "one": "사용 가능한 {{count}}개 항목",
+        "other": "{{count}} 사용 가능"
+      },
+      "removeItem": "{{label}} 삭제"
     }
   }
 }
