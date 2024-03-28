@@ -553,7 +553,15 @@
             "invalid_card_source": "You do not have permission to use this card source in this session.",
             "wallet_content_missing": "Wallet contents have not been entered.",
             "payment_instrument_not_found": "No payment method found",
-            "unauthorized_capture_method": "Setting the payment confirmation method is not allowed."
+            "unauthorized_capture_method": "Setting the payment confirmation method is not allowed.",
+            "saved_payment_methods_not_allowed": "Saved payment method is not allowed.",
+            "saved_payment_methods_not_enabled": "Your saved payment method is not valid for this shop.",
+            "store_credit_not_enabled": "Store credit is not valid at this store.",
+            "store_credit_account_mismatch": "The store credit account does not match the buyer's identity.",
+            "store_credit_mismatched_currency": "The currency of your store credit account does not match the currency of your checkout.",
+            "store_credit_insufficient_funds": "There are insufficient funds in your store credit account.",
+            "store_credit_buying_gift_card": "You cannot purchase gift cards using store credit.",
+            "method_required": "You will need to suggest a payment method."
           }
         }
       }
