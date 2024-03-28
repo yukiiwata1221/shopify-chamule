@@ -2720,7 +2720,20 @@
       "default_address_update_success_notification": "기본 주소가 업데이트되었습니다.",
       "loading_add_form_accessibility_message": "새 주소 양식을 로드하는 중",
       "loading_edit_form_accessibility_message": "편집 주소 양식 로드 중",
-      "loading_finished_accessibility_message": "주소 양식이 로드되었습니다."
+      "loading_finished_accessibility_message": "주소 양식이 로드되었습니다.",
+      "save_accessibility_label": "주소 ({{address}} 저장",
+      "update_success_notification": "주소가 업데이트되었습니다.",
+      "attention": "받는 사람",
+      "attention_help_text": "개인명 또는 부문명",
+      "attention_company": "회사\/받는 사람"
+    },
+    "B2B": {
+      "account_information": {
+        "company_card_name_label": "회 사 명"
+      },
+      "locations": {
+        "contact_email": "메일"
+      }
     }
   }
 }
