@@ -911,7 +911,18 @@
         "card_start_label": "발행일(월\/년)",
         "card_start_placeholder": "발행일(월\/년)",
         "card_issue_number_label": "발행번호",
-        "card_issue_number_placeholder": "발행번호"
+        "card_issue_number_placeholder": "발행번호",
+        "ends_with_label": "끝 번호: %{last_digits}",
+        "saved_by_payment_method": "%{payment_method}로 저장했습니다.",
+        "pay_with_payment_method": "%{payment_method}로 지불",
+        "same_billing_address_label": "배송지 주소와 동일",
+        "different_billing_address_label": "다른 청구지 주소 사용",
+        "free_order_notice_html": "고객의 주문은 <strong>무료<\/strong> 입니다. 결제가 필요하지 않습니다.",
+        "express_checkout_free_order": "무료 주문에는 요금이 부과되지 않습니다.",
+        "order_covered_by_gift_cards_notice": {
+          "one": "주문은 기프트 카드로 지불됩니다.",
+          "other": "고객의 주문은 기프트 카드로 이루어졌습니다."
+        }
       }
     }
   }
