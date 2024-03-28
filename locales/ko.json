@@ -160,9 +160,11 @@
       "post": "댓글 달기",
       "success": "코멘트 고맙습니다!",
       "with_count": {
-        "one": "{{ count }} comment",
-        "other": "{{ count }} comments"
-      }
+        "one": "{{ count }}댓글",
+        "other": "{{ count }}댓글"
+      },
+      "moderated": "댓글은 게시되기 전에 승인을 받아야 합니다.",
+      "success_moderated": "귀하의 댓글이 성공적으로 게시되었습니다. 블로그가 조정되는 대로 잠시 후에 게시하겠습니다."
     }
   },
   "customer": {
@@ -273,7 +275,7 @@
     "general": {
       "title": "장바구니",
       "remove": "삭제",
-      "note": "주문 노트",
+      "note": "주문 메모",
       "subtotal": "장바구니 총 가격",
       "discounts": "할인",
       "shipping_at_checkout": "※세금 포함 가격의 표시입니다",
