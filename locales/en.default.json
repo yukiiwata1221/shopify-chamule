@@ -820,7 +820,15 @@
         "discount_has_been_removed": "discount removed",
         "gift_card_has_been_applied": "Gift card applied",
         "gift_card_has_been_removed": "gift card deleted",
-        "discount_already_applied": "A discount has been applied to this order. You cannot add another discount."
+        "discount_already_applied": "A discount has been applied to this order. You cannot add another discount.",
+        "cart_does_not_meet_discount_requirements_notice": "<strong style=\"text-transform:uppercase\">%{code}<\/strong>Coupon code is not valid for items in your cart",
+        "discount_requires_customer_notice": "<strong style=\"text-transform:uppercase\">%{code}<\/strong>Enter shipping information to apply coupon code",
+        "customer_does_not_meet_discount_requirements_notice": "<strong style=\"text-transform:uppercase\">%{code}<\/strong>Coupon code is currently unavailable",
+        "shipping_information_does_not_meet_discount_requirements_notice": "<strong style=\"text-transform:uppercase\">%{code}<\/strong>Coupon code cannot be used at your shipping address",
+        "customer_already_used_once_per_customer_discount_notice": "<strong style=\"text-transform:uppercase\">%{code}<\/strong>Coupon code has already been used",
+        "shipping_label": "delivery",
+        "tip_label": "Support amount",
+        "shipping_default_value": "Enter your shipping address"
       }
     }
   }
