@@ -2950,7 +2950,30 @@
       "login_to_view_all_order_details": "Please log in to view all order details.",
       "log_in": "Login",
       "paid_amount": "paid",
-      "remaining_amount": "rest"
+      "remaining_amount": "rest",
+      "order_details_skeleton_accessibility_label": "Please log in to view all order details.",
+      "tip": "Support amount",
+      "logged_in_account_no_permission_to_order": "Logged in as {{email}}. This account does not have permission to manage this order.",
+      "log_in_to_a_different_account": "Please log in to another account",
+      "duties": "customs duty",
+      "ok_duties_tooltip": "Because this order is being shipped from another country, customs duties have been added to your order total.",
+      "error_duties_tooltip": "Because this order is shipping from another country, customs duties and taxes may be charged upon delivery.",
+      "zero_duties_tooltip": "This order is being shipped from another country. No customs duties will be charged on orders of this amount.",
+      "group_title_label": "Part of {{groupTitle}}",
+      "fees": {
+        "restocking_fee": "restocking fee",
+        "return_shipping_fee": "Return shipping fee"
+      }
+    },
+    "addresses": {
+      "add_button": "add address",
+      "address_deleted_notification": "address removed",
+      "cancel_deletion_button": "cancel",
+      "cancel_deletion_button_accessibility_label": "Cancel deletion of {{address}}",
+      "default_address": {
+        "title": "Default Address"
+      },
+      "delete_button": "delete"
     }
   }
 }
