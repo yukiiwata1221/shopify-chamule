@@ -2187,6 +2187,19 @@
           },
           "outdated": {
             "shipping_method": "The shipping method for your order has changed. Please check your selections."
+          },
+          "invalid": {
+            "billing_address": "Please enter a valid billing address",
+            "shipping_address": "Please select a valid shipping option",
+            "shipping_option": "Please enter a valid shipping address",
+            "email": "Please enter a valid email address",
+            "zone": "Please enter a valid state\/province",
+            "postal_code": "Please enter a valid zip code",
+            "reduction_code": "Please enter a valid coupon code or gift card"
+          },
+          "missing": {
+            "first_name": "Please enter your first name",
+            "last_name": "Please enter your last name"
           }
         }
       }
