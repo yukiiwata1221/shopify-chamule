@@ -421,7 +421,29 @@
         "expand_notice_label": "See more",
         "breadcrumb": "breadcrumb trail",
         "continue_to_shipping_method": "Continue to choose your shipping method",
-        "continue_to_payment_method": "Proceed to payment"
+        "continue_to_payment_method": "Proceed to payment",
+        "continue_to_review": "Order Confirmation",
+        "back_to_contact_information": "Back to information",
+        "choose_shipping_method": "Please select a delivery method",
+        "choose_payment_method": "Please select a payment method",
+        "choose_billing_address": "Please select your billing address",
+        "contact_us_html": "Please contact us for further details",
+        "autocomplete_title": "candidate",
+        "autocomplete_single_item": "1 available",
+        "autocomplete_multi_item": "{{number}} available",
+        "autocomplete_selection": "{{number}} among {{total}}",
+        "forwarding_indicator": {
+          "new_window": "Open in new window",
+          "external": "You will be redirected to an external website.",
+          "external_and_new_window": "Open external website in new window"
+        },
+        "checkout_context": {
+          "step_one": "%{shop_name} - Payment"
+        },
+        "tooltip_accessibility_label": "detailed",
+        "errors": {
+          "session_identifier_not_unique_error": "There was a problem with your order. Please check out again."
+        }
       }
     }
   }
