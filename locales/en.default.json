@@ -1153,7 +1153,19 @@
         "subscription_card_update_agreement_label": "Changing your payment method will update your subscriptions and recurring payments.",
         "card_security_vault_notice": "Details are required for future payments. All transactions are encrypted and secure.",
         "taxes_not_included": "Tax not included",
-        "no_taxes_banner_content": "There is no tax on this order. Once you collect a payment, you can no longer add taxes."
+        "no_taxes_banner_content": "There is no tax on this order. Once you collect a payment, you can no longer add taxes.",
+        "card_update_label": "update card",
+        "paypal": {
+          "connect": "Click to link your PayPal account"
+        },
+        "subscription_agreement_label": "One or more items in your cart are postpaid or subscription purchases. By continuing to pay, you agree that your Payment Method will be automatically charged at the price and frequency listed on this page until your Payment Method expires or you cancel it. shall be done. %{cancelled} applies to all cancellations.",
+        "card_verification_confirm": "Please enter your card's security code to verify your identity.",
+        "different_credit_card_label": "Please use another credit card",
+        "apple": {
+          "connect": "Click to link your Apple Pay account",
+          "not_available": "Apple Pay is not available in this browser. To link your Apple Pay account, you must use Safari on your Apple device."
+        },
+        "account_connected": "Your accounts have been linked."
       }
     }
   }
