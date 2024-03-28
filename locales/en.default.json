@@ -452,7 +452,16 @@
             "merchandise_not_applicable": "Product variations cannot be purchased.",
             "bundle_products_not_supported_for_b2b": "Bundled products cannot be added to B2B orders for this location.",
             "gift_card_quantity_mismatch": "If you specify gift card codes, the item quantity and number of gift card codes must match.",
-            "gift_card_not_supported": "This checkout does not support gift cards."
+            "gift_card_not_supported": "This checkout does not support gift cards.",
+            "gift_card_used": "Gift card code {{code}} is already assigned to a gift card. The code is formatted before comparison.",
+            "gift_card_not_unique": "Gift cards with code {{code}} occur multiple times in this checkout. The code is formatted before comparison.",
+            "gift_card_code_changed": "Changed gift card code {{proposed_code}} to {{formatted_code}} to comply with formatting rules.",
+            "gift_card_with_attributes_not_supported": "Gift cards with custom attributes are not available at this checkout.",
+            "gift_card_with_components_not_supported": "Gift cards with components are not available at this checkout.",
+            "selling_plan_mismatch": "Your subscription has been updated.",
+            "selling_plan_not_supported": "Subscriptions are not available.",
+            "selling_plan_not_supported_b2b": "Subscriptions are not available through B2B checkout.",
+            "price_mismatch": "The previous asking price for this merchandise is no longer valid and has been updated."
           }
         }
       }
