@@ -1637,7 +1637,28 @@
         "marker": {
           "current": "Product current location",
           "shipping": "Delivery to residence first"
-        }
+        },
+        "fulfillment": {
+          "unfulfilled_table_title": "Products being prepared for shipping",
+          "description_label": "explanation",
+          "quantity_label": "quantity"
+        },
+        "order_updates_description_missing": "I have not received a delivery status update.",
+        "order_updates_subscribe_to_email_notifications": "Receive shipping status updates by email.",
+        "order_updates_subscribe_to_email_or_phone_notifications": "Receive shipping status updates via email or text.",
+        "order_updates_subscribe_to_phone_notifications": "Receive shipping status updates via text.",
+        "order_updates_submit_subscription": "Send",
+        "track_shipment": "Check delivery status",
+        "order_status_confirmed_order_with_email_pick_up": "You will receive an email when your order is ready for pickup.",
+        "order_status_confirmed_order_with_phone_pick_up": "You will receive a text when your order is ready for pickup.",
+        "order_status_confirmed_order_with_email_and_phone_pick_up": "You will receive an email and text when your order is ready for pickup.",
+        "pick_up_in_store_marker": {
+          "current": "Product current location",
+          "shipping": "Pick up location"
+        },
+        "thank_you_confirmed_order_with_email_pick_up": "You will receive an email when your order is ready for pickup.",
+        "thank_you_confirmed_order_with_phone_pick_up": "You will receive a text when your order is ready for pickup.",
+        "thank_you_confirmed_order_with_email_and_phone_pick_up": "You will receive an email when your order is ready for pickup."
       }
     }
   }
