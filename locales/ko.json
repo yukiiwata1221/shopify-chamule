@@ -2603,7 +2603,21 @@
       "show_items": "항목 표시",
       "subtitle": "확인일: {{date}}",
       "summary_list_title_accessibility_label": "주문 항목",
-      "summary_totals_title_accessibility_label": "주문 총"
+      "summary_totals_title_accessibility_label": "주문 총",
+      "title": "주문 ({{name}})",
+      "total": "합계",
+      "unit_price": "{{price}}\/유닛",
+      "pagination": {
+        "load_more": "추가로 로드",
+        "load_more_accessibility_label": "항목 추가 로드",
+        "loading_accessibility_label": "항목을 로드 중입니다."
+      },
+      "returns": {
+        "expand_events_label": "세부정보 보기",
+        "hide_events_label": "세부정보 숨기기",
+        "print_shipping_label": "배송 라벨 인쇄",
+        "ineligible_return_message": "이 주문의 항목은 반품 대상이 아닙니다."
+      }
     }
   }
 }
