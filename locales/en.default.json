@@ -1038,7 +1038,18 @@
         "shipping_used_as_billing_notice": "Also used as the billing address for this order.",
         "address_update": "Update your address",
         "shipping_address_title": "Shipping address",
-        "add_address": "use a different address"
+        "add_address": "use a different address",
+        "edit": "edit",
+        "delete": "delete",
+        "address_more": "Other actions for this address",
+        "address_edit": "edit address",
+        "address_confirm": "Are you sure you want to remove this address from your account?",
+        "address_form": {
+          "add_address": "add address",
+          "save": "keep",
+          "cancel": "cancel",
+          "generic_error": "There was a problem saving your address. please try again."
+        }
       }
     }
   }
