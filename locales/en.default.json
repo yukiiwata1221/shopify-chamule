@@ -3015,7 +3015,21 @@
         "net_payment_terms_description": "{{name}}: Payment due within {{numberOfDays}} days",
         "payment_terms": "Payment period",
         "permissions_label": "your authority",
-        "permissions_title": "authority"
+        "permissions_title": "authority",
+        "section_title": "location",
+        "shipping_address_required": "Add your shipping address to this location to start your order.",
+        "tax_id": "Taxpayer identification number",
+        "tax_exemptions": "duty free",
+        "multiple_tax_exemptions": "Other{{taxExemptionsCount}}countries",
+        "tax_exemptions_modal_close": "close",
+        "taxes_none": "none",
+        "tax_exemption_not_applicable": "Not applicable",
+        "own_role_contact_name": "you",
+        "staff_and_permissions_title": "staff and authority"
+      },
+      "location_selection": {
+        "description": "If you already have items in your cart, changing your location may affect the price and quantity in your cart.",
+        "list_accessibility_label": "location list"
       }
     }
   }
