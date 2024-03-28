@@ -189,7 +189,7 @@
       "add_new": "Add address",
       "edit_address": "Edit address",
       "first_name": "First name",
-      "last_name": "Last name",
+      "last_name": "First name",
       "company": "Company",
       "address1": "Address1",
       "address2": "Address2",
@@ -208,13 +208,13 @@
     },
     "login": {
       "title": "Login",
-      "email": "Email",
-      "password": "Password",
-      "forgot_password": "Forgot password?",
-      "sign_in": "Sign In",
-      "cancel": "Return to Store",
-      "guest_title": "Continue as a guest",
-      "guest_continue": "Continue"
+      "email": "email address",
+      "password": "password",
+      "forgot_password": "Did you forget your password?",
+      "sign_in": "Login",
+      "cancel": "Back to Store",
+      "guest_title": "Purchase as a guest",
+      "guest_continue": "Continue shopping as a guest"
     },
     "orders": {
       "title": "Order History",
