@@ -2692,8 +2692,20 @@
           },
           "table_view": {
             "overdue": "time limit exceeded",
-            "due": "Due date:{{date}}"
+            "due": "Due date:{{date}}",
+            "due_today": "Today is the deadline",
+            "paid": "paid",
+            "due_without_date": "unpaid",
+            "due_on_fulfillment": "During fulfillment",
+            "pay_to_confirm": "Make payment and confirm",
+            "payment_not_due": "unpaid"
           }
+        },
+        "sort_currently_sorted_by_accessibility_label": "Current sort: {{option}}",
+        "carousel": {
+          "one_products_accessibility_label": "Order includes quantity {{lineItemQuantity1}} of {{lineItemName1}}",
+          "two_products_accessibility_label": "The order includes quantity {{lineItemQuantity1}} of {{lineItemName1}}, quantity {{lineItemQuantity2}} of {{lineItemName2}}",
+          "three_products_accessibility_label": "The order includes quantity {{lineItemQuantity1}} of {{lineItemName1}}, quantity {{lineItemQuantity2}} of {{lineItemName2}}, quantity {{lineItemQuantity3}} of {{lineItemName3}}"
         }
       }
     }
