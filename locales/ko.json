@@ -953,7 +953,16 @@
         "card_expiration_year_label": "유효기간(년)",
         "card_information_notice": "모든 거래는 암호화되고 안전합니다. 신용카드 정보는 절대로 저장되지 않습니다.",
         "credit_card_start_month": "발행한 달",
-        "credit_card_start_year": "발행한 해"
+        "credit_card_start_year": "발행한 해",
+        "billing_address_not_supported_for_payment_method_error": "이 결제 주소와 통화에는 지정된 결제 방법을 사용할 수 없습니다. 다른 결제 방법으로 시도해보십시오.",
+        "no_real_orders_dev_store": "이 상점에서는 실제 주문 또는 실제 결제를 수락할 수 없습니다.",
+        "subscription_agreement_label_html": "구독에 동의함을 이해합니다. 구독은 종료되거나 <a class=\"link--small\" data-modal=\"true\" data-title-text=\"%{subscription_policy}\" href=\"%{policy_href}\">취소될<\/a> 때까지 나열된 가격과 빈도로 갱신됩니다.\n",
+        "waiting_on_payment_methods": "사용 가능한 결제 방법을 얻는 중...",
+        "apple_pay_payment_error": "결제를 완료할 수 없습니다. 다시 시도하거나 다른 결제 방법을 사용하세요.",
+        "subscription_card_update_agreement_label": "결제 방법을 변경하면 구독 및 정기 결제가 업데이트됩니다.",
+        "card_security_vault_notice": "향후 결제를 위해 자세한 정보가 필요합니다. 모든 거래는 암호화되고 안전합니다.",
+        "taxes_not_included": "세금은 포함되지 않음",
+        "no_taxes_banner_content": "이 주문에는 세금이 부과되지 않습니다. 결제를 회수하면 세금을 추가할 수 없습니다."
       }
     }
   }
