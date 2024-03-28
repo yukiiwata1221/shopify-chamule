@@ -2715,7 +2715,21 @@
         },
         "show_order_actions_accessibility_label": "View order actions for order ({{name}})",
         "empty_state_title_for_pending_orders": "There are no pending orders",
-        "more_than_four_products_accessibility_label": "The order has {{lineItemName1}}, {{lineItemName2}}, {{lineItemName3}}, and {{numberOfAdditionalProducts}} or more items."
+        "more_than_four_products_accessibility_label": "The order has {{lineItemName1}}, {{lineItemName2}}, {{lineItemName3}}, and {{numberOfAdditionalProducts}} or more items.",
+        "plus_more_products": "More than {{numberOfAdditionalProducts}} items",
+        "order_status_and_message": "{{orderStatus}}～{{message}}",
+        "order_status_message": {
+          "list_view": {
+            "view_order_for_details": "View order details",
+            "estimated_delivery": "Estimated delivery date:{{date}}",
+            "last_updated": "Last update date: {{date}}"
+          },
+          "table_view": {
+            "estimated_delivery": "Estimated delivery date:{{date}}"
+          }
+        },
+        "more_than_three_products_accessibility_label": "There are {{lineItemName1}}, {{lineItemName2}}, and {{numberOfAdditionalProducts}} items in the order.",
+        "filter_title": "Narrow down"
       }
     }
   }
