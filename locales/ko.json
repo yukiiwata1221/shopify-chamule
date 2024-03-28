@@ -169,7 +169,11 @@
   },
   "customer": {
     "reset_password": {
-      "subtext": "Enter a new password for {{ email }}"
+      "subtext": "{{ email }}의 새 비밀번호를 입력하세요.",
+      "title": "계정 비밀번호 재설정",
+      "password": "비밀번호",
+      "password_confirm": "비밀번호 확인",
+      "submit": "암호를 재설정"
     },
     "register": {
       "title": "신규 회원 등록(무료)",
@@ -253,7 +257,8 @@
       "sku": "SKU",
       "price": "가격",
       "quantity": "수량",
-      "total": "총"
+      "total": "총",
+      "subtotal": "소계"
     },
     "activate_account": {
       "title": "계정 활성화",
@@ -266,8 +271,10 @@
   },
   "home_page": {
     "onboarding": {
-      "product_description": "This area is used to describe your product's details. Tell customers about the look, feel, and style of your product. Add details on color, materials used, sizing, and where it was made.",
-      "no_content": "This section doesn't currently include any content. Add content to this section using the sidebar."
+      "product_description": "이 영역은 제품의 세부정보를 설명하는 데 사용됩니다. 고객에게 제품의 모양, 느낌, 스타일을 알려주세요. 색상, 사용된 재료, 크기, 제조 장소에 대한 세부정보를 추가하세요.",
+      "no_content": "이 섹션에는 현재 어떤 콘텐츠도 포함되어 있지 않습니다. 사이드바를 사용하여 이 섹션에 콘텐츠를 추가하세요.",
+      "product_title": "예시상품",
+      "collection_title": "예시 모음"
     }
   },
   "layout": {
