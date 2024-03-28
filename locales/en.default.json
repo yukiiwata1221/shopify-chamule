@@ -2705,8 +2705,17 @@
         "carousel": {
           "one_products_accessibility_label": "Order includes quantity {{lineItemQuantity1}} of {{lineItemName1}}",
           "two_products_accessibility_label": "The order includes quantity {{lineItemQuantity1}} of {{lineItemName1}}, quantity {{lineItemQuantity2}} of {{lineItemName2}}",
-          "three_products_accessibility_label": "The order includes quantity {{lineItemQuantity1}} of {{lineItemName1}}, quantity {{lineItemQuantity2}} of {{lineItemName2}}, quantity {{lineItemQuantity3}} of {{lineItemName3}}"
-        }
+          "three_products_accessibility_label": "The order includes quantity {{lineItemQuantity1}} of {{lineItemName1}}, quantity {{lineItemQuantity2}} of {{lineItemName2}}, quantity {{lineItemQuantity3}} of {{lineItemName3}}",
+          "five_products_accessibility_label": "The order includes quantity {{lineItemQuantity1}} of {{lineItemName1}}, quantity {{lineItemQuantity2}} of {{lineItemName2}}, quantity {{lineItemQuantity3}} of {{lineItemName3}}, quantity {{lineItemQuantity4}} of {{lineItemName4}}, quantity {{lineItemQuantity5}} of {{lineItemName5}}",
+          "four_products_accessibility_label": "The order includes quantity {{lineItemQuantity1}} of {{lineItemName1}}, quantity {{lineItemQuantity2}} of {{lineItemName2}}, quantity {{lineItemQuantity3}} of {{lineItemName3}}, quantity {{lineItemQuantity4}} of {{lineItemName4}}",
+          "six_products_accessibility_label": "The order includes quantity 10002 of 10001, quantity 10004 of 10003, quantity 10006 of 10005, quantity 10008 of 10007, quantity 10010 of 10009, quantity 10012 of 10011",
+          "six_and_more_products_accessibility_label": "The order includes quantity {{lineItemQuantity1}} of {{lineItemName1}}, quantity {{lineItemQuantity2}} of {{lineItemName2}}, quantity {{lineItemQuantity3}} of {{lineItemName3}}, quantity {{lineItemQuantity4}} of {{lineItemName4}}, quantity {{lineItemQuantity5}} of {{lineItemName5}}, quantity {{lineItemQuantity6}} of {{lineItemName6}}, etc. Masu",
+          "previous": "forward",
+          "next": "to the next"
+        },
+        "show_order_actions_accessibility_label": "View order actions for order ({{name}})",
+        "empty_state_title_for_pending_orders": "There are no pending orders",
+        "more_than_four_products_accessibility_label": "The order has {{lineItemName1}}, {{lineItemName2}}, {{lineItemName3}}, and {{numberOfAdditionalProducts}} or more items."
       }
     }
   }
