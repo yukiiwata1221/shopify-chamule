@@ -1614,7 +1614,19 @@
         "contact_us_html": "Is there something troubling you? %{contact_us}",
         "updated_time": "Updated before %{time_ago}",
         "failure": "delivery failure",
-        "failed_title": "Your order could not be delivered"
+        "failed_title": "Your order could not be delivered",
+        "failed_contact_merchant": "Please contact %{company} to arrange delivery.",
+        "failed_contact_merchant_no_company": "Please contact us to arrange delivery.",
+        "non_shippable_title": "Your order has been completed",
+        "login_title": "Please log in to see all order details",
+        "login_description": "Your order number is written on the receipt you received via email.",
+        "login_description_phone": "Your order number can be found on your receipt sent via text message.",
+        "login_not_customer_html": "Isn't this %{name}? Try this %{link}",
+        "login_reorder_link_text": {
+          "one": "Also buy this product",
+          "other": "Also buy these products"
+        },
+        "customer_information_hidden_fields_message": "Log in to view all your information"
       }
     }
   }
