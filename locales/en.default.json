@@ -543,7 +543,17 @@
             "installments_ineligible_line_item": "Installment payments are not available for this purchase item.",
             "shop_cash_not_allowed": "If you use Shop Cash, you must use Shop Pay.",
             "shop_cash_unsupported_checkout_source": "This checkout is not available with Shop Cash.",
-            "shop_cash_gift_card_not_allowed": "Shop Cash cannot be used to purchase gift cards."
+            "shop_cash_gift_card_not_allowed": "Shop Cash cannot be used to purchase gift cards.",
+            "shop_cash_not_enabled": "Shop Cash is not valid at this shop.",
+            "shop_cash_unsupported_subscriptions": "Shop Cash cannot be used for regular purchases.",
+            "shop_cash_unsupported_shipping": "Shop Cash is not available for merchandise that does not have shipping.",
+            "invalid_address_type": "The address type entered is invalid for this payment method.",
+            "missing_retail_attributions": "Manually entered credit card payments require retail contact information.",
+            "unexpected_retail_attributions": "The retail contact information entered during credit card payments is unknown.",
+            "invalid_card_source": "You do not have permission to use this card source in this session.",
+            "wallet_content_missing": "Wallet contents have not been entered.",
+            "payment_instrument_not_found": "No payment method found",
+            "unauthorized_capture_method": "Setting the payment confirmation method is not allowed."
           }
         }
       }
