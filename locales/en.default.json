@@ -1714,7 +1714,19 @@
         "first_payment_complete": "First payment completed",
         "in_store_purchase": "Purchase at a physical store",
         "choose_payment_method_later": "Choose your payment method later",
-        "purchase_order_number_title": "Purchase order number #%{purchase_order_number}"
+        "purchase_order_number_title": "Purchase order number #%{purchase_order_number}",
+        "thank_you_ready_for_picked_up": "Your order on %{address} has been received.",
+        "location_title": "location",
+        "order_updates_subscribe_to_email_notifications_failed": "This email address cannot be saved for updates. Please try again or use a different email address.",
+        "order_updates_subscribe_to_email_notifications_email_already_exists": "The email address you entered already exists.",
+        "subscriptions_management": {
+          "title": "subscription",
+          "description": "Go to your account to view and manage your subscriptions."
+        },
+        "manage_order_label": "Manage your orders",
+        "gift_card_confirmation_by_text_typ": {
+          "one": "You will receive a text with your gift card within minutes."
+        }
       }
     }
   }
