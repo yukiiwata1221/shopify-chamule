@@ -828,7 +828,26 @@
         "customer_already_used_once_per_customer_discount_notice": "<strong style=\"text-transform:uppercase\">%{code}<\/strong>Coupon code has already been used",
         "shipping_label": "delivery",
         "tip_label": "Support amount",
-        "shipping_default_value": "Enter your shipping address"
+        "shipping_default_value": "Enter your shipping address",
+        "shipping_policy_link": "postage",
+        "shipping_pending_message": "Not selected yet",
+        "taxes_label": "tax",
+        "total_label": "total",
+        "total_outstanding_label": "Amount of payment",
+        "partial_total_label": "total",
+        "free_total_label": "free",
+        "paid_label": "paid",
+        "payment_due_label": "Payment date",
+        "vat_label_html": "Including tax of %{amount}",
+        "discount_savings_notice": "%{discount_amount}After discount",
+        "discount_and_gift_card_savings_notice": "After %{discount_amount}discount and %{gift_card_amount} gift card",
+        "gift_card_savings_notice": "%{gift_card_amount}After gift card",
+        "cost_table_title": "Cost aggregation",
+        "description_label": "detailed",
+        "price_label": "price",
+        "quantity_label": "quantity",
+        "product_change_label": "change",
+        "scroll_order_summary": "Scroll for more products"
       }
     }
   }
