@@ -644,7 +644,14 @@
         "gift_card_label": "선물 카드",
         "gift_card_and_discount_title": "쿠폰 코드 또는 기프트 카드",
         "gift_card_and_discount_label": "쿠폰 코드 또는 기프트 카드",
-        "gift_card_and_discount_placeholder": "쿠폰 코드 또는 기프트 카드"
+        "gift_card_and_discount_placeholder": "쿠폰 코드 또는 기프트 카드",
+        "remove_gift_card_label": "기프트 카드 지우기",
+        "remove_discount_label": "할인 지우기",
+        "apply_discount_button_label": "적용하다",
+        "applied_discount_message": "%{amount}이 합계에서 할인되었습니다.",
+        "discount_has_been_removed": "할인이 삭제되었습니다.",
+        "gift_card_has_been_removed": "기프트 카드가 삭제되었습니다.",
+        "discount_already_applied": "이 주문에는 할인이 적용됩니다. 다른 할인을 추가할 수 없습니다."
       }
     }
   }
