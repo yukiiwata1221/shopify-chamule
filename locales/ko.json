@@ -2779,7 +2779,20 @@
         "draft_order_list": {
           "hide_all_accessibility_label": "확인 중인 모든 주문 숨기기",
           "show_all_accessibility_label": "확인 중인 모든 주문 보기",
-          "title": "예약하다"
+          "title": "예약하다",
+          "pagination": {
+            "nav_accessibility_label": "확인중인 주문의 메뉴 버튼"
+          },
+          "show_all_orders_in_review": "확인 중인 모든 주문을 표시합니다.",
+          "show_less_orders_in_review": "검토 중 주문 표시 감소",
+          "pending_tab_accessibility_label": {
+            "pending_orders": {
+              "one": "{{count}}개의 보류 중인 주문이 있습니다.",
+              "other": "{{count}}개의 보류 중인 주문이 있습니다."
+            },
+            "more_than_pagination_length": "{{count}}개 이상의 보류 중인 주문이 있습니다."
+          },
+          "pending_orders_count_more_than_pagination_length": "{{count}}이상"
         }
       }
     }
