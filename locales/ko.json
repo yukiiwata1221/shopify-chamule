@@ -1599,7 +1599,20 @@
       "review": {
         "title": "확인",
         "review_title": "확인 및 결제",
-        "checkout_as_guest": "손님으로 구매"
+        "checkout_as_guest": "손님으로 구매",
+        "blocks": {
+          "billing_address_title": "요구",
+          "shipping_address_title": "배송지",
+          "shipping_method_title": "배포방법",
+          "change_billing_address_link_label": "청구지 주소 변경",
+          "change_payment_method_link_label": "결제 방법 변경",
+          "pick_up_in_store_shipping_method_html": "상점에서 받기: %{location_name}",
+          "purchase_order_number_title": "주문서 번호",
+          "change_purchase_order_number_label": "주문서 번호 변경",
+          "no_purchase_order_number": "(주문서 번호 없음)",
+          "due_after_order_reviewed_html": "주문이 확인된 후 기한",
+          "review_title_free_order": "주문을 확인하고 완료"
+        }
       }
     }
   }
