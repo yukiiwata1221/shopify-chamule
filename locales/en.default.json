@@ -2850,7 +2850,18 @@
     "order_details": {
       "billing_address": "Request first accommodation",
       "card_ending_with": "Last 4 digits{{lastDigits}}",
-      "contact": "contact address"
+      "contact": "contact address",
+      "loading_finished_accessibility_message": "Order details loaded",
+      "payment": {
+        "status_in_review": "Payment deadline after confirmation",
+        "status_unpaid": "Payment deadline: {{date}}",
+        "title": "settlement",
+        "card_payment_details": "Ending with {{lastDigits}} - {{formattedTransactionAmount}}",
+        "gift_card_payment_details": "Ending with {{lastDigits}} - {{formattedTransactionAmount}}",
+        "manual_payment_methods": {
+          "money_order": "Postal money order - {{formattedTransactionAmount}}"
+        }
+      }
     }
   }
 }
