@@ -2496,7 +2496,21 @@
       "reset_account": "Reset your account",
       "addresses": "address",
       "search": "search",
-      "collections": "collection"
+      "collections": "collection",
+      "challenge": "challenge",
+      "search_results": {
+        "one": "Search: Search results for \"%{terms}\"%{count} results",
+        "other": "Search: Search results for \"%{terms}\"%{count} results"
+      },
+      "blog_or_article_with_error": "Error: %{title}"
+    },
+    "cart": {
+      "discounts_with_count": "%{count} discount applied"
+    },
+    "challenge": {
+      "message": "To continue, please tell me you're not a robot.",
+      "error": "your answer is incorrect. please try again.",
+      "submit_button_text": "send"
     }
   }
 }
