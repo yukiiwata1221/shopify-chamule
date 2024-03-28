@@ -2344,7 +2344,16 @@
       "invalid_state_in_country": "is not valid in the state of %{country}",
       "invalid_region_in_country": "is not valid in region %{country}",
       "less_than_or_equal_to": "must be less than or equal to 20001",
-      "full_name_required": "Enter your first and last name"
+      "full_name_required": "Enter your first and last name",
+      "invalid_type": "I'm sorry. This type of card is not accepted.",
+      "invalid_format": "Invalid format",
+      "expired": "Expired",
+      "invalid_start_date_or_issue_number_for_debit": "Start date or issue number required.",
+      "invalid_expiry_year": "is not a valid expiration date",
+      "reset_password_html": "This email address is already associated with your account. If this account is yours, you can also <a href=\"\/account\/login#recover\">reset your password<\/a> .",
+      "verify_email": "Email sent to %{customer_email}. Click the link in the email to verify your email address.",
+      "blocked_address": "This location is not supported.",
+      "product_not_available": "The product is not published for this customer."
     }
   }
 }
