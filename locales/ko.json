@@ -2732,7 +2732,18 @@
         "company_card_name_label": "회 사 명"
       },
       "locations": {
-        "contact_email": "메일"
+        "contact_email": "메일",
+        "contact_list_title": "회원",
+        "location_picker_label": "위치명",
+        "net_payment_terms_description": "{{name}}: {{numberOfDays}}일 이내의 지불 기한",
+        "payment_details_title": "결제 세부정보",
+        "payment_terms": "결제 기간",
+        "permissions_label": "귀하의 권한",
+        "shipping_address_required": "이 위치에 배송지 주소를 추가하여 주문을 시작합니다.",
+        "tax_details_title": "세금 세부정보",
+        "tax_id": "납세자 번호",
+        "multiple_tax_exemptions": "기타{{taxExemptionsCount}}국가",
+        "tax_exemptions_modal_close": "닫다"
       }
     }
   }
