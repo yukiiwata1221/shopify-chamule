@@ -558,7 +558,16 @@
       "delivery_options": {
         "ship": "발송",
         "pick_up": "매장 수령",
-        "pick_up_in_two_hours": "보통 2시간 만에 준비가 완료"
+        "pick_up_in_two_hours": "보통 2시간 만에 준비가 완료",
+        "pick_up_in_four_hours": "보통 4시간 만에 준비 완료",
+        "pick_up_immediately": "매장 수령 준비가 되었습니다",
+        "pick_up_next_day": "다음날 매장 수령 준비가 완료됩니다.",
+        "pick_up_in_one_hour": "보통 1시간 만에 준비 완료",
+        "pick_up_in_twenty_four_hours": "보통 24시간 만에 준비 완료",
+        "pick_up_in_two_to_four_days": "보통 2~4일 만에 준비 완료",
+        "pick_up_in_five_or_more_days": "보통 5일 이상으로 준비가 완료됩니다.",
+        "pick_up_in_zero_to_two_hours": "2시간 이내에 매장 수령 준비 완료",
+        "pick_up_in_two_to_four_hours": "4시간 이내에 수령 준비 완료"
       }
     }
   }
