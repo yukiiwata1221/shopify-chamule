@@ -2454,7 +2454,25 @@
           }
         },
         "more_than_three_products_accessibility_label": "주문에는 {{lineItemName1}}, {{lineItemName2}}, 더 많은 상품이 {{numberOfAdditionalProducts}}개 있습니다.",
-        "filter_title": "필터링"
+        "filter_title": "필터링",
+        "filter": {
+          "clear_all": "모두 클리어",
+          "apply": "해당 가능",
+          "date": {
+            "start_date": "시작일",
+            "end_date": "종료일",
+            "last_7_days": "지난 7일간",
+            "last_30_days": "지난 30일간",
+            "last_90_days": "지난 90일간",
+            "last_365_days": "지난 12개월간",
+            "custom": "맞춤"
+          }
+        }
+      },
+      "order_status": {
+        "canceled_description": "고객의 주문이 {{date}}로 취소되었습니다.",
+        "come_back": "배송 상황에 관해서는 이쪽의 페이지를 봐 주세요.",
+        "delivered_description": "이 수하물은 배달되었습니다."
       }
     }
   }
