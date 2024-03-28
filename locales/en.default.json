@@ -924,8 +924,19 @@
           "other": "discount"
         },
         "discount_order_stacking": {
-          "one": "order discount"
-        }
+          "one": "order discount",
+          "other": "order discount"
+        },
+        "price_per_item": {
+          "label": "%{price}\/unit"
+        },
+        "updated_shipping_method": "Shipping method updated:%{shipping_method}",
+        "discount_not_found": "No discounts were found that match the code you entered",
+        "total_savings": "Total discount amount",
+        "return_restocking_fee_label": "restocking fee",
+        "return_shipping_fee_label": "Return shipping fee",
+        "enter_shipping_address": "Enter your shipping address",
+        "shipping_discount_title": "shipping discounts"
       }
     }
   }
