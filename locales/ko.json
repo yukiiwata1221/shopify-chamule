@@ -1750,6 +1750,26 @@
         "all_products_in_cart_unavailable": {
           "one": "이 제품은 거주 국가\/지역에서 사용할 수 없습니다.",
           "other": "이 제품은 해당 국가\/지역에서 사용할 수 없습니다."
+        },
+        "unavailable_label": "사용할 수 없음"
+      },
+      "change_cart_localization": {
+        "verify_shipping_address": "국가\/지역이 업데이트되었습니다. 배송지 주소를 입력하고 체크아웃을 계속합니다."
+      },
+      "throttle": {
+        "line_to_check_out": "곧 체크 아웃입니다.",
+        "cart_summary_heading": "당신의 장바구니",
+        "merchandise": {
+          "sold_out": "매진",
+          "available": "판매 가능"
+        },
+        "inventory": {
+          "partial_inventory_banner": "장바구니의 일부 상품이 매진되어 체크아웃 시 구매할 수 없습니다.",
+          "sold_out": {
+            "heading": "장바구니 상품은 매진되었습니다",
+            "storefront_body": "상점으로 돌아가서 쇼핑을 계속",
+            "no_storefront_body": "죄송합니다만, 희망하시는 아이템은 입수할 수 없게 되어 있습니다."
+          }
         }
       }
     }
