@@ -288,7 +288,17 @@
             "merchandise_not_applicable": "상품 변형 구입할 수 없습니다.",
             "bundle_products_not_supported_for_b2b": "이 위치의 B2B 주문에는 번들 상품을 추가할 수 없습니다.",
             "gift_card_quantity_mismatch": "기프트 카드 코드를 지정하는 경우 항목 수량과 기프트 카드 코드 수가 일치해야 합니다.",
-            "gift_card_not_supported": "이 체크아웃은 기프트 카드를 지원하지 않습니다."
+            "gift_card_not_supported": "이 체크아웃은 기프트 카드를 지원하지 않습니다.",
+            "gift_card_not_unique": "코드 {{code}}의 기프트 카드는 이 체크아웃에서 여러 번 발생합니다. 코드는 비교 전에 포맷됩니다.",
+            "gift_card_used": "기프트 카드 코드 {{code}}은 이미 기프트 카드에 할당되어 있습니다. 코드는 비교 전에 포맷됩니다.",
+            "gift_card_invalid": "기프트 카드 코드 {{code}}이(가) 잘못되었습니다.",
+            "gift_card_code_changed": "형식 규칙에 맞게 기프트 카드 코드 {{proposed_code}}을 {{formatted_code}}로 변경했습니다.",
+            "gift_card_with_attributes_not_supported": "이 체크아웃에서는 맞춤 속성이 있는 기프트 카드를 사용할 수 없습니다.",
+            "gift_card_with_components_not_supported": "이 체크아웃에서는 구성 요소가 있는 기프트 카드를 사용할 수 없습니다.",
+            "selling_plan_mismatch": "정기 구매가 업데이트되었습니다.",
+            "selling_plan_not_supported": "정기 구매는 사용할 수 없습니다.",
+            "selling_plan_not_supported_b2b": "B2B 체크아웃에서는 정기 구매를 이용할 수 없습니다.",
+            "price_mismatch": "이 머천다이즈의 이전 발표 가격은 유효하지 않으므로 업데이트되었습니다."
           }
         }
       }
