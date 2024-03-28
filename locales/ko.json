@@ -1932,7 +1932,23 @@
         "payment_in_progress_body": "결제가 처리 중입니다. 주문은 곧 완료됩니다.",
         "errors": {
           "unavailable": {
-            "title": "{{walletName}} 사용할 수 없음"
+            "title": "{{walletName}} 사용할 수 없음",
+            "description": "{{walletName}}을 사용할 수 없습니다. 다른 결제 방법을 사용하거나 나중에 다시 시도해 주세요.",
+            "instructions": "'{{walletName}}에서 구매'에 문제가 발생했습니다. 상점으로 돌아가서 다시 시도하거나 다른 방법으로 확인하세요."
+          },
+          "generic": "{{walletName}}에 문제가 발생했습니다. 다시 시도하거나 다른 결제 방법을 사용하세요.",
+          "terminal": "{{walletName}}에 문제가 발생했습니다. 다른 결제 방법을 사용하십시오.",
+          "detour": {
+            "stock_problems": "일부 항목은 사용할 수 없습니다. {{walletName}}을 닫고 다시 시도해 주세요.",
+            "price_change": "일부 아이템 가격이 변경되었습니다. {{walletName}}을 닫고 주문을 확인한 후 다시 시도해 주세요.",
+            "queue": "체크아웃 대기열에 넣었습니다. {{walletName}}을 닫고 계속하십시오."
+          },
+          "unsupported": {
+            "address": "판매자는 선택한 배송지 주소로 배송할 수 없습니다.",
+            "postal_code": "이 위치는 지원되지 않습니다."
+          },
+          "outdated": {
+            "shipping_method": "주문 배송 방법이 변경되었습니다. 선택 내용을 확인하십시오."
           }
         }
       }
