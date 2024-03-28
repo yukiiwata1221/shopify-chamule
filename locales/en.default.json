@@ -2326,7 +2326,17 @@
       "discount_not_found": "No discounts were found that match the code you entered",
       "gift_card_already_applied": "Code has already been applied to your payment",
       "gift_card_code_invalid": "The code is not valid",
-      "gift_card_currency_mismatch": "The gift card is %{gift_card_currency}. Please contact us to reissue in %{checkout_currency}."
+      "gift_card_currency_mismatch": "The gift card is %{gift_card_currency}. Please contact us to reissue in %{checkout_currency}.",
+      "gift_card_depleted": "There is no balance left on this gift card",
+      "gift_card_disabled": "Gift card is invalid",
+      "gift_card_expired": "Gift card has expired",
+      "invalid": "invalid",
+      "bad_domain": "Contains an invalid domain name",
+      "taken": "is already in use",
+      "contains_html_tags": "Cannot contain HTML tags",
+      "too_short": "is too short (at least %{count} characters)",
+      "too_long": "is too long (maximum %{count} characters or less)",
+      "password_mismatch": "must match the password entered"
     }
   }
 }
