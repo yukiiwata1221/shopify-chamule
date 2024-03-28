@@ -1741,8 +1741,20 @@
           "other": "Gift card sent via text message"
         },
         "gift_card_resent_confirmation": {
-          "one": "Your gift card has been resent."
-        }
+          "one": "Your gift card has been resent.",
+          "other": "Your gift card has been resent."
+        },
+        "gift_card_resend_failure": {
+          "one": "There was a problem resending your gift card. Please try again or contact us.",
+          "other": "There was a problem resending your gift card. Please try again or contact us."
+        },
+        "failed_pending_payment_page_title": "There was a problem with payment",
+        "thank_you_title_payments_app_pending_default": "Payment is being processed",
+        "thank_you_title_payments_app_pending_buyer_action_required": "Order accepted",
+        "thank_you_title_payments_app_failed_pending_payment": "Payment could not be processed",
+        "thank_you_payments_app_failed_pending_payment": "Your order was not charged. Please return to your cart to review your order and pay again.",
+        "order_status_payments_app_pending_payment_description_default_with_email_and_phone": "You will receive a confirmation email shortly. Track your orders using the Shop app.",
+        "order_status_payments_app_pending_payment_description_default_with_email": "You will receive a confirmation email shortly. Track your orders using the Shop app."
       }
     }
   }
