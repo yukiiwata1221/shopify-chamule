@@ -2528,7 +2528,23 @@
       },
       "open_tracking": {
         "opt_in": {
-          "opted_in_html": "<b>I have opted in to email open tracking.<\/b>"
+          "opted_in_html": "<b>I have opted in to email open tracking.<\/b>",
+          "visibility": "Email open rates are reported anonymously. Shopify only checks whether you open an email as part of calculating email open rates.",
+          "opt_out_html": "If you do not want this information shared, you can <a style='text-decoration:underline;' href='%{link}'>opt out<\/a> of email open tracking.",
+          "preview_bar": "We're previewing what you'll see when you opt in to email open tracking."
+        },
+        "opt_out": {
+          "opted_out_html": "<b>I have opted out of email open tracking.<\/b>",
+          "visibility": "Shopify will no longer be able to see if you opened the email.",
+          "opt_in_html": "<a style='text-decoration:underline;' href='%{link}'>Opt<\/a> in to open tracking.",
+          "preview_bar": "We're previewing what you'll see when you opt out of email open tracking."
+        },
+        "no_longer_track": {
+          "status_html": "<b>Shopify can no longer track whether your emails have been opened.<\/b>",
+          "privacy_policy": "After this email is sent, Shopify will update its privacy policy and will no longer be able to track opens."
+        },
+        "track": {
+          "status_html": "<b>Email open tracking has been reported.<\/b>"
         }
       }
     }
