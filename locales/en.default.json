@@ -2859,8 +2859,19 @@
         "card_payment_details": "Ending with {{lastDigits}} - {{formattedTransactionAmount}}",
         "gift_card_payment_details": "Ending with {{lastDigits}} - {{formattedTransactionAmount}}",
         "manual_payment_methods": {
-          "money_order": "Postal money order - {{formattedTransactionAmount}}"
+          "money_order": "Postal money order - {{formattedTransactionAmount}}",
+          "cash_on_delivery": "Cash on delivery - {{formattedTransactionAmount}}",
+          "bank_deposit": "Bank transfer - {{formattedTransactionAmount}}"
+        },
+        "transactions": {
+          "show_less": "display less"
         }
+      },
+      "shipping": {
+        "address": "Delivery to residence first",
+        "address_map_marker": "Delivery to residence first",
+        "method": "Distribution Method",
+        "summary": "delivery"
       }
     }
   }
