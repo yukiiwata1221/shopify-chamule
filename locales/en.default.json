@@ -705,7 +705,21 @@
         "zip_code_label": "post code",
         "zip_code_placeholder": "post code",
         "postal_code_label": "post code",
-        "postal_code_placeholder": "post code"
+        "postal_code_placeholder": "post code",
+        "postcode_label": "post code",
+        "postcode_placeholder": "post code",
+        "region_none": "Unselected",
+        "civic_number_warning": "Please also enter the street address if applicable",
+        "optional_last_name_label": "Last name (any)",
+        "optional_recipient_label": "Confirm (optional)",
+        "ship_to_company": "Deliver to {{companyName}}",
+        "shipping_used_as_billing_notice": "Also used as the billing address for this order.",
+        "company_attention_label": "Company\/Destination",
+        "optional_company_attention_label": "Company\/Destination (optional)"
+      },
+      "delivery_options": {
+        "ship": "shipping",
+        "pick_up": "Pick up in store"
       }
     }
   }
