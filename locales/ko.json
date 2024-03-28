@@ -496,8 +496,28 @@
           },
           "or": {
             "wordConnector": "{{previousWords}}、{{anotherWord}}"
+          },
+          "narrow": {
+            "wordConnector": "{{previousWords}}、{{anotherWord}}",
+            "lastWordConnector": "{{previousWords}}、{{lastWord}}",
+            "twoWordConnector": "{{firstWord}}、{{secondWord}}"
+          }
+        },
+        "map": {
+          "cluster_title": {
+            "one": "{{number}}개의 마커 클러스터",
+            "other": "{{number}}개의 마커 클러스터"
           }
         }
+      },
+      "contact": {
+        "delivery_option_title": "배달 방법",
+        "email_or_phone_label": "이메일 주소 또는 휴대폰 번호",
+        "email_or_phone_placeholder": "이메일 주소 또는 휴대폰 번호",
+        "stored_addresses_label": "주소를 저장했습니다.",
+        "new_address_label": "새 주소 사용",
+        "optional_first_name_label": "이름(아무거나)",
+        "optional_company_label": "클럽(선택사항)"
       }
     }
   }
