@@ -1425,7 +1425,15 @@
         "address_suggestion_did_you_mean_html": "Isn't it %{html}?",
         "address_zip_invalid_for_province": "Please enter a valid postal code in %{province}",
         "address_zip_too_long": "Postal code is too long (maximum 255 characters)",
-        "address_phone_invalid": "Please enter a valid phone number"
+        "address_phone_invalid": "Please enter a valid phone number",
+        "credit_card_number_blank": "Please enter your card number",
+        "address_first_name_contains_mathematical_symbols": "name cannot contain mathematical symbols",
+        "address_address1_contains_mathematical_symbols": "The first line of the address cannot contain mathematical symbols",
+        "address_address2_contains_mathematical_symbols": "The second line of the address cannot contain mathematical symbols",
+        "address_city_contains_mathematical_symbols": "City names cannot contain mathematical symbols",
+        "address_company_contains_mathematical_symbols": "Company name cannot contain mathematical symbols",
+        "address_zip_contains_mathematical_symbols": "Postal codes cannot contain mathematical symbols",
+        "address_province_invalid": "Please select a valid state"
       }
     }
   }
