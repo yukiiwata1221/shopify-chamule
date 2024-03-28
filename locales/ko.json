@@ -2377,7 +2377,22 @@
         "order_number": "주문 ({{name}})",
         "pagination": {
           "nav_accessibility_label": "주문 메뉴 버튼",
-          "load_more": "추가로 로드"
+          "load_more": "추가로 로드",
+          "load_more_accessibility_label": "주문 추가 로드"
+        },
+        "sort_by": "정렬: {{option}}",
+        "sort": {
+          "date": {
+            "newest": "새로운 순서",
+            "oldest": "오래된 순서"
+          },
+          "location": {
+            "ascending": "위치 (A~Z)",
+            "descending": "위치 (Z~A)"
+          },
+          "order_number": {
+            "ascending": "주문 번호 (오름차순)"
+          }
         }
       }
     }
