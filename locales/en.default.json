@@ -3233,6 +3233,13 @@
         "replace_payment_method": "Change payment method",
         "checkout_card_banner": "This payment method can only be used for pre-approved payments. If you are logged in to this store, it will not appear at checkout.",
         "default_checkbox": "Set as Default"
+      },
+      "delete_payment_method_button": "delete",
+      "back_button": "return",
+      "generic_card": "card",
+      "payment_delete": {
+        "description_with_replacement": "Removing this payment method will affect pre-approved payments. To continue receiving future orders, you have the option to change to a different payment method.",
+        "payment_method_selector_placeholder": "Choose an alternative payment method (optional)"
       }
     }
   }
