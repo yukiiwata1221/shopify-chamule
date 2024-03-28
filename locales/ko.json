@@ -799,8 +799,18 @@
             "month": {
               "one": "매월",
               "other": "%{count}개월마다"
+            },
+            "year": {
+              "one": "1년마다"
             }
-          }
+          },
+          "prepaid_shipping_price_label": "배송 당 %{shipping_price} x %{delivery_interval_count}",
+          "initial_order_discounted": "첫 배송료%{discounted_shipping_cost}, 두 번째 이후%{frequency_description}",
+          "prepaid_initial_order_discounted": "첫 배송료 (%{discounted_shipping_price})%{prepaid_delivery_frequency}",
+          "prepaid_initial_order_discounted_with_per_delivery_price": "첫 배송료 (%{discounted_shipping_price})%{prepaid_delivery_frequency} (%{discounted_cost_per_delivery})",
+          "prepaid_initial_order_discounted_with_renewal": "첫 배송료 (%{discounted_shipping_price})%{prepaid_delivery_frequency}, 심지어 %{billing_cycle} 당 %{shipping_price}",
+          "prepaid_initial_order_discounted_with_per_delivery_price_and_renewal": "첫 배송료 (%{discounted_shipping_price})%{prepaid_delivery_frequency} (%{discounted_cost_per_delivery}), 또한 %{billing_cycle} 당 %{shipping_price}",
+          "shipping_price_included": "포함"
         }
       }
     }
