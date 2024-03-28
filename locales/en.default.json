@@ -1218,7 +1218,25 @@
         "no_working_method_error": "This store is currently unable to accept payments. Please refresh the page or try later.",
         "brand_not_available": "This store does not accept {{brand}}. Please pay with another card.",
         "shipping_rate_updated": "Available shipping methods have been updated. Please review your selections before checking out.",
-        "billing_address_invalid_phone": "Please update your billing address phone number for {{label}} {{last_digits}} to continue."
+        "billing_address_invalid_phone": "Please update your billing address phone number for {{label}} {{last_digits}} to continue.",
+        "billing_address_invalid_phone_no_card": "Please update your billing address phone number to continue.",
+        "preview_not_available": {
+          "content": "Please rest assured. This Express Checkout is valid for you.",
+          "button": "OK"
+        },
+        "card_fields": {
+          "errors": {
+            "required": {
+              "issue_date": "Please enter a valid issue date",
+              "issue_number": "Please enter a valid issue number"
+            },
+            "invalid": {
+              "verification_value": "Please enter a valid CVV or security code"
+            }
+          }
+        },
+        "vaulting_agreement_label": "Save your payment information in %{company} for faster checkout.",
+        "business_customer_vaulting_payment_label": "Save this card at checkout and authorize %{company} to charge this card for future purchases at this location. Customers assigned to this location are authorized to use this card."
       }
     }
   }
