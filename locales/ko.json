@@ -1314,8 +1314,16 @@
           "medium": {
             "one": "고객의 주문이 처리 중입니다. %{count}분 정도 기다려 주세요.",
             "other": "고객의 주문이 처리 중입니다. %{count}분 정도 기다려 주세요."
-          }
-        }
+          },
+          "long": "주문이 처리되면 이메일이 전송됩니다. 현재 많은 주문이 있습니다.",
+          "no_auto_refresh_html": "자동으로 리디렉션되지 않으면 %{link}.",
+          "refresh_this_page": "이 페이지를 업데이트하세요."
+        },
+        "you_will_not_be_charged": "청구는 아직 이루어지지 않습니다.",
+        "action_required": "액션 필요"
+      },
+      "failed_payment": {
+        "payment_not_processed_text": "청구가 이루어지지 않았습니다. 장바구니로 돌아와 구매 절차를 완료합니다."
       }
     }
   }
