@@ -583,7 +583,15 @@
         "invalid_shipping_method_summary": "유효한 배송지 주소를 선택하여 사용 가능한 배송 방법을 확인하세요."
       },
       "stock": {
-        "items_unavailable_notice": "일부 항목은 사용할 수 없습니다."
+        "items_unavailable_notice": "일부 항목은 사용할 수 없습니다.",
+        "product_column_header": "상품",
+        "status_column_header": "상황",
+        "removed_from_cart_notice": "장바구니에서 지워졌습니다.",
+        "sold_out_label": "매진",
+        "reduced_label": "남은",
+        "reduced_with_quantity_label": "나머지 불과 %{quantity_available}",
+        "remove_from_cart_button_label": "장바구니에서 삭제",
+        "continue_shopping_button_label": "계속하다"
       }
     }
   }
