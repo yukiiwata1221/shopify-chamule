@@ -2078,6 +2078,25 @@
         "number_of_pickup_points_near_location": {
           "one": "There are %{count} designated pickup locations near your location.",
           "other": "There are %{count} designated pickup locations near your location."
+        },
+        "change": "change",
+        "waiting_on_pickup_point_location_notice": "Searching for designated pick-up location...",
+        "geolocation": {
+          "shared_location_button": "use location",
+          "errors": {
+            "unsuported_by_browser": "Your browser does not support obtaining geolocation. Please try again or use a different browser.",
+            "permission_not_allowed": "Allow location sharing.",
+            "permission_denied": "Could not get location. please try again."
+          }
+        }
+      },
+      "error_page": {
+        "terminal": {
+          "title": "There was a problem checking out",
+          "message": "Please refresh this page or try again later",
+          "action": {
+            "cta": "Refresh page"
+          }
         }
       }
     }
