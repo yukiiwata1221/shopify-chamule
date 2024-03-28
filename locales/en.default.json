@@ -964,7 +964,28 @@
         "shipping_line_delivery_phone_label": "Cellphone number",
         "shipping_line_delivery_instructions": "Enter the required information, including door code and drop-off instructions.",
         "local_delivery": "local delivery",
-        "subscription_shipping": "Shipping method for regular purchases"
+        "subscription_shipping": "Shipping method for regular purchases",
+        "shipping_method_one_time_purchase_group_title": "one-time purchase",
+        "shipping_method_subscription_group_title": "subscription",
+        "subscription_delivery_description": {
+          "prepaid_delivery_frequency": {
+            "one": "For %{count} deliveries",
+            "other": "For %{count} deliveries"
+          },
+          "subscription_delivery_frequency": {
+            "day": {
+              "other": "%{count}Daily"
+            },
+            "week": {
+              "one": "Every week",
+              "other": "%{count}Weekly"
+            },
+            "month": {
+              "one": "monthly",
+              "other": "%{count}monthly"
+            }
+          }
+        }
       }
     }
   }
