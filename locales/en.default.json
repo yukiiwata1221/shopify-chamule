@@ -2980,7 +2980,17 @@
       "loading_finished_accessibility_message": "A new page of addresses has been loaded",
       "save_new_address_accessibility_label": "save address",
       "title": "address",
-      "delete_confirmation_title": "Do you want to delete the address?"
+      "delete_confirmation_title": "Do you want to delete the address?",
+      "add_address_banner": "Add an address to use during checkout",
+      "billing_address_dropdown_placeholder": "Request first accommodation",
+      "add_button_text": "addition",
+      "add_button_accessibility_label": "add address",
+      "back_button": "return",
+      "back_button_accessibility_label": "Go back and edit the address ({{address}})",
+      "no_addresses_banner": "Address not added"
+    },
+    "address_form": {
+      "auto_complete_title": "candidate"
     }
   }
 }
