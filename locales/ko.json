@@ -462,7 +462,21 @@
         "submit": "전송",
         "processing": "처리 중...",
         "stepper": {
-          "minimum_reached": "{{value}}의 최소값에 도달했습니다."
+          "minimum_reached": "{{value}}의 최소값에 도달했습니다.",
+          "maximum_reached": "{{value}}의 최대값에 도달했습니다."
+        },
+        "remove_item": "%{label} 삭제",
+        "remove_tag": "태그 삭제",
+        "dates": {
+          "weekdays_abbreviation": {
+            "monday": "월요일",
+            "tuesday": "화요일",
+            "wednesday": "수요일",
+            "thursday": "목요일",
+            "friday": "금요일",
+            "saturday": "토요일",
+            "sunday": "일요일"
+          }
         }
       }
     }
