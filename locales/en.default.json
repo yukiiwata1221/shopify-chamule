@@ -412,14 +412,16 @@
         "continue_button_label": "continue",
         "complete_purchase_button_label": "Order completed",
         "pay_now_button_label": "pay now",
-        "authenticate_purchase_button_label": "支払いを認証",
-        "edit_link_label": "編集",
-        "print_policies_link_label": "印刷",
-        "cart": "カート",
-        "close_modal_label": "閉じる",
-        "close_notice_label": "閉じる",
-        "expand_notice_label": "もっと見る",
-        "breadcrumb": "breadcrumb trail"
+        "authenticate_purchase_button_label": "Verify payment",
+        "edit_link_label": "edit",
+        "print_policies_link_label": "printing",
+        "cart": "cart",
+        "close_modal_label": "close",
+        "close_notice_label": "close",
+        "expand_notice_label": "See more",
+        "breadcrumb": "breadcrumb trail",
+        "continue_to_shipping_method": "Continue to choose your shipping method",
+        "continue_to_payment_method": "Proceed to payment"
       }
     }
   }
