@@ -2072,7 +2072,16 @@
       "discount_not_found": "입력한 코드와 일치하는 할인을 찾을 수 없습니다.",
       "customer_already_used_once_per_customer_discount_notice": "이 할인은 사용 횟수의 상한을 맞습니다.",
       "gift_card_already_applied": "코드가 이미 결제에 적용되었습니다.",
-      "gift_card_currency_mismatch": "기프트 카드는 %{gift_card_currency}입니다. %{checkout_currency}에서 재발행하려면 저희에게 알려주십시오."
+      "gift_card_currency_mismatch": "기프트 카드는 %{gift_card_currency}입니다. %{checkout_currency}에서 재발행하려면 저희에게 알려주십시오.",
+      "gift_card_depleted": "이 기프트 카드에는 잔액이 남지 않습니다.",
+      "gift_card_disabled": "기프트 카드가 잘못되었습니다.",
+      "gift_card_expired": "기프트 카드 사용이 만료되었습니다.",
+      "invalid": "유효하지 않음",
+      "taken": "은 이미 사용 중입니다.",
+      "contains_html_tags": "HTML 태그를 포함할 수 없습니다.",
+      "too_short": "너무 짧습니다 (최소 %{count}문자 이상)",
+      "too_long": "너무 깁니다 (최고 %{count}문자 이하)",
+      "password_mismatch": "는 입력한 비밀번호와 일치해야 합니다."
     }
   }
 }
