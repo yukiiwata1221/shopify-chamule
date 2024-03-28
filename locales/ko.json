@@ -1380,7 +1380,17 @@
         "order_updates_description_html": "확인 이메일이 %{customer_contact}로 전송되었습니다.",
         "order_updates_past_step_prefix": "완료된 단계: ",
         "order_updates_upcoming_step_prefix": "향후 단계: ",
-        "in_transit_title": "주문은 배송중입니다"
+        "in_transit_title": "주문은 배송중입니다",
+        "in_transit_description": "해당 주문의 진행 상황을 알립니다.",
+        "in_transit_description_days": "고객의 주문은 %{number}일 이내에 도착합니다.",
+        "in_transit_description_today": "고객의 주문은 오늘 도착합니다.",
+        "in_transit_description_tomorrow": "고객의 주문은 다음날 도착합니다.",
+        "no_tracking_number": "이 주문에는 추적 번호가 없습니다.",
+        "out_for_delivery": "배송중",
+        "out_for_delivery_title": "주문은 배송중입니다",
+        "out_for_delivery_description_html": "주문을 배달 중입니다. 오늘 도착하겠습니다. 주문이 2일 이내에 도착하지 않으면 %{contact_us}.",
+        "attempted_delivery": "부재중 반송",
+        "attempted_delivery_title": "고객의 주문 배달을 시도했습니다."
       }
     }
   }
