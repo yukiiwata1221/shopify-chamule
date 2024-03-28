@@ -888,7 +888,16 @@
           "due_on_receipt": "Receipt payment total",
           "total_paid": "payment total"
         },
-        "higher_value_discount_applied": "<strong style=\"text-transform:uppercase\">%{code}<\/strong> could not be used in conjunction with an existing discount."
+        "higher_value_discount_applied": "<strong style=\"text-transform:uppercase\">%{code}<\/strong> could not be used in conjunction with an existing discount.",
+        "maximum_discount_code_limit_reached": "The maximum number of coupon codes has been reached. Please remove the existing code and use<strong style=\"text-transform:uppercase\">%{code}<\/strong>.",
+        "discount_code_application_failed": "<strong style=\"text-transform:uppercase\">%{code}<\/strong> is currently not working. Please contact us and we will support you.",
+        "due_on_fulfillment": "During fulfillment",
+        "gift_card_masked": "%{last_characters} ••••",
+        "subscriptions": "subscription",
+        "duties_label": "customs duty",
+        "duties_and_taxes_label": "customs duties and taxes",
+        "error_duties_tooltip": "Because this order is shipping from another country, customs duties and taxes may be charged upon delivery.",
+        "may_be_charged_on_delivery": "May be charged upon delivery"
       }
     }
   }
