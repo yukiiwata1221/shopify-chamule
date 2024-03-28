@@ -1830,6 +1830,23 @@
           "no_purchase_order_number": "(No purchase order number)",
           "due_after_order_reviewed_html": "Deadline after order is confirmed",
           "review_title_free_order": "Confirm and complete your order"
+        },
+        "block_title": "Please check your information",
+        "checkout_a_different_way": "Check out another way"
+      },
+      "marketing": {
+        "accept_marketing_checkbox_label": "Receive news and offers by email",
+        "unsubscribe": {
+          "title": "Your registration has been canceled.",
+          "description": "From now on, we will no longer send cart reminder notifications to customers."
+        },
+        "accept_sms_checkbox_label": "Receive news and offers by text",
+        "sms": {
+          "disclaimer": {
+            "privacy_policy": "privacy policy",
+            "terms_of_service": "terms of service",
+            "description_html": "By signing up by text, you agree to receive periodic automated marketing messages, including cart reminders, at the phone number you entered. Consent is not a condition of purchase. To unsubscribe, please reply STOP. If you need assistance, please reply to HELP. Message frequency varies. Message and data charges may apply. Display %{privacy_policy_link} and %{terms_of_service_link}."
+          }
         }
       }
     }
