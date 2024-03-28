@@ -3309,9 +3309,14 @@
       },
       "apple_pay": {
         "errors": {
-          "generic": "There was a problem with Apple Pay. Please try again or use a different payment method."
+          "generic": "There was a problem with Apple Pay. Please try again or use a different payment method.",
+          "missing_billing_address": "A billing address is required to use Apple Pay. Please add one to your account."
         }
-      }
+      },
+      "add_payment_method_banner": "Add payment methods for faster checkout and pre-approved services",
+      "edit_payment_method_button_accessibility_label": "Edit {{paymentMethodName}} with the last number {{lastDigits}}",
+      "expiration_warning_button_accessibility_label": "Show expiration warning for {{paymentMethodName}} with the last number {{lastDigits}}",
+      "no_payment_methods_banner": "Payment method not added"
     }
   }
 }
