@@ -2157,6 +2157,22 @@
         "errors": {
           "not_solved": "Please complete the CAPTCHA to continue"
         }
+      },
+      "discount_errors": {
+        "generic_error": "Your order could not be processed because the coupon code is no longer available. Please check your order total and try again."
+      },
+      "wallets": {
+        "return_to_store": "Back to Store",
+        "redirect_hint": "Login to {{walletName}} is required.",
+        "shipping_line_label": "delivery",
+        "payment_in_progress_title": "Payment processing in progress",
+        "payment_in_progress_body": "Payment is being processed. Your order will be completed shortly.",
+        "call_to_action": "Payment at {{walletName}}",
+        "errors": {
+          "unavailable": {
+            "title": "{{walletName}} is not available"
+          }
+        }
       }
     }
   }
