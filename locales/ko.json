@@ -2305,8 +2305,35 @@
         "four_hours": "보통 4시간 만에 준비 완료",
         "twenty_four_hours": "보통 24시간 만에 준비 완료",
         "two_to_four_days": "보통 2~4일 만에 준비 완료",
-        "five_or_more_days": "보통 5일 이상으로 준비가 완료됩니다."
+        "five_or_more_days": "보통 5일 이상으로 준비가 완료됩니다.",
+        "zero_to_two_hours": "보통 2시간 만에 준비가 완료",
+        "two_to_four_hours": "보통 4시간 만에 준비 완료",
+        "immediately": "받을 준비가 되었습니다",
+        "next_day": "다음날 받을 준비가 되어 있습니다"
       }
+    },
+    "filters": {
+      "boolean": {
+        "false_label": "아니오"
+      }
+    },
+    "search": {
+      "sorting": {
+        "price_ascending": "가격이 저렴한 순서",
+        "price_descending": "가격이 높은 순서"
+      }
+    }
+  },
+  "customer_accounts": {
+    "navigation_and_structure": {
+      "account_menu": {
+        "nav_accessibility_label": "계정 메뉴",
+        "open_menu_accessibility_label": "계정 메뉴 열기",
+        "close_menu_accessibility_label": "계정 메뉴 닫기",
+        "loading_message": "계정 메뉴를 로드하는 중"
+      },
+      "action_menu_accessibility_label": "기타 조작",
+      "close_menu_accessibility_label": "메인 메뉴 닫기"
     }
   }
 }
