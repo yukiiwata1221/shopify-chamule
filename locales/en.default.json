@@ -1626,7 +1626,18 @@
           "one": "Also buy this product",
           "other": "Also buy these products"
         },
-        "customer_information_hidden_fields_message": "Log in to view all your information"
+        "customer_information_hidden_fields_message": "Log in to view all your information",
+        "cancelled_description": "Your order was canceled on %{date}. If you have any questions, please feel free to contact us.",
+        "order_number_label": "order number",
+        "customer_validation_error": "Please enter a valid email address or order number.",
+        "customer_validation_error_phone": "Please enter a valid phone number or order number.",
+        "login": "Login",
+        "unfulfilled_items_title": "Preparing for delivery",
+        "unfulfilled_items_description": "These items are currently being prepared for delivery.",
+        "marker": {
+          "current": "Product current location",
+          "shipping": "Delivery to residence first"
+        }
       }
     }
   }
