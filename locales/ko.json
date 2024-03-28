@@ -2898,7 +2898,23 @@
       },
       "failed_address_update": {
         "description": "주소를 업데이트하는 중에 문제가 발생했습니다. 이 페이지를 업데이트하거나 인터넷 연결을 확인하세요."
-      }
+      },
+      "no_access": {
+        "description": "{{shopName}}에서 B2B 고객으로 등록되지 않았습니다."
+      },
+      "no_access_to_locations": {
+        "description": "어떤 위치에도 액세스 권한이 없습니다."
+      },
+      "not_found": {
+        "description": "URL을 확인하거나 잠시 후 다시 시도해 주세요."
+      },
+      "order_not_found": {
+        "description": "이 주문은 존재하지 않거나 주문을 볼 수 있는 권한이 없습니다."
+      },
+      "profile_update_error": {
+        "description": "프로필을 업데이트하는 중에 문제가 발생했습니다. 이 페이지를 업데이트하거나 인터넷 연결을 확인하세요."
+      },
+      "retry_action_label": "다시 시도하십시오"
     }
   }
 }
