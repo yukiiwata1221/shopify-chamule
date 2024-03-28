@@ -2445,7 +2445,16 @@
         "generic_error": "Cart error",
         "too_many_line_items_error": "Your cart cannot contain more than %{max} items.",
         "link_expired": "Link broken",
-        "link_no_longer_exists": "The link no longer exists."
+        "link_no_longer_exists": "The link no longer exists.",
+        "stock_problems_html": "One or more items are sold out. <a href='%{link}'>Update cart<\/a> .",
+        "items_changed": "I changed one or more products.",
+        "product_sold_out": "'%{name}' is already sold out.",
+        "variant_not_found": "can't find different model",
+        "variant_requires_selling_plan": "Variants can only be purchased with a sales plan.",
+        "shipping_address_not_required": "This shopping cart does not require a shipping address",
+        "shipping_address_invalid": "There was a problem calculating shipping charges. Please continue to checkout and select your shipping rate before completing your order.",
+        "selling_plan_not_applicable": "Unable to apply sales plan to variation",
+        "selling_plan_not_available_for_company_locations": "For B2B orders, only one-time purchases are possible."
       }
     }
   }
