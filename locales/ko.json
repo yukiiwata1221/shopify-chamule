@@ -1920,6 +1920,21 @@
         "errors": {
           "not_solved": "계속하려면 CAPTCHA를 완료하세요."
         }
+      },
+      "discount_errors": {
+        "generic_error": "쿠폰 코드를 더 이상 사용할 수 없으므로 주문을 처리할 수 없습니다. 총 주문 수를 확인한 후 다시 시도해 주세요."
+      },
+      "wallets": {
+        "return_to_store": "상점으로 돌아가기",
+        "redirect_hint": "{{walletName}}에 로그인해야 합니다.",
+        "logged_in": "{{email}}과 연결됨",
+        "payment_in_progress_title": "결제 처리 중",
+        "payment_in_progress_body": "결제가 처리 중입니다. 주문은 곧 완료됩니다.",
+        "errors": {
+          "unavailable": {
+            "title": "{{walletName}} 사용할 수 없음"
+          }
+        }
       }
     }
   }
