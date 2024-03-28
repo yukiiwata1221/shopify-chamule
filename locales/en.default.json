@@ -2678,7 +2678,23 @@
         },
         "two_images_accessibility_label": "Order includes {{lineItemName1}} and {{lineItemName2}}",
         "no_filtered_results_description": "Remove or adjust filters and review orders",
-        "no_filtered_results_title": "There are no filter results"
+        "no_filtered_results_title": "There are no filter results",
+        "estimated_shortform": "Scheduled date:{{date}}",
+        "payment_status": {
+          "list_view": {
+            "overdue": "Payment past due",
+            "due": "Payment deadline:{{date}}",
+            "due_today": "Payment deadline is today",
+            "due_without_date": "Payment date",
+            "due_on_fulfillment": "Payment is due at time of fulfillment",
+            "pay_to_confirm": "Make payment and confirm",
+            "payment_not_due": "unpaid"
+          },
+          "table_view": {
+            "overdue": "time limit exceeded",
+            "due": "Due date:{{date}}"
+          }
+        }
       }
     }
   }
