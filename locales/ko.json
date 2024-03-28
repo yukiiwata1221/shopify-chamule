@@ -980,7 +980,21 @@
         "expiry_long": "(유효 기한 : %{month}\/%{year})",
         "expiry_short": "(유효 기한 : %{month}\/%{year})",
         "ftd_vault_credit_card_label": "신속한 체크아웃을 위해 이 신용카드 정보를 내 계정에 저장",
-        "delete_customer_mandate_modal_title": "이 결제 카드를 삭제하시겠습니까?"
+        "delete_customer_mandate_modal_title": "이 결제 카드를 삭제하시겠습니까?",
+        "delete_customer_mandate_modal_body": "이 카드를 삭제한 경우 결제에 사용하기 전에 다시 추가해야 합니다.",
+        "delete_customer_mandate_modal_confirm": "카드 꺼내기",
+        "google": {
+          "connect": "클릭하여 Google Pay 계정과 연결",
+          "error_authorizing": "결제를 승인하는 중에 오류가 발생했습니다."
+        },
+        "klarna_label": "클라르나",
+        "mor_disclaimer_html": "아래를 클릭하여 주문을 완료하면 Global-e <a class=\"link--small\" data-modal=\"true\" data-title-text=\"%{mor_terms}\" href=\"%{terms_href}\">이용약관<\/a> 및 <a class=\"link--small\" data-modal=\"true\" data-title-text=\"%{privacy_policy}\" href=\"%{policy_href}\">개인정보취급방침<\/a> 에 따라 이 거래에 대한 최종 판매 책임을 지는 상인(Merchant of Record)으로 Global-e에서 상품을 구매하는 것에 동의합니다. 한 것입니다. Global-e는 %{shop_name}의 국제 선불 서비스 제공업체입니다.\n",
+        "purchase_options_card_update_agreement_label_html": "결제 방법을 업데이트하여 이 상점의 <a class=\"link--small\" data-modal=\"true\" data-title-text=\"%{cancellation_policy}\" href=\"%{policy_href}\">취소 정책<\/a> 에 따라 정기 구매 또는 후불 구매 결제를 승인합니다.",
+        "multibanco_label": "ATM",
+        "receiver_payment_experience_hint": "주문 후, 결제의 상세를 알려 드리겠습니다. %{due_days}일 이내에 Multibanco 또는 온라인으로 결제하십시오.",
+        "pending_payment": {
+          "due_notice": "%{amount_due}의 지불 기한은 %{due_date}입니다."
+        }
       }
     }
   }
