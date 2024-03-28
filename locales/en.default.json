@@ -1523,8 +1523,19 @@
           "medium": {
             "one": "Your order is currently being processed. Please wait for about %{count} minutes.",
             "other": "Your order is currently being processed. Please wait for about %{count} minutes."
-          }
-        }
+          },
+          "long": "You will receive an email when your order is processed. We currently have many orders.",
+          "no_auto_refresh_html": "%{link} if not automatically redirected.",
+          "refresh_this_page": "Please refresh this page"
+        },
+        "you_will_not_be_charged": "No billing yet",
+        "action_required": "action required"
+      },
+      "failed_payment": {
+        "page_title": "Payment could not be processed",
+        "title": "Payment could not be processed",
+        "payment_not_processed_title": "Payment could not be processed",
+        "payment_not_processed_text": "No charges have been filed. Please return to your cart and complete your purchase."
       }
     }
   }
