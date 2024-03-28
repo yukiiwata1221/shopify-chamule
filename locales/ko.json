@@ -533,7 +533,23 @@
         "governorate_label": "행정구역",
         "governorate_placeholder": "행정구역",
         "emirate_label": "에미레이트 항공",
-        "emirate_placeholder": "에미레이트 항공"
+        "emirate_placeholder": "에미레이트 항공",
+        "state_and_territory_placeholder": "주\/지역",
+        "state_and_territory_label": "주\/지역",
+        "phone_label": "전화번호",
+        "optional_phone_label": "전화 번호 (선택 사항)",
+        "phone_placeholder": "전화번호",
+        "phone_tooltip": "주문에 대해 연락해야 할 때 사용",
+        "zip_code_label": "우편번호",
+        "zip_code_placeholder": "우편번호",
+        "postal_code_label": "우편번호",
+        "postal_code_placeholder": "우편번호",
+        "postcode_label": "우편번호",
+        "postcode_placeholder": "우편번호",
+        "region_none": "선택되지 않음",
+        "civic_number_warning": "해당하는 경우 주소도 입력하세요.",
+        "optional_last_name_label": "성(아무거나)",
+        "optional_recipient_label": "확인(선택사항)"
       }
     }
   }
