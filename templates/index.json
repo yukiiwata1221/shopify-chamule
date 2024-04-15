@@ -188,7 +188,7 @@
           "type": "collection",
           "settings": {
             "collection": "new-item-新商品",
-            "title": "NEW ITEM"
+            "title": "NEW"
           }
         },
         "427b68b2-2179-4495-8b1e-afaeee3ccc75": {
@@ -239,13 +239,6 @@
             "collection": "goods-グッズ",
             "title": "GOODS"
           }
-        },
-        "9ecb6238-2979-41cf-89c6-348e88fb3a55": {
-          "type": "collection",
-          "settings": {
-            "collection": "autumn-collection",
-            "title": "2023 S\/S"
-          }
         }
       },
       "block_order": [
@@ -257,8 +250,7 @@
         "baae5a34-c379-46f7-985e-2108e032f82a",
         "75a19b2d-6894-4100-b176-3546a5e529b1",
         "62cbe5e5-f72d-41d8-b019-a4911bf7b925",
-        "cf350b98-b35f-4a14-9ca0-e51e67ab5ae5",
-        "9ecb6238-2979-41cf-89c6-348e88fb3a55"
+        "cf350b98-b35f-4a14-9ca0-e51e67ab5ae5"
       ],
       "settings": {
         "title": "Featured collection",
