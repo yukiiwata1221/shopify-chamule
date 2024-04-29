@@ -97,10 +97,9 @@
           },
           "1524770296206": {
             "type": "announcement",
-            "disabled": true,
             "settings": {
-              "text": "Hassle-free returns",
-              "link_text": "30-day postage paid returns",
+              "text": "FREE SHIPPING WORLDWIDE SHOP NOW",
+              "link_text": "",
               "link": ""
             }
           }
@@ -262,12 +261,6 @@
       },
       "judgeme_core_4be6e7a0": {
         "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/judgeme_core\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-        "disabled": false,
-        "settings": {
-        }
-      },
-      "9094328589753815681": {
-        "type": "shopify:\/\/apps\/hextom-free-shipping-bar\/blocks\/fsb-embeded-block\/7ef5d9af-75a2-45c7-9b1b-f9240ee488e9",
         "disabled": false,
         "settings": {
         }
