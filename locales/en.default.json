@@ -1080,7 +1080,8 @@
         "shipping_method_recurring_shipments_group_title": {
           "one": "regular shipping",
           "other": "regular shipping"
-        }
+        },
+        "enter_address_manually_label": "Enter an address manually"
       },
       "payment": {
         "amazon_payments_login_hint": "Amazon login required. Click \"Complete Order\" and enter your details on the next page.",
