@@ -71,12 +71,43 @@
         "autoplay": true,
         "autoplay_speed": 5
       }
+    },
+    "advanced_content_4T4YPT": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_U7e7CJ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/e661589290b9c66730a0a5638225c63e.png",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "liquid_QiB4U6": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Custom content<\/h2><p>Use this advanced section to build your own layouts or to add custom HTML, Liquid, or scripts.<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_U7e7CJ",
+        "liquid_QiB4U6"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
     }
   },
   "order": [
     "collection-header",
     "main-collection",
     "text_and_image_NfUhcG",
-    "slideshow_68CHEr"
+    "slideshow_68CHEr",
+    "advanced_content_4T4YPT"
   ]
 }
