@@ -2,6 +2,7 @@
   "sections": {
     "collection-header": {
       "type": "collection-header",
+      "disabled": true,
       "settings": {
         "enable": true,
         "collection_image_enable": true,
@@ -11,26 +12,7 @@
     },
     "main-collection": {
       "type": "main-collection",
-      "blocks": {
-        "collection_description": {
-          "type": "collection_description",
-          "settings": {
-          }
-        },
-        "product_grid_mEjBaA": {
-          "type": "product_grid",
-          "settings": {
-            "enable_collection_count": true,
-            "per_row": 4,
-            "rows_per_page": 7,
-            "mobile_flush_grid": false
-          }
-        }
-      },
-      "block_order": [
-        "collection_description",
-        "product_grid_mEjBaA"
-      ],
+      "disabled": true,
       "settings": {
         "enable_sidebar": false,
         "collapsed": true,
@@ -39,15 +21,53 @@
         "enable_sort": true
       }
     },
-    "16567627855f42fc94": {
-      "type": "featured-collection",
+    "slideshow_3BERFk": {
+      "type": "slideshow",
+      "blocks": {
+        "image_giVJ9F": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/e661589290b9c66730a0a5638225c63e.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "image_giVJ9F"
+      ],
       "settings": {
-        "title": "ランキングアイテム",
-        "home_featured_products": "ranking-ランキング",
-        "per_row": 5,
-        "rows": 1,
-        "mobile_scrollable": true,
-        "view_all": true,
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": false,
+        "autoplay_speed": 5
+      }
+    },
+    "text_and_image_NfUhcG": {
+      "type": "text-and-image",
+      "settings": {
+        "image_width": 700,
+        "subtitle": "",
+        "title": "",
+        "text": "",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
         "divider": false
       }
     }
@@ -55,6 +75,7 @@
   "order": [
     "collection-header",
     "main-collection",
-    "16567627855f42fc94"
+    "slideshow_3BERFk",
+    "text_and_image_NfUhcG"
   ]
 }
