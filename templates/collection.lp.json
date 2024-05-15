@@ -153,6 +153,26 @@
         "divider": false
       }
     },
+    "rich_text_cGYFCd": {
+      "type": "rich-text",
+      "blocks": {
+        "text_iUmGMX": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>ボトムスの丈とシルエットを重視して<br\/>気になるむちむち下半身をカバー<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_iUmGMX"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
     "featured_collection_Rhzj6D": {
       "type": "featured-collection",
       "settings": {
@@ -176,6 +196,7 @@
     "featured_collection_GgVh7y",
     "rich_text_eFqAxR",
     "featured_collection_x69fqk",
+    "rich_text_cGYFCd",
     "featured_collection_Rhzj6D"
   ]
 }
