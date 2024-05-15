@@ -88,6 +88,29 @@
         "full_width": false,
         "space_around": true
       }
+    },
+    "featured_collection_custom_t4LMtf": {
+      "type": "featured-collection-custom",
+      "blocks": {
+        "collection_Qt4n7G": {
+          "type": "collection",
+          "settings": {
+            "collection": "7-000円以下アイテム",
+            "title": ""
+          }
+        }
+      },
+      "block_order": [
+        "collection_Qt4n7G"
+      ],
+      "settings": {
+        "title": "あああ",
+        "per_row": 4,
+        "rows": 2,
+        "mobile_scrollable": true,
+        "view_all": false,
+        "divider": false
+      }
     }
   },
   "order": [
@@ -95,6 +118,7 @@
     "main-collection",
     "text_and_image_NfUhcG",
     "advanced_content_4T4YPT",
-    "advanced_content_mEajY4"
+    "advanced_content_mEajY4",
+    "featured_collection_custom_t4LMtf"
   ]
 }
