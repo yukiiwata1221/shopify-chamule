@@ -53,7 +53,7 @@
         "liquid_QiB4U6": {
           "type": "liquid",
           "settings": {
-            "code": "<p>自分に似合うゴルフウェアは、体型によって様々。<\/p>\n\n<p><span class=\"highlight\">お悩みが尽きない大人女子、そんなあなたに朗報です！<\/span><\/p>\n\n<p>スタイルアップしてくれる、Chamuleのコーディネートをお楽しみください。<\/p>",
+            "code": "<p>自分に似合うゴルフウェアは、体型によって様々。<\/p>\n\n<p><span class=\"highlight\">お悩みが尽きない大人女子、そんなあなたに朗報です！<\/span><\/p>\n\n<p>スタイルアップしてくれるChamuleのコーディネートをご紹介します。<\/p>",
             "width": "50%",
             "alignment": "center"
           }
@@ -67,12 +67,42 @@
         "full_width": false,
         "space_around": true
       }
+    },
+    "advanced_content_mEajY4": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_L6pEQL": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "liquid_7yaJ4W": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Custom content<\/h2><p>Use this advanced section to build your own layouts or to add custom HTML, Liquid, or scripts.<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_L6pEQL",
+        "liquid_7yaJ4W"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
     }
   },
   "order": [
     "collection-header",
     "main-collection",
     "text_and_image_NfUhcG",
-    "advanced_content_4T4YPT"
+    "advanced_content_4T4YPT",
+    "advanced_content_mEajY4"
   ]
 }
