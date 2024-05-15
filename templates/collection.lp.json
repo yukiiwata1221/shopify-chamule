@@ -89,6 +89,27 @@
         "space_around": true
       }
     },
+    "advanced_content_3He7bR": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_URfD3y": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2024-05-15_20.45.25.png",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_URfD3y"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
     "rich_text_8WCkqM": {
       "type": "rich-text",
       "blocks": {
@@ -192,6 +213,7 @@
     "text_and_image_NfUhcG",
     "advanced_content_4T4YPT",
     "advanced_content_mEajY4",
+    "advanced_content_3He7bR",
     "rich_text_8WCkqM",
     "featured_collection_GgVh7y",
     "rich_text_eFqAxR",
