@@ -100,6 +100,18 @@
         "view_all": false,
         "divider": false
       }
+    },
+    "featured_collection_x69fqk": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "home_featured_products": "",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": false,
+        "divider": false
+      }
     }
   },
   "order": [
@@ -108,6 +120,7 @@
     "text_and_image_NfUhcG",
     "advanced_content_4T4YPT",
     "advanced_content_mEajY4",
-    "featured_collection_GgVh7y"
+    "featured_collection_GgVh7y",
+    "featured_collection_x69fqk"
   ]
 }
