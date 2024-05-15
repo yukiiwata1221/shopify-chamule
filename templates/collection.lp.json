@@ -89,6 +89,26 @@
         "space_around": true
       }
     },
+    "rich_text_8WCkqM": {
+      "type": "rich-text",
+      "blocks": {
+        "text_ytRwdN": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>ボリュームのある袖でラインを拾わせない！<br\/>スイングもしやすくて快適！<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_ytRwdN"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
     "featured_collection_GgVh7y": {
       "type": "featured-collection",
       "settings": {
@@ -98,6 +118,26 @@
         "rows": 1,
         "mobile_scrollable": true,
         "view_all": false,
+        "divider": false
+      }
+    },
+    "rich_text_eFqAxR": {
+      "type": "rich-text",
+      "blocks": {
+        "text_4UiR47": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>ボリュームのある袖やゆったりとしたサイズで<br\/>カジュアルな雰囲気をつくれます♪<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_4UiR47"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
         "divider": false
       }
     },
@@ -132,7 +172,9 @@
     "text_and_image_NfUhcG",
     "advanced_content_4T4YPT",
     "advanced_content_mEajY4",
+    "rich_text_8WCkqM",
     "featured_collection_GgVh7y",
+    "rich_text_eFqAxR",
     "featured_collection_x69fqk",
     "featured_collection_Rhzj6D"
   ]
