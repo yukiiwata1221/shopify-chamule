@@ -267,6 +267,14 @@
         "divider": false
       }
     },
+    "featured_video_P8nrmi": {
+      "type": "featured-video",
+      "settings": {
+        "title": "\\Youtubeで紹介されました\/",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=t2Cp9mWAdkM",
+        "divider": false
+      }
+    },
     "advanced_content_3jypeN": {
       "type": "advanced-content",
       "blocks": {
@@ -318,6 +326,7 @@
     "advanced_content_Cp6L76",
     "rich_text_AkewzF",
     "new_featured_collection_dbdnVE",
+    "featured_video_P8nrmi",
     "advanced_content_3jypeN",
     "new_featured_collection_wDtBAn"
   ]
