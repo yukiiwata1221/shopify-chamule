@@ -4,7 +4,11 @@
     <a href="{{ product.url | within: collection }}" class="grid-product__link">
       <div class="grid-product__image-mask">
         <div class="image-wrap">
-          <img src="{{ product.featured_image | img_url: '400x' }}" alt="{{ product.featured_image.alt | escape }}">
+          {% if product.featured_image %}
+            <img src="{{ product.featured_image | img_url: '400x' }}" alt="{{ product.featured_image.alt | escape }}">
+          {% else %}
+            <p>No Image Available for {{ product.title }}</p>
+          {% endif %}
         </div>
       </div>
       <div class="grid-product__meta">
