@@ -287,6 +287,18 @@
         "full_width": false,
         "space_around": true
       }
+    },
+    "new_featured_collection_wDtBAn": {
+      "type": "new-featured-collection",
+      "settings": {
+        "title": "RANKING",
+        "home_featured_products": "ranking-ランキング",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": false,
+        "divider": false
+      }
     }
   },
   "order": [
@@ -306,6 +318,7 @@
     "advanced_content_Cp6L76",
     "rich_text_AkewzF",
     "new_featured_collection_dbdnVE",
-    "advanced_content_3jypeN"
+    "advanced_content_3jypeN",
+    "new_featured_collection_wDtBAn"
   ]
 }
