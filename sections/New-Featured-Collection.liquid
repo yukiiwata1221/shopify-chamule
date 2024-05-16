@@ -52,7 +52,7 @@
               {%- for i in (1..product_limit) -%}
                 <div class="grid__item grid-product {{ grid_item_width }}" data-aos="row-of-{{ per_row }}">
                   <div class="grid-product__content">
-                    <a href="{{ product.url | within: collection }}" class="grid-product__link">
+                    <a href="#" class="grid-product__link">
                       <div class="grid-product__image-mask">
                         {%- capture current -%}{% cycle 1, 2, 3, 4, 5, 6 %}{%- endcapture -%}
                         <div class="image-wrap">{{ 'product-' | append: current | placeholder_svg_tag: 'placeholder-svg' }}</div>
@@ -62,10 +62,6 @@
                         <div class="grid-product__price">$29</div>
                       </div>
                     </a>
-                    <form method="post" action="/cart/add">
-                      <input type="hidden" name="id" value="{{ product.variants.first.id }}">
-                      <button type="submit" class="btn btn--primary">{{ 'products.product.add_to_cart' | t }}</button>
-                    </form>
                   </div>
                 </div>
               {%- endfor -%}
@@ -111,24 +107,24 @@
 
 {% schema %}
 {
-  "name": "t:sections.new-featured-collection.name",
+  "name": "New Featured Collection",
   "class": "index-section",
   "settings": [
     {
       "type": "text",
       "id": "title",
-      "label": "t:sections.new-featured-collection.settings.title.label",
+      "label": "Title",
       "default": "New Featured Collection"
     },
     {
       "type": "collection",
       "id": "new_featured_products",
-      "label": "t:sections.new-featured-collection.settings.new_featured_products.label"
+      "label": "Select Collection"
     },
     {
       "type": "range",
       "id": "per_row",
-      "label": "t:sections.new-featured-collection.settings.per_row.label",
+      "label": "Products per Row",
       "default": 4,
       "min": 1,
       "max": 5,
@@ -137,7 +133,7 @@
     {
       "type": "range",
       "id": "rows",
-      "label": "t:sections.new-featured-collection.settings.rows.label",
+      "label": "Number of Rows",
       "default": 1,
       "min": 1,
       "max": 5,
@@ -146,27 +142,26 @@
     {
       "type": "checkbox",
       "id": "mobile_scrollable",
-      "label": "t:sections.new-featured-collection.settings.mobile_scrollable.label",
+      "label": "Enable Mobile Scrollable",
       "default": true
     },
     {
       "type": "checkbox",
       "id": "view_all",
-      "label": "t:sections.new-featured-collection.settings.view_all.label",
+      "label": "Show View All Button",
       "default": true
     },
     {
       "type": "checkbox",
       "id": "divider",
-      "label": "t:sections.new-featured-collection.settings.divider.label",
+      "label": "Show Divider",
       "default": false
     }
   ],
   "presets": [
     {
-      "name": "t:sections.new-featured-collection.presets.featured_collection.name"
+      "name": "Default"
     }
-  ],
-  "blocks": []
+  ]
 }
 {% endschema %}
