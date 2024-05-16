@@ -254,6 +254,12 @@
         "narrow_column": true,
         "divider": false
       }
+    },
+    "pagefly_section_xcPxGG": {
+      "type": "pagefly-section",
+      "settings": {
+        "section_id": ""
+      }
     }
   },
   "order": [
@@ -271,6 +277,7 @@
     "rich_text_ptxXbM",
     "featured_collection_Rhzj6D",
     "advanced_content_Cp6L76",
-    "rich_text_AkewzF"
+    "rich_text_AkewzF",
+    "pagefly_section_xcPxGG"
   ]
 }

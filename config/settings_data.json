@@ -277,6 +277,12 @@
         "settings": {
           "storefrontAccessToken": "be18f0f12b443fc3b5749ea6bd5dbe8c"
         }
+      },
+      "16278478101612877664": {
+        "type": "shopify:\/\/apps\/pagefly-page-builder\/blocks\/app-embed\/83e179f7-59a0-4589-8c66-c0dddf959200",
+        "disabled": false,
+        "settings": {
+        }
       }
     }
   },
