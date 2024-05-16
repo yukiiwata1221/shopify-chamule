@@ -187,7 +187,7 @@
       "type": "featured-collection",
       "settings": {
         "title": "",
-        "home_featured_products": "",
+        "home_featured_products": "気になる-ぽっこりお腹",
         "per_row": 4,
         "rows": 1,
         "mobile_scrollable": true,
