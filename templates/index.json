@@ -198,6 +198,13 @@
             "title": "TOPS"
           }
         },
+        "75a19b2d-6894-4100-b176-3546a5e529b1": {
+          "type": "collection",
+          "settings": {
+            "collection": "setup-セットアップ",
+            "title": "SETUP"
+          }
+        },
         "659b2c49-ded8-4e2f-a3eb-849e3ecc4958": {
           "type": "collection",
           "settings": {
@@ -219,13 +226,6 @@
             "title": "SHOES"
           }
         },
-        "75a19b2d-6894-4100-b176-3546a5e529b1": {
-          "type": "collection",
-          "settings": {
-            "collection": "setup-セットアップ",
-            "title": "SETUP"
-          }
-        },
         "62cbe5e5-f72d-41d8-b019-a4911bf7b925": {
           "type": "collection",
           "settings": {
@@ -245,10 +245,10 @@
         "d1050def-2e77-4590-9c8e-545ebbb4dcc7",
         "1163872d-94a3-4f11-8ffa-635cf66165d4",
         "427b68b2-2179-4495-8b1e-afaeee3ccc75",
+        "75a19b2d-6894-4100-b176-3546a5e529b1",
         "659b2c49-ded8-4e2f-a3eb-849e3ecc4958",
         "80c80e95-d9d0-4021-aa89-4a931e5763be",
         "baae5a34-c379-46f7-985e-2108e032f82a",
-        "75a19b2d-6894-4100-b176-3546a5e529b1",
         "62cbe5e5-f72d-41d8-b019-a4911bf7b925",
         "cf350b98-b35f-4a14-9ca0-e51e67ab5ae5"
       ],
