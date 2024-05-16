@@ -62,6 +62,10 @@
                         <div class="grid-product__price">$29</div>
                       </div>
                     </a>
+                    <form method="post" action="/cart/add">
+                      <input type="hidden" name="id" value="{{ product.variants.first.id }}" />
+                      <button type="submit" class="btn btn--secondary btn--small">カートに追加する</button>
+                    </form>
                   </div>
                 </div>
               {%- endfor -%}
@@ -77,6 +81,10 @@
               per_row: per_row,
               quick_shop_enable: settings.quick_shop_enable
             -%}
+            <form method="post" action="/cart/add">
+              <input type="hidden" name="id" value="{{ product.variants.first.id }}" />
+              <button type="submit" class="btn btn--secondary btn--small">カートに追加する</button>
+            </form>
           {%- endfor -%}
 
           {%- if section.settings.view_all -%}
