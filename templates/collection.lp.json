@@ -255,10 +255,16 @@
         "divider": false
       }
     },
-    "pagefly_section_eNCc4Y": {
-      "type": "pagefly-section",
+    "new_featured_collection_AkqCjn": {
+      "type": "New-Featured-Collection",
       "settings": {
-        "section_id": ""
+        "title": "",
+        "new_featured_products": "",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
       }
     }
   },
@@ -278,6 +284,6 @@
     "featured_collection_Rhzj6D",
     "advanced_content_Cp6L76",
     "rich_text_AkewzF",
-    "pagefly_section_eNCc4Y"
+    "new_featured_collection_AkqCjn"
   ]
 }
