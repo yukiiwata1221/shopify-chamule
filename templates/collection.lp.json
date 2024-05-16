@@ -117,12 +117,20 @@
           "type": "text",
           "settings": {
             "enlarge_text": false,
-            "text": "<p>ボリュームのある袖で二の腕のラインを拾わせない！<br\/>スイングもしやすくて快適です♪<\/p>"
+            "text": "<p>ボリュームのある袖で二の腕のラインを拾わせない！<br\/>スイングもしやすくて快適です♪<\/p><p><\/p>"
+          }
+        },
+        "text_XVMgRj": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>二の腕をカバーできる商品はこちら<\/p>"
           }
         }
       },
       "block_order": [
-        "text_ytRwdN"
+        "text_ytRwdN",
+        "text_XVMgRj"
       ],
       "settings": {
         "align_text": "center",
