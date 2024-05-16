@@ -7,7 +7,7 @@
 <div
   id="CollectionSection-{{ section.id }}"
   data-section-id="{{ section.id }}"
-  data-section-type="featured-collection">
+  data-section-type="new-featured-collection">
   {%- if section.settings.title != blank -%}
     <div class="page-width">
       <div class="section-header{% if section.settings.view_all %}{% unless settings.type_headers_align_text %} section-header--with-link{% endunless %}{% endif %}">
@@ -107,24 +107,24 @@
 
 {% schema %}
 {
-  "name": "t:sections.featured-collection.name",
+  "name": "Featured Collection",
   "class": "index-section",
   "settings": [
     {
       "type": "text",
       "id": "title",
-      "label": "t:sections.featured-collection.settings.title.label",
+      "label": "Title",
       "default": "Featured collection"
     },
     {
       "type": "collection",
       "id": "home_featured_products",
-      "label": "t:sections.featured-collection.settings.home_featured_products.label"
+      "label": "Collection"
     },
     {
       "type": "range",
       "id": "per_row",
-      "label": "t:sections.featured-collection.settings.per_row.label",
+      "label": "Products per row",
       "default": 4,
       "min": 1,
       "max": 5,
@@ -133,7 +133,7 @@
     {
       "type": "range",
       "id": "rows",
-      "label": "t:sections.featured-collection.settings.rows.label",
+      "label": "Number of rows",
       "default": 1,
       "min": 1,
       "max": 5,
@@ -142,25 +142,25 @@
     {
       "type": "checkbox",
       "id": "mobile_scrollable",
-      "label": "t:sections.featured-collection.settings.mobile_scrollable.label",
+      "label": "Enable mobile scrolling",
       "default": true
     },
     {
       "type": "checkbox",
       "id": "view_all",
-      "label": "t:sections.featured-collection.settings.view_all.label",
+      "label": "Show view all link",
       "default": true
     },
     {
       "type": "checkbox",
       "id": "divider",
-      "label": "t:sections.featured-collection.settings.divider.label",
+      "label": "Show divider",
       "default": false
     }
   ],
   "presets": [
     {
-      "name": "t:sections.featured-collection.presets.featured_collection.name"
+      "name": "Featured Collection"
     }
   ],
   "blocks": []
