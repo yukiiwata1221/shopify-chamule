@@ -142,32 +142,29 @@
         "divider": false
       }
     },
-    "featured_collection_x69fqk": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "",
-        "home_featured_products": "",
-        "per_row": 4,
-        "rows": 1,
-        "mobile_scrollable": true,
-        "view_all": false,
-        "divider": false
-      }
-    },
-    "rich_text_cGYFCd": {
-      "type": "rich-text",
+    "advanced_content_diK3xN": {
+      "type": "advanced-content",
       "blocks": {
-        "text_iUmGMX": {
-          "type": "text",
+        "image_eYbHei": {
+          "type": "image",
           "settings": {
-            "enlarge_text": false,
-            "text": "<p>ボトムスの丈とシルエットを重視して<br\/>気になるむちむち下半身をカバー<\/p>"
+            "image": "shopify:\/\/shop_images\/2024-05-16_14.30.34.png",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
           }
         }
       },
       "block_order": [
-        "text_iUmGMX"
+        "image_eYbHei"
       ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
+    "rich_text_cGYFCd": {
+      "type": "rich-text",
       "settings": {
         "align_text": "center",
         "narrow_column": true,
@@ -196,7 +193,7 @@
     "advanced_content_3He7bR",
     "rich_text_8WCkqM",
     "featured_collection_GgVh7y",
-    "featured_collection_x69fqk",
+    "advanced_content_diK3xN",
     "rich_text_cGYFCd",
     "featured_collection_Rhzj6D"
   ]
