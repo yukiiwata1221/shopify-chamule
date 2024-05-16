@@ -95,7 +95,7 @@
         "image_URfD3y": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/2024-05-16_13.59.42.png",
+            "image": "shopify:\/\/shop_images\/2024-05-16_15.05.56.png",
             "link": "",
             "width": "50%",
             "alignment": "center"
@@ -108,6 +108,26 @@
       "settings": {
         "full_width": false,
         "space_around": true
+      }
+    },
+    "rich_text_CaEFdR": {
+      "type": "rich-text",
+      "blocks": {
+        "text_gCPX6J": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>ボリュームのある袖でぷにぷに二の腕をカバーします♪<br\/>５部袖もありスイングもしやすく快適なジャケットです！<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_gCPX6J"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
       }
     },
     "rich_text_8WCkqM": {
@@ -203,6 +223,7 @@
     "advanced_content_4T4YPT",
     "advanced_content_mEajY4",
     "advanced_content_3He7bR",
+    "rich_text_CaEFdR",
     "rich_text_8WCkqM",
     "featured_collection_GgVh7y",
     "advanced_content_diK3xN",
