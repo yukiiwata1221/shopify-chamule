@@ -1,4 +1,4 @@
-{% assign product = product or item %}
+{% assign product = product | default: item %}
 <div class="grid__item grid-product {{ grid_item_width }}" data-aos="row-of-{{ per_row }}">
   <div class="grid-product__content">
     <a href="{{ product.url | within: collection }}" class="grid-product__link">
