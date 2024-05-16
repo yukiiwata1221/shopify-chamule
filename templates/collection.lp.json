@@ -100,6 +100,18 @@
         "space_around": true
       }
     },
+    "new_featured_collection_qPNkeH": {
+      "type": "new-featured-collection",
+      "settings": {
+        "title": "",
+        "home_featured_products": "ぷにぷに二の腕カバー",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": false,
+        "divider": false
+      }
+    },
     "advanced_content_3He7bR": {
       "type": "advanced-content",
       "blocks": {
@@ -149,18 +161,6 @@
         "divider": false
       }
     },
-    "featured_collection_GgVh7y": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "",
-        "home_featured_products": "ぷにぷに二の腕カバー",
-        "per_row": 4,
-        "rows": 1,
-        "mobile_scrollable": true,
-        "view_all": false,
-        "divider": false
-      }
-    },
     "advanced_content_EbitCq": {
       "type": "advanced-content",
       "blocks": {
@@ -202,13 +202,13 @@
         "divider": false
       }
     },
-    "featured_collection_Rhzj6D": {
-      "type": "featured-collection",
+    "new_featured_collection_jHCPC4": {
+      "type": "new-featured-collection",
       "settings": {
         "title": "",
         "home_featured_products": "気になる-ぽっこりお腹",
-        "per_row": 4,
-        "rows": 1,
+        "per_row": 5,
+        "rows": 3,
         "mobile_scrollable": true,
         "view_all": true,
         "divider": false
@@ -254,18 +254,6 @@
         "narrow_column": true,
         "divider": false
       }
-    },
-    "new_featured_collection_jHCPC4": {
-      "type": "new-featured-collection",
-      "settings": {
-        "title": "",
-        "home_featured_products": "ranking-ランキング",
-        "per_row": 5,
-        "rows": 3,
-        "mobile_scrollable": true,
-        "view_all": false,
-        "divider": false
-      }
     }
   },
   "order": [
@@ -275,15 +263,14 @@
     "advanced_content_4T4YPT",
     "rich_text_iRHQMB",
     "advanced_content_mEajY4",
+    "new_featured_collection_qPNkeH",
     "advanced_content_3He7bR",
     "rich_text_CaEFdR",
     "rich_text_8WCkqM",
-    "featured_collection_GgVh7y",
     "advanced_content_EbitCq",
     "rich_text_ptxXbM",
-    "featured_collection_Rhzj6D",
+    "new_featured_collection_jHCPC4",
     "advanced_content_Cp6L76",
-    "rich_text_AkewzF",
-    "new_featured_collection_jHCPC4"
+    "rich_text_AkewzF"
   ]
 }
