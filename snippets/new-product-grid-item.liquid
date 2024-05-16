@@ -1,0 +1,22 @@
+<div class="grid__item grid-product {{ grid_item_width }}" data-aos="row-of-{{ per_row }}">
+  <div class="grid-product__content">
+    <a href="{{ product.url | within: collection }}" class="grid-product__link">
+      <div class="grid-product__image-mask">
+        <div class="image-wrap">
+          <img src="{{ product.featured_image | img_url: 'medium' }}" alt="{{ product.title }}">
+        </div>
+      </div>
+      <div class="grid-product__meta">
+        <div class="grid-product__title">{{ product.title }}</div>
+        <div class="grid-product__price">{{ product.price | money }}</div>
+      </div>
+    </a>
+    <!-- Add to Cart Button -->
+    <form action="/cart/add" method="post" class="product-form">
+      <input type="hidden" name="id" value="{{ product.selected_or_first_available_variant.id }}">
+      <button type="submit" class="btn btn--primary add-to-cart-button">
+        {{ 'products.product.add_to_cart' | t }}
+      </button>
+    </form>
+  </div>
+</div>
