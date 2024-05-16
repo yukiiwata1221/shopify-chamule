@@ -254,18 +254,6 @@
         "narrow_column": true,
         "divider": false
       }
-    },
-    "new_featured_collection_AkqCjn": {
-      "type": "New-Featured-Collection",
-      "settings": {
-        "title": "",
-        "new_featured_products": "autumn-collection",
-        "per_row": 4,
-        "rows": 1,
-        "mobile_scrollable": true,
-        "view_all": true,
-        "divider": false
-      }
     }
   },
   "order": [
@@ -283,7 +271,6 @@
     "rich_text_ptxXbM",
     "featured_collection_Rhzj6D",
     "advanced_content_Cp6L76",
-    "rich_text_AkewzF",
-    "new_featured_collection_AkqCjn"
+    "rich_text_AkewzF"
   ]
 }
