@@ -49,19 +49,10 @@
             "width": "100%",
             "alignment": "center"
           }
-        },
-        "liquid_QiB4U6": {
-          "type": "liquid",
-          "settings": {
-            "code": "<p>自分に似合うゴルフウェアは、体型によって様々。<\/p>\n\n<p>お悩みが尽きない大人女子、そんなあなたに朗報です！<\/p>\n\n<p>スタイルアップしてくれるChamuleのコーディネートをご紹介します。<\/p>",
-            "width": "50%",
-            "alignment": "center"
-          }
         }
       },
       "block_order": [
-        "image_U7e7CJ",
-        "liquid_QiB4U6"
+        "image_U7e7CJ"
       ],
       "settings": {
         "full_width": false,
@@ -202,6 +193,26 @@
         "view_all": true,
         "divider": false
       }
+    },
+    "rich_text_iRHQMB": {
+      "type": "rich-text",
+      "blocks": {
+        "text_zrmjkH": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>自分に似合うゴルフウェアは<br\/>体型によって様々。<\/p><p>お悩みが尽きない大人女子<br\/>そんなあなたに朗報です！<\/p><p>スタイルアップしてくれる<br\/>Chamuleのコーディネートをご紹介します。<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_zrmjkH"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
     }
   },
   "order": [
@@ -216,6 +227,7 @@
     "featured_collection_GgVh7y",
     "advanced_content_diK3xN",
     "rich_text_AkewzF",
-    "featured_collection_Rhzj6D"
+    "featured_collection_Rhzj6D",
+    "rich_text_iRHQMB"
   ]
 }
