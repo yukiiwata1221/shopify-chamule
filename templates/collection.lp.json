@@ -266,6 +266,27 @@
         "view_all": true,
         "divider": false
       }
+    },
+    "advanced_content_3jypeN": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_K9ELg7": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_1600x_56dd31b9-17fd-42e6-bf47-ae56da511325.webp",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_K9ELg7"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
     }
   },
   "order": [
@@ -284,6 +305,7 @@
     "new_featured_collection_jHCPC4",
     "advanced_content_Cp6L76",
     "rich_text_AkewzF",
-    "new_featured_collection_dbdnVE"
+    "new_featured_collection_dbdnVE",
+    "advanced_content_3jypeN"
   ]
 }
