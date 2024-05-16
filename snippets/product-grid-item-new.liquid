@@ -5,7 +5,7 @@
       <div class="grid-product__image-mask">
         <div class="image-wrap">
           {% if product.featured_image %}
-            <img src="{{ product.featured_image | img_url: '400x' }}" alt="{{ product.featured_image.alt | escape }}">
+            <img src="{{ product.featured_image.src | img_url: '400x' }}" alt="{{ product.featured_image.alt | escape }}">
           {% elsif product.images.size > 0 %}
             <img src="{{ product.images.first | img_url: '400x' }}" alt="{{ product.title }}">
           {% else %}
