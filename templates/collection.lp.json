@@ -185,12 +185,6 @@
     "rich_text_ptxXbM": {
       "type": "rich-text",
       "blocks": {
-        "heading_D8TQxJ": {
-          "type": "heading",
-          "settings": {
-            "title": ""
-          }
-        },
         "text_FrHMXY": {
           "type": "text",
           "settings": {
@@ -200,17 +194,8 @@
         }
       },
       "block_order": [
-        "heading_D8TQxJ",
         "text_FrHMXY"
       ],
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false
-      }
-    },
-    "rich_text_AkewzF": {
-      "type": "rich-text",
       "settings": {
         "align_text": "center",
         "narrow_column": true,
@@ -249,6 +234,26 @@
         "full_width": false,
         "space_around": true
       }
+    },
+    "rich_text_AkewzF": {
+      "type": "rich-text",
+      "blocks": {
+        "text_DJrLdd": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>ボトムスの丈とシルエットを重視して体型カバー<\/p><p>ふくらはぎを隠して足首を見せると<br\/>すっきりとしたシルエットに♪<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_DJrLdd"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
     }
   },
   "order": [
@@ -264,8 +269,8 @@
     "featured_collection_GgVh7y",
     "advanced_content_EbitCq",
     "rich_text_ptxXbM",
-    "rich_text_AkewzF",
     "featured_collection_Rhzj6D",
-    "advanced_content_Cp6L76"
+    "advanced_content_Cp6L76",
+    "rich_text_AkewzF"
   ]
 }
