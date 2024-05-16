@@ -254,6 +254,18 @@
         "narrow_column": true,
         "divider": false
       }
+    },
+    "new_featured_collection_dbdnVE": {
+      "type": "new-featured-collection",
+      "settings": {
+        "title": "",
+        "home_featured_products": "むっちり下半身",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
     }
   },
   "order": [
@@ -271,6 +283,7 @@
     "rich_text_ptxXbM",
     "new_featured_collection_jHCPC4",
     "advanced_content_Cp6L76",
-    "rich_text_AkewzF"
+    "rich_text_AkewzF",
+    "new_featured_collection_dbdnVE"
   ]
 }
