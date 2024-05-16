@@ -100,18 +100,6 @@
         "space_around": true
       }
     },
-    "new_featured_collection_qPNkeH": {
-      "type": "new-featured-collection",
-      "settings": {
-        "title": "",
-        "home_featured_products": "ぷにぷに二の腕カバー",
-        "per_row": 4,
-        "rows": 1,
-        "mobile_scrollable": true,
-        "view_all": false,
-        "divider": false
-      }
-    },
     "advanced_content_3He7bR": {
       "type": "advanced-content",
       "blocks": {
@@ -150,6 +138,18 @@
       "settings": {
         "align_text": "center",
         "narrow_column": true,
+        "divider": false
+      }
+    },
+    "new_featured_collection_qPNkeH": {
+      "type": "new-featured-collection",
+      "settings": {
+        "title": "",
+        "home_featured_products": "ぷにぷに二の腕カバー",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": false,
         "divider": false
       }
     },
@@ -263,9 +263,9 @@
     "advanced_content_4T4YPT",
     "rich_text_iRHQMB",
     "advanced_content_mEajY4",
-    "new_featured_collection_qPNkeH",
     "advanced_content_3He7bR",
     "rich_text_CaEFdR",
+    "new_featured_collection_qPNkeH",
     "rich_text_8WCkqM",
     "advanced_content_EbitCq",
     "rich_text_ptxXbM",
