@@ -95,7 +95,7 @@
         "image_URfD3y": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/2024-05-15_20.45.25.png",
+            "image": "shopify:\/\/shop_images\/2024-05-16_13.53.21.png",
             "link": "",
             "width": "50%",
             "alignment": "center"
@@ -113,13 +113,6 @@
     "rich_text_8WCkqM": {
       "type": "rich-text",
       "blocks": {
-        "text_ytRwdN": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": false,
-            "text": "<p>ボリュームのある袖で二の腕のラインを拾わせない！<br\/>スイングもしやすくて快適です♪<\/p><p><\/p>"
-          }
-        },
         "text_XVMgRj": {
           "type": "text",
           "settings": {
@@ -129,7 +122,6 @@
         }
       },
       "block_order": [
-        "text_ytRwdN",
         "text_XVMgRj"
       ],
       "settings": {
