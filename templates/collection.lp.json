@@ -258,12 +258,12 @@
     "new_featured_collection_jHCPC4": {
       "type": "new-featured-collection",
       "settings": {
-        "title": "Featured collection",
+        "title": "",
         "home_featured_products": "autumn-collection",
         "per_row": 4,
         "rows": 1,
         "mobile_scrollable": true,
-        "view_all": true,
+        "view_all": false,
         "divider": false
       }
     }
