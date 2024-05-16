@@ -7,10 +7,12 @@ Arguments
 {% endcomment %}
 
 {%- liquid
+  # per_row が未定義の場合、デフォルトで 4 を設定
   unless per_row
     assign per_row = 4
   endunless
 
+  # grid_item_width_custom が未定義の場合、per_row に基づいて grid_item_width を設定
   if grid_item_width_custom == blank
     case per_row
       when 1
@@ -30,11 +32,13 @@ Arguments
     assign grid_item_width = grid_item_width_custom
   endif
 
+  # 商品がセール中かどうかを確認
   assign on_sale = false
   if product.compare_at_price > product.price
     assign on_sale = true
   endif
 
+  # カスタムラベルの有無を確認
   assign product_tags = product.tags | join: ','
   assign has_custom_label = false
   if product.metafields.theme.label and product.metafields.theme.label != blank
@@ -53,19 +57,24 @@ Arguments
   endif
 -%}
 
-<div class="grid__item grid-product  {{ grid_item_width }}{% if quick_shop_enable %} grid-product__has-quick-shop{% endif %}" data-aos="row-of-{{ per_row }}" data-product-handle="{{ product.handle }}" data-product-id="{{ product.id }}">
+<div class="grid__item grid-product {{ grid_item_width }}{% if quick_shop_enable %} grid-product__has-quick-shop{% endif %}" data-aos="row-of-{{ per_row }}" data-product-handle="{{ product.handle }}" data-product-id="{{ product.id }}">
   <div class="grid-product__content">
+
     {%- if has_custom_label -%}
+      <!-- カスタムラベルがある場合 -->
       <div class="grid-product__tag grid-product__tag--custom">
         {{ custom_label }}
       </div>
     {%- else -%}
+      <!-- カスタムラベルがない場合 -->
       {%- unless product.available -%}
+        <!-- 商品が売り切れの場合 -->
         <div class="grid-product__tag grid-product__tag--sold-out">
           {{ 'products.product.sold_out' | t }}
         </div>
       {%- endunless -%}
       {%- if on_sale and product.available -%}
+        <!-- 商品がセール中で販売中の場合 -->
         <div class="grid-product__tag grid-product__tag--sale">
           {{ 'products.general.sale' | t }}
         </div>
@@ -73,25 +82,29 @@ Arguments
     {%- endif -%}
 
     {%- liquid
+      # 画像のアスペクト比を設定
       assign fixed_aspect_ratio = false
       unless settings.product_grid_image_size == 'natural'
         assign fixed_aspect_ratio = true
       endunless
 
+      # プレビュー画像の URL を生成
       assign preview_image = product.featured_media.preview_image
       assign img_url = preview_image | img_url: '1x1' | replace: '_1x1.', '_{width}x.'
     -%}
 
+    <!-- 商品へのリンク -->
     <a href="{{ product.url | within: collection }}" class="grid-product__link">
       <div class="grid-product__image-mask">
         {%- if quick_shop_enable -%}
+          <!-- クイックショップが有効な場合 -->
           <div class="quick-product__btn quick-product__btn--not-ready js-modal-open-quick-modal-{{ product.id }} small--hide">
             <span class="quick-product__label">{{ settings.quick_shop_text }}</span>
           </div>
         {%- endif -%}
         {%- if fixed_aspect_ratio -%}
-          <div
-            class="grid__image-ratio grid__image-ratio--{{ settings.product_grid_image_size }}">
+          <!-- 固定アスペクト比の画像表示 -->
+          <div class="grid__image-ratio grid__image-ratio--{{ settings.product_grid_image_size }}">
             <img class="lazyload{% unless settings.product_grid_image_fill %} grid__image-contain{% endunless %}"
               data-src="{{ img_url }}"
               data-widths="[360, 540, 720, 900, 1080]"
@@ -100,9 +113,8 @@ Arguments
               alt="{{ preview_image.alt | escape }}">
           </div>
         {%- else -%}
-          <div class="image-wrap"
-            style="height: 0; padding-bottom: {{ 100 | divided_by: preview_image.aspect_ratio }}%;"
-            >
+          <!-- 自然なアスペクト比の画像表示 -->
+          <div class="image-wrap" style="height: 0; padding-bottom: {{ 100 | divided_by: preview_image.aspect_ratio }}%;">
             <img class="grid-product__image lazyload"
                 data-src="{{ img_url }}"
                 data-widths="[360, 540, 720, 900, 1080]"
@@ -118,6 +130,7 @@ Arguments
         {%- endif -%}
 
         {%- if settings.product_hover_image and product.media.size > 1 -%}
+          <!-- ホバー時に表示するセカンダリ画像 -->
           {%- for media in product.media offset: 1 limit: 1 -%}
             {%- assign second_image = media.preview_image -%}
           {%- endfor -%}
@@ -133,6 +146,7 @@ Arguments
         {%- endif -%}
 
         {%- if settings.enable_swatches -%}
+          <!-- カラースウォッチの表示 -->
           {%- assign swatch_trigger = 'products.general.color_swatch_trigger' | t | downcase -%}
           {%- for option in product.options_with_values -%}
             {%- liquid
@@ -155,8 +169,7 @@ Arguments
                   -%}
 
                   {%- if variant.image -%}
-                    <div
-                      class="grid-product__color-image grid-product__color-image--{{ variant.id }} small--hide">
+                    <div class="grid-product__color-image grid-product__color-image--{{ variant.id }} small--hide">
                     </div>
                   {%- endif -%}
                 {%- endunless -%}
@@ -166,15 +179,15 @@ Arguments
         {%- endif -%}
       </div>
 
+      <!-- 商品情報（タイトル、価格など） -->
       <div class="grid-product__meta">
         <div class="grid-product__title grid-product__title--{{ settings.type_product_style }}">{{ product.title }}</div>
         {%- if settings.vendor_enable -%}
           <div class="grid-product__vendor">{{ product.vendor }}</div>
         {%- endif -%}
         
-        {% comment %}Start automatically added Judge.me widget{% endcomment %}
+        {% comment %}Judge.me ウィジェットの追加{% endcomment %}
         {% render 'judgeme_widgets', widget_type: 'judgeme_preview_badge', concierge_install: true, product: product %}
-        {% comment %}End automatically added Judge.me widget{% endcomment %}
         
         <div class="grid-product__price">
           {%- if on_sale -%}
@@ -220,7 +233,7 @@ Arguments
       </div>
     </a>
 
-    <!-- Add to Cart Button -->
+    <!-- カートに追加するボタン -->
     <form action="/cart/add" method="post" class="product-form">
       <input type="hidden" name="id" value="{{ product.selected_or_first_available_variant.id }}">
       <button type="submit" class="btn btn--primary add-to-cart-button">
