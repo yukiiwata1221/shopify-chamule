@@ -259,7 +259,7 @@
       "type": "new-featured-collection",
       "settings": {
         "title": "",
-        "home_featured_products": "autumn-collection",
+        "home_featured_products": "ranking-ランキング",
         "per_row": 5,
         "rows": 3,
         "mobile_scrollable": true,
