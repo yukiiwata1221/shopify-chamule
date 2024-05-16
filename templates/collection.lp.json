@@ -142,26 +142,6 @@
         "divider": false
       }
     },
-    "rich_text_eFqAxR": {
-      "type": "rich-text",
-      "blocks": {
-        "text_4UiR47": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": false,
-            "text": "<p>ボリュームのある袖やゆったりとしたサイズで<br\/>カジュアルな雰囲気をつくれます♪<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "text_4UiR47"
-      ],
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false
-      }
-    },
     "featured_collection_x69fqk": {
       "type": "featured-collection",
       "settings": {
@@ -216,7 +196,6 @@
     "advanced_content_3He7bR",
     "rich_text_8WCkqM",
     "featured_collection_GgVh7y",
-    "rich_text_eFqAxR",
     "featured_collection_x69fqk",
     "rich_text_cGYFCd",
     "featured_collection_Rhzj6D"
