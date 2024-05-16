@@ -228,6 +228,27 @@
         "view_all": true,
         "divider": false
       }
+    },
+    "advanced_content_Cp6L76": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_axV7h8": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2024-05-16_15.53.22.png",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_axV7h8"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
     }
   },
   "order": [
@@ -244,6 +265,7 @@
     "advanced_content_EbitCq",
     "rich_text_ptxXbM",
     "rich_text_AkewzF",
-    "featured_collection_Rhzj6D"
+    "featured_collection_Rhzj6D",
+    "advanced_content_Cp6L76"
   ]
 }
