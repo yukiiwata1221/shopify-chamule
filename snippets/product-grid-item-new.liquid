@@ -1,17 +1,9 @@
-{% assign product = product | default: item %}
 <div class="grid__item grid-product {{ grid_item_width }}" data-aos="row-of-{{ per_row }}">
   <div class="grid-product__content">
     <a href="{{ product.url | within: collection }}" class="grid-product__link">
       <div class="grid-product__image-mask">
-        <div class="image-wrap">
-          {% if product.featured_image %}
-            <img src="{{ product.featured_image.src | img_url: '400x' }}" alt="{{ product.featured_image.alt | escape }}">
-          {% elsif product.images.size > 0 %}
-            <img src="{{ product.images.first | img_url: '400x' }}" alt="{{ product.title }}">
-          {% else %}
-            <p>No Image Available for {{ product.title }}</p>
-          {% endif %}
-        </div>
+        {%- capture current -%}{% cycle 1, 2, 3, 4, 5, 6 %}{%- endcapture -%}
+        <div class="image-wrap">{{ 'product-' | append: current | placeholder_svg_tag: 'placeholder-svg' }}</div>
       </div>
       <div class="grid-product__meta">
         <div class="grid-product__title">{{ product.title }}</div>
@@ -20,10 +12,7 @@
     </a>
     <form method="post" action="/cart/add">
       <input type="hidden" name="id" value="{{ product.variants.first.id }}">
-      <button type="submit" class="btn btn--primary">{{ 'products.product.add_to_cart' | t }}</button>
+      <button type="submit" class="btn btn--primary btn--small">カートに追加する</button>
     </form>
   </div>
 </div>
-
-<!-- デバッグ用に商品データ全体を表示 -->
-<pre>{{ product | json }}</pre>
