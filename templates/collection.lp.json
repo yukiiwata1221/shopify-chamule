@@ -132,18 +132,6 @@
     },
     "rich_text_8WCkqM": {
       "type": "rich-text",
-      "blocks": {
-        "text_XVMgRj": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>二の腕をカバーできるアイテムはこちら<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "text_XVMgRj"
-      ],
       "settings": {
         "align_text": "center",
         "narrow_column": true,
