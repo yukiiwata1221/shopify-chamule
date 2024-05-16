@@ -161,13 +161,13 @@
         "divider": false
       }
     },
-    "advanced_content_diK3xN": {
+    "advanced_content_EbitCq": {
       "type": "advanced-content",
       "blocks": {
-        "image_eYbHei": {
+        "image_rUyfXq": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/2024-05-16_14.35.25.png",
+            "image": "shopify:\/\/shop_images\/2024-05-16_15.47.39.png",
             "link": "",
             "width": "50%",
             "alignment": "center"
@@ -175,27 +175,42 @@
         }
       },
       "block_order": [
-        "image_eYbHei"
+        "image_rUyfXq"
       ],
       "settings": {
         "full_width": false,
         "space_around": true
       }
     },
-    "rich_text_AkewzF": {
+    "rich_text_ptxXbM": {
       "type": "rich-text",
       "blocks": {
-        "text_4bnAMU": {
+        "heading_D8TQxJ": {
+          "type": "heading",
+          "settings": {
+            "title": ""
+          }
+        },
+        "text_FrHMXY": {
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>ぽっこりお腹をカバーできるアイテムはこちら<\/p>"
+            "text": "<p>ワンピースなどの長めの丈がおすすめです♪<br\/>縦長シルエットを生かしてスッキリ！<\/p>"
           }
         }
       },
       "block_order": [
-        "text_4bnAMU"
+        "heading_D8TQxJ",
+        "text_FrHMXY"
       ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "rich_text_AkewzF": {
+      "type": "rich-text",
       "settings": {
         "align_text": "center",
         "narrow_column": true,
@@ -226,7 +241,8 @@
     "rich_text_CaEFdR",
     "rich_text_8WCkqM",
     "featured_collection_GgVh7y",
-    "advanced_content_diK3xN",
+    "advanced_content_EbitCq",
+    "rich_text_ptxXbM",
     "rich_text_AkewzF",
     "featured_collection_Rhzj6D"
   ]
