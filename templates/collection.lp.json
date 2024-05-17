@@ -258,6 +258,18 @@
         "divider": false
       }
     },
+    "new_featured_collection_FRRPTc": {
+      "type": "new-featured-collection",
+      "settings": {
+        "title": "",
+        "home_featured_products": "むっちり下半身",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
     "advanced_content_VQxWig": {
       "type": "advanced-content",
       "blocks": {
@@ -308,6 +320,7 @@
     "new_featured_collection_jHCPC4",
     "advanced_content_Cp6L76",
     "rich_text_AkewzF",
+    "new_featured_collection_FRRPTc",
     "advanced_content_VQxWig",
     "new_featured_collection_JmuQ2k"
   ]
