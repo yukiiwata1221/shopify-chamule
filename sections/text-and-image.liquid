@@ -7,8 +7,7 @@
   endif
 -%}
 
-<div class="index-section">
-
+<div class="index-section {{ section.settings.custom_class }}">
   <div class="page-width feature-row-wrapper">
     {%- capture image_layout -%}
       <div class="feature-row__item{% if overlap_images %} feature-row__item--overlap-images{% endif %}" style="max-width: {{ section.settings.image_width }}px" data-aos>
@@ -62,7 +61,10 @@
         {{ image_layout }}
       {%- endif -%}
 
-      <div class="feature-row__item feature-row__text feature-row__text--{{ section.settings.layout }} text-{{ section.settings.align_text }}" data-aos>
+      <div
+        class="feature-row__item feature-row__text feature-row__text--{{ section.settings.layout }} text-{{ section.settings.align_text }}"
+        data-aos
+      >
         {%- if section.settings.subtitle != blank -%}
           <div class="subheading appear-delay{% cycle '','-1','-2','-3','-4' %}">{{ section.settings.subtitle }}</div>
         {%- endif -%}
@@ -74,7 +76,10 @@
         {%- endif -%}
         {%- if section.settings.button_label != blank -%}
           <div class="appear-delay{% cycle '','-1','-2','-3','-4' %}">
-            <a href="{{ section.settings.button_link }}" class="btn{% if section.settings.button_style == 'secondary' %} btn--tertiary{% endif %}">
+            <a
+              href="{{ section.settings.button_link }}"
+              class="btn{% if section.settings.button_style == 'secondary' %} btn--tertiary{% endif %}"
+            >
               {{ section.settings.button_label }}
             </a>
           </div>
@@ -86,7 +91,6 @@
       {%- endif -%}
     </div>
   </div>
-
 </div>
 
 {%- if section.settings.divider -%}</div>{%- endif -%}
@@ -199,6 +203,12 @@
       "id": "divider",
       "label": "t:sections.text-and-image.settings.divider.label",
       "default": false
+    },
+    {
+      "type": "text",
+      "id": "custom_class",
+      "label": "Custom CSS Class",
+      "default": "centralize"
     }
   ],
   "presets": [
