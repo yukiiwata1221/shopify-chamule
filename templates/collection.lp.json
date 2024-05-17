@@ -66,7 +66,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>自分に似合うゴルフウェアは<br\/>体型によって様々。<\/p><p>お悩みが尽きない大人女子<br\/>そんなあなたに朗報です！<\/p><p>スタイルアップしてくれる<br\/>コーディネートをご紹介します。<\/p>"
+            "text": "<p>自分に似合うゴルフウェアは<br>体型によって様々。<\/p><p>お悩みが尽きない大人女子<br>そんなあなたに朗報です！<\/p><p>スタイルアップしてくれる<br>コーディネートをご紹介します。<\/p>"
           }
         }
       },
@@ -128,7 +128,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>オーバーサイズのボリュームのある袖で<br\/>ぷにぷに二の腕をカバーします♪<br\/><br\/>五部袖もありスイングもしやすく<br\/>快適なアイテムです！<\/p>"
+            "text": "<p>オーバーサイズのボリュームのある袖で<br>ぷにぷに二の腕をカバーします♪<br><br>五部袖もありスイングもしやすく<br>快適なアイテムです！<\/p>"
           }
         }
       },
@@ -189,7 +189,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>ワンピースなどの長めの丈がおすすめです♪<br\/>縦長シルエットを活かしてスッキリ！<\/p>"
+            "text": "<p>ワンピースなどの長めの丈がおすすめです♪<br>縦長シルエットを活かしてスッキリ！<\/p>"
           }
         }
       },
@@ -242,7 +242,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>ボトムスの丈とシルエットを重視して体型カバー<\/p><p>ふくらはぎを隠して足首を見せると<br\/>すっきりとしたシルエットに♪<\/p>"
+            "text": "<p>ボトムスの丈とシルエットを重視して体型カバー<\/p><p>ふくらはぎを隠して足首を見せると<br>すっきりとしたシルエットに♪<\/p>"
           }
         }
       },
@@ -255,33 +255,13 @@
         "divider": false
       }
     },
-    "new_featured_collection_dbdnVE": {
-      "type": "new-featured-collection",
-      "settings": {
-        "title": "",
-        "home_featured_products": "むっちり下半身",
-        "per_row": 4,
-        "rows": 1,
-        "mobile_scrollable": true,
-        "view_all": true,
-        "divider": false
-      }
-    },
-    "featured_video_P8nrmi": {
-      "type": "featured-video",
-      "settings": {
-        "title": "\\Youtubeで紹介されました\/",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=t2Cp9mWAdkM",
-        "divider": false
-      }
-    },
-    "advanced_content_3jypeN": {
+    "advanced_content_VQxWig": {
       "type": "advanced-content",
       "blocks": {
-        "image_K9ELg7": {
+        "image_WmZcF4": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/2_1600x_56dd31b9-17fd-42e6-bf47-ae56da511325.webp",
+            "image": "shopify:\/\/shop_images\/2024-05-16_16.01.50.png",
             "link": "",
             "width": "50%",
             "alignment": "center"
@@ -289,20 +269,20 @@
         }
       },
       "block_order": [
-        "image_K9ELg7"
+        "image_WmZcF4"
       ],
       "settings": {
         "full_width": false,
         "space_around": true
       }
     },
-    "new_featured_collection_wDtBAn": {
+    "new_featured_collection_JmuQ2k": {
       "type": "new-featured-collection",
       "settings": {
-        "title": "RANKING",
-        "home_featured_products": "ranking-ランキング",
-        "per_row": 4,
-        "rows": 1,
+        "title": "",
+        "home_featured_products": "スッキリ美脚効果",
+        "per_row": 5,
+        "rows": 3,
         "mobile_scrollable": true,
         "view_all": false,
         "divider": false
@@ -325,9 +305,7 @@
     "new_featured_collection_jHCPC4",
     "advanced_content_Cp6L76",
     "rich_text_AkewzF",
-    "new_featured_collection_dbdnVE",
-    "featured_video_P8nrmi",
-    "advanced_content_3jypeN",
-    "new_featured_collection_wDtBAn"
+    "advanced_content_VQxWig",
+    "new_featured_collection_JmuQ2k"
   ]
 }
