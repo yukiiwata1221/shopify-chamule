@@ -6,7 +6,8 @@
         "enable": true,
         "collection_image_enable": true,
         "parallax": true,
-        "parallax_direction": "top"
+        "parallax_direction": "top",
+        "custom_class": "centralize"
       }
     },
     "main-collection": {
@@ -36,7 +37,8 @@
         "collapsed": true,
         "filter_style": "sidebar",
         "enable_color_swatches": true,
-        "enable_sort": true
+        "enable_sort": true,
+        "custom_class": "centralize"
       }
     },
     "16567627855f42fc94": {
@@ -50,11 +52,29 @@
         "view_all": true,
         "divider": false
       }
+    },
+    "1715929756a6a3fce5": {
+      "type": "apps",
+      "blocks": {
+        "boost_ai_search_discovery_filter_product_list_ssr_nxerPa": {
+          "type": "shopify:\/\/apps\/boost-ai-search-discovery\/blocks\/filter-product-list-ssr\/7fc998ae-a150-4367-bab8-505d8a4503f7",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "boost_ai_search_discovery_filter_product_list_ssr_nxerPa"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
     }
   },
   "order": [
     "collection-header",
     "main-collection",
-    "16567627855f42fc94"
+    "16567627855f42fc94",
+    "1715929756a6a3fce5"
   ]
 }
