@@ -126,17 +126,6 @@
     },
     "1648471921d1ee2d3a": {
       "type": "apps",
-      "blocks": {
-        "fd45bc61-1aee-44e9-8714-7c32c735d20c": {
-          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-            "maxwidth": 1080
-          }
-        }
-      },
-      "block_order": [
-        "fd45bc61-1aee-44e9-8714-7c32c735d20c"
-      ],
       "settings": {
         "full_width": true,
         "space_around": true
@@ -321,6 +310,7 @@
       "block_order": [
         "template--16711993655607__1abb7ab9-8d5a-4f97-8662-44296b8caf20-1670123362009a2990-0"
       ],
+      "disabled": true,
       "settings": {
         "full_width": false,
         "space_around": true
