@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "slideshow": {
@@ -11,14 +20,14 @@
             "title": "recommended",
             "title_size": 72,
             "subheading": "",
-            "link": "shopify:\/\/collections\/スタッフおすすめ",
+            "link": "shopify://collections/スタッフおすすめ",
             "link_text": "アイテムはこちら",
-            "link_2": "shopify:\/\/collections\/スタッフおすすめ",
+            "link_2": "shopify://collections/スタッフおすすめ",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/3.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/3.jpg",
+            "image": "shopify://shop_images/3.jpg",
+            "image_mobile": "shopify://shop_images/3.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "focal_point": "center center"
@@ -38,8 +47,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/1_8c86abd7-9220-4ff7-90a0-9e87520dc230.png",
-            "image_mobile": "shopify:\/\/shop_images\/1_8c86abd7-9220-4ff7-90a0-9e87520dc230.png",
+            "image": "shopify://shop_images/1_8c86abd7-9220-4ff7-90a0-9e87520dc230.png",
+            "image_mobile": "shopify://shop_images/1_8c86abd7-9220-4ff7-90a0-9e87520dc230.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "focal_point": "center center"
@@ -50,17 +59,17 @@
           "disabled": true,
           "settings": {
             "top_subheading": "韓国レディースゴルフウェア",
-            "title": "2023 S\/S\nTREND ITEMS",
+            "title": "2023 S/S\nTREND ITEMS",
             "title_size": 56,
             "subheading": "",
-            "link": "shopify:\/\/collections\/autumn-collection",
+            "link": "shopify://collections/autumn-collection",
             "link_text": "アイテムはこちら",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/4.png",
-            "image_mobile": "shopify:\/\/shop_images\/4.png",
+            "image": "shopify://shop_images/4.png",
+            "image_mobile": "shopify://shop_images/4.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "focal_point": "center center"
@@ -74,14 +83,14 @@
             "title": "QC PLAY",
             "title_size": 86,
             "subheading": "",
-            "link": "shopify:\/\/collections\/qc-play",
+            "link": "shopify://collections/qc-play",
             "link_text": "アイテムはこちら",
-            "link_2": "shopify:\/\/collections\/qc-play",
+            "link_2": "shopify://collections/qc-play",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/1_5fa7dc09-a305-4842-8925-7bded0e76187.png",
-            "image_mobile": "shopify:\/\/shop_images\/1_5fa7dc09-a305-4842-8925-7bded0e76187.png",
+            "image": "shopify://shop_images/1_5fa7dc09-a305-4842-8925-7bded0e76187.png",
+            "image_mobile": "shopify://shop_images/1_5fa7dc09-a305-4842-8925-7bded0e76187.png",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "focal_point": "top center"
@@ -94,14 +103,14 @@
             "title": "Selected by Konishi",
             "title_size": 61,
             "subheading": "",
-            "link": "shopify:\/\/collections\/小西さんコレクション",
+            "link": "shopify://collections/小西さんコレクション",
             "link_text": "アイテムはこちら",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/6.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/6.jpg",
+            "image": "shopify://shop_images/6.jpg",
+            "image_mobile": "shopify://shop_images/6.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "focal_point": "center center"
@@ -137,8 +146,8 @@
         "template--16711993655607__6662337a-695f-41cd-b34a-f5a3fcf0febe-1673421331d2b7766c-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/1_995928df-f3be-487b-b05a-b532fb47865c.png",
-            "link": "shopify:\/\/pages\/一部アイテムの発送遅延のご案内-1月11日-1月29日",
+            "image": "shopify://shop_images/1_995928df-f3be-487b-b05a-b532fb47865c.png",
+            "link": "shopify://pages/一部アイテムの発送遅延のご案内-1月11日-1月29日",
             "width": "100%",
             "alignment": "center"
           }
@@ -147,7 +156,7 @@
           "type": "liquid",
           "disabled": true,
           "settings": {
-            "code": "<h2>Custom content<\/h2><p>Use this advanced section to build your own layouts or to add custom HTML, Liquid, or scripts.<\/p>",
+            "code": "<h2>Custom content</h2><p>Use this advanced section to build your own layouts or to add custom HTML, Liquid, or scripts.</p>",
             "width": "50%",
             "alignment": "center"
           }
@@ -267,14 +276,14 @@
             "title": "",
             "title_size": 40,
             "subheading": "",
-            "link": "https:\/\/lin.ee\/fZLIZZG",
+            "link": "https://lin.ee/fZLIZZG",
             "link_text": "",
-            "link_2": "https:\/\/lin.ee\/fZLIZZG",
+            "link_2": "https://lin.ee/fZLIZZG",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/2.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/2.jpg",
+            "image": "shopify://shop_images/2.jpg",
+            "image_mobile": "shopify://shop_images/2.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "focal_point": "center center"
@@ -300,8 +309,8 @@
         "template--16711993655607__1abb7ab9-8d5a-4f97-8662-44296b8caf20-1670123362009a2990-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/2.jpg",
-            "link": "https:\/\/lin.ee\/fZLIZZG",
+            "image": "shopify://shop_images/2.jpg",
+            "link": "https://lin.ee/fZLIZZG",
             "width": "100%",
             "alignment": "center"
           }
@@ -331,8 +340,8 @@
     "247fd6b1-15df-4c9a-b62d-b5b527405aa7": {
       "type": "featured-video",
       "settings": {
-        "title": "\\Youtubeで紹介されました\/",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=t2Cp9mWAdkM",
+        "title": "\\Youtubeで紹介されました/",
+        "video_url": "https://www.youtube.com/watch?v=t2Cp9mWAdkM",
         "divider": false
       }
     },
@@ -343,24 +352,24 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify:\/\/shop_images\/2_50879257-39d2-42af-bdeb-816231661f18.png",
+            "image": "shopify://shop_images/2_50879257-39d2-42af-bdeb-816231661f18.png",
             "image_width": 650,
             "title": "",
             "text": "",
             "button_label": "",
-            "button_link": "shopify:\/\/collections\/ピックアップアイテム"
+            "button_link": "shopify://collections/ピックアップアイテム"
           }
         },
         "template--16711993655607__feaae97e-97db-42e2-969f-fb12c23bb6e1-16669624098f8c9ff0-1": {
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify:\/\/shop_images\/2022_AW_5.png",
+            "image": "shopify://shop_images/2022_AW_5.png",
             "image_width": 650,
             "title": "",
             "text": "",
             "button_label": "",
-            "button_link": "shopify:\/\/collections\/プチプラ-コレクション"
+            "button_link": "shopify://collections/プチプラ-コレクション"
           }
         }
       },
@@ -380,8 +389,7 @@
       "blocks": {
         "template--16711993655607__74be5dac-86c0-4c50-848a-779f6fbe6339-16669524047d6abb89-0": {
           "type": "price",
-          "settings": {
-          }
+          "settings": {}
         },
         "template--16711993655607__74be5dac-86c0-4c50-848a-779f6fbe6339-16669524047d6abb89-1": {
           "type": "description",
@@ -420,7 +428,7 @@
         "fc6244f0-d0d0-447c-b597-359a8b385a5f"
       ],
       "settings": {
-        "featured_product": "切り替えロゴゴルフスカート-ch634",
+        "featured_product": "ch634",
         "divider": true,
         "sku_enable": false,
         "image_position": "left",
@@ -445,13 +453,12 @@
         "template--16711993655607__fede1f05-13a0-4472-a26f-1c27a729617f-1666960309981b9fcf-1": {
           "type": "text",
           "settings": {
-            "text": "<p><\/p>"
+            "text": "<p></p>"
           }
         },
         "template--16711993655607__fede1f05-13a0-4472-a26f-1c27a729617f-1666960309981b9fcf-2": {
           "type": "form",
-          "settings": {
-          }
+          "settings": {}
         }
       },
       "block_order": [
@@ -471,21 +478,21 @@
           "type": "question",
           "settings": {
             "title": "注文してからどのくらいで届きますか？",
-            "text": "<p>ご注文から通常、約10~20日ほどでお届け致します。<\/p>"
+            "text": "<p>ご注文から通常、約10~20日ほどでお届け致します。</p>"
           }
         },
         "1652600146ab9f7e1f-1": {
           "type": "question",
           "settings": {
             "title": "返品・交換はどうすれば良いですか？",
-            "text": "<p>不良箇所がある場合は、<a href=\"https:\/\/lin.ee\/4fP9hLU\" title=\"https:\/\/lin.ee\/4fP9hLU\">お問い合わせ<\/a>からお願い致します。<\/p><p>サイズ・色の変更は返品・交換の対象外となりますので、ご注意ください。<\/p>"
+            "text": "<p>不良箇所がある場合は、<a href=\"https://lin.ee/4fP9hLU\" title=\"https://lin.ee/4fP9hLU\">お問い合わせ</a>からお願い致します。</p><p>サイズ・色の変更は返品・交換の対象外となりますので、ご注意ください。</p>"
           }
         },
         "ada265c5-40f9-4d60-8570-e32ea965a790": {
           "type": "question",
           "settings": {
             "title": "注文完了メールが届きません。",
-            "text": "<p>まずは迷惑メールフォルダをご確認ください。<\/p><p>もし無い場合は、「info@chamule.com」のドメイン設定を行なった上で<a href=\"https:\/\/lin.ee\/4fP9hLU\" title=\"https:\/\/lin.ee\/4fP9hLU\">お問い合わせ<\/a>へ使用した①メールアドレス②氏名 を添付しご連絡下さい。<\/p>"
+            "text": "<p>まずは迷惑メールフォルダをご確認ください。</p><p>もし無い場合は、「info@chamule.com」のドメイン設定を行なった上で<a href=\"https://lin.ee/4fP9hLU\" title=\"https://lin.ee/4fP9hLU\">お問い合わせ</a>へ使用した①メールアドレス②氏名 を添付しご連絡下さい。</p>"
           }
         }
       },
